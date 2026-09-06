@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-05T20:06:03+00:00",
+  "generated_at": "2026-09-06T00:09:54+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T00:09:44+00:00",
+      "titre": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques",
+      "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T21:10:21+00:00",
+      "titre": "« Fidèles, avec des différences » : depuis son fief de Nice, Eric Ciotti appelle son alliée Marine Le Pen à adhérer à la retraite par capitalisation",
+      "dek": "Le maire de Nice, qui espère rabattre l’électorat de la droite bourgeoise vers la candidate du RN, ne désespère pas de voir cette dernière changer d’avis sur les retraites. A rebours de Louis Aliot, il réaffirme également son soutien à l’Ukraine.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/fideles-avec-des-differences-depuis-son-fief-de-nice-eric-ciotti-appelle-son-alliee-marine-le-pen-a-adherer-a-la-retraite-par-capitalisation_6766535_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -528,28 +550,6 @@
       "dek": "DÉCRYPTAGE - En cas d’arrivée au pouvoir en 2027, le président du RN promet que les migrants interceptés dans la Manche seront « ramenés en France » pour être « reconduits vers leur pays d’origine ».",
       "avis": null,
       "lien": "https://www.lefigaro.fr/politique/a-birmingham-jordan-bardella-et-nigel-farage-signent-un-accord-historique-pour-stopper-l-immigration-illegale-20260904"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:11:52+00:00",
-      "titre": "Le livre de Sarah Knafo, édité et poussé par Vincent Bolloré, alimente le climat antifiscaliste de la rentrée politique",
-      "dek": "La députée européenne de Reconquête ! s’en prend à l’« argent public » alors que droite et extrême droite rivalisent de propositions pour réduire le rôle de l’Etat et l’ampleur de la dette.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/04/le-brulot-antitaxes-de-sarah-knafo-pousse-par-vincent-bollore-alimente-le-climat-liberal-conservateur_6765844_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:09:50+00:00",
-      "titre": "«C’est elle ou moi» : le retour de Marion Maréchal fait dérailler le duo Le Pen-Bardella",
-      "dek": "Depuis le 7 juillet et l’annonce de la candidature de Le Pen, le binôme à la tête du Rassemblement national se dissocie. Bardella, relégué au poste de candidat à Matignon, peine à trouver sa place.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/cest-elle-ou-moi-le-retour-de-marion-marechal-fait-derailler-le-duo-le-pen-bardella-20260904_2ERRGNKMIRBJNO52MWADVIIKOE/"
     }
   ]
 }
