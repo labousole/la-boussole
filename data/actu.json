@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-09-06T15:05:40+00:00",
+  "generated_at": "2026-09-06T20:06:02+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T18:58:21+00:00",
+      "titre": "Fabien Roussel officialise sa candidature à la présidentielle et promet « un projet de rupture »",
+      "dek": "Après un vote favorable des militants du PCF à 72 %, le communiste a confirmé sa candidature à l’Elysée au JT de TF1, assurant avoir fait « un choix largement réfléchi » malgré la multiplication des candidatures à gauche.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/06/fabien-roussel-officialise-sa-candidature-a-la-presidentielle-et-promet-un-projet-de-rupture_6767491_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T18:43:30+00:00",
+      "titre": "Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre \"un projet de rupture\"",
+      "dek": "Le maire de Saint-Amand-les-Eaux et ancien député du Nord se lance pour la seconde fois dans la course à l'Elysée, avec la volonté de réaliser un meilleur score qu'en 2022 (2,28%).",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T18:38:45+00:00",
+      "titre": "Présidentielle 2027 : Fabien Roussel repart en campagne",
+      "dek": "Invité ce dimanche soir du JT de TF1, le secrétaire national du Parti communiste français a confirmé son entrée dans la course à l’Elysée. Déjà candidat en 2022, il avait obtenu 2,28 % des voix au premier tour, ce qui lui vaut d’être accusé par LFI d’avoir empêché Jean-Luc Mélenc…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-fabien-roussel-repart-en-campagne-20260906_LNP67N3RFJGH5AWISUMBPUHHO4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T18:31:39+00:00",
+      "titre": "Ségolène Royal annonce qu'elle a obtenu les parrainages nécessaires pour participer à la primaire socialiste",
+      "dek": "Outsider du scrutin d'octobre, l'ancienne ministre assure qu'elle a \"gardé beaucoup d'amitiés au sein du Parti socialiste\", dont elle fut la candidate à la présidentielle en 2007.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/segolene-royal-annonce-qu-elle-a-obtenu-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste_8180078.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T18:31:17+00:00",
+      "titre": "«J’ai gardé beaucoup d’amitiés au sein du PS» : Ségolène Royal annonce avoir recueilli les parrainages nécessaires pour participer à la primaire socialiste",
+      "dek": "Outre l’ancienne ministre, battue au second tour de l’élection présidentielle de 2007, six autres candidats sont déclarés à la primaire, qui aura lieu en deux tours en octobre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/jai-garde-beaucoup-damities-au-sein-du-ps-segolene-royal-annonce-avoir-recueilli-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste-20260906_TGNB44755FCRHDOUV3B7B7TKJA/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T18:30:00+00:00",
+      "titre": "Présidentielle 2027 : Fabien Roussel désigné candidat par les militants du PCF à 72 %",
+      "dek": "Les militants du PCF&nbsp;ont voté ce week-end à 72&nbsp;% pour une candidature de leur secrétaire national.&nbsp;Celui-ci entend faire du travail la question centrale à gauche.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-fabien-roussel-designe-candidat-par-les-militants-du-pcf-a-72"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T18:16:57+00:00",
+      "titre": "Avant la présidentielle, le grand marché de Michel-Edouard Leclerc",
+      "dek": "Omniprésent sur les terrains médiatiques et politiques, au point de fréquenter tout l’échiquier, la tête de gondole de l’enseigne familiale devenue mastodonte cultive une forme d’ambiguïté qui, chez lui, relève de la marque de fabrique.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/editorial/avant-la-presidentielle-le-grand-marche-de-michel-edouard-leclerc-20260906_AKPERZU4OBG4RLGO4ZDC57NDX4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T17:45:27+00:00",
+      "titre": "\"Je parie sur des Français plus responsables que les parlementaires\" : Bruno Le Maire dévoile ses propositions pour 2027",
+      "dek": "Dimanche 6 septembre, l'ancien ministre de l'Économie Bruno Le Maire était le premier invité de l'émission \"Le grand enjeu\" sur franceinfo dimanche. Dans la partie \"demandez le programme\", il est revenu sur son \"manifeste pour une autre France\" qui ressemble fort à un programme é…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/bruno-le-maire/je-parie-sur-des-francais-plus-responsables-que-les-parlementaires-bruno-le-maire-devoile-ses-propositions-pour-2027_8180048.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T17:34:10+00:00",
+      "titre": "En Saxe-Anhalt, l’extrême droite obtient une victoire historique",
+      "dek": "Selon les premières estimations, l’AfD a obtenu plus de 44% des suffrages dans ce land de l’ex-RDA, où la participation a été très élevée. Il pourrait manquer d’une poignée de sièges la majorité absolue, mais le gouvernement fédéral de Friedrich Merz subit une défaite majeure.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/060926/en-saxe-anhalt-l-extreme-droite-obtient-une-victoire-historique"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T17:25:07+00:00",
+      "titre": "\"Un parti ouvertement néonazi\" : Bruno Le Maire alerte sur le \"danger\" de l'AfD en Allemagne, après la victoire de l'extrême droite en Saxe-Anhalt",
+      "dek": "Bruno Le Maire était le premier invité de l'émission \"Le Grand Enjeu\" sur franceinfo dimanche 6 septembre. L'ancien ministre de l'Économie s'est exprimé sur la victoire du parti d'extrême droite allemand l'AfD en Saxe-Anhalt, mais aussi sur la visite de Jordan Bardella au Royaume…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/bruno-le-maire/un-parti-ouvertement-neonazi-bruno-le-maire-alerte-sur-le-danger-de-l-afd-en-allemagne_8180030.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T17:12:35+00:00",
+      "titre": "Ulrich Siegmund, l’homme qui a construit la victoire de l’AfD en Saxe-Anhalt",
+      "dek": "La tête de liste du parti d’extrême droite a soigneusement construit une campagne autour de sa personnalité et de thèmes rassembleurs, sans entrer dans le détail de son programme. Mais derrière les sourires et les mises en scène, le projet identitaire demeure.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/060926/ulrich-siegmund-l-homme-qui-construit-la-victoire-de-l-afd-en-saxe-anhalt"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T17:05:22+00:00",
+      "titre": "Jean-Pierre Robin : «Comment Emmanuel Macron, le saturnien, a transmis ses passions tristes aux Français»",
+      "dek": "CHRONIQUE - Quoi qu’il dise, le chef de l’État ne cesse d’attiser les sentiments de jalousie et de défiance de ses compatriotes.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/jean-pierre-robin-comment-emmanuel-macron-le-saturnien-a-transmis-ses-passions-tristes-aux-francais-20260906"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T16:45:15+00:00",
+      "titre": "2,5 millions d’euros en 4 jours : le streameur Mastu bat le record d’un ZEvent historique",
+      "dek": "La dernière édition du marathon caritatif en ligne, qui a réuni plus de 300 streameurs, a généré plus de 16,7&nbsp;millions d’euros de dons au profit d’associations. Mastu a notamment récolté plus de 2,5&nbsp;millions d’euros en quatre jours.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/jeux-video/25-millions-deuros-en-4-jours-le-streameur-mastu-bat-le-record-dun-zevent-historique"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T16:33:22+00:00",
+      "titre": "Guerre en Ukraine, immigration, retraites… Au RN, une ligne qui ne tient plus",
+      "dek": "Les discours contradictoires se multiplient au RN. Après les désaccords sur les retraites et le voile, c’est le sujet de l’aide apportée à l’Ukraine face à la Russie qui a opposé Louis Aliot et Jordan Bardella. Et le président du parti a peu été soutenu suite à la signature d’un …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/guerre-en-ukraine/ukraine-immigration-retraites-au-rn-une-ligne-qui-ne-tient-plus"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T16:15:28+00:00",
+      "titre": "\"Une insulte à la mémoire de ce village martyr\" : Olivier Faure critiqué après avoir comparé Le Porge, ravagé par les flammes, à Oradour-sur-Glane",
+      "dek": "Le premier secrétaire du Parti socialiste a osé une comparaison vendredi sur ICI Gironde, au lendemain de sa visite au Porge (Gironde), où 183 maisons ont été détruites lors d'un incendie cet été.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/une-insulte-a-la-memoire-de-ce-village-martyr-olivier-faure-critique-apres-avoir-compare-le-porge-detruit-par-les-flammes-a-oradour-sur-glane_8179841.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T15:38:07+00:00",
+      "titre": "Meurtre d’Aramburú: les deux suspects et le RN, le récit d’une longue histoire",
+      "dek": "Les deux assassins présumés, Loïk Le Priol et Romain Bouvier, ont gravité pendant des années dans une bande d’amis mêlant proches de Marine Le Pen et de Jordan Bardella, responsables de la branche jeunesse du parti et militants du GUD. Des liens qu’ils tentent aujourd’hui de gomm…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/060926/meurtre-d-aramburu-les-deux-suspects-et-le-rn-le-recit-d-une-longue-histoire"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T15:30:16+00:00",
+      "titre": "Assassinat de Federico Martín Aramburú, ou comment la violence de l’extrême droite passe sous silence",
+      "dek": "Les deux militants fascistes Loïk Le Priol, 32 ans, et son ami Romain Bouvier, 35 ans, sont jugés à partir du lundi 7 septembre pour la mort de l’ex-rugbyman argentin. Un non-sujet pour les médias de la bollosphère ?",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/assassinat-de-federico-martin-aramburu-ou-comment-la-violence-de-lextreme-droite-passe-sous-silence-20260906_Y3Y7OHPEX5H3DN53CKSJBRHFHQ/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T15:05:27+00:00",
+      "titre": "De la souveraineté populaire au «gouvernement des juges» : comment le Conseil constitutionnel a étendu son pouvoir",
+      "dek": "RÉCIT - Partisan d’une réforme de la loi fondamentale, Bruno Retailleau (LR) souhaite «donner le dernier mot» au peuple en cas de censure du Conseil constitutionnel.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/de-la-souverainete-populaire-au-gouvernement-des-juges-comment-le-conseil-constitutionnel-a-etendu-son-pouvoir-20260906"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -105,7 +303,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T12:00:09+00:00",
+      "date_iso": "2026-09-06T12:00:08+00:00",
       "titre": "Loïk Le Priol face à la justice pour l’assassinat de l’ex-rugbyman Federico Martin Aramburu",
       "dek": "Le procès de l’ancien commando de marine et de son ami Romain Bouvier s’ouvre lundi à Paris. Le 19 mars 2022, les deux militants d’extrême droite ont tiré sur l’ancien international argentin à la suite d’une bagarre alcoolisée, boulevard Saint-Germain, à Paris.",
       "avis": null,
@@ -198,17 +396,6 @@
       "dek": "Invité politique du dimanche 6 septembre, Nicolas Tenzer, politologue et spécialiste des relations internationales, est revenu sur la guerre en Ukraine et sur le voyage des émissaires de Donald Trump qui œuvrent pour tenter de trouver un accord de paix entre Kiev et Moscou.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-venue-des-emissaires-americains-ne-peut-aboutir-a-rien-selon-le-politologue-nicolas-tenzer_8179556.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T07:45:00+00:00",
-      "titre": "De la souveraineté populaire au «gouvernement des juges» : comment le Conseil constitutionnel a étendu son pouvoir",
-      "dek": "RÉCIT - Partisan d’une réforme de la loi fondamentale, Bruno Retailleau (LR) souhaite «donner le dernier mot» au peuple en cas de censure du Conseil constitutionnel.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/de-la-souverainete-populaire-au-gouvernement-des-juges-comment-le-conseil-constitutionnel-a-etendu-son-pouvoir-20260906"
     },
     {
       "tag": "Droite",
@@ -363,193 +550,6 @@
       "dek": "L’élu niçois a annoncé avoir fait part à la candidate à la présidentielle d’une quinzaine de « propositions qui peuvent être complémentaires et contribuer à bâtir un projet encore en préparation ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/05/presidentielle-2027-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance_6766399_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T17:42:05+00:00",
-      "titre": "Présidentielle 2027 : Eric Ciotti, maire de Nice, propose «un pacte d’alliance» à Marine Le Pen",
-      "dek": "Le dirigeant de l’Union des droites pour la République (UDR) a officialisé, lors de sa rentrée politique à ce samedi, son soutien à la candidate du RN dans la course à l’Elysée. Il a mis en avant une «quinzaine de propositions» qu’il a transmises à la candidate RN.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-eric-ciotti-maire-de-nice-propose-un-pacte-dalliance-a-marine-le-pen-20260905_ASP3I5ZKF5D25IALL3SS653NPI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T17:11:24+00:00",
-      "titre": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
-      "dek": "Le leader de La France insoumise et candidat à la présidentielle a tenu un discours de rentrée à la braderie de Lille, dans lequel il a notamment proposé de bloquer les prix.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T17:04:15+00:00",
-      "titre": "À Lyon, la mobilisation contre les logements bouilloires engrange des premières victoires",
-      "dek": "Une mobilisation inédite de locataires lyonnais a conduit le maire écologiste Grégory Doucet à intégrer «la chaleur excessive» comme un critère d’insalubrité des logements. Une première, alors qu’une nouvelle vague de températures élevées frappe plusieurs départements.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/050926/lyon-la-mobilisation-contre-les-logements-bouilloires-engrange-des-premieres-victoires"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T17:03:23+00:00",
-      "titre": "Éric Ciotti veut faire «la preuve par Nice» du succès de l’alliance avec l’extrême droite",
-      "dek": "Pour sa rentrée, le nouveau maire de Nice a présenté sa ville comme un laboratoire de l’union de la droite et de l’extrême droite, déclinable à l’échelle du pays. Sans renoncer à peser, par ses propositions sur les retraites notamment, sur le futur programme présidentiel de Marin…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/050926/eric-ciotti-veut-faire-la-preuve-par-nice-du-succes-de-l-alliance-avec-l-extreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T15:55:28+00:00",
-      "titre": "Marine Tondelier veut une loi pour \"interdire le mensonge en politique\" après les propos polémiques d'un sénateur sur un pesticide",
-      "dek": "La patronne des Ecologistes veut un \"arsenal législatif solide pour protéger la qualité du débat public\", inspiré du modèle gallois, en se défendant de vouloir un \"ministère de la vérité\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/eelv/marine-tondelier-veut-une-loi-pour-interdire-le-mensonge-en-politique-apres-les-propos-polemiques-d-un-senateur-sur-un-pesticide_8178884.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T15:52:28+00:00",
-      "titre": "VIDEO. \"Comment peut-on être aussi misérable ?\" : à Lille, Jean-Luc Mélenchon cible Jordan Bardella, \"un fasciste sans réputation et sans portée\"",
-      "dek": "Le candidat insoumis à l'élection présidentielle a réagi à la signature par le président du RN d'un \"protocole d'accord\" sur l'immigration avec le populiste britannique Nigel Farage.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/video-comment-peut-on-etre-aussi-miserable-a-lille-jean-luc-melenchon-cible-jordan-bardella-un-fasciste-sans-reputation-et-sans-portee_8178842.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T15:28:52+00:00",
-      "titre": "Jordan Bardella sur le soutien à l’Ukraine : « On ne peut pas donner de l’argent sans aucune garantie ni sans la sûreté que cet argent sera remboursé un jour »",
-      "dek": "Le président du RN a pris la parole sur la guerre en Ukraine, samedi, après les déclarations de Louis Alliot appelant à « couper le robinet » du soutien à Kiev et a réaffirmé son « affinité politique et personnelle indéfectible » envers Marine Le Pen, après une semaine pendant la…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/jordan-bardella-sur-le-soutien-a-l-ukraine-on-ne-peut-pas-donner-de-l-argent-sans-aucune-garantie-ni-sans-la-surete-que-cet-argent-sera-rembourse-un-jour_6766357_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T15:04:44+00:00",
-      "titre": "\"Il n'y a qu'une voie\" : Eric Ciotti propose à Marine Le Pen \"un pacte d'alliance\" pour la présidentielle de 2027",
-      "dek": "Pour sa rentrée politique, le dirigeant de l'Union des droites pour la République (UDR) a mis en avant une quinzaine de propositions qui peuvent selon lui être \"complémentaires\" du projet du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/il-n-y-a-qu-une-voie-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance-pour-la-presidentielle-de-2027_8178815.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T15:00:14+00:00",
-      "titre": "DIRECT. Election présidentielle : à Lille, Jean-Luc Mélenchon qualifie Jordan Bardella de \"fasciste sans réputation\"",
-      "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T15:00:11+00:00",
-      "titre": "Quatre questions sur la demande de Rachida Dati de réintégrer la magistrature, à quelques jours de son procès pour corruption",
-      "dek": "L'ex-ministre de la Culture sera jugée du 16 au 28 septembre devant le tribunal correctionnel de Paris, notamment pour corruption et trafic d'influence passifs dans l'affaire Renault-Nissan.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/rachida-dati/quatre-questions-sur-la-demande-de-rachida-dati-de-reintegrer-la-magistrature-a-quelques-jours-de-son-proces-pour-corruption_8178530.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T14:41:19+00:00",
-      "titre": "Guerre en Ukraine : le RN est un « cheval de Troie des impérialistes » pour Marine Tondelier, le « parti de l’étranger » pour Raphaël Glucksmann",
-      "dek": "Les déclarations de plusieurs cadres du parti d’extrême droite sur les limites à apporter à l’aide à Kiev ont été de nouveau critiquées, samedi, à gauche.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/guerre-en-ukraine-le-rn-est-un-cheval-de-troie-des-imperialistes-pour-marine-tondelier-le-parti-de-l-etranger-pour-raphael-glucksmann_6766353_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T14:36:40+00:00",
-      "titre": "\"Il n'y a qu'une voie\" : Eric Ciotti propose à Marine Le Pen \"un pacte d'alliance\" pour la présidentielle de 2027",
-      "dek": "Pour sa rentrée politique, le dirigeant de l'Union des droites pour la République (UDR) a mis en avant une quinzaine de propositions qui peuvent selon lui être \"complémentaires\" du projet du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/il-n-y-a-qu-une-voie-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance-pour-la-presidentielle-de-2027_8178815.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T14:00:04+00:00",
-      "titre": "Présidentielle 2027 : pour Gabriel Attal et Edouard Philippe, le poids d’un bilan écologique contrasté",
-      "dek": "« Les candidats et le climat ». Les deux principaux aspirants du bloc central défendent une vision pragmatique de l’adaptation climatique, qui marierait croissance et écologie. A Matignon, ils avaient surtout privilégié l’économie.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/05/presidentielle-2027-pour-gabriel-attal-et-edouard-philippe-le-poids-d-un-bilan-ecologique-contraste_6766350_4355770.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T13:47:57+00:00",
-      "titre": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
-      "dek": "Maître de la désinformation d’extrême droite, le consultant politique argentin Fernando Cerimedo est poursuivi en Bolivie pour tentative de féminicide. Son arrestation a des répercussions bien au-delà, car il a été le conseiller de nombreux présidents, parmi lesquels Javier Milei…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/050926/la-chute-de-fernando-cerimedo-roi-des-trolls-et-tete-de-pont-trumpiste-en-amerique-latine"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T13:33:24+00:00",
-      "titre": "Au Royaume-Uni, Nigel Farage est fragilisé, mais incontesté dans son parti",
-      "dek": "De jeudi à samedi, le parti d’extrême droite britannique Reform UK tenait son congrès annuel à Birmingham. Après un été difficile, son chef voulait remotiver les troupes, mais il fait face à de nouvelles accusations de malversations.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/050926/au-royaume-uni-nigel-farage-est-fragilise-mais-inconteste-dans-son-parti"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T11:06:11+00:00",
-      "titre": "Présidentielle 2027 : « Le Monde » analyse le match entre Attal et Philippe sur leurs réseaux sociaux",
-      "dek": "Si les deux candidats ont voulu atteindre le même objectif, leurs stratégies sur leurs comptes Instagram et TikTok ont été très différentes. Dans ce nouveau format, « Le Monde » vous décrypte les enjeux de leur été.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/video/2026/09/05/presidentielle-2027-le-monde-analyse-le-match-entre-attal-et-philippe-sur-leurs-reseaux-sociaux_6766332_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T11:00:07+00:00",
-      "titre": "Sénatoriales 2026 : Gérard Larcher fait campagne dans le Gard avant des élections déterminantes pour la droite face à l’extrême droite",
-      "dek": "Vendredi 4 septembre, le président du Sénat est allé rencontrer les grands électeurs dans un département où le RN et l’UDR d’Eric Ciotti ont remporté toutes les circonscriptions aux législatives de 2024.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/senatoriales-2026-gerard-larcher-fait-campagne-dans-le-gard-avant-des-elections-determinantes-pour-la-droite-face-a-l-extreme-droite_6766330_823448.html"
     }
   ]
 }
