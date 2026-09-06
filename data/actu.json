@@ -1,16 +1,170 @@
 {
-  "generated_at": "2026-09-06T10:05:54+00:00",
+  "generated_at": "2026-09-06T15:05:40+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T10:03:20+00:00",
+      "date_iso": "2026-09-06T14:59:34+00:00",
       "titre": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques",
       "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T14:55:15+00:00",
+      "titre": "Le Pays basque pleure encore «Fede» Martín Aramburú, «le meilleur ami de tout le monde» à Biarritz",
+      "dek": "La mort du rugbyman, le 19 mars 2022, avait bouleversé le monde de l’ovalie et le Pays basque, où l’Argentin était retourné vivre après sa carrière. À l’approche du procès des militants d’extrême droite accusés de l’avoir assassiné, le 7 septembre à Paris, ses proches se mobilise…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/060926/le-pays-basque-pleure-encore-fede-martin-aramburu-le-meilleur-ami-de-tout-le-monde-biarritz"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T14:44:51+00:00",
+      "titre": "Meurtre d’Aramburú: le procès d’une extrême droite qui tue",
+      "dek": "Quatre ans après la mort de l’ancien international de rugby argentin, les militants d’extrême droite accusés de l’avoir assassiné sont jugés aux assises. Les deux principaux, Loïk Le Priol et Romain Bouvier, ont déjà été condamnés pour des violences liées au GUD, groupuscule viol…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/060926/meurtre-d-aramburu-le-proces-d-une-extreme-droite-qui-tue"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T14:15:31+00:00",
+      "titre": "« On renforce les digues entre la République et les haineux » : à Bonneuil-sur-Marne, le maire Denis Öztorun rassemble contre le racisme",
+      "dek": "Victime de nouvelles injures racistes, islamophobes et homophobes début septembre, Denis Öztorun a rassemblé, ce dimanche 6 septembre, plusieurs centaines de citoyens et d’élus. Le maire PCF de Bonneuil-sur-Marne y a défendu les fondements de la République, dans un contexte de mo…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/racisme/on-renforce-les-digues-entre-la-republique-et-les-haineux-a-bonneuil-sur-marne-le-maire-denis-oztorun-rassemble-contre-le-racisme"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T14:05:24+00:00",
+      "titre": "On vous résume la passe d'armes entre Jordan Bardella et ses adversaires après la signature d'un accord sur l'immigration avec Nigel Farage",
+      "dek": "Le président du RN a signé un texte avec le chef du parti Reform UK prévoyant, en cas d'arrivée au pouvoir, le renvoi vers la France de migrants interpellés dans les eaux britanniques.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/on-vous-resume-la-passe-d-armes-entre-jordan-bardella-et-ses-adversaires-apres-la-signature-d-un-accord-sur-l-immigration-avec-nigel-farage_8179508.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T13:20:12+00:00",
+      "titre": "Grève à France Inter : quand le JDD invente le « Maccarthysme de la gauche française »",
+      "dek": "Dans le Journal du dimanche, les sénateurs de droite sont « les sénateurs ». Et donc, dans l’hebdomadaire de Vincent Bolloré, avec en rouge le mot clé censure, on lit que « les sénateurs s’inquiètent d’une dérive inquiétante du service public après la grève votée contre l’arrivée…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/le-billet-de-maurice-ulrich/greve-a-france-inter-quand-le-jdd-invente-le-maccarthysme-de-la-gauche-francaise"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T13:17:17+00:00",
+      "titre": "Extrême droite : Jordan Bardella réfute toute tension avec Marine Le Pen et tente de désamorcer les critiques",
+      "dek": "Entre ses relations avec sa patronne et les accusations suscitées par la signature d’un protocole symbolique avec Reform UK ou sur l’aide à l’Ukraine, le président du Rassemblement national peine à clarifier les choses.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/extreme-droite-jordan-bardella-refute-toute-tension-avec-marine-le-pen-et-tente-de-desamorcer-les-critiques-20260906_QRSCVM5IUFHOJATF5QEB4C4UII/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T13:03:37+00:00",
+      "titre": "Rachida Dati, jugée dans 10 jours pour corruption, devrait réintégrer la magistrature… mais loin des tribunaux",
+      "dek": "L’ancienne garde des Sceaux Rachida Dati, jugée du 16 au 28&nbsp;septembre devant le tribunal correctionnel de Paris, notamment pour corruption et trafic d’influence passifs dans l’affaire Renault-Nissan, a demandé à réintégrer la magistrature… Mais elle n’exercera pas en juridic…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/rachida-dati/rachida-dati-jugee-dans-10-jours-pour-corruption-devrait-reintegrer-la-magistrature-mais-loin-des-tribunaux"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T13:01:07+00:00",
+      "titre": "Présidentielle 2027 : Bruno Retailleau dénonce « l’amateurisme » de Jordan Bardella et du RN et appelle leurs électeurs à le soutenir",
+      "dek": "Le candidat des Républicains s’en est particulièrement pris au patron du Rassemblement national, qu’il accuse de vouloir « transformer la France en un vaste centre de retour pour tous les immigrés » après sa rencontre avec Nigel Farage.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/06/presidentielle-2027-bruno-retailleau-denonce-l-amateurisme-de-jordan-bardella-et-du-rn-et-appelle-leurs-electeurs-a-le-soutenir_6767304_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T12:00:09+00:00",
+      "titre": "Loïk Le Priol face à la justice pour l’assassinat de l’ex-rugbyman Federico Martin Aramburu",
+      "dek": "Le procès de l’ancien commando de marine et de son ami Romain Bouvier s’ouvre lundi à Paris. Le 19 mars 2022, les deux militants d’extrême droite ont tiré sur l’ancien international argentin à la suite d’une bagarre alcoolisée, boulevard Saint-Germain, à Paris.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/06/loik-le-priol-face-a-la-justice-pour-l-assassinat-de-l-ex-rugbyman-federico-martin-aramburu_6767297_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T12:00:00+00:00",
+      "titre": "Pourquoi la primaire socialiste est perdue d’avance",
+      "dek": "Pourquoi alors se lancer dans un tel bourbier ? Le choix stratégique d’une primaire est non seulement peu novateur mais particulièrement risqué, affirme le sociologue Arthur Guichoux.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-la-primaire-socialiste-est-perdue-davance-20260906_4UMSJLKYKBBQJA3ZAKX64MSIGE/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T11:55:09+00:00",
+      "titre": "Jordan Bardella réaffirme son «affinité politique et personnelle indéfectible» envers Marine Le Pen",
+      "dek": "Les deux figures du RN affichent plus ou moins publiquement certaines divergences, notamment sur l’interdiction du port du voile islamique sur la voie publique ou sur la retraite.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/jordan-bardella-reaffirme-son-affinite-politique-et-personnelle-indefectible-envers-marine-le-pen-20260906"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T11:02:37+00:00",
+      "titre": "La campagne présidentielle démarre sur le dos des plus vulnérables",
+      "dek": "Marine Le Pen cible les femmes voilées, Gabriel Attal charge les «gens du voyage», Édouard Philippe et Bruno Retailleau s’en prennent aux personnes migrantes… Comme marchepieds de leur rentrée politique, la droite et l’extrême droite ont choisi les personnes les plus discriminées…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/060926/la-campagne-presidentielle-demarre-sur-le-dos-des-plus-vulnerables"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T10:18:38+00:00",
+      "titre": "Après son départ de «Libé», l’islamophobie encore plus décomplexée du journaliste Jean Quatremer",
+      "dek": "Dans une interview diffusée le 1er septembre, l’ancien journaliste de «Libération», désormais chroniqueur pour «Marianne» et LCI, étrille son ancienne rédaction. Il en profite aussi pour dire tout le mal qu’il pense de l’islam, cet «ennemi intérieur».",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/060926/apres-son-depart-de-libe-l-islamophobie-encore-plus-decomplexee-du-journaliste-jean-quatremer"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T10:01:46+00:00",
+      "titre": "Enquête sur Michel-Edouard Leclerc, l’hyper influenceur de la présidentielle",
+      "dek": "Il a longtemps entretenu l’idée d’une candidature à la présidentielle avant d’annoncer vouloir simplement «peser» dans le débat. Il fréquente tous les présidents, tous les politiques, de LFI au RN, en se disant éloigné de l’establishment. Portrait d’un héritier breton atypique, à…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/enquete-sur-michel-edouard-leclerc-lhyper-influenceur-de-la-presidentielle-20260906_4YFLNT37JNE5FCUMAARVIHY6IE/"
     },
     {
       "tag": "Politique",
@@ -85,7 +239,7 @@
       "date": "06 Sep 2026",
       "date_iso": "2026-09-06T07:11:52+00:00",
       "titre": "Pour une loi d’urgence climatique et écologique : l’appel de Cyril Dion et de Claire Nouvian",
-      "dek": "A l’initiative du réalisateur et la directrice de l’ONG Bloom, un collectif de personnalités appelle le Parlement à légiférer au plus vite sur des mesures permettant de stopper les industries qui détruisent nos conditions de vie.",
+      "dek": "A l’initiative du réalisateur et de la directrice de l’ONG Bloom, un collectif de personnalités appelle le Parlement à légiférer au plus vite sur des mesures permettant de stopper les industries qui détruisent nos conditions de vie.",
       "avis": null,
       "lien": "https://www.liberation.fr/idees-et-debats/tribunes/pour-une-loi-durgence-climatique-et-ecologique-lappel-de-cyril-dion-et-de-claire-nouvian-20260906_S5XRA6HAMBDM5L672GCT4QNSHE/"
     },
@@ -112,17 +266,6 @@
       "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-va-t-elle-remporter-une-region_8179451.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T05:34:28+00:00",
-      "titre": "Jordan Bardella réaffirme son «affinité politique et personnelle indéfectible» envers Marine Le Pen",
-      "dek": "Les deux figures du RN affichent plus ou moins publiquement certaines divergences, notamment sur l’interdiction du port du voile islamique sur la voie publique ou sur la retraite.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/jordan-bardella-reaffirme-son-affinite-politique-et-personnelle-indefectible-envers-marine-le-pen-20260906"
-    },
-    {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
@@ -138,7 +281,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T03:15:08+00:00",
+      "date_iso": "2026-09-06T03:15:05+00:00",
       "titre": "Pourquoi Ulrich Siegmund, figure de l’extrême droite allemande, a-t-il été qualifié d’« homme le plus dangereux d’Allemagne » ? Comprendre en trois minutes",
       "dek": "Cette figure montante de l’extrême droite allemande est tête de liste aux élections régionales en Saxe-Anhalt, le 6 septembre. Il pourrait permettre à l’AfD de diriger pour la première fois un Land depuis la fondation de la République fédérale d’Allemagne.",
       "avis": null,
@@ -161,8 +304,8 @@
       "source": "Le Monde – Politique",
       "date": "06 Sep 2026",
       "date_iso": "2026-09-06T03:00:33+00:00",
-      "titre": "A la Braderie de Lille, Gabriel Attal, Jean-Luc Mélenchon et Marine Tondelier défendent leurs programmes et critiquent le RN",
-      "dek": "Trois candidats à l’élection présidentielle ont profité, samedi, des deux millions de visiteurs attendus pour défendre leurs idées et critiquer les dernières sorties du Rassemblement national, qui affirme vouloir « couper le robinet » des aides à l’Ukraine.",
+      "titre": "A la braderie de Lille, Gabriel Attal, Jean-Luc Mélenchon et Marine Tondelier défendent leurs programmes et critiquent le RN",
+      "dek": "Trois candidats à l’élection présidentielle ont profité, samedi, des 2 millions de visiteurs attendus pour exposer leurs idées et dénoncer les dernières sorties du Rassemblement national, qui affirme vouloir « couper le robinet » des aides à l’Ukraine.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/06/attal-melenchon-tondelier-la-campagne-presidentielle-s-est-invitee-a-la-braderie-de-lille_6766773_823448.html"
     },
@@ -173,7 +316,7 @@
       "date": "06 Sep 2026",
       "date_iso": "2026-09-06T03:00:18+00:00",
       "titre": "La tournée européenne de Jordan Bardella minée par les polémiques",
-      "dek": "Les visites du président du RN au Royaume-Uni et en Italie, vendredi et samedi, destinées à soigner l’image du parti sur la scène européenne, ont viré au fiasco, achoppant sur les dossiers de l’immigration et de l’aide à l’Ukraine.",
+      "dek": "Les visites du président du RN au Royaume-Uni et en Italie, vendredi et samedi, destinées à soigner l’image du parti d’extrême droite sur la scène européenne, ont viré au fiasco, achoppant sur les dossiers de l’immigration et de l’aide à l’Ukraine.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/06/la-tournee-europeenne-de-jordan-bardella-minee-par-les-polemiques_6766770_823448.html"
     },
@@ -407,149 +550,6 @@
       "dek": "Vendredi 4 septembre, le président du Sénat est allé rencontrer les grands électeurs dans un département où le RN et l’UDR d’Eric Ciotti ont remporté toutes les circonscriptions aux législatives de 2024.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/05/senatoriales-2026-gerard-larcher-fait-campagne-dans-le-gard-avant-des-elections-determinantes-pour-la-droite-face-a-l-extreme-droite_6766330_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T10:01:19+00:00",
-      "titre": "DIRECT. Election présidentielle : \"Entre le Rassemblement national et moi, il y a deux mondes\", lance Gabriel Attal à la braderie de Lille",
-      "dek": "La braderie de Lille, lancée au Moyen-âge, est l'un des événements les plus emblématiques de la vie lilloise. Mais il s'agit aussi d'un lieu prisé des personnalités politiques nationales.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T09:37:06+00:00",
-      "titre": "L'AfD aux portes du pouvoir dans la campagne allemande",
-      "dek": "Quedlinbourg, petite ville touristique du Land de Saxe-Anhalt, en Allemagne, va voter le 6 septembre pour choisir le nouveau président de région. Ulrich Siegmund, le candidat de l’AfD (Alternative pour l’Allemagne), parti d'extrême droite, est en passe de l'emporter. Ce serait un…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T09:00:12+00:00",
-      "titre": "Sénatoriales 2026 : dans le Bas-Rhin, les divisions à gauche ouvrent la voie aux recompositions",
-      "dek": "Dans un département plutôt acquis à la droite, une liste menée par une socialiste avec un numéro deux de centre droit tente de reconduire la formule gagnante de l’élection municipale à Strasbourg, pour ravir le siège au sénateur écologique sortant.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/senatoriales-2026-dans-le-bas-rhin-les-divisions-a-gauche-ouvrent-la-voie-aux-recompositions_6766321_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T08:54:16+00:00",
-      "titre": "En Saxe-Anhalt, l’AfD rêve d’une majorité absolue pour déclencher un «effet domino»",
-      "dek": "Dimanche 6 septembre, l’extrême droite allemande compte sur un succès régional pour crédibiliser sa promesse d’un «sursaut national». Entre nostalgie de l’Est, déception envers les conservateurs et rejet global des élites, des pans entiers de l’électorat penchent pour la liste di…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/050926/en-saxe-anhalt-l-afd-reve-d-une-majorite-absolue-pour-declencher-un-effet-domino"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T08:45:48+00:00",
-      "titre": "Guerre en Ukraine : \"Nous sommes aux côtés de l'Ukraine, mais pas au prix de la ruine financière\", estime Laurent Jacobelli",
-      "dek": "Invité politique du samedi 5 septembre, Laurent Jacobelli, député RN de Moselle, est revenu sur la guerre en Ukraine. Il a présenté les potentielles aides accordées à Kiev si Marine Le Pen venait à être élue présidente en 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/guerre-en-ukraine-nous-sommes-aux-cotes-de-l-ukraine-mais-pas-au-prix-de-la-ruine-financiere-estime-laurent-jacobelli_8178485.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T08:24:14+00:00",
-      "titre": "Présidentielle 2027 : « On n’arrivera pas à battre le Rassemblement national avec juste un vote de barrage », dit Gabriel Attal à la braderie de Lille",
-      "dek": "Le secrétaire général de Renaissance et candidat à l’élection a par ailleurs déclaré qu’il n’y avait « pas de fatalité » à l’arrivée du parti d’extrême droite au pouvoir, en plaidant pour une « vision pour la France ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/05/presidentielle-2027-on-n-arrivera-pas-a-battre-le-rassemblement-national-avec-juste-un-vote-de-barrage-dit-gabriel-attal-a-la-braderie-de-lille_6766319_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T07:59:25+00:00",
-      "titre": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences",
-      "dek": "A 7 mois de la présidentielle, le RN reste toujours en tète, et de loin, des intentions de vote, mais le fameux \"ticket\" Marine Le Pen / Jordan Bardella semble s'effriter.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/presidentielle-2027-marine-le-pen-et-jordan-bardella-affichent-de-plus-en-plus-leurs-divergences_8148692.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T07:37:54+00:00",
-      "titre": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine",
-      "dek": "Les deux anciens Premiers ministres Edouard Philippe et Gabriel Attal et la candidate du RN s’affrontent depuis 24 heures sur le soutien à apporter à Kiev. Une nouvelle montée des tensions entre les favoris des sondages en vue de la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T06:47:05+00:00",
-      "titre": "Braderie de Lille : Mélenchon, Attal… la présidentielle s’invite dans les rues",
-      "dek": "Il y a des airs de campagne présidentielle à la braderie de Lille ce samedi. Trois candidats au moins seront présents : l'écologiste Marine Tondelier, Gabriel Attal, pour le parti présidentiel et Jean-Luc Mélenchon cet après midi, avec un discours à 16h30. Les deux hommes au même…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/braderie-de-lille-melenchon-attal-la-presidentielle-s-invite-dans-les-rues_8178413.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T06:22:00+00:00",
-      "titre": "2027 : moi moi moi, candidat, par Mathieu Lindon",
-      "dek": "Mais pourquoi d’autres se présentent ? Pour qui ils se prennent ? Ils croient qu’on les attend ? Ils n’ont pas saisi que c’était mon tour ?",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/opinions/2027-moi-moi-moi-candidat-par-mathieu-lindon-20260905_BJRJ4IJA35GWTL62PDB6AEN4AU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T06:03:45+00:00",
-      "titre": "\"Nous partageons les mêmes valeurs\" : Jordan Bardella s'affiche avec le sulfureux \"Monsieur Brexit\"",
-      "dek": "En compagnie de Nigel Farage, leader du parti populiste d'extrême droite Reform UK, Jordan Bardella a signé, vendredi 4 septembre, un accord prévoyant un renvoi des réfugiés des eaux britanniques vers la France dans le cas où le RN accède au pouvoir lors de la prochaine président…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/nous-partageons-les-memes-valeurs-jordan-bardella-s-affiche-avec-le-sulfureux-monsieur-brexit_8178383.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T05:04:29+00:00",
-      "titre": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins",
-      "dek": "Depuis 2004, plusieurs pays européens ont réglementé le port de vêtements religieux, en particulier celui du voile intégral. Mais le débat porte rarement, comme en France, sur la possibilité de bannir le foulard de l'espace public.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T04:45:00+00:00",
-      "titre": "Le procès des assassins de l’ancien rugbyman Argentin Federico Martin Aramburú s’ouvre lundi à Paris",
-      "dek": "Deux militants d’ultradroite, Loïk Le Priol et Romain Bouvier, sont jugés, à partir de lundi, pour « assassinat » et « tentative d’assassinat », après la mort, le 19 mars 2022, dans le Quartier Latin, à Paris, de l’ancien rugbyman argentin. Une affaire emblématique des violences …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/le-proces-des-assassins-de-lancien-rugbyman-argentin-federico-martin-aramburu-souvre-lundi-a-paris"
     }
   ]
 }
