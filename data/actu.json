@@ -1,16 +1,60 @@
 {
-  "generated_at": "2026-09-06T00:09:54+00:00",
+  "generated_at": "2026-09-06T05:05:42+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T00:09:44+00:00",
+      "date_iso": "2026-09-06T05:01:53+00:00",
       "titre": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques",
       "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T04:00:16+00:00",
+      "titre": "Présidentielle 2027 : les risques d’une campagne à l’ombre de « l’esprit de défaite »",
+      "dek": "De nombreux responsables politiques semblent avoir acté un duel entre le RN et LFI, et jouent déjà le coup d’après. Les partis de gouvernement peinent à proposer des idées nouvelles et s’enlisent dans des manœuvres politiciennes, bien loin de l’enjeu et de la gravité du moment.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/06/presidentielle-2027-les-risques-d-une-campagne-a-l-ombre-de-l-esprit-de-defaite_6766815_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T03:15:08+00:00",
+      "titre": "Pourquoi Ulrich Siegmund, figure de l’extrême droite allemande, a-t-il été qualifié d’« homme le plus dangereux d’Allemagne » ? Comprendre en trois minutes",
+      "dek": "Cette figure montante de l’extrême droite allemande est tête de liste aux élections régionales en Saxe-Anhalt, le 6 septembre. Il pourrait permettre à l’AfD de diriger pour la première fois un Land depuis la fondation de la République fédérale d’Allemagne.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/09/06/pourquoi-ulrich-siegmund-figure-de-l-extreme-droite-allemande-a-t-il-ete-qualifie-d-homme-le-plus-dangereux-d-allemagne-comprendre-en-trois-minutes_6766774_6176282.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T03:00:43+00:00",
+      "titre": "Attal, Mélenchon, Tondelier : la campagne présidentielle s’est invitée à la braderie de Lille",
+      "dek": "Trois candidats ont profité, samedi, des deux millions de visiteurs attendus pour défendre leur programme et critiquer les dernières sorties du Rassemblement national, qui affirme vouloir « couper le robinet » des aides à l’Ukraine.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/06/attal-melenchon-tondelier-la-campagne-presidentielle-s-est-invitee-a-la-braderie-de-lille_6766773_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T03:00:26+00:00",
+      "titre": "La tournée européenne de Jordan Bardella minée par les polémiques",
+      "dek": "Les visites du président du RN au Royaume-Uni et en Italie, vendredi et samedi, destinées à soigner l’image du parti sur la scène européenne, ont viré au fiasco, achoppant sur les dossiers de l’immigration et de l’aide à l’Ukraine.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/06/la-tournee-europeenne-de-jordan-bardella-minee-par-les-polemiques_6766770_823448.html"
     },
     {
       "tag": "Politique",
@@ -506,50 +550,6 @@
       "dek": "Ce retour surprise de Rachida Dati dans la magistrature survient alors que l’ancienne ministre doit être jugée dans quelques jours pour corruption et trafic d’influence. Une vraie provocation.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/040926/rachida-dati-va-redevenir-magistrate-grace-darmanin"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:51:12+00:00",
-      "titre": "Radio France : sous couvert de « pluralisme », Sibyle Veil met en danger les cibles favorites de l’extrême droite",
-      "dek": "En résumant le discours de Valeurs actuelles – dont le directeur adjoint de la rédaction, Charles Sapin, intègre France Inter en septembre – à une « sensibilité » quelconque, la PDG de Radio France assume de poursuivre la banalisation de l’extrême droite et de prolonger les souff…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=504014"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:33:44+00:00",
-      "titre": "Le RN et parti britannique Reform UK annoncent un pacte contre l’immigration clandestine",
-      "dek": "Selon le protocole d’accord signé à Birmingham, les demandeurs d’asile arrivant au Royaume-Uni ‌en ayant traversé la Manche seraient placés en ‌détention puis renvoyés en France, dont les autorités se chargeraient de les reconduire dans leur pays ‌d’origine.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/09/04/le-rassemblement-national-s-accorde-avec-reform-uk-sur-un-plan-contre-l-immigration-clandestine_6765849_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:32:25+00:00",
-      "titre": "Handicap : Emmanuel Macron annonce un train de mesures qui laissent les associations sur leur faim",
-      "dek": "Si le président de la République a, lors de la Conférence nationale du handicap qui s’est tenue vendredi, défendu son bilan et réaffirmé l’objectif de l’accessibilité universelle, les acteurs du secteur déplorent l’absence de nouveaux moyens et l’insuffisance des contrôles et des…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/04/handicap-emmanuel-macron-annonce-un-train-de-mesures-qui-laissent-les-associations-sur-leur-faim_6765848_3224.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:30:00+00:00",
-      "titre": "À Birmingham, Jordan Bardella et Nigel Farage signent un accord « historique » pour stopper l’immigration illégale",
-      "dek": "DÉCRYPTAGE - En cas d’arrivée au pouvoir en 2027, le président du RN promet que les migrants interceptés dans la Manche seront « ramenés en France » pour être « reconduits vers leur pays d’origine ».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/a-birmingham-jordan-bardella-et-nigel-farage-signent-un-accord-historique-pour-stopper-l-immigration-illegale-20260904"
     }
   ]
 }
