@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-07T00:09:48+00:00",
+  "generated_at": "2026-09-07T05:05:48+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T04:00:26+00:00",
+      "titre": "Présidentielle 2027 : deux macronistes historiques appellent à une vaste coalition contre le RN, sans LR",
+      "dek": "L’ancien conseiller spécial d’Emmanuel Macron Philippe Grangeon et l’ex-ministre Renaissance Clément Beaune invitent à former une large coalition pour combattre l’extrême droite à la présidentielle, allant de Raphaël Glucksmann à Xavier Bertrand, mais sans Bruno Retailleau et Les…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/07/presidentielle-2027-deux-macronistes-historiques-appellent-a-une-vaste-coalition-contre-le-rn-sans-lr_6767771_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -539,17 +550,6 @@
       "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T18:31:22+00:00",
-      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon à la braderie de Lille, à fond sur le pouvoir d’achat",
-      "dek": "Devant une foule conquise, le candidat insoumis a, ce samedi, déroulé notamment les aspects économiques et sociaux de son programme : blocage des prix et des loyers, augmentation du smic et annulation d’une partie de la dette française.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-jean-luc-melenchon-a-la-braderie-de-lille-a-fond-sur-le-pouvoir-dachat-20260905_GBAQNSSV55E2TESVNL3AOUNWLA/"
     }
   ]
 }
