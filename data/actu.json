@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-06T20:06:02+00:00",
+  "generated_at": "2026-09-07T00:09:48+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Sep 2026",
+      "date_iso": "2026-09-06T20:11:17+00:00",
+      "titre": "Ségolène Royal obtient les parrainages nécessaires à la primaire socialiste et se félicite d’avoir « gardé beaucoup d’amitiés au sein du PS »",
+      "dek": "La candidate à la primaire socialiste pour la présidentielle souhaite « remettre de l’ordre et de la dignité dans la maison France qui a été très abîmée ces dernières années », a-t-elle déclaré sur LCI.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/06/segolene-royal-obtient-les-parrainages-necessaires-a-la-primaire-socialiste-et-se-felicite-d-avoir-garde-beaucoup-d-amities-au-sein-du-ps_6767590_6205049.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -96,7 +107,7 @@
       "date": "06 Sep 2026",
       "date_iso": "2026-09-06T17:34:10+00:00",
       "titre": "En Saxe-Anhalt, l’extrême droite obtient une victoire historique",
-      "dek": "Selon les premières estimations, l’AfD a obtenu plus de 44% des suffrages dans ce land de l’ex-RDA, où la participation a été très élevée. Il pourrait manquer d’une poignée de sièges la majorité absolue, mais le gouvernement fédéral de Friedrich Merz subit une défaite majeure.",
+      "dek": "Selon les premières estimations, l’AfD a obtenu plus de 44% des suffrages dans ce land de l’ex-RDA, où la participation a été très élevée. Elle pourrait manquer d’une poignée de sièges la majorité absolue, mais le gouvernement fédéral de Friedrich Merz subit une défaite majeure.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/international/060926/en-saxe-anhalt-l-extreme-droite-obtient-une-victoire-historique"
     },
@@ -539,17 +550,6 @@
       "dek": "Devant une foule conquise, le candidat insoumis a, ce samedi, déroulé notamment les aspects économiques et sociaux de son programme : blocage des prix et des loyers, augmentation du smic et annulation d’une partie de la dette française.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-jean-luc-melenchon-a-la-braderie-de-lille-a-fond-sur-le-pouvoir-dachat-20260905_GBAQNSSV55E2TESVNL3AOUNWLA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T18:30:34+00:00",
-      "titre": "Présidentielle 2027 : Eric Ciotti propose à Marine Le Pen « un pacte d’alliance »",
-      "dek": "L’élu niçois a annoncé avoir fait part à la candidate à la présidentielle d’une quinzaine de « propositions qui peuvent être complémentaires et contribuer à bâtir un projet encore en préparation ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/presidentielle-2027-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance_6766399_823448.html"
     }
   ]
 }
