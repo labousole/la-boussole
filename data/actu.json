@@ -1,6 +1,226 @@
 {
-  "generated_at": "2026-09-07T10:06:25+00:00",
+  "generated_at": "2026-09-07T15:06:18+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T15:02:32+00:00",
+      "titre": "La «crise de la dette»: un récit conservateur à visée répressive",
+      "dek": "Le début de la campagne présidentielle est marqué par le retour des récits catastrophistes concernant la dette française. Une narration qui n’arrive pas par hasard, mais qui a, au contraire, une fonction politique.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/070926/la-crise-de-la-dette-un-recit-conservateur-visee-repressive"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T15:00:41+00:00",
+      "titre": "Accusé de harcèlement envers les allocataires du RSA, le président de département du Finistère relaxé",
+      "dek": "Depuis son élection en 2021, Maël de Calan a vu le nombre d’allocataires du RSA baisser d’un quart dans son département. Pour la CGT, qui l’assignait en justice, c’est le résultat d’une politique marquée par des «contrôles intrusifs» et «humiliants». Le tribunal n’est pas allé da…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/070926/accuse-de-harcelement-envers-les-allocataires-du-rsa-le-president-de-departement-du-finistere-relaxe"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T14:58:50+00:00",
+      "titre": "Que font les ultra-riches de leur argent ? Ils chassent et parfois se vantent d’avoir abattu 300 sangliers",
+      "dek": "Que font les (très) riches de leur argent ? N’importe quel économiste venu, des Échos, de l’Opinion, nous le dira. Ils investissent, développent l’économie, créent des emplois… De temps en temps, ils achètent un yacht, une île aux Bahamas. Parfois ils chassent. Cette semaine, le …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/le-billet-de-maurice-ulrich/que-font-les-ultra-riches-de-leur-argent-ils-chassent-et-parfois-se-vantent-davoir-abattu-300-sangliers"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T14:55:08+00:00",
+      "titre": "LFI veut revenir sur l’interdiction de l’abaya à l’école et s’attire les critiques de Le Pen, Attal et Philippe",
+      "dek": "La candidate d’extrême droite et les deux concurrents du centre droit fustigent la promesse faite par Mathilde Panot de réautoriser le port de ce vêtement traditionnel arabe, interdit par Gabriel Attal à la rentrée 2023.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/lfi-veut-revenir-sur-linterdiction-de-labaya-a-lecole-et-sattire-les-critiques-de-le-pen-attal-et-philippe-20260907_6Z2QYQNFMBBPNC4J6LSRAW243U/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T14:00:23+00:00",
+      "titre": "Présidentielle 2027 : derrière les rires des patrons du Medef, la question très sensible du pouvoir d’achat et des salaires",
+      "dek": "L’image des patrons en train de rire à la proposition de Jean-Luc Mélenchon « d’augmenter le smic » est devenue un symbole de la tension autour de la question des salaires en France. Conscients de l’enjeu, les candidats à la présidentielle multiplient les pistes pour augmenter le…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/07/presidentielle-2027-derriere-les-rires-des-patrons-du-medef-la-question-tres-sensible-du-pouvoir-d-achat-et-des-salaires_6767951_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:44:38+00:00",
+      "titre": "L’aide de la France à l’Ukraine, dont le RN veut « couper le robinet », représente une goutte d’eau dans les finances publiques françaises",
+      "dek": "Plusieurs cadres du Rassemblement national ont tenté de justifier par l’impératif budgétaire leur projet de couper les aides financières à l’Ukraine en cas d’arrivée de Marine Le Pen à l’Elysée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/07/l-aide-de-la-france-a-l-ukraine-dont-le-rn-veut-couper-le-robinet-represente-un-goutte-d-eau-dans-les-finances-publiques-francaises_6767948_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:39:33+00:00",
+      "titre": "L'AfD aux portes du pouvoir : l'extrême droite signe une victoire historique en Saxe-Anhalt, en Allemagne",
+      "dek": "En Allemagne, c’est une victoire historique du parti d’extrême droite de l’AfD. Il remporte près de 44 % des voix en Saxe-Anhalt et pourrait donc diriger une région, ce qui serait une première pour un tel parti depuis 1945. C’est un séisme politique.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-afd-aux-portes-du-pouvoir-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt-en-allemagne_8181095.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:31:30+00:00",
+      "titre": "Meurtre de F. M. Aramburú : ce qu’il faut savoir sur le procès des assassins d’extrême droite",
+      "dek": "Deux militants d’ultradroite, Loïk Le Priol et Romain Bouvier, sont jugés, à partir de lundi, pour « assassinat » et « tentative d’assassinat », après la mort, le 19 mars 2022, dans le Quartier latin, à Paris, de l’ancien rugbyman argentin. Une affaire emblématique des violences …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/meurtre-de-f-m-aramburu-ce-quil-faut-savoir-sur-le-proces-des-assassins-dextreme-droite"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:28:58+00:00",
+      "titre": "Loi intégrale contre les violences sexuelles : définir l'inceste, \"c'est déjà un premier pas\", estime l’association Face à l’inceste",
+      "dek": "La proposition de loi intégrale contre les violences sexistes et sexuelles est discutée à partir de lundi à l’Assemblée nationale en commission spéciale.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-definir-l-inceste-c-est-deja-un-premier-pas-estime-l-association-face-a-l-inceste_8181074.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:28:12+00:00",
+      "titre": "En Algérie, le journaliste et écrivain Mustapha Benfodil de nouveau interdit de quitter le territoire",
+      "dek": "Alors qu’il se rendait à l’aéroport d’Alger pour aller en France dans le cadre d’un projet de pièce de théâtre, l’écrivain, journaliste et dramaturge algérien a été empêché de quitter le territoire. C’est la deuxième fois en trois mois qu’il se voit interdire toute sortie d’Algér…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/algerie/en-algerie-le-journaliste-et-ecrivain-mustapha-benfodil-de-nouveau-interdit-de-quitter-le-territoire"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:26:22+00:00",
+      "titre": "L'épargne salariale bientôt taxée pour renflouer les caisses de la Sécurité sociale ? \"C'est malvenu\", juge un patron",
+      "dek": "C'est une nouvelle taxe qui, si elle se confirme, ne manquera pas de susciter la polémique : elle concerne votre épargne salariale. Le gouvernement envisage en effet de nouveaux prélèvements pour renflouer les comptes de la Sécurité sociale. Une partie des primes d'intéressement …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/l-epargne-salariale-bientot-taxee-pour-renflouer-les-caisses-de-la-securite-sociale-c-est-malvenu-juge-un-patron_8181044.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:18:25+00:00",
+      "titre": "La victoire de l’AfD en Saxe-Anhalt provoque un choc en France, à l’approche de l’élection présidentielle",
+      "dek": "Les partis politiques français ont rapidement réagi au score historique du parti d’extrême droite allemand dans le petit Land d’ex-Allemagne de l’Est, dimanche, chacun analysant les résultats selon sa perspective. L’événement a suscité de la gêne au RN, ce dernier ayant rompu, en…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/07/en-france-le-choc-de-la-victoire-de-l-extreme-droite-allemande-en-saxe-anhalt-a-l-approche-de-l-election-presidentielle_6767945_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T13:14:12+00:00",
+      "titre": "La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise",
+      "dek": "Interrogé sur la victoire électorale du parti d'extrême droite allemand AfD en Saxe-Anhalt, Manuel Bompard rappelle que \"Marine Le Pen était pendant 10 ans dans le même groupe que l’AfD au Parlement européen.\" Le parti d’extrême droite allemand défend par ailleurs un projet de \"r…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T12:15:37+00:00",
+      "titre": "Actes d'enquête obligatoire, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée",
+      "dek": "Inspiré des propositions d'un collectif d'associations, ce texte porté par une députée socialiste ambitionne de traiter tous les aspects du problème, de la prévention des violences aux sanctions. Soutenu par le gouvernement depuis l'affaire Lyhanna, il est examiné en commission à…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T12:13:01+00:00",
+      "titre": "Le RN veut interdire le voile… oui, mais Mélenchon a « changé » d’avis sur le sujet",
+      "dek": "Au cœur de cette semaine quasi mono-thématique sur le voile et la volonté du Rassemblement national d’interdire aux femmes de le porter dans l’espace public, un sous-sujet s’est imposé sur les plateaux : l’évolution de la position du leader insoumis. Un non-événement, pourtant.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=504336"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T12:03:27+00:00",
+      "titre": "François Bayrou se dit \"absolument serein\" avant son procès en appel dans l'affaire des assistants d'eurodéputés MoDem",
+      "dek": "L'ancien Premier ministre est poursuivi pour complicité de détournement de fonds publics et est soupçonné d'avoir utilisé entre 2005 et 2017 des fonds européens pour rémunérer des assistants parlementaires qui travaillaient en réalité pour l'UDF, puis le MoDem. Il doit comparaîtr…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/francois-bayrou-se-dit-absolument-serein-avant-son-proces-en-appel-dans-l-affaire-des-assistants-d-eurodeputes-modem_8180960.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T11:31:45+00:00",
+      "titre": "Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe",
+      "dek": "Avec 44% des voix, l'AfD sort très largement victorieuse des élections régionales qui se sont tenues dimanche en Saxe-Anhalt. C'est la première fois depuis 1945 qu'un parti d'extrême droite est en position favorable pour diriger une région allemande.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T11:31:35+00:00",
+      "titre": "« Programme de haine », « séisme », « bégaiement de l’histoire »… Les réactions politiques en France à la percée de l’extrême droite en Allemagne",
+      "dek": "Après la victoire du parti d’extrême droite en Saxe-Anhalt, les réactions françaises ont été nombreuses. À gauche, on dénonce les conséquences du dogme libéral. Quand, à droite, on s’en sert pour fragiliser l’utilité du barrage républicain face à l’avancée de l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/afd/programme-de-haine-seisme-begaiement-de-lhistoire-en-france-les-reactions-politiques-a-la-percee-de-l"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T11:18:57+00:00",
+      "titre": "\"La gauche, je ne sais pas qui c'est !\", s'interroge François Hollande",
+      "dek": "Pour François Hollande, la gauche c'est \"30% du corps électoral\", alors pour gagner l'élection présidentielle en 2027, il faut aller \"chercher des électeurs qui ne sont pas situés politiquement\", il y a une \"nécessité de rassemblement\". L'ancien président de la République et dépu…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T10:36:17+00:00",
+      "titre": "«Je tiens à ma liberté» : à la Braderie de Saint-Quentin, la campagne prudente de Xavier Bertrand",
+      "dek": "REPORTAGE - Le président LR des Hauts-de-France, candidat non déclaré à la présidentielle, espère être un recours, estimant que «l’heure est à la candidature du rassemblement et non du dépassement».",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/je-tiens-a-ma-liberte-a-la-braderie-de-saint-quentin-la-campagne-prudente-de-xavier-bertrand-20260907"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -30,7 +250,7 @@
       "date": "07 Sep 2026",
       "date_iso": "2026-09-07T09:57:02+00:00",
       "titre": "Le camp Roussel espère mettre fin aux contestations internes en imposant sa candidature à la présidentielle",
-      "dek": "Alors que le secrétaire national du PCF a officialisé dimanche 6 septembre son entrée dans la course à l’élection suprême, plus d’un quart des adhérents de son parti se sont abstenus ou ont voté contre cette investiture.",
+      "dek": "Alors que le secrétaire national du PCF a officialisé, dimanche 6 septembre, son entrée dans la course à l’élection suprême, plus d’un quart des adhérents de son parti se sont abstenus ou ont voté contre cette investiture.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/le-camp-roussel-espere-mettre-fin-aux-contestations-internes-en-imposant-sa-candidature-a-la-presidentielle-20260907_4DCJRJEHBNHUNL2KCUJ6MDO7QU/"
     },
@@ -44,6 +264,17 @@
       "dek": "Le texte est examiné en commission spéciale à l'Assemblée nationale lundi après-midi pour y être discuté et amendé avant son examen en séance publique début octobre.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T09:42:21+00:00",
+      "titre": "Le Pen-Bardella : règlement de comptes au RN ?",
+      "dek": "Marine Le Pen et Jordan Bardella revendiquaient une complicité sans accroc et voilà qu’entre eux, les désaccords se multiplient. L'édito de Renaud Dély.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/reglement-de-comptes-au-rn_8180804.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -319,237 +550,6 @@
       "dek": "Après un vote favorable des militants du PCF à 72 %, le communiste a confirmé sa candidature à l’Elysée au JT de TF1, assurant avoir fait « un choix largement réfléchi » malgré la multiplication des candidatures à gauche.",
       "avis": null,
       "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/06/fabien-roussel-officialise-sa-candidature-a-la-presidentielle-et-promet-un-projet-de-rupture_6767491_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T18:43:30+00:00",
-      "titre": "Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre \"un projet de rupture\"",
-      "dek": "Le maire de Saint-Amand-les-Eaux et ancien député du Nord se lance pour la seconde fois dans la course à l'Elysée, avec la volonté de réaliser un meilleur score qu'en 2022 (2,28%).",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T18:38:45+00:00",
-      "titre": "Présidentielle 2027 : Fabien Roussel repart en campagne",
-      "dek": "Invité ce dimanche soir du JT de TF1, le secrétaire national du Parti communiste français a confirmé son entrée dans la course à l’Elysée. Déjà candidat en 2022, il avait obtenu 2,28 % des voix au premier tour, ce qui lui vaut d’être accusé par LFI d’avoir empêché Jean-Luc Mélenc…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-fabien-roussel-repart-en-campagne-20260906_LNP67N3RFJGH5AWISUMBPUHHO4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T18:31:39+00:00",
-      "titre": "Ségolène Royal annonce qu'elle a obtenu les parrainages nécessaires pour participer à la primaire socialiste",
-      "dek": "Outsider du scrutin d'octobre, l'ancienne ministre assure qu'elle a \"gardé beaucoup d'amitiés au sein du Parti socialiste\", dont elle fut la candidate à la présidentielle en 2007.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/segolene-royal-annonce-qu-elle-a-obtenu-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste_8180078.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T18:31:17+00:00",
-      "titre": "«J’ai gardé beaucoup d’amitiés au sein du PS» : Ségolène Royal annonce avoir recueilli les parrainages nécessaires pour participer à la primaire socialiste",
-      "dek": "Outre l’ancienne ministre, battue au second tour de l’élection présidentielle de 2007, six autres candidats sont déclarés à la primaire, qui aura lieu en deux tours en octobre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/jai-garde-beaucoup-damities-au-sein-du-ps-segolene-royal-annonce-avoir-recueilli-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste-20260906_TGNB44755FCRHDOUV3B7B7TKJA/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T18:30:00+00:00",
-      "titre": "Présidentielle 2027 : Fabien Roussel désigné candidat par les militants du PCF à 72 %",
-      "dek": "Les militants du PCF&nbsp;ont voté ce week-end à 72&nbsp;% pour une candidature de leur secrétaire national.&nbsp;Celui-ci entend faire du travail la question centrale à gauche.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-fabien-roussel-designe-candidat-par-les-militants-du-pcf-a-72"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T18:16:57+00:00",
-      "titre": "Avant la présidentielle, le grand marché de Michel-Edouard Leclerc",
-      "dek": "Omniprésent sur les terrains médiatiques et politiques, au point de fréquenter tout l’échiquier, la tête de gondole de l’enseigne familiale devenue mastodonte cultive une forme d’ambiguïté qui, chez lui, relève de la marque de fabrique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/avant-la-presidentielle-le-grand-marche-de-michel-edouard-leclerc-20260906_AKPERZU4OBG4RLGO4ZDC57NDX4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T17:45:27+00:00",
-      "titre": "\"Je parie sur des Français plus responsables que les parlementaires\" : Bruno Le Maire dévoile ses propositions pour 2027",
-      "dek": "Dimanche 6 septembre, l'ancien ministre de l'Économie Bruno Le Maire était le premier invité de l'émission \"Le grand enjeu\" sur franceinfo dimanche. Dans la partie \"demandez le programme\", il est revenu sur son \"manifeste pour une autre France\" qui ressemble fort à un programme é…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/bruno-le-maire/je-parie-sur-des-francais-plus-responsables-que-les-parlementaires-bruno-le-maire-devoile-ses-propositions-pour-2027_8180048.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T17:34:10+00:00",
-      "titre": "En Saxe-Anhalt, l’extrême droite obtient une victoire historique",
-      "dek": "Selon les premières estimations, l’AfD a obtenu plus de 44% des suffrages dans ce land de l’ex-RDA, où la participation a été très élevée. Elle pourrait manquer d’une poignée de sièges la majorité absolue, mais le gouvernement fédéral de Friedrich Merz subit une défaite majeure.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/060926/en-saxe-anhalt-l-extreme-droite-obtient-une-victoire-historique"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T17:25:07+00:00",
-      "titre": "\"Un parti ouvertement néonazi\" : Bruno Le Maire alerte sur le \"danger\" de l'AfD en Allemagne, après la victoire de l'extrême droite en Saxe-Anhalt",
-      "dek": "Bruno Le Maire était le premier invité de l'émission \"Le Grand Enjeu\" sur franceinfo dimanche 6 septembre. L'ancien ministre de l'Économie s'est exprimé sur la victoire du parti d'extrême droite allemand l'AfD en Saxe-Anhalt, mais aussi sur la visite de Jordan Bardella au Royaume…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/bruno-le-maire/un-parti-ouvertement-neonazi-bruno-le-maire-alerte-sur-le-danger-de-l-afd-en-allemagne_8180030.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T17:12:35+00:00",
-      "titre": "Ulrich Siegmund, l’homme qui a construit la victoire de l’AfD en Saxe-Anhalt",
-      "dek": "La tête de liste du parti d’extrême droite a soigneusement construit une campagne autour de sa personnalité et de thèmes rassembleurs, sans entrer dans le détail de son programme. Mais derrière les sourires et les mises en scène, le projet identitaire demeure.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/060926/ulrich-siegmund-l-homme-qui-construit-la-victoire-de-l-afd-en-saxe-anhalt"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T17:05:22+00:00",
-      "titre": "Jean-Pierre Robin : «Comment Emmanuel Macron, le saturnien, a transmis ses passions tristes aux Français»",
-      "dek": "CHRONIQUE - Quoi qu’il dise, le chef de l’État ne cesse d’attiser les sentiments de jalousie et de défiance de ses compatriotes.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/jean-pierre-robin-comment-emmanuel-macron-le-saturnien-a-transmis-ses-passions-tristes-aux-francais-20260906"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T16:45:15+00:00",
-      "titre": "2,5 millions d’euros en 4 jours : le streameur Mastu bat le record d’un ZEvent historique",
-      "dek": "La dernière édition du marathon caritatif en ligne, qui a réuni plus de 300 streameurs, a généré plus de 16,7&nbsp;millions d’euros de dons au profit d’associations. Mastu a notamment récolté plus de 2,5&nbsp;millions d’euros en quatre jours.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/jeux-video/25-millions-deuros-en-4-jours-le-streameur-mastu-bat-le-record-dun-zevent-historique"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T16:33:22+00:00",
-      "titre": "Guerre en Ukraine, immigration, retraites… Au RN, une ligne qui ne tient plus",
-      "dek": "Les discours contradictoires se multiplient au RN. Après les désaccords sur les retraites et le voile, c’est le sujet de l’aide apportée à l’Ukraine face à la Russie qui a opposé Louis Aliot et Jordan Bardella. Et le président du parti a peu été soutenu suite à la signature d’un …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/guerre-en-ukraine/ukraine-immigration-retraites-au-rn-une-ligne-qui-ne-tient-plus"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T16:15:28+00:00",
-      "titre": "\"Une insulte à la mémoire de ce village martyr\" : Olivier Faure critiqué après avoir comparé Le Porge, ravagé par les flammes, à Oradour-sur-Glane",
-      "dek": "Le premier secrétaire du Parti socialiste a osé une comparaison vendredi sur ICI Gironde, au lendemain de sa visite au Porge (Gironde), où 183 maisons ont été détruites lors d'un incendie cet été.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/une-insulte-a-la-memoire-de-ce-village-martyr-olivier-faure-critique-apres-avoir-compare-le-porge-detruit-par-les-flammes-a-oradour-sur-glane_8179841.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T15:38:07+00:00",
-      "titre": "Meurtre d’Aramburú: les deux suspects et le RN, le récit d’une longue histoire",
-      "dek": "Les deux assassins présumés, Loïk Le Priol et Romain Bouvier, ont gravité pendant des années dans une bande d’amis mêlant proches de Marine Le Pen et de Jordan Bardella, responsables de la branche jeunesse du parti et militants du GUD. Des liens qu’ils tentent aujourd’hui de gomm…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/060926/meurtre-d-aramburu-les-deux-suspects-et-le-rn-le-recit-d-une-longue-histoire"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T15:30:16+00:00",
-      "titre": "Assassinat de Federico Martín Aramburú, ou comment la violence de l’extrême droite passe sous silence",
-      "dek": "Les deux militants fascistes Loïk Le Priol, 32 ans, et son ami Romain Bouvier, 35 ans, sont jugés à partir du lundi 7 septembre pour la mort de l’ex-rugbyman argentin. Un non-sujet pour les médias de la bollosphère ?",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/assassinat-de-federico-martin-aramburu-ou-comment-la-violence-de-lextreme-droite-passe-sous-silence-20260906_Y3Y7OHPEX5H3DN53CKSJBRHFHQ/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T15:05:27+00:00",
-      "titre": "De la souveraineté populaire au «gouvernement des juges» : comment le Conseil constitutionnel a étendu son pouvoir",
-      "dek": "RÉCIT - Partisan d’une réforme de la loi fondamentale, Bruno Retailleau (LR) souhaite «donner le dernier mot» au peuple en cas de censure du Conseil constitutionnel.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/de-la-souverainete-populaire-au-gouvernement-des-juges-comment-le-conseil-constitutionnel-a-etendu-son-pouvoir-20260906"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T14:59:34+00:00",
-      "titre": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques",
-      "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T14:55:15+00:00",
-      "titre": "Le Pays basque pleure encore «Fede» Martín Aramburú, «le meilleur ami de tout le monde» à Biarritz",
-      "dek": "La mort du rugbyman, le 19 mars 2022, avait bouleversé le monde de l’ovalie et le Pays basque, où l’Argentin était retourné vivre après sa carrière. À l’approche du procès des militants d’extrême droite accusés de l’avoir assassiné, le 7 septembre à Paris, ses proches se mobilise…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/060926/le-pays-basque-pleure-encore-fede-martin-aramburu-le-meilleur-ami-de-tout-le-monde-biarritz"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T14:44:51+00:00",
-      "titre": "Meurtre d’Aramburú: le procès d’une extrême droite qui tue",
-      "dek": "Quatre ans après la mort de l’ancien international de rugby argentin, les militants d’extrême droite accusés de l’avoir assassiné sont jugés aux assises. Les deux principaux, Loïk Le Priol et Romain Bouvier, ont déjà été condamnés pour des violences liées au GUD, groupuscule viol…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/060926/meurtre-d-aramburu-le-proces-d-une-extreme-droite-qui-tue"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "06 Sep 2026",
-      "date_iso": "2026-09-06T14:15:31+00:00",
-      "titre": "« On renforce les digues entre la République et les haineux » : à Bonneuil-sur-Marne, le maire Denis Öztorun rassemble contre le racisme",
-      "dek": "Victime de nouvelles injures racistes, islamophobes et homophobes début septembre, Denis Öztorun a rassemblé, ce dimanche 6 septembre, plusieurs centaines de citoyens et d’élus. Le maire PCF de Bonneuil-sur-Marne y a défendu les fondements de la République, dans un contexte de mo…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/racisme/on-renforce-les-digues-entre-la-republique-et-les-haineux-a-bonneuil-sur-marne-le-maire-denis-oztorun-rassemble-contre-le-racisme"
     }
   ]
 }
