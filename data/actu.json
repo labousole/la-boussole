@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-09-08T10:06:39+00:00",
+  "generated_at": "2026-09-08T15:07:18+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T15:00:25+00:00",
+      "titre": "François Bayrou jugé en appel dans l’affaire des assistants parlementaires européens du MoDem",
+      "dek": "Relaxé en 2024, l’ancien premier ministre comparaît pour près d’un mois à la cour d’appel de Paris au côté de dix autres prévenus pour détournement de fonds publics.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/08/francois-bayrou-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6768404_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T15:00:18+00:00",
+      "titre": "Le CESE lance une convention citoyenne sur les finances publiques",
+      "dek": "Claire Thoury, nouvelle présidente du Conseil économique, social et environnemental, mise sur un sujet aussi inflammable qu’omniprésent dans les débats de la campagne présidentielle pour 2027, afin de remettre en mouvement l’institution.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/08/le-cese-lance-une-convention-citoyenne-sur-les-finances-publiques_6768403_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T14:20:58+00:00",
+      "titre": "PISA 2025 | « Il n’y a aucune fatalité », selon Olivier Faure ; « une triple défaite » française pour Gabriel Attal : retrouvez notre direct",
+      "dek": "L’OCDE a dévoilé les résultats du Programme international pour le suivi des acquis des élèves de 15 ans. Les scores en compréhension de l’écrit et en mathématiques des élèves de 15 ans n’ont jamais été aussi bas en France depuis 2000, comme dans les pays comparables.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/live/2026/09/08/pisa-2025-il-n-y-a-aucune-fatalite-selon-olivier-faure-une-triple-defaite-francaise-pour-gabriel-attal-retrouvez-notre-direct_6768118_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T13:44:05+00:00",
+      "titre": "Epargne salariale : finalement, Sébastien Lecornu ne veut pas la taxer mais pouvoir la débloquer plus facilement",
+      "dek": "Le Premier ministre a annoncé ce mardi que le gouvernement va soutenir une proposition de loi «permettant de débloquer exceptionnellement jusqu’à 5 000 euros d’épargne salariale, sans impôt ni cotisation». Le texte doit être examiné au Parlement «avant la fin de l’année».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/epargne-salariale-finalement-sebastien-lecornu-ne-veut-pas-la-taxer-mais-pouvoir-la-debloquer-plus-facilement-20260908_ZVBWVIJH5VEQ7N2FICCYLZZJ7Y/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T13:42:59+00:00",
+      "titre": "Monsieur le premier ministre, le journalisme n’est pas de la communication déguisée en information",
+      "dek": "Invoquant la «vie des affaires», les «marchés financiers» et les «intérêts supérieurs de la nation», le premier ministre a saisi la procureure de la République de Paris à la suite d’informations de presse sur l’élaboration du futur budget de l’État. Insensé et inquiétant.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/080926/monsieur-le-premier-ministre-le-journalisme-n-est-pas-de-la-communication-deguisee-en-information"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T13:40:19+00:00",
+      "titre": "Personnel féminin invisibilisé à la tour Eiffel : derrière la condamnation unanime, le double standard du RN",
+      "dek": "En entendant la «bollosphère» dénoncer dans cet épisode une «soumission» croissante aux pressions religieuses en invoquant la «protection» des femmes, on se dit que, décidément, l’extrême droite a l’indignation à géométrie variable.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/personnel-feminin-invisibilise-a-la-tour-eiffel-derriere-la-condamnation-unanime-le-double-standard-du-rn-20260908_3NYXVZ3GZJEDFEW2H43RQZRLME/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T13:08:00+00:00",
+      "titre": "A défaut de ralliements, Bruno Retailleau dévoile son carré de porte-paroles",
+      "dek": "Toujours distancé par ses rivaux Edouard Philippe et Gabriel Attal, le candidat Les Républicains annonce, ce mardi 8 septembre, qu’il s’entoure de huit fidèles pour sa campagne présidentielle.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-defaut-de-ralliements-bruno-retailleau-devoile-son-carre-de-porte-paroles-20260908_XYSVYDTYNJC4TFQ3RISH26F6QM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T12:52:52+00:00",
+      "titre": "Il reste huit mois pour arrêter l’ascension de Marine Le Pen, par Bernard Guetta",
+      "dek": "Les gauches et les centres doivent former ce qui devrait être une fédération ou un grand parti démocrate dont l’affirmation mettrait en minorité l’extrême droite lors de la présidentielle, prévient le député européen.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/la-resistible-ascension-de-marine-le-pen-par-bernard-guetta-20260908_DNPSVK2H7FABZDSHBSQDT3E5SQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T12:50:20+00:00",
+      "titre": "LFI dresse le cordon sanitaire autour de l’Allemande Sahra Wagenknecht et BSW : «Ce ne sont pas des amis du tout»",
+      "dek": "Si l’ancienne de Die Linke avait pu intéresser, un temps, Jean-Luc Mélenchon en fondant notamment un mouvement inspiré de LFI en 2018, elle est désormais considérée par les insoumis comme infréquentable.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/lfi-dresse-le-cordon-sanitaire-autour-de-lallemande-sahra-wagenknecht-et-bsw-ce-ne-sont-pas-des-amis-du-tout-20260908_DTMZ3EYNJ5A5JFD2E4JMK7ZTYY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T12:42:46+00:00",
+      "titre": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant",
+      "dek": "Cette réunion intervient au moment où le prix du SP95-E10 a atteint, samedi, son tarif le plus élevé depuis le début de la guerre au Moyen-Orient.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T12:30:02+00:00",
+      "titre": "« L’évolution de François Hollande marque la fin du cycle mitterrandien, son enterrement par l’un de ceux qui ont échoué à reprendre le flambeau et se sont bercés d’illusions »",
+      "dek": "Les socialistes auront mis neuf ans à réaliser qu’ils étaient incapables de renouveler l’exploit de François Mitterrand qui avait consisté à négocier avec la gauche radicale pour mieux l’affaiblir. Ils paient aujourd’hui ce retard au prix fort, explique, dans sa chronique, Franço…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/08/l-evolution-de-francois-hollande-marque-la-fin-du-cycle-mitterrandien-son-enterrement-par-l-un-de-ceux-qui-ont-echoue-a-reprendre-le-flambeau-et-se-sont-berces-d-illusions_6768384_3232.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +132,17 @@
       "dek": "",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=504785"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T12:00:11+00:00",
+      "titre": "A Toulouse, l’Etat met aux enchères un monument historique qu’il détenait depuis soixante-dix ans",
+      "dek": "L’hôtel particulier de Georges Pauilhac, un superbe bâtiment Art nouveau, va être vendu en novembre. Prix de départ : 2,1 millions d’euros.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/08/a-toulouse-l-etat-met-aux-encheres-un-monument-historique-qu-il-detenait-depuis-soixante-dix-ans_6768379_823448.html"
     },
     {
       "tag": "Gauche",
@@ -35,12 +167,78 @@
       "lien": "https://www.politis.fr/api/proxy/?articleID=504557"
     },
     {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T11:36:49+00:00",
+      "titre": "Après la fuite d’une information sur le budget 2027, Sébastien Lecornu saisit la justice et s’attaque à la liberté de la presse",
+      "dek": "Après la publication d’un article des Échos révélant que Sébastien Lecornu et ses équipes planchaient sur une potentielle imposition de l’épargne salariale, le premier ministre a démenti l’information, dénoncé une «&nbsp;fuite&nbsp;» et annoncé saisir la justice.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/sebastien-lecornu/apres-la-fuite-dune-information-sur-le-budget-2027-sebastien-lecornu-saisit-la-justice-et-sattaque-a-la-liberte-de-la-presse"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T11:36:29+00:00",
+      "titre": "Présidentielle 2027, Tour Eiffel ... Le \"8h30 franceinfo\" d'Édouard Philippe",
+      "dek": "Édouard Philippe, maire du Havre, candidat Horizons à l'élection présidentielle",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-d-edouard-philippe_8160212.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T10:47:20+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe se démarque de Bruno Retailleau sur l’ouverture du champ du référendum à des sujets comme l’immigration",
+      "dek": "Le candidat Horizons s’est opposé à la proposition de son rival de changer le champ d’application de l’article 11 de la Constitution, qui liste les sujets pouvant être soumis à référendum. Il s’est aussi opposé à remettre en cause les décisions du Conseil constitutionnel, appelan…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/08/presidentielle-2027-edouard-philippe-se-demarque-de-bruno-retailleau-sur-l-ouverture-du-champ-du-referendum-a-des-sujets-comme-l-immigration_6768376_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T10:09:10+00:00",
+      "titre": "Le casse-tête des retraites en 2027... qui reviendra en 2032",
+      "dek": "Le dossier des retraites revient planer sur le début de la campagne présidentielle et tous les candidats avancent leurs propositions. L'édito de Renaud Dély.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/le-casse-tete-des-retraites-en-2027-qui-reviendra-en-2032_8182997.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T10:04:09+00:00",
+      "titre": "\"Il y a un risque très grand que la droite ne soit pas au second tour \"s'il y a dispersion des candidats en janvier/février\"",
+      "dek": "\"Il y a un risque très grand que la droite ne soit pas au second tour \"s'il y a dispersion des candidats en janvier/février\" explique Edouard Philippe, candidat à l'élection présidentielle, invité du \"8.30 franceinfo\"",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/il-y-a-un-risque-tres-grand-que-la-droite-ne-soit-pas-au-second-tour-s-il-y-a-dispersion-des-candidats-en-janvier-fevrier_8182970.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "08 Sep 2026",
       "date_iso": "2026-09-08T10:00:07+00:00",
       "titre": "Présidentielle 2027 : la primaire n’a pas encore dit son dernier mot à droite et dans le bloc central",
+      "dek": "Face à la perspective d’être absentes au second tour du scrutin présidentiel, plusieurs figures macronistes ou des Républicains plaident pour un mode de départage organisé. Si Edouard Philippe refuse d’en entendre parler, Gabriel Attal et Bruno Retailleau laissent l’idée prospére…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/08/presidentielle-2027-la-primaire-n-a-pas-encore-dit-son-dernier-mot-a-droite-et-dans-le-bloc-central_6768340_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T10:00:04+00:00",
+      "titre": "Présidentielle 2027 : l’hypothèse d’une primaire agite encore la droite et le bloc central",
       "dek": "Face à la perspective d’être absentes au second tour du scrutin présidentiel, plusieurs figures macronistes ou des Républicains plaident pour un mode de départage organisé. Si Edouard Philippe refuse d’en entendre parler, Gabriel Attal et Bruno Retailleau laissent l’idée prospére…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/08/presidentielle-2027-la-primaire-n-a-pas-encore-dit-son-dernier-mot-a-droite-et-dans-le-bloc-central_6768340_823448.html"
@@ -352,204 +550,6 @@
       "dek": "Matignon a fait savoir que Sébastien Lecornu ne s’était « jamais prononcé en faveur » de cette idée, évoquée dans « Les Echos ». Un signalement a été transmis à la procureure de la République de Paris, ont annoncé les services du premier ministre.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/07/budget-2027-le-gouvernement-tempere-la-piste-d-un-nouvel-impot-sur-l-epargne-salariale-et-saisit-la-justice-apres-la-fuite-de-travaux-internes_6767990_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T18:56:42+00:00",
-      "titre": "Budget de la Sécu 2027 : le gouvernement étudie de possibles prélèvements sur l'épargne salariale, Matignon évoque un simple \"document de travail\"",
-      "dek": "D'après le quotidien \"Les Echos\", l'exécutif envisage de soumettre à cotisations une partie des primes d'intéressement, de participation ou les abondements des employeurs aux plans d'épargne. Mais l'entourage du Premier ministre assure qu'à ce stade, rien n'est acté.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/le-gouvernement-etudie-la-piste-l-instauration-de-prelevements-sur-l-epargne-salariale-pour-financer-le-budget-2027-selon-le-ministre-de-l-economie_8180675.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T18:49:02+00:00",
-      "titre": "Europe : les fascistes dans les rues et dans les urnes",
-      "dek": "En Allemagne, en Espagne, au Portugal, au Royaume-Uni ou en France, l’extrême droite gagne du terrain. Une progression qui, de scrutin en mobilisation, fait dangereusement vaciller les digues démocratiques européennes.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=504565"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T18:34:01+00:00",
-      "titre": "Interdiction des réseaux sociaux au moins de 15 ans : Emmanuel Macron demande à Ursula von der Leyen un «nouveau texte européen»",
-      "dek": "Le président de la République a écrit fin août à son homologue de la Commission européenne pour réclamer une loi à l’échelle de l’UE sur le sujet, a-t-on appris ce lundi 7 septembre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/interdiction-des-reseaux-sociaux-au-moins-de-15-ans-emmanuel-macron-demande-a-ursula-von-der-leyen-un-nouveau-texte-europeen-20260907_UOW5FLDDY5BM3IAS77IDC4KEJ4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T18:27:23+00:00",
-      "titre": "Budget 2027 : Sébastien Lecornu va saisir la justice après une fuite sur «des travaux internes» autour de l’épargne salariale",
-      "dek": "Un signalement au titre de l’article 40 du code de procédure pénale a été transmis à la procureure de la République de Paris, indique Matignon dans un communiqué transmis ce lundi 7 septembre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/budget-2027-sebastien-lecornu-va-saisir-la-justice-apres-une-fuite-sur-des-travaux-internes-autour-de-lepargne-salariale-20260907_HXR7K3DEEFFVFP63DFA5KJ6QDU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T17:59:01+00:00",
-      "titre": "«C’est assumé, on ne peut pas être au four et au moulin dans une élection» : pourquoi le camp Philippe dédaigne les sociaux-démocrates",
-      "dek": "Le candidat Horizons, qui a encore musclé, ce lundi 7 septembre, le volet répressif de son projet contre le narcotrafic, s’attache, à ce stade, à aligner des propositions urticantes pour la gauche, dont il aura pourtant besoin plus tard, dans l’hypothèse d’un second tour face à M…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/cest-assume-on-ne-peut-pas-etre-au-four-et-au-moulin-dans-une-election-pourquoi-le-camp-philippe-dedaigne-les-sociaux-democrates-20260907_ZNDMPMGPYVHXDGPB7LW6T26WVM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T17:58:41+00:00",
-      "titre": "« Je suis l’auteur de la mort de Federico Martin Aramburú » : au premier jour du procès, Loïk Le Priol maintient avoir voulu « se défendre »",
-      "dek": "Des nuances dans la stratégie de défense des deux principaux accusés, les militants d’ultradroite Loïk Le Priol et Romain Bouvier, sont apparues dès le premier jour de l’audience, prévue pour durer trois semaines.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/je-suis-lauteur-de-la-mort-de-federico-martin-aramburu-au-premier-jour-du-proces-loik-le-priol-maintient-avoir-voulu-se-defendre"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T17:50:00+00:00",
-      "titre": "Guillaume Tabard : « Réforme des retraites, l’heure de vérité d’Édouard Philippe »",
-      "dek": "CONTRE-POINT - Le flou était jusqu’alors délibérément entretenu par le candidat qui conçoit sa campagne comme un marathon et non pas comme un sprint, et ne veut en conséquence détailler son projet supposé « massif » ni trop tôt, ni d’un seul coup.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-reforme-des-retraites-l-heure-de-verite-d-edouard-philippe-20260907"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T17:10:00+00:00",
-      "titre": "« Il va y avoir un effacement » : l’avenir incertain du macronisme au Sénat",
-      "dek": "DÉCRYPTAGE - Le petit groupe RDPI, fondé par le sénateur François Patriat, décédé en août, est forcé de se réinventer en cette fin de règne d’Emmanuel Macron.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/il-va-y-avoir-un-effacement-l-avenir-incertain-du-macronisme-au-senat-20260907"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T17:05:27+00:00",
-      "titre": "Victoire de l’AfD en Saxe-Anhalt : les nouveaux fascistes se congratulent",
-      "dek": "Le résultat était attendu. Il n’en est pas moins lourd et un peu plus que prévu. Avec 44 %, le parti d’extrême droite Alternative pour l’Allemagne, l’AfD, a remporté haut la main les élections au parlement du Land de Saxe-Anhalt. Il n’a pas la majorité absolue mais déjà se dessin…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/editorial/victoire-de-lafd-en-saxe-anhalt-les-nouveaux-fascistes-se-congratulent"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T17:02:35+00:00",
-      "titre": "En dépit de ses revenus, le député LFI Sébastien Delogu ne verse pas de pension alimentaire",
-      "dek": "L’élu des Bouches-du-Rhône ne subvient plus aux besoins de ses deux enfants depuis mars 2025. Son ex-compagne a porté plainte: l’ardoise s’élève à près de 20 000 euros. L’insoumis, qui gagne plus de 6 000 euros par mois, justifie ses manquements par des difficultés financières.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/070926/en-depit-de-ses-revenus-le-depute-lfi-sebastien-delogu-ne-verse-pas-de-pension-alimentaire"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T17:00:48+00:00",
-      "titre": "Rachida Dati devra patienter avant de retrouver un poste au sein de la magistrature",
-      "dek": "Selon les informations de «Mediapart», le Conseil supérieur de la magistrature n’examinera la candidature de Rachida Dati à un poste au ministère de la justice qu’au mois d’octobre, c’est-à-dire après son procès pour corruption et trafic d’influence.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/070926/rachida-dati-devra-patienter-avant-de-retrouver-un-poste-au-sein-de-la-magistrature"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T16:56:42+00:00",
-      "titre": "Sommet Lumière : Emmanuel Macron au chevet d’un cinéma menacé par les plateformes gratuites et l’IA générative",
-      "dek": "Le président de la République a inauguré à Saint-Paul-de-Vence, lundi 7 septembre, avec son homologue sud-coréen, un sommet international sur le cinéma, qui a réuni 220 personnalités venues de 65 pays. Au final, quantité d’annonces dont la concrétisation demeure floue.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/culture/article/2026/09/07/sommet-lumiere-emmanuel-macron-au-chevet-d-un-cinema-menace-par-les-plateformes-gratuites-et-l-ia-generative_6767980_3246.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T16:26:13+00:00",
-      "titre": "Présidentielle 2027 : pourquoi Edouard Philippe a-t-il posté une vidéo de lui préparant des frites ?",
-      "dek": "Le candidat et président du parti Horizons s’est montré en train de faire des frites aux côtés de l’un de ses principaux soutiens, Gérald Darmanin. Une vidéo qui transmet plusieurs messages en pleine campagne politique.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/video/2026/09/07/presidentielle-2027-pourquoi-edouard-philippe-a-t-il-poste-une-video-de-lui-preparant-des-frites_6767975_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T16:17:46+00:00",
-      "titre": "Abaya à l’école : LFI veut revenir sur l’interdiction et s’attire les critiques de Marine Le Pen, Edouard Philippe et Gabriel Attal",
-      "dek": "Mathilde Panot, présidente du groupe La France insoumise à l’Assemblée nationale, a jugé « absurde » l’interdiction de cette tenue traditionnelle musulmane mise en place à la rentrée 2023. A moins de huit mois de l’élection présidentielle, les réactions parmi les candidats ont fu…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/07/abaya-a-l-ecole-lfi-veut-revenir-sur-l-interdiction-et-s-attire-les-critiques-de-marine-le-pen-edouard-philippe-et-gabriel-attal_6767971_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T16:02:37+00:00",
-      "titre": "Le plan de rénovation thermique des écoles amputé de 40 millions d'euros",
-      "dek": "Alors qu’une nouvelle vague de chaleur tardive frappe la France, la rénovation énergétique des écoles risque de se faire attendre. Selon une information de Politico confirmée par \"Le Monde\", le gouvernement a décidé de geler 40 millions d’euros du plan d’urgence lancé cet été pou…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-plan-de-renovation-thermique-des-ecoles-ampute-de-40-millions-d-euros_8181503.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T16:01:00+00:00",
-      "titre": "Guerre en Ukraine, immigration, retraites : au RN, une ligne qui ne tient plus",
-      "dek": "La cacophonie se poursuit au sein du Rassemblement national. À l'approche de la présidentielle, Marine Le Pen reprend en main le programme et la composition de l'équipe de campagne, dans une manœuvre qui vise aussi à resserrer son emprise sur son dauphin, Jordan Bardella, dont l'…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/guerre-en-ukraine-immigration-retraites-au-rn-une-ligne-qui-ne-tient-plus"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T15:53:51+00:00",
-      "titre": "« Pourquoi donner des gages à ceux qui veulent nous tuer ? » : comment les salariés de l’audiovisuel public comptent résister à l’extrême droite",
-      "dek": "Les hiérarchies de France Télévisions et Radio France courbent l’échine devant l’extrême droite. Les salariés, eux, comptent bien résister à ce coup de force.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/medias/audiovisuel-public/pourquoi-donner-des-gages-a-ceux-qui-veulent-nous-tuer-comment-les-salaries-de-laudiovisuel-public-comptent-resister-a-lextreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T15:52:31+00:00",
-      "titre": "Après le succès de l’AfD en Allemagne, le RN garde ses distances, Reconquête célèbre",
-      "dek": "Au lendemain de la percée du parti d’extrême droite en Saxe-Anhalt, le parti de Marine Le Pen reste discret pour ne pas entacher sa stratégie de dédiabolisation.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/apres-le-succes-de-lafd-en-allemagne-le-rn-garde-ses-distances-reconquete-celebre-20260907_A5WLJ62WWJFVXNGSJKIF6KN2SI/"
     }
   ]
 }
