@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-09-08T00:09:44+00:00",
+  "generated_at": "2026-09-08T05:06:15+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T04:45:00+00:00",
+      "titre": "Occident, vivons-nous la fermeture de la parenthèse humaniste et politiquement libérale ouverte en 1945 ?",
+      "dek": "Tandis qu’en Allemagne, l’AfD a remporté, dimanche 6 septembre, une large victoire en Saxe-Anhalt, en France, la rupture avec le modèle issu de la Libération est affichée sans ambages. Et bien au-delà de l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/occident-vivons-nous-la-fermeture-de-la-parenthese-humaniste-et-politiquement-liberale-ouverte-en-1945-20260908_66ABWUCZZJD4BI37ABV3S2KIU4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T04:21:00+00:00",
+      "titre": "Allemagne : pourquoi le parti AfD est-il régulièrement qualifié de «néonazi» ?",
+      "dek": "Devenu infréquentable, même pour le RN, en raison de ses positions sur le passé hitlérien de l’Allemagne, le parti d’extrême droite entretient aussi des liens avec des groupes néonazis.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/checknews/allemagne-pourquoi-le-parti-afd-est-il-regulierement-qualifie-de-neonazi-20260908_UIGPVXMYFJASBOEC2RCTTUSBEI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T04:05:00+00:00",
+      "titre": "Primaire du PS : les sept pièges à éviter pour Raphaël Glucksmann",
+      "dek": "Le leader de Place publique part favori du scrutin des 9 et 16 octobre, censé désigner un candidat commun avec les socialistes pour la présidentielle. Sauf que cette compétition ressemble de plus en plus à un grand jeu de chausse-trappes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/primaire-du-ps-les-sept-pieges-a-eviter-pour-raphael-glucksmann-20260908_RMFRWXEVGNBOHGZ3EG6XXAVI6I/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T04:00:01+00:00",
+      "titre": "Donald Trump veut sauver Hollywood grâce à un crédit d’impôt",
+      "dek": "De plus en plus de films et séries télévisées américains sont tournés en dehors des États-Unis, dans des pays avec plus d'avantages fiscaux. Donald Trump souhaite redonner toute sa gloire aux studio hollywoodiens en mettant en place un crédit d'impôt, afin de faire revenir ces to…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/donald-trump-veut-sauver-hollywood-grace-a-un-credit-d-impot_8181080.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T03:58:43+00:00",
+      "titre": "\"Quelque chose a changé au sein de la société européenne\" : la victoire de l'AfD en Saxe-Anhalt, une leçon pour les partis d'extrême droite en Europe",
+      "dek": "La poussée du parti Alternative pour l'Allemagne pourrait donner des idées à certaines formations politiques en Europe. En France, le RN préfère se tenir à distance.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/quelque-chose-a-change-au-sein-de-la-societe-europeenne-la-victoire-de-l-afd-en-saxe-anhalt-une-lecon-pour-les-partis-d-extreme-droite-en-europe_8180639.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T03:30:00+00:00",
+      "titre": "Tolérer ce satané voile n’interdit pas de le critiquer, par Luc Le Vaillant",
+      "dek": "Le droit d’aller et venir des dévotes islamiques doit coexister avec une défiance anticléricale envers cette tenue régressive.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/opinions/tolerer-ce-satane-voile-ninterdit-pas-de-le-critiquer-par-luc-le-vaillant-20260908_UFV6UWV6GNFDHNJUT3IXYBZWFY/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -182,9 +248,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T16:56:44+00:00",
+      "date_iso": "2026-09-07T16:56:42+00:00",
       "titre": "Sommet Lumière : Emmanuel Macron au chevet d’un cinéma menacé par les plateformes gratuites et l’IA générative",
-      "dek": "Le président français a co-inauguré à Saint-Paul-de-Vence, lundi 7, avec son homologue sud-coréen, un sommet international sur le cinéma, qui a réuni 220 personnalités venues de 65 pays. Au final, quantité d’annonces dont la concrétisation demeure floue.",
+      "dek": "Le président de la République a inauguré à Saint-Paul-de-Vence, lundi 7 septembre, avec son homologue sud-coréen, un sommet international sur le cinéma, qui a réuni 220 personnalités venues de 65 pays. Au final, quantité d’annonces dont la concrétisation demeure floue.",
       "avis": null,
       "lien": "https://www.lemonde.fr/culture/article/2026/09/07/sommet-lumiere-emmanuel-macron-au-chevet-d-un-cinema-menace-par-les-plateformes-gratuites-et-l-ia-generative_6767980_3246.html"
     },
@@ -484,72 +550,6 @@
       "dek": "Avec 44% des voix, l'AfD sort très largement victorieuse des élections régionales qui se sont tenues dimanche en Saxe-Anhalt. C'est la première fois depuis 1945 qu'un parti d'extrême droite est en position favorable pour diriger une région allemande.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T11:31:35+00:00",
-      "titre": "« Programme de haine », « séisme », « bégaiement de l’histoire »… Les réactions politiques en France à la percée de l’extrême droite en Allemagne",
-      "dek": "Après la victoire du parti d’extrême droite en Saxe-Anhalt, les réactions françaises ont été nombreuses. À gauche, on dénonce les conséquences du dogme libéral. Quand, à droite, on s’en sert pour fragiliser l’utilité du barrage républicain face à l’avancée de l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/afd/programme-de-haine-seisme-begaiement-de-lhistoire-en-france-les-reactions-politiques-a-la-percee-de-l"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T11:18:57+00:00",
-      "titre": "\"La gauche, je ne sais pas qui c'est !\", s'interroge François Hollande",
-      "dek": "Pour François Hollande, la gauche c'est \"30% du corps électoral\", alors pour gagner l'élection présidentielle en 2027, il faut aller \"chercher des électeurs qui ne sont pas situés politiquement\", il y a une \"nécessité de rassemblement\". L'ancien président de la République et dépu…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T10:36:17+00:00",
-      "titre": "«Je tiens à ma liberté» : à la Braderie de Saint-Quentin, la campagne prudente de Xavier Bertrand",
-      "dek": "REPORTAGE - Le président LR des Hauts-de-France, candidat non déclaré à la présidentielle, espère être un recours, estimant que «l’heure est à la candidature du rassemblement et non du dépassement».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/je-tiens-a-ma-liberte-a-la-braderie-de-saint-quentin-la-campagne-prudente-de-xavier-bertrand-20260907"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T09:58:58+00:00",
-      "titre": "Amiante dans les écoles: dans le Vaucluse, le rectorat nie les risques",
-      "dek": "Le syndicat FO a exploité une base de données sur le bâti scolaire dans le Vaucluse pour identifier les établissements amiantés: ils sont 135 et exigent parfois des actions correctives rapides. À «Mediapart», le rectorat d’Aix-Marseille affirme au contraire qu’«aucun risque avéré…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/070926/amiante-dans-les-ecoles-dans-le-vaucluse-le-rectorat-nie-les-risques"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T09:57:20+00:00",
-      "titre": "Le maire socialiste de Saint-Ouen, Karim Bouamrane, ne soutiendra pas François Hollande sans \"mea culpa\" sur la déchéance de nationalité",
-      "dek": "Après les attentats du 13 novembre 2015 à Paris et Saint-Denis, François Hollande avait proposé de réviser la Constitution pour étendre la déchéance de nationalité aux binationaux condamnés pour terrorisme. Cette proposition, finalement abandonnée, avait provoqué un tollé à gauch…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-maire-socialiste-de-saint-ouen-karim-bouamrane-ne-soutiendra-pas-francois-hollande-sans-mea-culpa-sur-la-decheance-de-nationalite_8180795.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T09:57:02+00:00",
-      "titre": "Le camp Roussel espère mettre fin aux contestations internes en imposant sa candidature à la présidentielle",
-      "dek": "Alors que le secrétaire national du PCF a officialisé, dimanche 6 septembre, son entrée dans la course à l’élection suprême, plus d’un quart des adhérents de son parti se sont abstenus ou ont voté contre cette investiture.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-camp-roussel-espere-mettre-fin-aux-contestations-internes-en-imposant-sa-candidature-a-la-presidentielle-20260907_4DCJRJEHBNHUNL2KCUJ6MDO7QU/"
     }
   ]
 }
