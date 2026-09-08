@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-09-07T20:06:34+00:00",
+  "generated_at": "2026-09-08T00:09:44+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T19:21:19+00:00",
+      "date_iso": "2026-09-07T20:36:22+00:00",
+      "titre": "Jordan Bardella pris au piège de la traduction ? Ce que révèle l'accord avec Nigel Farage",
+      "dek": "Jordan Bardella et Nigel Farage ont signé le 4 septembre un accord sur le retour des migrants interceptés dans les eaux britanniques. Mais entre les versions française et anglaise du texte, une phrase a disparu. Une différence de traduction qui pourrait bien changer la portée de …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-pris-au-piege-de-la-traduction-ce-que-revele-l-accord-avec-nigel-farage_8181680.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T20:29:19+00:00",
       "titre": "\"Je m'inquiète beaucoup\" : les professeurs de Saxe-Anhalt sur le qui-vive face aux projets scolaires de l'extrême droite allemande",
       "dek": "Moins de place pour la période nazie, davantage pour les grandes figures nationales, comme Bismarck… Le parti d'extrême droite allemand AfD, à deux doigts d'accéder au pouvoir en Saxe-Anhalt, veut revoir les programmes scolaires de la région. L'objectif de la formation est clair …",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/europe/allemagne/je-m-inquiete-beaucoup-les-professeurs-de-saxe-anhalt-sur-le-qui-vive-face-aux-projets-scolaires-de-l-extreme-droite-allemande_8181695.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Sep 2026",
+      "date_iso": "2026-09-07T20:25:05+00:00",
+      "titre": "\"Comment peut-on faire ça en étant allemand ?\" : l'Allemagne sous le choc après le score historique du parti d'extrême droite AfD",
+      "dek": "En Allemagne, les discussions ont commencé pour permettre à l'extrême droite de l'AfD de gouverner en Saxe-Anhalt. Il manque trois élus au parti pour obtenir la majorité. L'appui pourrait venir d'un petit parti de gauche pro-russe. En attendant, la contestation s'exprime dans la …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/comment-peut-on-faire-ca-en-etant-allemand-l-allemagne-sous-le-choc-apres-le-score-historique-du-parti-d-extreme-droite-afd_8181668.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -55,17 +77,6 @@
       "dek": "En Allemagne, en Espagne, au Portugal, au Royaume-Uni ou en France, l’extrême droite gagne du terrain. Une progression qui, de scrutin en mobilisation, fait dangereusement vaciller les digues démocratiques européennes.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=504565"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T18:34:02+00:00",
-      "titre": "\"Comment peut-on faire ça en étant allemand ?\" : l'Allemagne sous le choc après le score historique du parti d'extrême droite AfD",
-      "dek": "En Allemagne, les discussions ont commencé pour permettre à l'extrême droite de l'AfD de gouverner en Saxe-Anhalt. Il manque trois élus au parti pour obtenir la majorité. L'appui pourrait venir d'un petit parti de gauche pro-russe. En attendant, la contestation s'exprime dans la …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/comment-peut-on-faire-ca-en-etant-allemand-l-allemagne-sous-le-choc-apres-le-score-historique-du-parti-d-extreme-droite-afd_8181668.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -539,17 +550,6 @@
       "dek": "Alors que le secrétaire national du PCF a officialisé, dimanche 6 septembre, son entrée dans la course à l’élection suprême, plus d’un quart des adhérents de son parti se sont abstenus ou ont voté contre cette investiture.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/le-camp-roussel-espere-mettre-fin-aux-contestations-internes-en-imposant-sa-candidature-a-la-presidentielle-20260907_4DCJRJEHBNHUNL2KCUJ6MDO7QU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Sep 2026",
-      "date_iso": "2026-09-07T09:46:55+00:00",
-      "titre": "\"La pression populaire doit s'accentuer\", estime la députée LFI Gabrielle Cathala à propos de la \"loi intégrale\" contre les violences sexuelles",
-      "dek": "Le texte est examiné en commission spéciale à l'Assemblée nationale lundi après-midi pour y être discuté et amendé avant son examen en séance publique début octobre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
