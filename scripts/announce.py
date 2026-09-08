@@ -18,9 +18,9 @@ SITE_URL = "https://labousole.github.io/la-boussole/"
 HASHTAGS = ["#Politique", "#France2027", "#Gauche", "#Présidentielle2027"]
 
 MESSAGE_BODY = (
-    "🧭 Retrouvez **La Boussole** !
-    👉 labousole.github.io/la-boussole/
-     Vous y trouverez nos **dossiers**, **comparateurs**, **tests** et différents outils pour mieux comprendre les enjeux de demain"
+    "🧭 Retrouvez **La Boussole** !"
+    "👉 labousole.github.io/la-boussole/"
+    "Vous y trouverez nos **dossiers**, **comparateurs**, **tests** et différents outils pour mieux comprendre les enjeux de demain"
 )
 
 
