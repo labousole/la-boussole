@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-08T20:06:21+00:00",
+  "generated_at": "2026-09-09T00:09:57+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T22:25:28+00:00",
+      "titre": "Etats-Unis : le secrétaire de la Smithsonian Institution, Lonnie Bunch, quitte son poste sur fond de pressions politiques",
+      "dek": "Le premier chef afro-américain de la prestigieuse institution a annoncé son « départ à la retraite » alors qu’il faisait face à de nombreuses pressions de la part de l’administration Trump, accusant la Smithsonian de véhiculer une vision du monde trop progressiste.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/09/etats-unis-le-secretaire-de-la-smithsonian-institution-lonnie-bunch-quitte-son-poste-sur-fond-de-pressions-politiques_6768620_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T21:44:28+00:00",
+      "titre": "Bruno Retailleau souhaite supprimer le droit du sol par référendum",
+      "dek": "En cas de victoire lors des élections présidentielles, le candidat républicain a annoncé son intention de réviser la Constitution pour élargir les sujets qui peuvent être soumis à référendum, notamment aux politiques migratoires.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/08/bruno-retailleau-souhaite-supprimer-le-droit-du-sol-par-referendum_6768586_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T21:25:40+00:00",
+      "titre": "Présidentielle 2027 : comment TikTok est devenu un terrain de campagne politique",
+      "dek": "À l’approche de la présidentielle 2027, TikTok s’impose comme un nouveau terrain de campagne. Les responsables politiques multiplient les vidéos et surfent sur les tendances pour toucher un public jeune. Mais comment leurs contenus parviennent-ils dans les fils d’utilisateurs qui…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/presidentielle-2027-comment-tiktok-est-devenu-un-terrain-de-campagne-politique_8183774.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -204,7 +237,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "08 Sep 2026",
-      "date_iso": "2026-09-08T15:00:25+00:00",
+      "date_iso": "2026-09-08T15:00:15+00:00",
       "titre": "François Bayrou jugé en appel dans l’affaire des assistants parlementaires européens du MoDem",
       "dek": "Relaxé en 2024, l’ancien premier ministre comparaît pour près d’un mois à la cour d’appel de Paris au côté de dix autres prévenus pour détournement de fonds publics.",
       "avis": null,
@@ -220,6 +253,17 @@
       "dek": "Claire Thoury, nouvelle présidente du Conseil économique, social et environnemental, mise sur un sujet aussi inflammable qu’omniprésent dans les débats de la campagne présidentielle pour 2027, afin de remettre en mouvement l’institution.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/08/le-cese-lance-une-convention-citoyenne-sur-les-finances-publiques_6768403_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Sep 2026",
+      "date_iso": "2026-09-08T14:46:49+00:00",
+      "titre": "Cisjordanie: 12 pays, dont la France et le Royaume-Uni, veulent sanctionner le commerce avec les colonies israéliennes",
+      "dek": "Les chefs d’État et de gouvernement de la France, du Royaume-Uni et du Canada entendent, par de nouvelles sanctions, «empêcher que la situation se détériore davantage». Les dirigeants israéliens, comme leurs homologues états-uniens, dénoncent cette décision.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/080926/cisjordanie-12-pays-dont-la-france-et-le-royaume-uni-veulent-sanctionner-le-commerce-avec-les-colon"
     },
     {
       "tag": "Politique",
@@ -506,50 +550,6 @@
       "dek": "Le secrétaire général de LR va coordonner une équipe de porte-paroles « enracinée dans les territoires », selon ses mots, qui compte des politiques de métier déjà rodés à l’exercice médiatique, parmi lesquels la sénatrice de Paris Agnès Evren et le porte-parole du parti, Jonas Ha…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/08/presidentielle-2027-bruno-retailleau-presente-son-equipe-de-campagne-avec-othman-nasrou-pour-piloter-sa-communication_6768238_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "08 Sep 2026",
-      "date_iso": "2026-09-08T09:06:44+00:00",
-      "titre": "INFO FRANCEINFO. Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire",
-      "dek": "Le président de la région Normandie appelle officiellement Edouard Philippe, Bruno Retailleau, Gabriel Attal et David Lisnard à se départager via une primaire, dans le but de réduire la \"dispersion\" des voix en avril prochain, et d'éviter un second tour entre Jean-Luc Mélenchon e…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/info-franceinfo-presidentielle-2027-les-details-de-la-charte-envoyee-par-herve-morin-aux-candidats-de-la-droite-et-du-centre-pour-l-organisation-d-une-primaire_8182712.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "08 Sep 2026",
-      "date_iso": "2026-09-08T08:53:52+00:00",
-      "titre": "EN DIRECT, PISA 2025 : « Les écarts entre élèves de différentes classes sociales restent importants en France. Les inégalités de genre le sont aussi »",
-      "dek": "L’OCDE a dévoilé les résultats du Programme international pour le suivi des acquis des élèves de 15 ans. Les scores en compréhension de l’écrit et en mathématiques des élèves de 15 ans n’ont jamais été aussi bas en France depuis 2000, comme dans les pays comparables.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/live/2026/09/08/en-direct-pisa-2025-depuis-l-edition-2022-on-constate-une-nette-baisse-des-scores-des-eleves-francais-nous-ne-sommes-pas-un-cas-isole-puisque-le-phenomene-est-mondial_6768118_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "08 Sep 2026",
-      "date_iso": "2026-09-08T07:34:24+00:00",
-      "titre": "Grève à la tour Eiffel : \"On n'efface pas les femmes dans notre société française\", réagit Sébastien Chenu, vice-président de l'Assemblée nationale et député RN",
-      "dek": "Sébastien Chenu, vice-président de l’Assemblée nationale et député (RN) du Nord, était l’invité des 4 Vérités sur France 2, mardi 8 septembre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/greve-a-la-tour-eiffel-on-n-efface-pas-les-femmes-dans-notre-societe-francaise-reagit-sebastien-chenu-vice-president-de-l-assemblee-nationale-et-depute-rn_8182730.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "08 Sep 2026",
-      "date_iso": "2026-09-08T07:25:33+00:00",
-      "titre": "Edouard Philippe dénonce une décision \"absurde\" après l'éviction de salariées de la tour Eiffel lors d'un événement hindou",
-      "dek": "L'ancien Premier ministre Edouard Philippe a dénoncé mardi sur franceinfo une décision \"absurde\" après l'éviction de membres du personnel féminin de la tour Eiffel lors d'un événement hindou privé.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-denonce-une-decision-absurde-apres-l-eviction-de-salariees-de-la-tour-eiffel-lors-d-un-evenement-hindou_8182721.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
