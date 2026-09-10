@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-10T00:08:57+00:00",
+  "generated_at": "2026-09-10T05:05:49+00:00",
   "articles": [
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T04:15:00+00:00",
+      "titre": "À Avignon, Olivier Galzi lance son mouvement politique malgré les « sabotages » de « l’extrême gauche »",
+      "dek": "RÉCIT - Le nouveau maire de la Cité des papes s’apprête à lancer son mouvement politique centré autour des territoires. L’occasion pour certains partisans de la gauche radicale d’ajouter leur grain de sel en guise de provocation.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/marseille/a-avignon-olivier-galzi-lance-son-mouvement-politique-malgre-les-sabotages-de-l-extreme-gauche-20260910"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T04:00:06+00:00",
+      "titre": "Travailler plus, mais dans de meilleures conditions : le « nouveau pacte social » proposé par le Haut-Commissariat à la stratégie et au plan",
+      "dek": "Dans un rapport prospectif destiné aux futurs gouvernants, un groupe de réflexion dirigé par Antoine Foucher appelle à travailler davantage, tout en offrant un cadre plus souple, avec un droit à la reconversion, un compte épargne-temps universel et une autonomie accrue des salari…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/10/travailler-plus-mais-dans-de-meilleures-conditions-le-nouveau-pacte-social-propose-par-le-haut-commissariat-a-la-strategie-et-au-plan_6769338_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T03:00:00+00:00",
+      "titre": "Comment François Ruffin cherche à faire dérailler la primaire du PS",
+      "dek": "L’ex-insoumis tente de s’incruster au scrutin des 9 et 16 octobre, censé désigner le champion de l’espace socialiste et social-démocrate pour 2027. Une offensive qui vise surtout à affaiblir Raphaël Glucksmann au profit d’Olivier Faure, défenseur affiché d’une large union.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/comment-francois-ruffin-cherche-a-faire-derailler-la-primaire-du-ps-20260910_MSMNOLW5INBHZN7PX33DOMMR2M/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -517,39 +550,6 @@
       "dek": "Valentine Oberti, codirectrice éditoriale du journal, et Sarah Benhaïda, journaliste chargée des gauches au service politique, ont répondu à vos questions sur la vie de la rédaction et la rentrée politique, mercredi 9 septembre, dans le cadre d’un chat.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/culture-et-idees/090926/la-gauche-en-campagne-sondages-partenariats-mediatiques-mediapart-repondu-vos-questions"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T10:00:11+00:00",
-      "titre": "« La défiance à l’égard de l’Etat n’est pas un désengagement démocratique, mais la demande d’une meilleure prise en compte des citoyens par les élus »",
-      "dek": "La crise de confiance vis-à-vis des institutions démocratiques est moins l’expression d’un individualisme croissant que celle d’une sensation, au sein de la population, que les politiques ne prennent plus le temps de l’écouter, analysent les politistes Timothée Duverger et Manon …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/09/la-defiance-a-l-egard-de-l-etat-n-est-pas-un-desengagement-democratique-mais-la-demande-d-une-meilleure-prise-en-compte-des-citoyens-par-les-elus_6768879_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T09:56:38+00:00",
-      "titre": "\"La contribution exceptionnelle des très grandes entreprises diminuera\" dans le budget 2027, promet Sébastien Lecornu aux entrepreneurs",
-      "dek": "Le Premier ministre a également assuré dans une lettre adressée aux chefs d'entreprise qu'un \"pacte Papin\" sera créé afin de \"faciliter la reprise de nos entreprise\" notamment via la transmission aux salariés.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/la-contribution-exceptionnelle-des-tres-grandes-entreprises-diminuera-dans-le-budget-2027-promet-sebastien-lecornu-aux-entrepreneurs_8184530.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T09:40:35+00:00",
-      "titre": "Polémiques, couacs et tensions: le RN fait sa rentrée en terrain miné",
-      "dek": "Depuis fin août, les hauts gradés du parti d’extrême droite se perdent en éléments de langage pour tenter de masquer les errements programmatiques du RN comme les dissensions entre les clans Le Pen et Bardella. Mais la réalité en interne saute aux yeux de tous.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/090926/polemiques-couacs-et-tensions-le-rn-fait-sa-rentree-en-terrain-mine"
     }
   ]
 }
