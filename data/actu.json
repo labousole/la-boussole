@@ -1,14 +1,36 @@
 {
-  "generated_at": "2026-09-09T20:06:17+00:00",
+  "generated_at": "2026-09-10T00:08:57+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Sep 2026",
+      "date_iso": "2026-09-09T20:51:29+00:00",
+      "titre": "\"Je suis profondément confiant\" : François Bayrou de nouveau face à la justice dans le cadre de l'affaire des assistants parlementaires du MoDem",
+      "dek": "Il avait été relaxé en première instance, mais l’affaire n’est pas terminée pour François Bayrou. L’ancien Premier ministre est rejugé depuis mercredi 9 septembre dans le dossier des assistants parlementaires du MoDem, des salariés payés par le Parlement européen pour travailler …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/je-suis-profondement-confiant-francois-bayrou-de-nouveau-face-a-la-justice-dans-le-cadre-de-l-affaire-des-assistants-parlementaires-du-modem_8185349.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Sep 2026",
+      "date_iso": "2026-09-09T20:12:38+00:00",
+      "titre": "Budget 2027 : Sébastien Lecornu veut baisser le salaire de ses ministres",
+      "dek": "En pleine préparation du budget, Sébastien Lecornu envisage de réduire la rémunération des ministres et de leurs conseillers. Alors, geste d’exemplarité ou mesure démagogique ? Le débat est lancé.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-veut-baisser-le-salaire-de-ses-ministres_8185337.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T20:01:34+00:00",
+      "date_iso": "2026-09-09T20:01:29+00:00",
       "titre": "Emmanuel Macron et Friedrich Merz, deux stratégies perdantes face à l’extrême droite",
-      "dek": "Le score historique obtenu par l’AfD, dimanche, dans une région de l’est de l’Allemagne, tout comme la position de favorite de Marine Le Pen pour l’élection présidentielle de 2027 en France, soulève des interrogations quant à la stratégie de certains partis européens pour combatt…",
+      "dek": "Le score historique obtenu par l’AfD, dimanche, dans une région de l’est de l’Allemagne, tout comme la position de favorite de Marine Le Pen pour l’élection présidentielle de 2027 en France, soulève des interrogations quant à la stratégie de certains partis européens pour combatt…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/09/emmanuel-macron-et-friedrich-merz-deux-strategies-perdantes-face-a-l-extreme-droite_6768963_823448.html"
     },
@@ -83,7 +105,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T16:35:56+00:00",
+      "date_iso": "2026-09-09T16:35:51+00:00",
       "titre": "Fin de l’accès automatique des bacheliers à l’université et hausse des frais d’inscription : les propositions controversées d’un rapport sénatorial",
       "dek": "Ce document de 200 pages conclut les travaux de la commission d’enquête sur « la capacité des universités françaises à garantir l’excellence académique du service public de l’enseignement supérieur », menés par la sénatrice LR Laurence Garnier, dont les conclusions sont dénoncées…",
       "avis": null,
@@ -528,28 +550,6 @@
       "dek": "Depuis fin août, les hauts gradés du parti d’extrême droite se perdent en éléments de langage pour tenter de masquer les errements programmatiques du RN comme les dissensions entre les clans Le Pen et Bardella. Mais la réalité en interne saute aux yeux de tous.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/politique/090926/polemiques-couacs-et-tensions-le-rn-fait-sa-rentree-en-terrain-mine"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T09:24:05+00:00",
-      "titre": "Union de la droite et du centre : Gabriel Attal et Bruno Retailleau renvoient Edouard Philippe dans les cordes",
-      "dek": "L’ancien Premier ministre et l’ex-ministre de l’Intérieur ont balayé la proposition formulée mardi soir du candidat Horizons de se réunir à l’automne.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/union-de-la-droite-et-du-centre-gabriel-attal-et-bruno-retailleau-renvoient-edouard-philippe-dans-les-cordes-20260909_AQGHRWA5WJCPHG3ZBXD3Z3BUGQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T09:14:38+00:00",
-      "titre": "\"Je serai toujours partie de la solution\" : candidate, Marine Tondelier plaide encore pour une candidature unique à gauche",
-      "dek": "Mercredi 9 septembre, Marine Tondelier était l'invitée des 4 Vérités sur France 2. La candidate écologiste a la prochaine présidentielle est notamment revenue sur la flambée des prix des carburants, les aides aux agriculteurs touchés par la sécheresse et le moratoire sur la chass…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/eelv/je-serai-toujours-partie-de-la-solution-candidate-marine-tondelier-plaide-encore-pour-une-candidature-unique-a-gauche_8184458.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
