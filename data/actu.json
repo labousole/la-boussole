@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-09-10T10:06:23+00:00",
+  "generated_at": "2026-09-10T15:06:06+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T15:22:58+00:00",
+      "titre": "Penser la prison à l’aune de l’écologie",
+      "dek": "Les convergences entre mouvements écologistes et opposants à la prison restent encore à construire. Et s’avèrent d’autant plus importantes à l’heure où la prison se prête largement au greenwashing.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=505458"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T15:00:21+00:00",
+      "titre": "Transparence salariale : ce que contient le projet du gouvernement pour remplacer l’index de l’égalité professionnelle",
+      "dek": "Transposition d’une directive européenne qui aurait dû être appliquée depuis juin, le texte présenté en conseil des ministres jeudi 10 septembre suscite l’opposition du patronat, dans un pays où les femmes gagnent en moyenne 22 % de moins que les hommes dans le secteur privé.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/10/transparence-salariale-ce-que-contient-le-projet-du-gouvernement-pour-remplacer-l-index-de-l-egalite-professionnelle_6769838_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T15:00:04+00:00",
+      "titre": "L’économie française en plein marasme",
+      "dek": "La dernière note de conjoncture de l’Insee publiée jeudi 10 septembre prévoit une croissance de 0,4% du PIB français sur 2026. Un affaiblissement généralisé qui touche en premier lieu les ménages les plus pauvres et qui souligne l’échec désastreux du macronisme en matière économi…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/100926/l-economie-francaise-en-plein-marasme"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T13:48:04+00:00",
+      "titre": "Le ministre de l'Intérieur, Laurent Nuñez, menace CNews de \"sanctions pénales\" si la chroniqueuse pro-Kremlin Xenia Fedorova revient à l'antenne",
+      "dek": "Sous le coup d'un arrêté d'expulsion du territoire français, Xenia Fedorova pourrait reprendre du service depuis l'étranger. Dans une lettre adressée à l'Arcom, le ministre accuse le média du groupe Bolloré de \"faciliter\" l'ingérence russe.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/medias/le-ministre-de-l-interieur-laurent-nunez-menace-cnews-de-sanctions-penales-si-la-chroniqueuse-pro-kremlin-xenia-fedorova-revient-a-l-antenne_8186447.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T13:47:05+00:00",
+      "titre": "À Saumur, le maire offre 10 000 euros aux jeunes primo-accédants pour acheter une maison dans le centre",
+      "dek": "La somme de 10 000 euros offerte pour l'achat de votre résidence principale, c'est l'initiative lancée par la mairie de Saumur, dans le Maine-et-Loire. Face à un marché de l'immobilier en peine, les élus ont eu cette idée séduisante, afin d'inciter ceux qui hésitent encore à se l…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/immobilier/a-saumur-le-maire-offre-10-000-euros-aux-jeunes-primo-accedants-pour-acheter-une-maison-dans-le-centre_8186480.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T13:40:56+00:00",
+      "titre": "Fabien Roussel : «Je veux me distinguer à gauche en portant le travail comme idée centrale»",
+      "dek": "Le secrétaire national du PCF, qui entamera sa campagne par un meeting samedi 12 septembre, à la Fête de l’Humanité, livre les grands axes de son programme, dont la parité sociale, qui permettrait aux ouvriers et aux employés de peser dans les décisions du Parlement et des entrep…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/fabien-roussel-je-veux-me-distinguer-a-gauche-en-portant-le-travail-comme-idee-centrale-20260910_VUNFTUNLOBDWHHWOXRYELWAJBQ/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T13:02:12+00:00",
+      "titre": "« Association de malfaiteurs », « abus d’autorité aggravé »,… Christian Tein et cinq autres militants kanaks portent plainte contre Attal, Darmanin, Lecornu et Dupond-Moretti",
+      "dek": "Arrêtés, déportés, incarcérés durant des mois, pour le seul motif qu’ils sont militants indépendantistes kanaks, six d’entre eux ont décidé de porter plainte contre quatre ministres. Ces derniers ont ordonné et organisé leur arrestation lors des révoltes de mai 2024 en Kanaky-Nou…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/monde/christian-tein/association-de-malfaiteurs-abus-dautorite-aggrave-christian-tein-et-cinq-autres-militants-kanaks-portent-plainte-contre-attal-darma"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T12:32:16+00:00",
+      "titre": "Xenia Fedorova : Laurent Nuñez menace CNews de sanctions pénales en cas de retour de la propagandiste russe à l’antenne",
+      "dek": "Dans une lettre adressée au président de l’Autorité de régulation de la communication audiovisuelle et numérique, Martin Ajdari, le ministre de l’intérieur accuse la chaîne du groupe Bolloré de « contourner » les mesures prises par la Place Beauvau et de « faciliter » l’ingérence…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/10/laurent-nunez-menace-cnews-de-sanctions-penales-en-cas-de-retour-de-xenia-fedorova-a-l-antenne_6769756_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T12:09:07+00:00",
+      "titre": "LFI refusera toute invitation sur BFM-TV cette semaine pour protester contre le traitement de ses membres, la chaîne « déplore » une attaque du « pluralisme »",
+      "dek": "Le parti considère que ses membres sont invités sur la chaîne pour faire « du commentaire superficiel », et l’accuse de « s’enfoncer depuis la rentrée dans une dérive dangereuse ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/10/lfi-refusera-toute-invitation-sur-bfm-tv-cette-semaine-la-chaine-dit-sa-surprise-et-denonce-une-attaque-du-pluralisme_6769751_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T11:54:14+00:00",
+      "titre": "\"Nous sommes dans un climat de règlement de compte, dans le cadre d'une primaire mortifère\", juge Bernard Cazeneuve",
+      "dek": "\"Nous sommes dans un climat de règlement de compte, dans le cadre d'une primaire mortifère\", juge l'ancien Premier ministre Bernard Cazeneuve, à propos de la primaire socialiste en vue de la présidentielle de 2027. Il était l'invité du 8.30 franceinfo et répondrait aux questions …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/nous-sommes-dans-un-climat-de-reglement-de-compte-dans-le-cadre-d-une-primaire-mortifere-juge-bernard-cazeneuve_8186357.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T11:47:05+00:00",
+      "titre": "Laurent Nuñez « déplore » l’annulation du concert de Barbara Butch à Amiens, malgré les « garanties de sécurité » apportées",
+      "dek": "Le concert de la DJ a été annulé à la suite d’un appel au boycott lancé par l’association France Palestine Solidarité. « La défense de la liberté d’expression ne doit souffrir d’aucun renoncement », a affirmé le ministre de l’intérieur.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/10/laurent-nunez-deplore-l-annulation-du-concert-de-barbara-butch-a-amiens-malgre-les-garanties-de-securite-apportees_6769743_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T11:27:32+00:00",
+      "titre": "Le gouvernement veut encourager la reprise des entreprises par leurs salariés grâce à des mesures fiscales plus favorables",
+      "dek": "Face aux départs à la retraite de nombreux patrons, le gouvernement veut faciliter la transmission des entreprises à leurs salariés en allégeant la fiscalité. Une réforme accueillie favorablement par ceux qui préparent déjà leur reprise.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/entreprises/le-gouvernement-veut-encourager-la-reprise-des-entreprises-par-leurs-salaries-grace-a-des-mesures-fiscales-plus-favorables_8186186.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T11:19:48+00:00",
+      "titre": "Le ministre de l'Intérieur \"déplore\" l'annulation d'un concert de Barbara Butch à Amiens, malgré \"les garanties de sécurité\" apportées",
+      "dek": "\"La défense de la liberté d'expression ne doit souffrir d’aucun renoncement\", a réagi Laurent Nuñez.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/culture/le-ministre-de-l-interieur-deplore-l-annulation-d-un-concert-de-barbara-butch-a-amiens-malgre-les-garanties-de-securite-apportees_8186219.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T10:55:15+00:00",
+      "titre": "« Notre Europe spatiale reste fragile et nous devons accélérer » : Emmanuel Macron appelle à une « gouvernance partagée » de l’espace",
+      "dek": "Le président français a insisté sur la nécessité d’« assumer pleinement la préférence européenne », alors que la course à l’espace fait rage, avec les Etats-Unis et la Chine en première ligne. « Ce n’est ni un gros mot ni du protectionnisme, c’est un refus de naïveté », a-t-il di…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/10/espace-emmanuel-macron-plaide-pour-une-gouvernance-partagee-et-une-europe-puissante_6769738_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T10:33:13+00:00",
+      "titre": "A Paris, l’équipe de Gabriel Attal lance son opération «1 000 bistrots» dans une brasserie chic à 12 euros la pinte",
+      "dek": "Parmi les premiers rendez-vous, Renaissance a voulu échanger avec les Français, lundi 7 septembre, dans un café-restaurant cossu du VIe arrondissement de la capitale, loin d’un PMU populaire.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/checknews/a-paris-lequipe-de-gabriel-attal-lance-son-operation-1-000-bistrots-dans-une-brasserie-chic-a-12-euros-la-pinte-20260910_CRXY6JTHERAWXHYPAJVVGS57MM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Sep 2026",
+      "date_iso": "2026-09-10T10:32:24+00:00",
+      "titre": "Prix des carburants : \"Je souhaiterais qu'on continue l'aide ciblée aux gros rouleurs\", affirme Yaël Braun-Pivet",
+      "dek": "Yaël Braun-Pivet, présidente de l'Assemblée nationale, était l'invitée des \"4 Vérités\", jeudi 10 septembre. Elle a défendu l'aide ciblée pour les gros rouleurs qui doit prendre fin le 30 septembre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/prix-des-carburants-je-souhaiterais-qu-on-continue-l-aide-ciblee-aux-gros-rouleurs-affirme-yael-braun-pivet_8186006.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -99,17 +275,6 @@
       "dek": "À Dallas, Donald Trump a placé sa présidence au cœur de la première journée de la Convention républicaine consacrée aux élections de mi-mandat. Pour mobiliser son camp, il va jusqu'à promettre 5 000 dollars à chaque adulte américain en cas de victoire républicaine.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-c-est-comme-si-trump-etait-sur-le-bulletin-le-president-americain-fait-de-son-nom-l-enjeu-des-midterms_8185946.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T09:07:10+00:00",
-      "titre": "Prix des carburants : \"Je souhaiterais qu'on continue l'aide ciblée aux gros rouleurs\", affirme Yaël Braun-Pivet",
-      "dek": "Yaël Braun-Pivet, présidente de l'Assemblée nationale, était l'invitée des \"4 Vérités\", jeudi 10 septembre. Elle a défendu l'aide ciblée pour les gros rouleurs qui doit prendre fin le 30 septembre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/prix-des-carburants-je-souhaiterais-qu-on-continue-l-aide-ciblee-aux-gros-rouleurs-affirme-yael-braun-pivet_8186006.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -385,171 +550,6 @@
       "dek": "En pleine préparation du budget, Sébastien Lecornu envisage de réduire la rémunération des ministres et de leurs conseillers. Alors, geste d’exemplarité ou mesure démagogique ? Le débat est lancé.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-veut-baisser-le-salaire-de-ses-ministres_8185337.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T20:01:29+00:00",
-      "titre": "Emmanuel Macron et Friedrich Merz, deux stratégies perdantes face à l’extrême droite",
-      "dek": "Le score historique obtenu par l’AfD, dimanche, dans une région de l’est de l’Allemagne, tout comme la position de favorite de Marine Le Pen pour l’élection présidentielle de 2027 en France, soulève des interrogations quant à la stratégie de certains partis européens pour combatt…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/09/emmanuel-macron-et-friedrich-merz-deux-strategies-perdantes-face-a-l-extreme-droite_6768963_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T19:06:34+00:00",
-      "titre": "Propos racistes : un policier municipal exclu du RN",
-      "dek": "Un policier municipal s'est lui même filmé en proférant des insultes racistes, en pleine patrouille, à Carcassonne. Sa caméra, qu'il pensait éteinte, a tout enregistré. Une enquête judiciaire est ouverte. Le policier municipal a été exclu du RN dont il était membre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/racisme/propos-racistes-un-policier-municipal-exclu-du-rn_8185313.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T18:43:04+00:00",
-      "titre": "2027 : Edouard Philippe tend la main à LR et au bloc central et se prend une crampe",
-      "dek": "La proposition du candidat Horizons faite à ses principaux rivaux, Retailleau et Attal, de se rassembler pour la présidentielle et de préparer ensemble les législatives, a été rembarrée par les intéressés.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/2027-edouard-philippe-tend-la-main-a-lr-et-au-bloc-central-et-se-prend-une-crampe-20260909_6X7ZSHFZPZGGVFLW5THICTHKAE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T18:23:51+00:00",
-      "titre": "Plafonnement des prix du carburant : \"Ce n'est pas à l'État de le faire\", estime le député MoDem Erwan Balanant",
-      "dek": "En cette rentrée, les prix des carburants flambent à nouveau à la pompe. Bercy a fait savoir ce mercredi qu'il n'y aurait pas de plafonnement général, afin d'éviter le risque de pénurie. Pour le député MoDem du Finistère Erwan Balanant, \"il ne peut y avoir de 'quoiqu’il en coûte'…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/plafonnement-des-prix-du-carburant-ce-n-est-pas-a-l-etat-de-le-faire-estime-le-depute-modem-erwan-balanant_8185259.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T17:49:12+00:00",
-      "titre": "Écoles, logements: la rénovation énergétique, éternelle variable d’ajustement budgétaire",
-      "dek": "Des logements bouilloires devenus invivables, des écoles contraintes de fermer… Malgré les températures exceptionnelles de ces derniers mois, le gouvernement a choisi de saborder la rénovation thermique des bâtiments.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/090926/ecoles-logements-la-renovation-energetique-eternelle-variable-d-ajustement-budgetaire"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T17:21:08+00:00",
-      "titre": "«Votre enfant de Pétain, le préfet, je me torche avec son arrêté»: le récit lunaire du procès d’un ancien gilet jaune et ex-militant LFI",
-      "dek": "COMPTE RENDU D’AUDIENCE - Ce lundi 8 septembre, Ritchy Thibault, ex-collaborateur parlementaire de la députée LFI Ersilia Soudais, comparaissait pour menaces de mort contre Emmanuel Macron. Après avoir subi six heures de provocations et d’insultes, le tribunal a exclu le prévenu …",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/faits-divers/votre-enfant-de-petain-le-prefet-je-me-torche-avec-son-arrete-le-recit-lunaire-du-proces-d-un-ancien-gilet-jaune-et-ex-militant-lfi-20260909"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T17:00:12+00:00",
-      "titre": "« Nous, les Français » : un petit précis de la société à destination des candidats à la présidentielle (mais pas seulement)",
-      "dek": "A l’approche de l’élection de 2027, un ouvrage écrit par un collectif de chercheurs et de journalistes dresse une radiographie singulière de la société française en mesurant différents phénomènes. Plutôt que de raconter une France fracturée, les auteurs dépeignent d’abord un pays…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/09/nous-les-francais-un-petit-precis-de-la-societe-a-destination-des-candidats-a-la-presidentielle-mais-pas-seulement_6768943_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T16:35:51+00:00",
-      "titre": "Fin de l’accès automatique des bacheliers à l’université et hausse des frais d’inscription : les propositions controversées d’un rapport sénatorial",
-      "dek": "Ce document de 200 pages conclut les travaux de la commission d’enquête sur « la capacité des universités françaises à garantir l’excellence académique du service public de l’enseignement supérieur », menés par la sénatrice LR Laurence Garnier, dont les conclusions sont dénoncées…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/campus/article/2026/09/09/fin-de-l-acces-automatique-des-bacheliers-a-l-universite-et-hausse-des-frais-d-inscription-les-propositions-controversees-d-un-rapport-senatorial_6768942_4401467.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T16:23:53+00:00",
-      "titre": "Insultes racistes, exclusion du RN, enquête ouverte... Ce que l'on sait de l'enregistrement de propos discriminatoires d'un policier municipal de Carcassonne",
-      "dek": "Le quotidien \"Midi libre\" a révélé mardi un enregistrement réalisé par la caméra-piéton d'un policier, à son insu, lors d'une patrouille fin 2025. Des \"propos racistes, misogynes, complotistes voire putschistes\" y sont tenus. L'homme a aussi participé au service d'ordre lors d'év…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/racisme/insultes-racistes-exclusion-du-rn-enquete-ouverte-ce-que-l-on-sait-de-l-enregistrement-de-propos-discriminatoires-d-un-policier-municipal-de-carcassonne_8184488.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T16:16:49+00:00",
-      "titre": "A Carcassonne, le ministre de l’Intérieur lance un contrôle de la police municipale après les propos racistes d’un agent lié au RN",
-      "dek": "Dans une vidéo, datant de novembre, publiée mardi 8 septembre par «Midi Libre», un agent public proche du nouveau maire d’extrême droite, Christophe Barthès, y profère des injures à foison. Ce dernier a annoncé sa suspension et le RN sa radiation. Une enquête judiciaire a été ouv…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/bougnoules-bicot-negro-a-carcassonne-la-justice-enquete-sur-les-propos-racistes-dun-policier-municipal-lie-au-rn-20260909_UIIJTUJYMJHBFA3ZZCSTN76VEM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T16:08:25+00:00",
-      "titre": "Que pensent les employés de la transparence salariale, sur le point d'être adoptée et généralisée dans plus d'entreprises en France ?",
-      "dek": "Sera-t-il désormais possible de connaître le salaire de vos collègues ? Le projet de loi arrive en Conseil des ministres, une première étape avant son adoption. L'objectif : réduire les écarts de rémunération à poste équivalent, notamment entre les femmes et les hommes. Mais son …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/que-pensent-les-salaries-de-la-transparence-salariale-sur-le-point-d-etre-adoptee-et-generalisee-dans-plus-d-entreprises-en-france_8184797.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T16:07:23+00:00",
-      "titre": "Emeutes en Nouvelle-Calédonie : Gabriel Attal et plusieurs ministres de son gouvernement visés par une plainte devant la Cour de justice de la République",
-      "dek": "Les avocats de six responsables kanak envoyés en détention provisoire dans l’Hexagone en juin 2024 dénoncent « une raison d’Etat condamnable ». Ils demandent des poursuites contre l’ancien premier ministre Gabriel Attal et plusieurs membres de son gouvernement.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/09/emeutes-en-nouvelle-caledonie-gabriel-attal-et-plusieurs-ministres-de-son-gouvernement-vises-par-une-plainte-devant-la-cour-de-justice-de-la-republique_6768938_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T15:58:04+00:00",
-      "titre": "La Cisjordanie occupée, dans l’abîme",
-      "dek": "Violences physiques, incendies, destructions de champs d’oliviers, vols de bétails… Chaque jour, la liste des agressions commises par des colons israéliens s’allonge dans le territoire. Et aucune décision politique forte ne met fin à cette spirale de violences contre les Palestin…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=504914"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T15:41:21+00:00",
-      "titre": "L'ex-PDG de Renault, Carlos Ghosn, demande le report de son procès pour corruption avec Rachida Dati",
-      "dek": "En fuite au Liban depuis fin 2019, Carlos Ghosn a adressé un courrier à la justice française dans lequel il sollicite le renvoi de l'audience, qui doit s'ouvrir le 16 septembre, à une date ultérieure, tout en assurant vouloir \"s'expliquer\" sur les faits, qu'il nie.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/carlos-ghosn/l-ex-pdg-de-renault-carlos-ghosn-demande-le-report-de-son-proces-pour-corruption-avec-rachida-dati_8184866.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Sep 2026",
-      "date_iso": "2026-09-09T15:22:55+00:00",
-      "titre": "\"A quel moment boire de la bière, c'est faire la promotion de l'alcoolisme ?\" : Gabriel Attal défend son opération de campagne \"1 000 bistrots\"",
-      "dek": "Lors d'un déplacement à Saint-Malo, mercredi, le candidat Renaissance à la présidentielle 2027 a balayé la polémique au sujet de l'opération qu'il lance pour le mois de septembre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/a-quel-moment-boire-de-la-biere-c-est-faire-la-promotion-de-l-alcoolisme-gabriel-attal-candidat-a-l-election-presidentielle-2027-defend-son-operation-1-000-bistrots_8184908.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
