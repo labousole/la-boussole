@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-09-11T10:06:15+00:00",
+  "generated_at": "2026-09-11T15:06:09+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T14:41:20+00:00",
+      "titre": "« Ou Total crée les conditions d’une diminution des prix du carburant, ou on nationalise » : le « j’accuse » de Fabien Roussel contre Total",
+      "dek": "Lors du traditionnel déjeuner de presse à la Fête de l’Humanité, le candidat communiste à l’élection présidentielle Fabien Roussel a demandé la nationalisation de Total si le groupe pétrolier ne diminue pas ses marges. Sa candidature vise à s’adresser aux abstentionnistes et aux …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fabien-roussel/ou-total-cree-les-conditions-dune-diminution-des-prix-du-carburant-ou-on-nationalise-le-jaccuse-de-fabien-roussel-contre-total"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T14:34:09+00:00",
+      "titre": "Au Royaume-Uni, les députés rejettent la légalisation de l’aide à mourir en Angleterre et au Pays de Galles",
+      "dek": "La Chambre des communes a rejeté vendredi, par 286 voix contre 270, un projet de loi visant à légaliser l’aide à mourir pour les adultes en phase terminale en Angleterre et au Pays de Galles. La proposition avait été redéposée en juin après l’échec d’une précédente tentative.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/11/au-royaume-uni-les-deputes-rejettent-la-legalisation-de-l-aide-a-mourir-en-angleterre-et-au-pays-de-galles_6770600_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T14:22:09+00:00",
+      "titre": "Accusé de vouloir prendre des \"vacances\" une fois élu président, Edouard Philippe dénonce une polémique montée \"à partir de phrases tronquées\"",
+      "dek": "Dans un podcast, le candidat Horizons estime que le calendrier actuel de l'après-présidentielle peut être amélioré. Ses adversaires lui reprochent de vouloir s'accorder des congés avant d'entrer à l'Elysée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/accuse-de-vouloir-prendre-des-vacances-une-fois-elu-president-edouard-philippe-denonce-une-polemique-montee-a-partir-de-phrases-tronquees_8188250.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T14:08:33+00:00",
+      "titre": "Anthropic révèle que plusieurs organisations d’extrême droite françaises, dont un parti politique, ont été piratées à l’aide de son IA, Claude",
+      "dek": "Des informations concernant les adhérents d’un parti, non identifié, figurent parmi les données dérobées par un hackeur français, dévoile le rapport de sécurité publié jeudi par l’entreprise américaine d’intelligence artificielle. Un « institut de formation politique » et plusieu…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/anthropic-revele-que-plusieurs-organisations-d-extreme-droite-francaises-dont-un-parti-politique-ont-ete-piratees-a-l-aide-de-son-ia-claude_6770595_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T14:00:08+00:00",
+      "titre": "« L’annulation d’une partie de la dette donnerait de nouvelles marges pour investir » : la réponse de Nicolas Dufrêne à Olivier Blanchard et Quentin Vandeweyer",
+      "dek": "L’économiste répond, dans une tribune au « Monde », aux critiques de ses confrères sur sa proposition, émise dès 2020 dans son livre « Une monnaie écologique », d’annuler la part de la dette publique détenue par la BCE ; principe repris par Jean-Luc Mélenchon en vue de l’élection…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/11/l-annulation-d-une-partie-de-la-dette-donnerait-de-nouvelles-marges-pour-investir-la-reponse-de-nicolas-dufrene-a-olivier-blanchard-et-quentin-vandeweyer_6770593_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T13:47:41+00:00",
+      "titre": "Pouvoir d’achat et prix du carburant : « une colère immense » en France, selon Sophie Binet ; « le grand enjeu de cette campagne » pour Jordan Bardella",
+      "dek": "La secrétaire générale de la CGT, Sophie Binet, a exhorté à augmenter les salaires et bloquer les prix du carburant, tandis que Fabien Roussel appelle à « se mobiliser sur les ronds-points » si le gouvernement n’agit pas « dans les jours qui viennent ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/presidentielle-2027-la-colere-monte-face-a-l-impuissance-du-gouvernement-sur-le-pouvoir-d-achat-et-le-prix-du-carburant_6770591_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T13:44:19+00:00",
+      "titre": "\"C'est déjà beaucoup\" : la croissance en berne, êtes-vous prêts à contribuer davantage ?",
+      "dek": "La croissance sera très faible cette année, de seulement 0,5%, et les prix vont continuer de grimper, selon les prévisions du gouvernement. Ce qui est de mauvais augure pour le budget, dans lequel les Français seront mis à contribution : retraite, pouvoir d'achat, TVA… Êtes-vous …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/c-est-deja-beaucoup-la-croissance-en-berne-etes-vous-prets-a-contribuer-davantage_8188364.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T13:21:48+00:00",
+      "titre": "Après sa charge contre l’état de droit, Retailleau, chantre d’une «radicalité raisonnable», cherche sa voie",
+      "dek": "Incarner la rupture avec le macronisme en visant l’état de droit, tout en dénonçant le populisme du Rassemblement national : la partition du candidat de LR à la présidentielle, qui fait sa rentrée politique samedi, est délicate.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/apres-sa-charge-contre-letat-de-droit-retailleau-chantre-dune-radicalite-raisonnable-cherche-sa-voie-20260911_6TXFFLHDAJFBJBI7RHWQDGGZSQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T13:21:08+00:00",
+      "titre": "EN DIRECT, Fête de « L’Humanité » : Fabien Roussel estime qu’il n’y a pas de progrès social sans paix",
+      "dek": "Fabien Roussel, le secrétaire national du Parti communiste, et Patrick Martin, président du Medef, ont débattu lors du traditionnel rendez-vous de rentrée du PCF, au Plessis-Pâté (Essonne).",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/11/en-direct-fete-de-l-humanite-suivez-les-prises-de-parole-de-fabien-roussel-et-de-jean-luc-melenchon-a-sept-mois-de-l-election-presidentielle_6770586_823448.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +110,61 @@
       "dek": "Les critères actuels d’obtention de la carte de presse empêchent une partie des travailleurs handicapés d’y accéder. Fondateur de l’hebdomadaire réalisé par des personnes autistes Right Brain et titulaire de l’AAH, Oscar Tessonneau propose à la Commission de la carte un autre mod…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=505365"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T11:47:11+00:00",
+      "titre": "Sénatoriales : le RN pronostique huit nouveaux élus «minimum» et un groupe au palais du Luxembourg",
+      "dek": "De trois sénateurs, le parti d’extrême droite pourrait dépasser la barre des dix élus, nécessaires à la formation d’un groupe parlementaire.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/senatoriales-le-rn-pronostique-huit-nouveaux-elus-minimum-et-un-groupe-au-palais-du-luxembourg-20260911_OV5RSMEYTBHFFPCVNTJN7W364Q/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T11:22:02+00:00",
+      "titre": "« Marine Le Pen, c’est l’arnaque sociale du siècle » : le journaliste Pierre Joigneaux documente les aspirations des électeurs du RN",
+      "dek": "En partant à la rencontre des électeurs RN et en décortiquant les votes des parlementaires d’extrême droite, le journaliste Pierre Joigneaux met en exergue, dans son livre&nbsp;L’Arnaque sociale. Comment le RN trompe les gens et sert les puissants (Fakir Éditions), le gouffre imm…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/electeurs/marine-le-pen-cest-larnaque-sociale-du-siecle-le-journaliste-pierre-joigneaux-documente-les-aspirations-des-electeurs-du-rn"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T11:00:15+00:00",
+      "titre": "Comment le 11-Septembre a changé l’extrême droite",
+      "dek": "Les attentats terroristes du 11 septembre 2001 aux Etats-Unis ont formé un point de bascule pour les droites radicales. Depuis lors, ces courants politiques ont adopté un discours violemment anti-islam en défense d’un prétendu « Occident judéo-chrétien ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/11/comment-le-11-septembre-a-change-l-extreme-droite_6770569_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T10:46:21+00:00",
+      "titre": "\"Cette primaire du PS, pour être honnête, ça m'indiffère\", déclare Clémence Guetté, invitée du 8.30 franceinfo",
+      "dek": "Clémence Guetté était l'invitée du 8.30 franceinfo. La députée LFI du Val-de-Marne était interrogée sur la primaire organisée par le PS et Place publique.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/cette-primaire-du-ps-pour-etre-honnete-ca-m-indiffere-clemence-guette-etait-l-invitee-du-8-30-franceinfo_8188160.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T10:11:22+00:00",
+      "titre": "Loi \"intégrale\" contre les violences sexuelles, carburants... Le \"8h30 franceinfo\" de Clémence Guetté",
+      "dek": "Clémence Guetté, vice-présidente de l’Assemblée Nationale, responsable du programme de La France Insoumise, députée LFI du Val-d’Oise, est l'invitée du \"8h30 franceinfo\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-clemence-guette_8165801.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -41,6 +195,17 @@
       "date": "11 Sep 2026",
       "date_iso": "2026-09-11T09:58:19+00:00",
       "titre": "Deux syndicats du groupe RMC BFM accusent Sonia Mabrouk de complaisance avec l’extrême droite",
+      "dek": "La journaliste est arrivée fin août à BFM-TV, en provenance de la chaîne concurrente CNews. Elle a répondu à ces critiques vendredi en arguant que « le journalisme [était] le pluralisme ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/11/deux-syndicats-du-groupe-rmc-bfm-accusent-sonia-mabrouk-de-complaisance-avec-l-extreme-droite_6770560_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T09:58:17+00:00",
+      "titre": "Sonia Mabrouk accusée de complaisance avec l’extrême droite par deux syndicats du groupe RMC BFM",
       "dek": "La journaliste est arrivée fin août à BFM-TV, en provenance de la chaîne concurrente CNews. Elle a répondu à ces critiques vendredi en arguant que « le journalisme [était] le pluralisme ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/economie/article/2026/09/11/deux-syndicats-du-groupe-rmc-bfm-accusent-sonia-mabrouk-de-complaisance-avec-l-extreme-droite_6770560_3234.html"
@@ -80,17 +245,6 @@
     },
     {
       "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:34:08+00:00",
-      "titre": "Loi \"intégrale\" contre les violences sexuelles, carburants... Le \"8h30 franceinfo\" de Clémence Guetté",
-      "dek": "Clémence Guetté, vice-présidente de l’Assemblée Nationale, responsable du programme de La France Insoumise, députée LFI du Val-d’Oise, est l'invitée du \"8h30 franceinfo\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-clemence-guette_8165801.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
       "color": "#C81E3A",
       "source": "Libération – Politique",
       "date": "11 Sep 2026",
@@ -116,7 +270,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:00:07+00:00",
+      "date_iso": "2026-09-11T09:00:05+00:00",
       "titre": "Comptes publics : la France commence à payer la facture de la dissolution ratée",
       "dek": "L’absence de majorité à l’Assemblée nationale depuis juin 2024 se traduit par une incapacité à baisser le déficit public. La France paraît plus vulnérable que jamais, avec des taux d’intérêt au plus haut depuis 2008.",
       "avis": null,
@@ -160,7 +314,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T08:21:34+00:00",
+      "date_iso": "2026-09-11T08:21:32+00:00",
       "titre": "David Lisnard, candidat à la présidentielle de 2027, veut rester président de l’Association des maires de France",
       "dek": "Le maire de Cannes sollicitera un nouveau mandat de président lors du congrès des maires de France, à Paris, fin novembre.",
       "avis": null,
@@ -396,160 +550,6 @@
       "dek": "Cette hausse est une conséquence de l’inflation généralisée née de la guerre en Iran et de la dégradation des finances publiques de la France, dans un contexte de forte incertitude politique, à moins de huit mois de la présidentielle.",
       "avis": null,
       "lien": "https://www.liberation.fr/economie/le-spread-qui-mesure-lecart-entre-les-taux-demprunt-de-la-france-et-lallemagne-na-jamais-ete-aussi-haut-en-quatorze-ans-20260910_B737QLJY65GQNOEQNJBWINATTE/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T18:03:43+00:00",
-      "titre": "Interdiction du voile : les femmes musulmanes, oubliées du débat",
-      "dek": "À l’aune de l’élection présidentielle, le Rassemblement national n’a, une nouvelle fois, pas manqué de reprendre en main le débat public en relançant son obsession : le voile.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=505498"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T17:58:11+00:00",
-      "titre": "Accidents du travail : le gouvernement officialise un tour de vis sur les indemnités journalières",
-      "dek": "Présenté, mercredi, aux syndicats et au patronat, un projet de décret durcit les règles de calcul des indemnités. Son entrée en vigueur est fixée au 1er novembre. L’exécutif espère réaliser 270 millions d’euros d’économies en 2027.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/10/accidents-du-travail-le-gouvernement-officialise-la-baisse-des-indemnites-journalieres_6770009_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T17:56:21+00:00",
-      "titre": "Jean Tirole et Karine Van der Straeten : «Le RN fait de nombreuses propositions dépensières et démagogiques»",
-      "dek": "Pour le prix Nobel d’économie et la chercheuse, l’Europe peut encore se frayer un chemin entre les Etats-Unis et la Chine si elle se réforme. Tout comme la France qui devra trouver un équilibre entre réduction de sa dette et justice sociale et fiscale, loin des propositions du RN…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/jean-tirole-et-karine-van-der-straeten-le-rn-fait-de-nombreuses-propositions-depensieres-et-demagogiques-20260910_RNSBZXSCPBAUVO3NIUMCIHJ3OU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T17:40:07+00:00",
-      "titre": "Le « spread », écart entre les taux d’emprunt de la France et de l’Allemagne, atteint un niveau inégalé depuis la crise de la dette de 2012",
-      "dek": "Alors que les taux d’emprunt augmentent sur les marchés, la situation de la France inquiète particulièrement le marché, non seulement du fait de l’état de ses comptes publics, mais aussi de sa capacité politique à engager des réformes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/10/dette-la-defiance-des-marches-envers-la-france-porte-l-ecart-de-taux-d-emprunt-avec-l-allemagne-a-un-niveau-inegale-depuis-2012_6769976_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T17:00:02+00:00",
-      "titre": "Faut-il taxer davantage les successions ?",
-      "dek": "Les droits de succession ont rapporté plus de 16 milliards d’euros à l’État l’an dernier. À gauche, certains veulent taxer davantage les gros héritages. A droite, on souhaite baisser les impôts sur les successions. Qui paierait plus, qui paierait moins ?",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/faut-il-taxer-davantage-les-successions_8186486.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T16:56:04+00:00",
-      "titre": "Loi intégrale: «Le patriarcat, on ne s’en débarrassera pas juste avec une loi»",
-      "dek": "L’examen de la loi intégrale contre les violences sexistes et sexuelles a commencé à l’Assemblée nationale. Que prévoit ce texte? Quels débats fait-il naître? Les 3 milliards d’euros nécessaires à son application seront-ils débloqués? On en débat avec nos invitées.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/100926/loi-integrale-le-patriarcat-ne-s-en-debarrassera-pas-juste-avec-une-loi"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T16:53:45+00:00",
-      "titre": "Carcassonne, procès Loïk Le Priol, Némésis... Un avant-goût amer de l’extrême droite au pouvoir",
-      "dek": "La violence et la haine de l’extrême droite ont été visibilisées cette semaine à un niveau d’intensité qui donne le vertige. Confronté à ses proximités coupables, le Rassemblement national tente de prendre ses distances, aidé en cela par la grand lessiveuse politico-médiatique. E…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/100926/carcassonne-proces-loik-le-priol-nemesis-un-avant-gout-amer-de-l-extreme-droite-au-pouvoir"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T16:47:31+00:00",
-      "titre": "Présidentielle 2027 : la Fête de l’Humanité ambitionne de conjurer la défaite annoncée",
-      "dek": "Placée sous le signe des 90 ans du Front populaire, la Fête de l’Humanité sera le carrefour des débats à gauche, avant que la campagne pour 2027 n’entre dans le dur, avec le spectre d’une victoire de l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite/presidentielle-2027-la-fete-de-lhumanite-ambitionne-de-conjurer-la-defaite-annoncee"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T16:24:31+00:00",
-      "titre": "En parallèle de la présidentielle, la campagne de David Lisnard pour rester à la tête des maires de France",
-      "dek": "Le président sortant de l’AMF, qui va affronter le maire UDI de Sceaux, Philippe Laurent, apparaît en position favorable pour l’emporter fin novembre, après un accord de gouvernance partagée trouvé avec les socialistes.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/en-parallele-de-la-presidentielle-la-campagne-de-david-lisnard-pour-rester-a-la-tete-des-maires-de-france-20260910"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T16:20:27+00:00",
-      "titre": "En Ukraine comme en Russie, certains continuent de s’enrichir de la guerre",
-      "dek": "Deux scandales de corruption viennent rappeler que de hauts fonctionnaires russes et ukrainiens ont détourné des fonds dédiés à leurs armées et aux infrastructures critiques. Mais en Russie, à la différence de l’Ukraine, les révélations à ce sujet restent l’exception.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/100926/en-ukraine-comme-en-russie-certains-continuent-de-s-enrichir-de-la-guerre"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T16:14:54+00:00",
-      "titre": "La Suède, un pays et une élection sous influence de l’extrême droite",
-      "dek": "L’histoire de Shahrdad Sherbabaki, un jeune homme ayant échappé au retour en Iran, illustre à quel point le parti des Démocrates de Suède pèse sur les politiques du pays. Dans l’un de ses meetings en vue des législatives de dimanche, son leader a souhaité «continuer ce qui a été …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/100926/la-suede-un-pays-et-une-election-sous-influence-de-l-extreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T15:59:42+00:00",
-      "titre": "2016 ou la défaite de l’Huma pour l’union de la gauche",
-      "dek": "Il y a dix ans jour pour jour, s’ouvrait une Fête de l’Huma dont certains espéraient qu’elle permettrait de rassembler une gauche fragmentée. Mais d’union il n’y aura point, et de victoire à la présidentielle non plus.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/2016-ou-la-defaite-de-lhuma-pour-lunion-de-la-gauche-20260910_NHUBFH52O5A3TFGMBK2QYH6QSU/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T15:53:21+00:00",
-      "titre": "David Lisnard au Figaro : « Je veux poursuivre notre action à la tête des maires de France »",
-      "dek": "ENTRETIEN EXCLUSIF - Le maire de Cannes dévoile les raisons pour lesquelles il sollicite un nouveau mandat à la tête de l’AMF et comment il compte concilier cette mission avec sa candidature à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/david-lisnard-au-figaro-je-veux-poursuivre-notre-action-a-la-tete-des-maires-de-france-20260910"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T15:40:33+00:00",
-      "titre": "« Grand remplacement » : Aurore Bergé critiquée jusque dans son camp après avoir refusé de qualifier l’expression de raciste",
-      "dek": "La ministre chargée de la lutte contre les discriminations a estimé que le débat sur ce sujet « fait partie de la liberté d’expression ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/10/grand-remplacement-aurore-berge-critiquee-jusque-dans-son-camp-apres-avoir-refuse-de-qualifier-l-expression-de-raciste_6769886_823448.html"
     }
   ]
 }
