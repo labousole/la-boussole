@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-11T00:08:37+00:00",
+  "generated_at": "2026-09-11T05:05:50+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T04:39:22+00:00",
+      "titre": "A suivre Loïc de la Mornais : Aurore Bergé suscite un tollé avec le \"Grand remplacement\"",
+      "dek": "Dans cette première partie, Loïc de la Mornais et ses invités reviennent, jeudi 10 septembre, sur les propos d'Aurore Bergé qui invoque la liberté d'expression pour parler du Grand Remplacement. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/a-suivre-loic-de-la-mornais-aurore-berge-suscite-un-tolle-avec-le-grand-remplacement_8187698.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T04:15:12+00:00",
+      "titre": "Présidentielle 2027 : le Rassemblement national s’empêtre dans l’interdiction du voile islamique",
+      "dek": "Pensée comme un coup de communication, la relance du débat, pourtant historique au RN, sur l’interdiction du voile dans l’espace public, met en lumière les hésitations juridiques et les divergences entre Marine Le Pen et Jordan Bardella.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/presidentielle-2027-le-rassemblement-national-s-empetre-dans-l-interdiction-du-voile-islamique_6770329_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T04:15:00+00:00",
+      "titre": "Il y a des militants et cadres RN xénophobes, sexistes, complotistes, prorusses ? On nous aurait menti ?",
+      "dek": "La diffusion d’une vidéo de la logorrhée haineuse à Carcassonne d’un policier encarté au Rassemblement national révèle surtout qu’une grande partie du monde médiatique avait oublié, et redécouvre, la réalité de la pensée de l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/il-y-a-des-militants-et-cadres-rn-xenophobes-sexistes-complotistes-prorusses-on-nous-aurait-menti-20260911_RYNVPURJMVER3PICB6TOKJE5BA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T03:58:27+00:00",
+      "titre": "\"On la prend très au sérieux\" : Ségolène Royal peut-elle créer la surprise à la primaire socialiste, vingt ans après son échec à la présidentielle ?",
+      "dek": "L'ancienne ministre et ambassadrice des pôles \"trace son sillon\" en électron libre de la primaire socialiste. Au point de susciter la méfiance de ses rivaux, qui voient en elle un élément perturbateur plus qu'une candidate capable de remporter le scrutin.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Droite",
       "color": "#3A5A8C",
@@ -506,50 +550,6 @@
       "dek": "La décision du premier ministre de faire un signalement au procureur de la République après des « fuites » publiées dans « Les Echos » porte atteinte à la protection du secret des sources, garantie de la liberté d’informer.",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/09/10/un-acces-d-autoritarisme-preoccupant-de-sebastien-lecornu_6769726_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T09:22:22+00:00",
-      "titre": "Et un nouveau transfert de LR vers l’extrême droite",
-      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/et-un-nouveau-transfert-de-lr-vers-lextreme-droite-20260910_NYSFVSP6KBDMVHBRZ55D6O6ZOU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T09:20:41+00:00",
-      "titre": "REPORTAGE. \"C'est comme si Trump était sur le bulletin\" : le président américain fait de son nom l'enjeu des midterms",
-      "dek": "À Dallas, Donald Trump a placé sa présidence au cœur de la première journée de la Convention républicaine consacrée aux élections de mi-mandat. Pour mobiliser son camp, il va jusqu'à promettre 5 000 dollars à chaque adulte américain en cas de victoire républicaine.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-c-est-comme-si-trump-etait-sur-le-bulletin-le-president-americain-fait-de-son-nom-l-enjeu-des-midterms_8185946.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T09:05:41+00:00",
-      "titre": "LFI boycotte BFMTV cette semaine, la chaîne dit sa «surprise»",
-      "dek": "Le parti de Jean-Luc Mélenchon proteste contre des déprogrammations «de dernière minute», des changements de thème «sans justification» ou des interviews qui se transforment «en débat surprise».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/medias/lfi-boycotte-bfmtv-cette-semaine-la-chaine-dit-sa-surprise-20260910_DRVDDTPLFVENVBKXO5FWBQTESI/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "10 Sep 2026",
-      "date_iso": "2026-09-10T09:01:00+00:00",
-      "titre": "Qui est Hasan Piker, le streamer devenu la bête noire de l’extrême droite américaine",
-      "dek": "L’influenceur progressiste, aux formules parfois à l’emporte-pièce, paie le soutien qu’il a apporté à Abdul El-Sayed dans la course au siège de sénateur du Michigan.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/etats-unis/qui-est-hasan-piker-le-streamer-devenu-la-bete-noire-de-lextreme-droite-americaine"
     }
   ]
 }
