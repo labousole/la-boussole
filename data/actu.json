@@ -1,6 +1,215 @@
 {
-  "generated_at": "2026-09-12T10:05:49+00:00",
+  "generated_at": "2026-09-12T15:05:40+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T15:05:10+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : \"Cette époque de l'inflation est un rapt sur la paie des travailleurs\", lance Jean-Luc Mélenchon à la Fête de l'Humanité",
+      "dek": "Le Rassemblement national fait également sa rentrée parlementaire au Touquet, samedi, tandis que l'ancien Premier ministre Edouard Philippe, candidat à la présidentielle, se rend au festival agricole organisé par les Jeunes Agriculteurs, à Metz.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T15:00:05+00:00",
+      "titre": "Réseaux sociaux : l'interdiction au moins de 15 ans a-t-elle été reportée en avril 2027 ?",
+      "dek": "Le Conseil constitutionnel avait censuré cette mesure défendue par le gouvernement, estimant qu'elle portait atteinte la liberté d'expression. Les collégiens veulent savoir où en est le processus.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/reseaux-sociaux-l-interdiction-au-moins-de-15-ans-a-t-elle-ete-reportee-en-avril-2027_8167427.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T15:00:04+00:00",
+      "titre": "Les brebis galeuses en perspective présidentielle",
+      "dek": "Une expression est revenue sur le devant de la scène, cette semaine, à cause des déclarations scandaleuses d’un policier municipal de Carcassonne, exclu du RN : les \"brebis galeuses\". D’où vient cette formule si souvent utilisée par des dirigeants du RN et pourquoi colle-t-elle a…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-brebis-galeuses-en-perspective-presidentielle_8167412.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T14:58:41+00:00",
+      "titre": "L’embarras gagne LFI après l’arrivée de l’un de ses députés chez Fayard, pilier éditorial de l’empire Bolloré",
+      "dek": "En pleine campagne contre la mainmise de Vincent Bolloré sur le secteur de l’édition, le député insoumis Aurélien Taché va publier son prochain livre dans une maison qui est au cœur de la stratégie du milliardaire d’extrême droite.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/120926/l-embarras-gagne-lfi-apres-l-arrivee-de-l-un-de-ses-deputes-chez-fayard-pilier-editorial-de-l-empire-bollo"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T14:58:29+00:00",
+      "titre": "Radio France en grève pour marquer son «refus catégorique» face «aux discours de haine»",
+      "dek": "Alors que la direction s’obstine à maintenir le journaliste de «Valeurs actuelles» Charles Sapin à l’édito du dimanche, les salariés de Radio France font grève dimanche 13 et lundi 14 septembre. Ils dénoncent une instrumentalisation du pluralisme qui conduit à associer le nom de …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/120926/radio-france-en-greve-pour-marquer-son-refus-categorique-face-aux-discours-de-haine"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T14:42:18+00:00",
+      "titre": "Primaire de la gauche : la gauche unie perd-elle toujours ?",
+      "dek": "La gauche perd-elle vraiment à chaque fois qu’elle n’est représentée que par un seul candidat, comme l’a affirmé Ian Brossat, sénateur PCF, directeur de campagne de Fabien Roussel, sur franceinfo, le 7 septembre dernier ?",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/primaire-de-la-gauche-la-gauche-unie-perd-elle-toujours_8189843.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T14:22:36+00:00",
+      "titre": "Présidentielles 2027 : Marine Tondelier prêche l’union à gauche et refuse d’« appuyer sur la détente »",
+      "dek": "Lors d’un meeting au stand des Écologistes à la Fête de l’Humanité, la candidate des verts à l’élection présidentielle de 2027 a appelé au rassemblement des forces de gauche pour battre l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite-2026/presidentielles-2027-marine-tondelier-preche-lunion-a-gauche-et-refuse-d-appuyer-sur-la-detente"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T14:12:06+00:00",
+      "titre": "Grève à France Inter contre le recrutement de Charles Sapin : «On a le sentiment d’être piégés»",
+      "dek": "A l’appel des syndicats, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre pour protester contre le recrutement d’un journaliste de «Valeurs actuelles» comme éditorialiste.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/medias/greve-a-france-inter-contre-le-recrutement-de-charles-sapin-on-a-le-sentiment-detre-pieges-20260912_5AVKXDWJZJEJNEGKS6EWAPXUDQ/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T14:08:32+00:00",
+      "titre": "Meurtre d’Aramburú: la cour d’assises se penche sur l’itinéraire du tueur",
+      "dek": "Carrière militaire, racisme exacerbé, contexte familial à la fois aimant et distant… Un gradé de l’armée et le père du militant d’extrême droite ont éclairé, parfois à leur insu, le parcours de Loïk Le Priol, qui a tué par balles le rugbyman argentin.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/120926/meurtre-d-aramburu-la-cour-d-assises-se-penche-sur-l-itineraire-du-tueur"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T14:00:11+00:00",
+      "titre": "Les fêlures dans la vitrine de la stratégie de « dédiabolisation » du Rassemblement national",
+      "dek": "L’affaire du policier municipal de Carcassonne complique un peu plus le début de campagne du parti d’extrême droite. Un « retour du refoulé », selon l’expression du chercheur Luc Rouban, qui renvoie Marine Le Pen au vieux Front national et à son fond xénophobe, raciste et antisém…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/les-felures-dans-la-vitrine-de-la-strategie-de-dediabolisation-du-rassemblement-national_6771541_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T13:30:05+00:00",
+      "titre": "Sénatoriales 2026 : une recomposition de la majorité attendue face à l’irruption de l’extrême droite",
+      "dek": "Comme souvent, les élections sénatoriales, qui se dérouleront dimanche 27 septembre, ne provoqueront pas de grands bouleversements, mais certains rééquilibrages et choix d’alliance livreront des enseignements précieux à l’approche de l’élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/senatoriales-2026-une-recomposition-de-la-majorite-attendue-face-a-l-irruption-de-l-extreme-droite_6771507_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T13:28:11+00:00",
+      "titre": "Épinglé pour une affaire de dons illicites, Reform UK croule sous l’argent des crypto milliardaires",
+      "dek": "Alors que Reform UK est dans la tourmente pour une affaire de dons illicites, deux magnats de la crypto, Ben Delo et Christopher Harborne, ont annoncé coup sur coup des dons records versés au parti d’extrême droite de Nigel Farage.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/cryptomonnaie/epingle-pour-une-affaire-de-dons-illicites-reform-uk-croule-sous-largent-des-crypto-milliardaires"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T13:00:09+00:00",
+      "titre": "« Si l’on veut se donner les moyens humains d’affronter la transition écologique, il est indispensable d’accroître le taux d’activité des jeunes et des seniors »",
+      "dek": "D’un côté, la France est loin derrière les autres pays développés en volume d’heures travaillées par habitant. De l’autre, la transition écologique demande plus de travail, constate, dans une tribune au « Monde », l’économiste Jean-Eric Hyafil.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/12/si-l-on-veut-se-donner-les-moyens-humains-d-affronter-la-transition-ecologique-il-est-indispensable-d-accroitre-le-taux-d-activite-des-jeunes-et-des-seniors_6771438_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T12:43:03+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Bruno Retailleau défend un « combat de civilisation » devant les Jeunes Républicains ; Jean-Luc Mélenchon veut « une révolution citoyenne » à la Fête de « L’Huma »",
+      "dek": "François Ruffin, Jean-Luc Mélenchon, Fabien Roussel ou encore Marine Tondelier sont présents samedi à la Fête de « L’Huma », où chacun fera un discours. François Hollande, toujours pas candidat, se rend à la traditionnelle Fête de la rose du PS à Frangy-en-Bresse (Saône-et-Loire)…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/12/en-direct-presidentielle-2027-a-la-fete-de-l-humanite-francois-ruffin-appelle-a-rassembler-la-gauche-et-elargir-aux-francais_6770586_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T12:27:05+00:00",
+      "titre": "Présidentielle 2027 : François Ruffin tacle le « plafond de béton » de Jean-Luc Mélenchon",
+      "dek": "Le candidat Debout ! à la présidentielle tenait un meeting sur le stand de son parti à la Fête de l’Humanité, samedi en début d’après-midi. Le député picard et ses amis alertent sur le sur-optimisme des insoumis.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite-2026/presidentielle-2027-francois-ruffin-tacle-le-plafond-de-beton-de-jean-luc-melenchon"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T12:00:30+00:00",
+      "titre": "Le gouvernement veut imposer le casque aux utilisateurs de trottinettes électriques mais peine à étendre l’obligation aux cyclistes",
+      "dek": "Les arrêtés préfectoraux se succèdent pour contraindre les conducteurs de trottinette à se protéger la tête. Du côté des cyclistes, les associations estiment que cette mesure est contre-productive et qu’elle ne protégerait pas les utilisateurs de vélo dans la majorité des acciden…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/12/le-gouvernement-veut-imposer-le-casque-aux-utilisateurs-de-trottinettes-electriques-mais-peine-a-etendre-l-obligation-aux-cyclistes_6771400_3234.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T11:22:12+00:00",
+      "titre": "«Nous ne serons jamais macronistes !» : au Campus des Jeunes LR, les militants attendent avec «confiance» le discours de Bruno Retailleau",
+      "dek": "REPORTAGE - À Nogent-sur-Marne ce samedi matin, les militants regardent l’horizon 2027 et soutiennent leur candidat à la présidentielle sur une ligne d’indépendance assumée à droite, loin d’un bloc central jugé responsable de «faillites».",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/nous-ne-serons-jamais-macronistes-au-campus-des-jeunes-lr-les-militants-attendent-avec-confiance-le-discours-de-bruno-retailleau-20260912"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T11:13:06+00:00",
+      "titre": "Carburants : \"il faut baisser la fiscalité, on ne peut pas laisser un pays s'asphyxier\"",
+      "dek": "Face à la hausse des carburants, il faut \"baisser la fiscalité\" assure Thomas Ménagé. Le porte-parole du RN, invité du \"8h30 franceinfo\", rappelle que son parti propose \"une baisse de la TVA\" et \"la suppression de la hausse des accises (ex-TICPE)\". Une mesure qui coûterait \"12 mi…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-il-faut-baisser-la-fiscalite-on-ne-peut-pas-laisser-un-pays-s-asphyxier_8189711.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T10:11:08+00:00",
+      "titre": "Le front antifasciste va-t-il l’emporter ? Je parie que oui !",
+      "dek": "Alors que le Rassemblement national n’a jamais été aussi proche du pouvoir, des appels se multiplient pour un front populaire et antifasciste en 2027. Cela va-t-il réussir&#160;? Je parie que oui&#160;! Dans les années 1930, le patronat et la bourgeoisie ont préféré l’ordre autor…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/chronique/le-front-antifasciste-va-t-il-lemporter-je-parie-que-oui"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -22,17 +231,6 @@
       "dek": "La Fête de l'Humanité se tient tout le week-end en région parisienne, à l'occasion de la rentrée politique du Parti communiste français. La présidentielle de 2027 est déjà dans toutes les têtes, dans un contexte où le Rassemblement national est donné largement en tête du premier …",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/a-la-fete-de-l-humanite-les-sympathisants-de-gauche-partages-entre-pessimisme-et-espoir-avant-2027_8189516.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T09:03:00+00:00",
-      "titre": "Grève à France Inter contre le recrutement de Charles Sapin : «On a le sentiment d’être piégés»",
-      "dek": "A l’appel des syndicats, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre pour protester contre le recrutement d’un journaliste de «Valeurs actuelles» comme éditorialiste.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/medias/greve-a-france-inter-contre-le-recrutement-de-charles-sapin-on-a-le-sentiment-detre-pieges-20260912_5AVKXDWJZJEJNEGKS6EWAPXUDQ/"
     },
     {
       "tag": "Politique",
@@ -352,204 +550,6 @@
       "dek": "La croissance sera très faible en 2026 : seulement 0,5%. Les prix, eux, vont continuer de grimper, selon les prévisions du gouvernement. Ce qui est de mauvais augure pour le budget, dans lequel les Français seront mis à contribution : retraite, pouvoir d'achat, TVA… Sont-ils prêt…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/budget/c-est-deja-beaucoup-la-croissance-en-berne-etes-vous-prets-a-contribuer-davantage_8188364.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T15:50:19+00:00",
-      "titre": "Fabien Roussel face à Patrick Martin – L’HUMATCH en direct de la Fête de l’Huma",
-      "dek": "Fabien Roussel, secrétaire national du PCF, a débattu face à Patrick Martin, président du Medef, en direct de l'Agora de la Fête de l'Humanité le vendredi 11 septembre 2026. Un échange animé par Julia Hamlaoui et Naim Sakhi, journalistes à l'Humanité.Disponible en podcast ici",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fabien-roussel/fabien-roussel-face-a-patrick-martin-lhumatch-en-direct-de-la-fete-de-lhuma"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T15:19:34+00:00",
-      "titre": "Dette publique : peut-on \"foutre au feu\" une partie de l'emprunt français, comme le propose Jean-Luc Mélenchon ?",
-      "dek": "Alors que les taux d'emprunt sont à un niveau jamais vu depuis la crise financière de 2008, le candidat à l'élection présidentielle de la France Insoumise propose de ne plus payer une partie des intérêts de la dette. La solution est désapprouvée par la Banque de France et la BCE.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-peut-on-foutre-au-feu-une-partie-de-l-emprunt-francais-comme-le-propose-jean-luc-melenchon_8188346.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T14:41:20+00:00",
-      "titre": "« Soit Total crée les conditions d’une diminution des prix du carburant, soit on nationalise » : le « j’accuse » de Fabien Roussel contre le groupe pétrolier",
-      "dek": "Lors du traditionnel déjeuner de presse à la Fête de l’Humanité, le candidat communiste à l’élection présidentielle Fabien Roussel a demandé la nationalisation de Total si le groupe pétrolier ne diminue pas ses marges. Sa candidature vise à s’adresser aux abstentionnistes et aux …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fabien-roussel/ou-total-cree-les-conditions-dune-diminution-des-prix-du-carburant-ou-on-nationalise-le-jaccuse-de-fabien-roussel-contre-total"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T14:41:20+00:00",
-      "titre": "« Ou Total crée les conditions d’une diminution des prix du carburant, ou on nationalise » : le « j’accuse » de Fabien Roussel contre Total",
-      "dek": "Lors du traditionnel déjeuner de presse à la Fête de l’Humanité, le candidat communiste à l’élection présidentielle Fabien Roussel a demandé la nationalisation de Total si le groupe pétrolier ne diminue pas ses marges. Sa candidature vise à s’adresser aux abstentionnistes et aux …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fabien-roussel/ou-total-cree-les-conditions-dune-diminution-des-prix-du-carburant-ou-on-nationalise-le-jaccuse-de-fabien-roussel-contre-total"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T14:34:07+00:00",
-      "titre": "Au Royaume-Uni, les députés rejettent la légalisation de l’aide à mourir en Angleterre et au Pays de Galles",
-      "dek": "La Chambre des communes a rejeté vendredi, par 286 voix contre 270, un projet de loi visant à légaliser l’aide à mourir pour les adultes en phase terminale en Angleterre et au Pays de Galles. La proposition avait été redéposée en juin après l’échec d’une précédente tentative.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/09/11/au-royaume-uni-les-deputes-rejettent-la-legalisation-de-l-aide-a-mourir-en-angleterre-et-au-pays-de-galles_6770600_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T14:22:09+00:00",
-      "titre": "Accusé de vouloir prendre des \"vacances\" une fois élu président, Edouard Philippe dénonce une polémique montée \"à partir de phrases tronquées\"",
-      "dek": "Dans un podcast, le candidat Horizons estime que le calendrier actuel de l'après-présidentielle peut être amélioré. Ses adversaires lui reprochent de vouloir s'accorder des congés avant d'entrer à l'Elysée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/accuse-de-vouloir-prendre-des-vacances-une-fois-elu-president-edouard-philippe-denonce-une-polemique-montee-a-partir-de-phrases-tronquees_8188250.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T14:08:33+00:00",
-      "titre": "Anthropic révèle que plusieurs organisations d’extrême droite françaises, dont un parti politique, ont été piratées à l’aide de son IA, Claude",
-      "dek": "Des informations concernant les adhérents d’un parti, non identifié, figurent parmi les données dérobées par un hackeur français, dévoile le rapport de sécurité publié jeudi par l’entreprise américaine d’intelligence artificielle. Un « institut de formation politique » et plusieu…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/anthropic-revele-que-plusieurs-organisations-d-extreme-droite-francaises-dont-un-parti-politique-ont-ete-piratees-a-l-aide-de-son-ia-claude_6770595_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T14:00:08+00:00",
-      "titre": "« L’annulation d’une partie de la dette donnerait de nouvelles marges pour investir » : la réponse de Nicolas Dufrêne à Olivier Blanchard et Quentin Vandeweyer",
-      "dek": "L’économiste répond, dans une tribune au « Monde », aux critiques de ses confrères sur sa proposition, émise dès 2020 dans son livre « Une monnaie écologique », d’annuler la part de la dette publique détenue par la BCE ; principe repris par Jean-Luc Mélenchon en vue de l’élection…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/11/l-annulation-d-une-partie-de-la-dette-donnerait-de-nouvelles-marges-pour-investir-la-reponse-de-nicolas-dufrene-a-olivier-blanchard-et-quentin-vandeweyer_6770593_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T13:47:41+00:00",
-      "titre": "Pouvoir d’achat et prix du carburant : « Une colère immense » en France, selon Sophie Binet ; « Le grand enjeu de cette campagne », pour Jordan Bardella",
-      "dek": "La secrétaire générale de la CGT, Sophie Binet, a exhorté à augmenter les salaires et bloquer les prix du carburant, tandis que Fabien Roussel appelle à « se mobiliser sur les ronds-points » si le gouvernement n’agit pas « dans les jours qui viennent ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/presidentielle-2027-la-colere-monte-face-a-l-impuissance-du-gouvernement-sur-le-pouvoir-d-achat-et-le-prix-du-carburant_6770591_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T13:47:41+00:00",
-      "titre": "Pouvoir d’achat et prix du carburant : « une colère immense » en France, selon Sophie Binet ; « le grand enjeu de cette campagne » pour Jordan Bardella",
-      "dek": "La secrétaire générale de la CGT, Sophie Binet, a exhorté à augmenter les salaires et bloquer les prix du carburant, tandis que Fabien Roussel appelle à « se mobiliser sur les ronds-points » si le gouvernement n’agit pas « dans les jours qui viennent ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/presidentielle-2027-la-colere-monte-face-a-l-impuissance-du-gouvernement-sur-le-pouvoir-d-achat-et-le-prix-du-carburant_6770591_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T13:44:19+00:00",
-      "titre": "\"C'est déjà beaucoup\" : la croissance en berne, êtes-vous prêts à contribuer davantage ?",
-      "dek": "La croissance sera très faible cette année, de seulement 0,5%, et les prix vont continuer de grimper, selon les prévisions du gouvernement. Ce qui est de mauvais augure pour le budget, dans lequel les Français seront mis à contribution : retraite, pouvoir d'achat, TVA… Êtes-vous …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/c-est-deja-beaucoup-la-croissance-en-berne-etes-vous-prets-a-contribuer-davantage_8188364.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T13:21:48+00:00",
-      "titre": "Après sa charge contre l’état de droit, Retailleau, chantre d’une «radicalité raisonnable», cherche sa voie",
-      "dek": "Incarner la rupture avec le macronisme en visant l’état de droit, tout en dénonçant le populisme du Rassemblement national : la partition du candidat de LR à la présidentielle, qui fait sa rentrée politique samedi, est délicate.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/apres-sa-charge-contre-letat-de-droit-retailleau-chantre-dune-radicalite-raisonnable-cherche-sa-voie-20260911_6TXFFLHDAJFBJBI7RHWQDGGZSQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T13:21:08+00:00",
-      "titre": "EN DIRECT, Fête de « L’Humanité » : Fabien Roussel estime qu’il n’y a pas de progrès social sans paix",
-      "dek": "Fabien Roussel, le secrétaire national du Parti communiste, et Patrick Martin, président du Medef, ont débattu lors du traditionnel rendez-vous de rentrée du PCF, au Plessis-Pâté (Essonne).",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/09/11/en-direct-fete-de-l-humanite-suivez-les-prises-de-parole-de-fabien-roussel-et-de-jean-luc-melenchon-a-sept-mois-de-l-election-presidentielle_6770586_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T12:00:00+00:00",
-      "titre": "« Pour un meilleur accès des journalistes handicapés à la carte de presse »",
-      "dek": "Les critères actuels d’obtention de la carte de presse empêchent une partie des travailleurs handicapés d’y accéder. Fondateur de l’hebdomadaire réalisé par des personnes autistes Right Brain et titulaire de l’AAH, Oscar Tessonneau propose à la Commission de la carte un autre mod…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=505365"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T11:47:11+00:00",
-      "titre": "Sénatoriales : le RN pronostique huit nouveaux élus «minimum» et un groupe au palais du Luxembourg",
-      "dek": "De trois sénateurs, le parti d’extrême droite pourrait dépasser la barre des dix élus, nécessaires à la formation d’un groupe parlementaire.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/senatoriales-le-rn-pronostique-huit-nouveaux-elus-minimum-et-un-groupe-au-palais-du-luxembourg-20260911_OV5RSMEYTBHFFPCVNTJN7W364Q/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T11:22:02+00:00",
-      "titre": "« Marine Le Pen, c’est l’arnaque sociale du siècle » : le journaliste Pierre Joigneaux documente les aspirations des électeurs du RN",
-      "dek": "En partant à la rencontre des électeurs RN et en décortiquant les votes des parlementaires d’extrême droite, le journaliste Pierre Joigneaux met en exergue, dans son livre&nbsp;L’Arnaque sociale. Comment le RN trompe les gens et sert les puissants (Fakir Éditions), le gouffre imm…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/electeurs/marine-le-pen-cest-larnaque-sociale-du-siecle-le-journaliste-pierre-joigneaux-documente-les-aspirations-des-electeurs-du-rn"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T11:00:15+00:00",
-      "titre": "Comment le 11-Septembre a changé l’extrême droite",
-      "dek": "Les attentats terroristes du 11 septembre 2001 aux Etats-Unis ont formé un point de bascule pour les droites radicales. Depuis lors, ces courants politiques ont adopté un discours violemment anti-islam en défense d’un prétendu « Occident judéo-chrétien ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/11/comment-le-11-septembre-a-change-l-extreme-droite_6770569_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T10:46:21+00:00",
-      "titre": "\"Cette primaire du PS, pour être honnête, ça m'indiffère\", déclare Clémence Guetté, invitée du 8.30 franceinfo",
-      "dek": "Clémence Guetté était l'invitée du 8.30 franceinfo. La députée LFI du Val-de-Marne était interrogée sur la primaire organisée par le PS et Place publique.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/cette-primaire-du-ps-pour-etre-honnete-ca-m-indiffere-clemence-guette-etait-l-invitee-du-8-30-franceinfo_8188160.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
