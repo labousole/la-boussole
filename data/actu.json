@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-12T00:08:00+00:00",
+  "generated_at": "2026-09-12T05:05:39+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T04:46:00+00:00",
+      "titre": "Au RN, une campagne présidentielle dans l’improvisation générale",
+      "dek": "Porté par les difficultés de ses adversaires et des sondages flatteurs, le parti d’extrême droite semble s’en remettre à un courant favorable. Quitte à laisser ressortir de vieux travers : dilettantisme, confusion et atonie programmatique.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/au-rn-une-campagne-dans-limprovisation-generale-20260912_4BZ5I3FBTFC6PMQT3ZZ7O3E3R4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T04:30:12+00:00",
+      "titre": "Quand l’extrême droite française brandit le spectre du « grand remplacement » culinaire",
+      "dek": "Dans une France qui porte sa gastronomie comme un étendard, l’alimentation, longtemps restée un impensé politique, est désormais récupérée par des mouvements d’extrême droite à des fins identitaires et xénophobes, au nom de la protection des « assauts du multiculturalisme ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/12/quand-l-extreme-droite-francaise-brandit-le-spectre-du-grand-remplacement-culinaire_6770982_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T04:00:03+00:00",
+      "titre": "Le RN à la conquête des banlieues",
+      "dek": "Le Rassemblement national veut partir à la conquête des banlieues. Sécurité, logement, culture, lutte contre le narcotrafic : le parti prépare une nouvelle stratégie pour tenter de séduire des électeurs qui lui résistent encore largement. Un projet pensé notamment par Philippe Ol…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-rn-a-la-conquete-des-banlieues_8188580.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T03:25:07+00:00",
+      "titre": "Présidentielle 2027 : à la Fête de « L’Humanité », Fabien Roussel au défi de démontrer l’intérêt de sa candidature",
+      "dek": "Le secrétaire national du Parti communiste français lance sa campagne, samedi dans l’Essonne, alors que des interrogations subsistent sur la pertinence d’une démarche autonome et non d’un ralliement derrière LFI.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/presidentielle-2027-a-la-fete-de-l-humanite-fabien-roussel-au-defi-de-demontrer-l-interet-de-sa-candidature_6770806_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -506,50 +550,6 @@
       "dek": "La série de shows de la star québécoise, qui débute à Paris ce samedi 12 septembre, suscite un engouement mondial. Y compris chez certains candidats à la présidentielle, qui peuvent tenter de s’emparer de la médiatisation de ces événements.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/les-concerts-de-celine-dion-loccasion-pour-les-politiques-de-casser-leur-style-un-peu-trop-techno-20260911_O4G6DJDXKBA5HKYNJISAADB4TA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T08:29:27+00:00",
-      "titre": "Prix des carburants : \"J'appelle les Français à se mobiliser, comme nous avons su le faire en 2018 avec les Gilets jaunes\", demande Fabien Roussel",
-      "dek": "Fabien Roussel, secrétaire national du Parti communiste français, candidat à l'élection présidentielle, était l'invité des \"4 Vérités\", vendredi 11 septembre. Il appelle les Français à se mobiliser contre la hausse des prix des carburants.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/prix-des-carburants-j-appelle-les-francais-a-se-mobiliser-comme-nous-avons-su-le-faire-en-2018-avec-les-gilets-jaunes-demande-fabien-roussel_8187953.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T08:21:32+00:00",
-      "titre": "David Lisnard, candidat à la présidentielle de 2027, veut rester président de l’Association des maires de France",
-      "dek": "Le maire de Cannes sollicitera un nouveau mandat de président lors du congrès des maires de France, à Paris, fin novembre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/david-lisnard-candidat-a-la-presidentielle-de-2027-veut-rester-president-de-l-association-des-maires-de-france_6770544_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T08:20:43+00:00",
-      "titre": "Effacement de la dette : une idée « illégale, dangereuse et inutile », estime Emmanuel Moulin, le gouverneur de la Banque de France",
-      "dek": "Le 24 juin, Jean-Luc Mélenchon, le leader de La France insoumise, avait proposé de « foutre au feu » une partie des titres de la dette française, logée par la Banque de France mais détenue par la Banque centrale européenne.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/11/effacement-de-la-dette-une-idee-illegale-dangereuse-et-inutile-estime-emmanuel-moulin-le-gouverneur-de-la-banque-de-france_6770543_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T07:11:11+00:00",
-      "titre": "Propos racistes d'un policier ancien militant RN : \"On a une capacité de réaction très forte\", assure la députée RN Laure Lavalette",
-      "dek": "Laure Lavalette, députée du Var, porte-parole du Rassemblement national, était l’invitée politique de franceinfo vendredi 11 septembre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/propos-racistes-d-un-policier-ancien-militant-rn-on-a-une-capacite-de-reaction-tres-forte-assure-la-deputee-rn-laure-lavalette_8167796.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
