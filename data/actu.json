@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-09-12T05:05:39+00:00",
+  "generated_at": "2026-09-12T10:05:49+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T09:34:57+00:00",
+      "titre": "Élections en Suède: droite et extrême droite jouent leur maintien au pouvoir",
+      "dek": "Dimanche 13 septembre, le Parlement de Stockholm sera entièrement renouvelé. Rejetés dans l’opposition il y a quatre ans, les sociaux-démocrates plaident pour l’alternance. Sans clarifier le type de coalition qu’ils formeraient, ni porter un agenda véritablement transformateur.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/120926/elections-en-suede-droite-et-extreme-droite-jouent-leur-maintien-au-pouvoir"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T09:22:12+00:00",
+      "titre": "À la Fête de l’Humanité, les sympathisants de gauche partagés entre pessimisme et espoir avant 2027",
+      "dek": "La Fête de l'Humanité se tient tout le week-end en région parisienne, à l'occasion de la rentrée politique du Parti communiste français. La présidentielle de 2027 est déjà dans toutes les têtes, dans un contexte où le Rassemblement national est donné largement en tête du premier …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/a-la-fete-de-l-humanite-les-sympathisants-de-gauche-partages-entre-pessimisme-et-espoir-avant-2027_8189516.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T09:03:00+00:00",
+      "titre": "Grève à France Inter contre le recrutement de Charles Sapin : «On a le sentiment d’être piégés»",
+      "dek": "A l’appel des syndicats, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre pour protester contre le recrutement d’un journaliste de «Valeurs actuelles» comme éditorialiste.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/medias/greve-a-france-inter-contre-le-recrutement-de-charles-sapin-on-a-le-sentiment-detre-pieges-20260912_5AVKXDWJZJEJNEGKS6EWAPXUDQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T08:45:11+00:00",
+      "titre": "Le piège se referme sur l’économie française",
+      "dek": "La France doit investir davantage pour financer sa réindustrialisation et s’adapter au changement climatique, tout en réduisant un déficit public qui rogne ses marges de manœuvre. Mais les débats sur le budget 2027 et l’élection présidentielle compliquent cette équation.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/le-piege-se-referme-sur-l-economie-francaise_6771262_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T08:37:37+00:00",
+      "titre": "«On a fait toute notre vie ici»: la surprise et l’inquiétude des «gens du voyage» installés sur le futur parc Dragon Ball",
+      "dek": "Des centaines de personnes vivent sur le terrain choisi pour le projet de parc d’attractions porté par Emmanuel Macron et l’Arabie saoudite. Les autorités assurent que la communauté, qui a passé neuf ans sur ce site devenu «presque un village», va être relocalisée au sein de l’ag…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/120926/fait-toute-notre-vie-ici-la-surprise-et-l-inquietude-des-gens-du-voyage-installes-sur-le-futur-parc-dragon"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T08:36:59+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Jean-Luc Mélenchon et Fabien Roussel à la Fête de « L’Huma » ; Bruno Retailleau avec les Jeunes Républicains… Suivez le déplacement des candidats",
+      "dek": "A gauche, l’ancien président socialiste François Hollande, toujours pas candidat mais plus que jamais en campagne, se rendra lui à Frangy-en-Bresse (Saône-et-Loire), pour la traditionnelle Fête de la rose du PS. Les députés RN se retrouveront eux au Touquet, samedi.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/12/en-direct-presidentielle-2027-jean-luc-melenchon-et-fabien-roussel-a-la-fete-de-l-huma-bruno-retailleau-avec-les-jeunes-lr-suivez-le-deplacement-des-candidats_6770586_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T08:29:53+00:00",
+      "titre": "Prix du carburant, budget, présidentielle... Le \"8h30 franceinfo\" de Thomas Ménagé",
+      "dek": "Le député du Loiret et porte-parole du Rassemblement national était l'invité du \"8h30 franceinfo\", samedi 12 septembre 2026.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/prix-du-carburant-budget-presidentielle-le-8h30-franceinfo-de-thomas-menage_8167418.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T08:13:35+00:00",
+      "titre": "Franchises médicales : le plafond annuel passe de 100 à 140 euros le 1ᵉʳ octobre",
+      "dek": "Le décret, paru samedi, prévoit également une réévaluation tous les ans à partir de 2028, en janvier, de ce plafond, sur la base de l’inflation.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/franchises-medicales-le-plafond-annuel-passe-de-100-a-140-euros-le-1-octobre_6771228_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T07:49:46+00:00",
+      "titre": "Seine-Maritime : le conseil municipal de Sassetot-le-Mauconduit a élu son nouveau maire, après la démission du précédent condamné pour pédopornographie",
+      "dek": "Un nouveau maire pour tourner la page. Philippe Rasse a été élu vendredi à la tête de Sassetot-le-Mauconduit (Seine-Maritime), après la démission d'Eric Scarano, condamné à 18 mois de prison pour détention et diffusion d'images pédopornographiques.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/seine-maritime-le-conseil-municipal-de-sassetot-le-mauconduit-a-elu-son-nouveau-maire-apres-la-demission-du-precedent-condamne-pour-pedopornographie_8189480.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T07:22:30+00:00",
+      "titre": "\"Chacun a décidé d'être dans son couloir de natation\", déplore Marine Tondelier, candidate écologiste à l'élection présidentielle",
+      "dek": "Marine Tondelier, secrétaire nationale Les Écologistes et candidate à l'élection présidentielle de 2027, était l'invitée politique de franceinfo ce samedi 12 septembre 2026. Elle déplore la division de la gauche et espère trouver un chemin de victoire pour les électeurs de sa sen…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-interview-politique/chacun-a-decide-d-etre-dans-son-couloir-de-natation-deplore-marine-tondelier-candidate-ecologiste-a-l-election-presidentielle_8189441.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T07:21:37+00:00",
+      "titre": "Le Rassemblement national veut investir les banlieues",
+      "dek": "La philosophie est claire, il veut \"veut occuper tous les espaces, s'adresser à tous les Français\", explique un membre de l'état-major du parti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/le-rassemblement-national-veut-investir-les-banlieues_8167361.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Sep 2026",
+      "date_iso": "2026-09-12T05:06:30+00:00",
+      "titre": "\"Le risque pour nous, c'est de rester un second choix\" : comment Bruno Retailleau espère se relancer dans la course à la présidentielle",
+      "dek": "Le candidat LR à l'Elysée, pris en tenaille entre le vote pour Edouard Philippe et celui pour Marine Le Pen, cherche une voie de passage pour exister dans la campagne.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-risque-pour-nous-c-est-de-rester-un-second-choix-comment-bruno-retailleau-espere-se-relancer-dans-la-course-a-la-presidentielle_8165129.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -39,7 +171,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T03:25:07+00:00",
+      "date_iso": "2026-09-12T03:25:04+00:00",
       "titre": "Présidentielle 2027 : à la Fête de « L’Humanité », Fabien Roussel au défi de démontrer l’intérêt de sa candidature",
       "dek": "Le secrétaire national du Parti communiste français lance sa campagne, samedi dans l’Essonne, alors que des interrogations subsistent sur la pertinence d’une démarche autonome et non d’un ralliement derrière LFI.",
       "avis": null,
@@ -77,6 +209,17 @@
       "dek": "Cette hausse est une conséquence de l’inflation généralisée née de la guerre en Iran et de la dégradation des finances publiques de la France, dans un contexte de forte incertitude politique, à moins de huit mois de la présidentielle.",
       "avis": null,
       "lien": "https://www.liberation.fr/economie/le-spread-qui-mesure-lecart-entre-les-taux-demprunt-de-la-france-et-lallemagne-na-jamais-ete-aussi-haut-en-quatorze-ans-20260910_B737QLJY65GQNOEQNJBWINATTE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Sep 2026",
+      "date_iso": "2026-09-11T18:23:41+00:00",
+      "titre": "Budget : le gouvernement donne un nouveau coup de rabot en ciblant la mission écologie",
+      "dek": "Pour éviter un dérapage trop important du déficit en 2026, le gouvernement a annulé 500 millions d’euros de crédits et « surgelé » 783 autres millions, vendredi 11 septembre. La mission écologie est la plus durement touchée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/budget-le-gouvernement-lance-un-nouveau-coup-de-rabot-en-ciblant-une-nouvelle-fois-la-mission-ecologie_6770635_823448.html"
     },
     {
       "tag": "Politique",
@@ -407,149 +550,6 @@
       "dek": "Clémence Guetté était l'invitée du 8.30 franceinfo. La députée LFI du Val-de-Marne était interrogée sur la primaire organisée par le PS et Place publique.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/cette-primaire-du-ps-pour-etre-honnete-ca-m-indiffere-clemence-guette-etait-l-invitee-du-8-30-franceinfo_8188160.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T10:11:22+00:00",
-      "titre": "Loi \"intégrale\" contre les violences sexuelles, carburants... Le \"8h30 franceinfo\" de Clémence Guetté",
-      "dek": "Clémence Guetté, vice-présidente de l’Assemblée Nationale, responsable du programme de La France Insoumise, députée LFI du Val-d’Oise, est l'invitée du \"8h30 franceinfo\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-clemence-guette_8165801.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T10:00:11+00:00",
-      "titre": "« Les fragilités de l’économie française finissent tôt ou tard par se retrouver dans les comptes des retraites »",
-      "dek": "Alors que le débat sur les retraites se concentre sur l’âge de départ, les cotisations et le niveau des pensions, l’économiste Pierre Rousseaux met en avant, dans une tribune au « Monde », d’autres paramètres importants à prendre en compte.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/11/les-fragilites-de-l-economie-francaise-finissent-tot-ou-tard-par-se-retrouver-dans-les-comptes-des-retraites_6770561_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T10:00:00+00:00",
-      "titre": "Le référendum, un faux ami démocratique, par Dominique Rousseau",
-      "dek": "Alors que plusieurs candidats à la présidentielle y vont de leur proposition référendaire, le professeur de droit public alerte sur l’un des dangers de ce dispositif : celui de réduire le débat et la pluralité des voix dans un seul corps.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/le-referendum-un-faux-ami-democratique-par-dominique-rousseau-20260911_CW5PNKS4MRDZVJNUPIVB4U7UY4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:58:19+00:00",
-      "titre": "Deux syndicats du groupe RMC BFM accusent Sonia Mabrouk de complaisance avec l’extrême droite",
-      "dek": "La journaliste est arrivée fin août à BFM-TV, en provenance de la chaîne concurrente CNews. Elle a répondu à ces critiques vendredi en arguant que « le journalisme [était] le pluralisme ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/11/deux-syndicats-du-groupe-rmc-bfm-accusent-sonia-mabrouk-de-complaisance-avec-l-extreme-droite_6770560_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:58:17+00:00",
-      "titre": "Sonia Mabrouk accusée de complaisance avec l’extrême droite par deux syndicats du groupe RMC BFM",
-      "dek": "La journaliste est arrivée fin août à BFM-TV, en provenance de la chaîne concurrente CNews. Elle a répondu à ces critiques vendredi en arguant que « le journalisme [était] le pluralisme ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/11/deux-syndicats-du-groupe-rmc-bfm-accusent-sonia-mabrouk-de-complaisance-avec-l-extreme-droite_6770560_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:53:52+00:00",
-      "titre": "David Lisnard pense déjà à se recaser en cas de non-victoire à la présidentielle",
-      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/david-lisnard-pense-deja-a-se-recaser-en-cas-de-non-victoire-a-la-presidentielle-20260911_UOO7H3B2AZCHXE5PFINK7IUDBE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:47:59+00:00",
-      "titre": "Le PS réinvente-t-il la machine à perdre ?",
-      "dek": "Alors que François Ruffin et Marine Tondelier déplorent l'impossibilité d'une union à gauche, la primaire PS-Place publique est critiquée de toutes parts. L'édito de Renaud Dély.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-ps-reinvente-t-il-la-machine-a-perdre_8188118.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:37:09+00:00",
-      "titre": "Théorie raciste du « grand remplacement » : à quoi joue Aurore Bergé ?",
-      "dek": "La ministre chargée de la Lutte contre les discriminations, Aurore Bergé, a refusé à plusieurs reprises de qualifier de raciste la théorie complotiste du « grand remplacement ». Une nouvelle étape dans la banalisation des concepts d’extrême droite par le pouvoir. De quoi soulever…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/aurore-berge/theorie-raciste-du-grand-remplacement-a-quoi-joue-aurore-berge"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:29:11+00:00",
-      "titre": "Le déshonneur d’Aurore Bergé, qui blanchit la théorie raciste du «grand remplacement»",
-      "dek": "La ministre «chargée de la Lutte contre les discriminations» n’a certes pas repris à son compte ce fatras complotiste et potentiellement criminel. Mais elle en a fait une opinion comme une autre, légitime à animer le débat public. Une abdication.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-deshonneur-daurore-berge-qui-blanchit-la-theorie-raciste-du-grand-remplacement-20260911_LULUIZVABZHF5PNRKSBMJ73G5A/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:15:23+00:00",
-      "titre": "L’Elysée veut tuer l’idée d’une nouvelle dissolution cette année",
-      "dek": "L’entourage de Macron nie vigoureusement toute velléité d’appuyer sur le bouton de la dissolution, préférant «faire confiance à la sagesse de tous plutôt qu’aux menaces».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/lelysee-veut-tuer-lidee-dune-nouvelle-dissolution-cette-annee-20260911_NNFL722WZBARLHMBL7FHNKIHMQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T09:00:05+00:00",
-      "titre": "Comptes publics : la France commence à payer la facture de la dissolution ratée",
-      "dek": "L’absence de majorité à l’Assemblée nationale depuis juin 2024 se traduit par une incapacité à baisser le déficit public. La France paraît plus vulnérable que jamais, avec des taux d’intérêt au plus haut depuis 2008.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/11/comptes-publics-la-france-commence-a-payer-la-facture-de-la-dissolution-ratee_6770553_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T08:45:39+00:00",
-      "titre": "Pour 2027, le gouvernement de Sébastien Lecornu veut croire à un léger réveil de l’économie",
-      "dek": "Dans son budget 2027, le premier ministre table sur une croissance de 1 % hors inflation, selon les annonces faites par Bercy, vendredi 11 septembre. Les derniers arbitrages sur le contenu du projet seront arrêtés jeudi. Les économistes ne croient plus à une baisse du déficit.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/11/pour-2027-le-gouvernement-de-sebastien-lecornu-veut-croire-a-un-leger-reveil-de-l-economie_6770550_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "11 Sep 2026",
-      "date_iso": "2026-09-11T08:31:04+00:00",
-      "titre": "Philippe, Attal, Pécresse… Les concerts de Céline Dion, l’occasion pour les politiques de «casser leur style un peu trop techno»",
-      "dek": "La série de shows de la star québécoise, qui débute à Paris ce samedi 12 septembre, suscite un engouement mondial. Y compris chez certains candidats à la présidentielle, qui peuvent tenter de s’emparer de la médiatisation de ces événements.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/les-concerts-de-celine-dion-loccasion-pour-les-politiques-de-casser-leur-style-un-peu-trop-techno-20260911_O4G6DJDXKBA5HKYNJISAADB4TA/"
     }
   ]
 }
