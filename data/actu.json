@@ -1,16 +1,71 @@
 {
-  "generated_at": "2026-09-13T00:08:32+00:00",
+  "generated_at": "2026-09-13T05:06:04+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T00:07:17+00:00",
+      "date_iso": "2026-09-13T05:05:42+00:00",
       "titre": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
       "dek": "Le Rassemblement national fait également sa rentrée parlementaire au Touquet, samedi, tandis que l'ancien Premier ministre Edouard Philippe, candidat à la présidentielle, se rend au festival agricole organisé par les Jeunes Agriculteurs, à Metz.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T05:04:48+00:00",
+      "titre": "En meeting à la Fête de l’Humanité, Jean-Luc Mélenchon attire les foules et plaide pour le blocage des prix",
+      "dek": "À gauche, la campagne présidentielle se joue aussi sur les pelouses de ce rendez-vous annuel. Du blocage des marges à une échelle mobile des salaires, le candidat insoumis s'est offert une tribune pour dérouler une partie de son programme pour 2027.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/en-meeting-a-la-fete-de-l-humanite-jean-luc-melenchon-attire-les-foules-et-plaide-pour-le-blocage-des-prix_8190017.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T04:20:06+00:00",
+      "titre": "Investir dans l’éducation et la transition écologique : oui, mais comment le financer ? Le débat entre deux économistes",
+      "dek": "Ils s’accordent sur les urgences mais pas sur leur financement : Antoine Foucher propose de réduire les dépenses de retraite, tandis qu’Anne-Laure Delatte prône la fin de la politique de l’offre et l’augmentation des impôts sur les entreprises et le capital. Ils en débattent dans…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/13/investir-dans-l-education-et-la-transition-ecologique-oui-mais-comment-le-financer-le-debat-entre-deux-economistes_6772195_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T04:00:10+00:00",
+      "titre": "« Le Monde » et les sondages, une longue histoire teintée de polémiques et de débats sur la place des études d’opinion dans la vie démocratique",
+      "dek": "De 1965 à aujourd’hui, le journal n’a jamais dédaigné les sondages mais s’est souvent interrogé sur la place à leur donner et la manière de construire le meilleur outil avec des partenaires extérieurs.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/13/le-monde-et-les-sondages-une-longue-histoire-teintee-de-polemiques-et-de-debats-sur-la-place-des-etudes-d-opinion-dans-la-vie-democratique_6772188_6065879.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T03:30:13+00:00",
+      "titre": "Présidentielle 2027 : à la Fête de « L’Humanité », Jean-Luc Mélenchon accentue la pression sur les autres forces de gauche",
+      "dek": "Le candidat LFI s’est livré à une démonstration de force et à un duel à distance avec Fabien Roussel, sur ce territoire traditionnel du PCF, et a tenté de convaincre de ses chances de l’emporter en cas de second tour face à Marine Le Pen.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-a-la-fete-de-l-humanite-jean-luc-melenchon-accentue-la-pression-sur-les-autres-forces-de-gauche_6772183_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T03:00:06+00:00",
+      "titre": "« Chez les Le Pen, la famille l’emporte toujours » : pour sa quatrième campagne présidentielle, Marine Le Pen se repose sur ses proches",
+      "dek": "Suivant la tradition lepéniste, la candidate du RN entame sa campagne entourée de membres de sa famille et de fidèles, tandis que les bardellistes identifiés sont écartés ou perdent en influence.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/chez-les-le-pen-la-famille-l-emporte-toujours-pour-sa-quatrieme-campagne-presidentielle-marine-le-pen-se-repose-sur-ses-proches_6772178_823448.html"
     },
     {
       "tag": "Politique",
@@ -495,61 +550,6 @@
       "dek": "Le décret, paru samedi, prévoit également une réévaluation tous les ans à partir de 2028, en janvier, de ce plafond, sur la base de l’inflation.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/12/franchises-medicales-le-plafond-annuel-passe-de-100-a-140-euros-le-1-octobre_6771228_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T07:49:46+00:00",
-      "titre": "Seine-Maritime : le conseil municipal de Sassetot-le-Mauconduit a élu son nouveau maire, après la démission du précédent condamné pour pédopornographie",
-      "dek": "Un nouveau maire pour tourner la page. Philippe Rasse a été élu vendredi à la tête de Sassetot-le-Mauconduit (Seine-Maritime), après la démission d'Eric Scarano, condamné à 18 mois de prison pour détention et diffusion d'images pédopornographiques.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/seine-maritime-le-conseil-municipal-de-sassetot-le-mauconduit-a-elu-son-nouveau-maire-apres-la-demission-du-precedent-condamne-pour-pedopornographie_8189480.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T07:22:30+00:00",
-      "titre": "\"Chacun a décidé d'être dans son couloir de natation\", déplore Marine Tondelier, candidate écologiste à l'élection présidentielle",
-      "dek": "Marine Tondelier, secrétaire nationale Les Écologistes et candidate à l'élection présidentielle de 2027, était l'invitée politique de franceinfo ce samedi 12 septembre 2026. Elle déplore la division de la gauche et espère trouver un chemin de victoire pour les électeurs de sa sen…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-interview-politique/chacun-a-decide-d-etre-dans-son-couloir-de-natation-deplore-marine-tondelier-candidate-ecologiste-a-l-election-presidentielle_8189441.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T07:21:37+00:00",
-      "titre": "Le Rassemblement national veut investir les banlieues",
-      "dek": "La philosophie est claire, il veut \"veut occuper tous les espaces, s'adresser à tous les Français\", explique un membre de l'état-major du parti.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/le-rassemblement-national-veut-investir-les-banlieues_8167361.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T05:06:30+00:00",
-      "titre": "\"Le risque pour nous, c'est de rester un second choix\" : comment Bruno Retailleau espère se relancer dans la course à la présidentielle",
-      "dek": "Le candidat LR à l'Elysée, pris en tenaille entre le vote pour Edouard Philippe et celui pour Marine Le Pen, cherche une voie de passage pour exister dans la campagne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-risque-pour-nous-c-est-de-rester-un-second-choix-comment-bruno-retailleau-espere-se-relancer-dans-la-course-a-la-presidentielle_8165129.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T04:46:00+00:00",
-      "titre": "Au RN, une campagne présidentielle dans l’improvisation générale",
-      "dek": "Porté par les difficultés de ses adversaires et des sondages flatteurs, le parti d’extrême droite semble s’en remettre à un courant favorable. Quitte à laisser ressortir de vieux travers : dilettantisme, confusion et atonie programmatique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/au-rn-une-campagne-dans-limprovisation-generale-20260912_4BZ5I3FBTFC6PMQT3ZZ7O3E3R4/"
     }
   ]
 }
