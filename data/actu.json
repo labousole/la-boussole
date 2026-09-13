@@ -1,16 +1,126 @@
 {
-  "generated_at": "2026-09-13T10:12:55+00:00",
+  "generated_at": "2026-09-13T15:06:19+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T10:12:09+00:00",
+      "date_iso": "2026-09-13T15:01:24+00:00",
       "titre": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
       "dek": "Le Rassemblement national fait également sa rentrée parlementaire au Touquet, samedi, tandis que l'ancien Premier ministre Edouard Philippe, candidat à la présidentielle, se rend au festival agricole organisé par les Jeunes Agriculteurs, à Metz.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:53:28+00:00",
+      "titre": "« Stupidité rare », « racket », « guerre des générations »… Faire contribuer les retraités à l’effort budgétaire, un sujet politiquement explosif",
+      "dek": "DÉCRYPTAGE - La piste du gouvernement pour trouver des recettes du côté des seniors dans le budget 2027, via une désindexation des pensions ou la suppression de l’abattement fiscal de 10 %, a fait bondir les oppositions.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/conjoncture/stupidite-rare-racket-guerre-des-generations-faire-contribuer-les-retraites-a-l-effort-budgetaire-un-sujet-politiquement-explosif-20260913"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:49:50+00:00",
+      "titre": "Du budget à la présidentielle : le grand débat de la gauche avec Chatelain, Panot, Peu et Vallaud",
+      "dek": "Du budget à la présidentielle : le grand débat de la gauche avec Cyrielle Chatelain, présidente du groupe Écologiste et Social à l’Assemblée nationale, Mathilde Panot, présidente du groupe Insoumis, Stéphane Peu, président du groupe GDR, Boris Vallaud, président du groupe sociali…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/les-ecologistes/du-budget-a-la-presidentielle-le-grand-debat-de-la-gauche-avec-chatelain-panot-peu-et-vallaud"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:45:25+00:00",
+      "titre": "DIRECT. \"Notre ambition est d'aller vers une société de propriétaires\" : Marine Le Pen, candidate à la présidentielle 2027, développe ses idées sur le logement",
+      "dek": "Il s'agit, pour la candidate du Rassemblement national, en tête dans les sondages, du premier véritable discours d'une campagne perturbée par des polémiques et les signes de tensions avec son numéro 2, Jordan Bardella.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:44:08+00:00",
+      "titre": "L’affaire Francis Szpiner ravive les débats sur la corruption sexuelle",
+      "dek": "Élu Les Républicains, l’avocat a été mis en examen pour avoir attribué un logement social à une femme en contrepartie de relations sexuelles, ce qu’il conteste. Depuis 2023, l’ONU enjoint à la France de prendre en compte la dimension de genre dans la corruption.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/130926/l-affaire-francis-szpiner-ravive-les-debats-sur-la-corruption-sexuelle"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:43:52+00:00",
+      "titre": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027",
+      "dek": "Le gouvernement, qui compte faire 30 milliards d'économies dans son prochain budget, envisage de toucher aux pensions de retraite, même s'il n'a pas encore tranché entre une désindexation ou sous-indexation partielle et la suppression de l'abattement fiscal de 10%.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:36:43+00:00",
+      "titre": "Fête de l’Humanité : pour Jean-Luc Mélenchon, l’occasion manquée de l’appel au rassemblement",
+      "dek": "Le représentant de LFI à la présidentielle a endossé, dans son discours, samedi 12 septembre, le costume du prof d’économie pour défendre ses positions notamment sur la dette publique. Mais il en faudra plus pour convaincre une partie de l’électorat de gauche qu’il peut être un c…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/fete-de-lhumanite-pour-jean-luc-melenchon-loccasion-manquee-de-lappel-au-rassemblement-20260913_J2ENFQXWBZGHLBI26G4LUDO7AA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:22:19+00:00",
+      "titre": "VIDEO. Marine Le Pen, candidate du RN à la présidentielle 2027, détaille une série de propositions sur le logement, qui sera \"un des grands chantiers\" de son quinquennat si elle est élue",
+      "dek": "La candidate du Rassemblement national a énuméré des propositions autour d'une grande réforme du logement, mettant en avant \"l'accession à la propriété\" et la \"priorité nationale\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T14:13:18+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Marine Le Pen, lors de son discours de rentrée politique à Hénin-Beaumont, promet que le logement sera « un des grands chantiers du quinquennat »",
+      "dek": "La candidate du RN à l’élection présidentielle 2027 a fait son premier véritable discours d’une campagne perturbée par des polémiques et les signes de tensions avec son numéro 2, Jordan Bardella.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-marine-le-pen-lors-de-son-discours-de-rentree-politique-a-henin-beaumont-promet-que-le-logement-sera-un-des-grands-chantiers-du-quinquennat_6770586_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T12:45:02+00:00",
+      "titre": "Présidentielle 2027 : Olivier Faure reproche à Hollande et Glucksmann de se tourner vers le centre droit",
+      "dek": "Le chef des socialistes, candidat à l’élection présidentielle via une primaire de l’espace social-démocrate mi-octobre, a estimé parallèlement que Jean-Luc Mélenchon était un «concurrent» mais pas un «ennemi».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-olivier-faure-reproche-a-hollande-et-glucksmann-de-se-tourner-vers-le-centre-droit-20260913_H7ZURAUZG5BIJC6TMVLCDSUMEE/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T12:22:41+00:00",
+      "titre": "Johann Chapoutot à la Fête de l’Humanité : quand les élites croient pouvoir contrôler l’extrême droite",
+      "dek": "La rédaction de l'Humanité, en la personne de notre journaliste Diego Chauvet, reçoit l'historien Johann Chapoutot, spécialiste du nazisme, sur l'Agora de la Fête de l'Humanité 2026.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/histoire/extreme-droite/grand-entretien-avec-johann-chapoutot-fete-de-lhumanite-2026"
     },
     {
       "tag": "Gauche",
@@ -50,7 +160,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T09:30:17+00:00",
+      "date_iso": "2026-09-13T09:30:09+00:00",
       "titre": "Le média d’extrême droite « Frontières » veut « infiltrer » les politiques et les journalistes",
       "dek": "Le nouvel hebdomadaire en ligne « L’Infiltré », qui sera lancé le 29 septembre, se présente comme inspiré du « Canard enchaîné » et peut compter sur la caisse de résonance des médias du groupe Bolloré.",
       "avis": null,
@@ -440,116 +550,6 @@
       "dek": "La gauche perd-elle vraiment à chaque fois qu’elle n’est représentée que par un seul candidat, comme l’a affirmé Ian Brossat, sénateur PCF, directeur de campagne de Fabien Roussel, sur franceinfo, le 7 septembre dernier ?",
       "avis": null,
       "lien": "https://www.franceinfo.fr/vrai-ou-fake/primaire-de-la-gauche-la-gauche-unie-perd-elle-toujours_8189843.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T14:22:36+00:00",
-      "titre": "Présidentielle 2027 : Marine Tondelier prêche l’union à gauche et refuse d’« appuyer sur la détente »",
-      "dek": "Lors d’un meeting au stand des Écologistes à la Fête de l’Humanité, la candidate des verts à l’élection présidentielle de 2027 a appelé au rassemblement des forces de gauche pour battre l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite-2026/presidentielles-2027-marine-tondelier-preche-lunion-a-gauche-et-refuse-d-appuyer-sur-la-detente"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T14:22:36+00:00",
-      "titre": "Présidentielles 2027 : Marine Tondelier prêche l’union à gauche et refuse d’« appuyer sur la détente »",
-      "dek": "Lors d’un meeting au stand des Écologistes à la Fête de l’Humanité, la candidate des verts à l’élection présidentielle de 2027 a appelé au rassemblement des forces de gauche pour battre l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite-2026/presidentielles-2027-marine-tondelier-preche-lunion-a-gauche-et-refuse-d-appuyer-sur-la-detente"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T14:12:06+00:00",
-      "titre": "Grève à France Inter contre le recrutement de Charles Sapin : «On a le sentiment d’être piégés»",
-      "dek": "A l’appel des syndicats, les salariés de Radio France se mettent en grève dimanche 13 et lundi 14 septembre pour protester contre le recrutement d’un journaliste de «Valeurs actuelles» comme éditorialiste.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/medias/greve-a-france-inter-contre-le-recrutement-de-charles-sapin-on-a-le-sentiment-detre-pieges-20260912_5AVKXDWJZJEJNEGKS6EWAPXUDQ/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T14:08:32+00:00",
-      "titre": "Meurtre d’Aramburú: la cour d’assises se penche sur l’itinéraire du tueur",
-      "dek": "Carrière militaire, racisme exacerbé, contexte familial à la fois aimant et distant… Un gradé de l’armée et le père du militant d’extrême droite ont éclairé, parfois à leur insu, le parcours de Loïk Le Priol, qui a tué par balles le rugbyman argentin.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/120926/meurtre-d-aramburu-la-cour-d-assises-se-penche-sur-l-itineraire-du-tueur"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T14:00:05+00:00",
-      "titre": "Les fêlures dans la vitrine de la stratégie de « dédiabolisation » du RN",
-      "dek": "L’affaire du policier municipal de Carcassonne complique un peu plus le début de campagne du parti d’extrême droite. Un « retour du refoulé », selon l’expression du chercheur Luc Rouban, qui renvoie Marine Le Pen au vieux Front national et à son fond xénophobe, raciste et antisém…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/les-felures-dans-la-vitrine-de-la-strategie-de-dediabolisation-du-rassemblement-national_6771541_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T13:30:05+00:00",
-      "titre": "Sénatoriales 2026 : une recomposition de la majorité attendue face à l’irruption de l’extrême droite",
-      "dek": "Comme souvent, les élections sénatoriales, qui se dérouleront dimanche 27 septembre, ne provoqueront pas de grands bouleversements, mais certains rééquilibrages et choix d’alliance livreront des enseignements précieux à l’approche de l’élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/senatoriales-2026-une-recomposition-de-la-majorite-attendue-face-a-l-irruption-de-l-extreme-droite_6771507_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T13:28:11+00:00",
-      "titre": "Épinglé pour une affaire de dons illicites, Reform UK croule sous l’argent des crypto milliardaires",
-      "dek": "Alors que Reform UK est dans la tourmente pour une affaire de dons illicites, deux magnats de la crypto, Ben Delo et Christopher Harborne, ont annoncé coup sur coup des dons records versés au parti d’extrême droite de Nigel Farage.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/cryptomonnaie/epingle-pour-une-affaire-de-dons-illicites-reform-uk-croule-sous-largent-des-crypto-milliardaires"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T13:00:09+00:00",
-      "titre": "« Si l’on veut se donner les moyens humains d’affronter la transition écologique, il est indispensable d’accroître le taux d’activité des jeunes et des seniors »",
-      "dek": "D’un côté, la France est loin derrière les autres pays développés en volume d’heures travaillées par habitant. De l’autre, la transition écologique demande plus de travail, constate, dans une tribune au « Monde », l’économiste Jean-Eric Hyafil.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/12/si-l-on-veut-se-donner-les-moyens-humains-d-affronter-la-transition-ecologique-il-est-indispensable-d-accroitre-le-taux-d-activite-des-jeunes-et-des-seniors_6771438_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T12:43:03+00:00",
-      "titre": "EN DIRECT, présidentielle 2027 : Bruno Retailleau défend un « combat de civilisation » devant les Jeunes Républicains ; Jean-Luc Mélenchon veut « une révolution citoyenne » à la Fête de « L’Huma »",
-      "dek": "François Ruffin, Jean-Luc Mélenchon, Fabien Roussel ou encore Marine Tondelier sont présents samedi à la Fête de « L’Huma », où chacun fera un discours. François Hollande, toujours pas candidat, se rend à la traditionnelle Fête de la rose du PS à Frangy-en-Bresse (Saône-et-Loire)…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/09/12/en-direct-presidentielle-2027-a-la-fete-de-l-humanite-francois-ruffin-appelle-a-rassembler-la-gauche-et-elargir-aux-francais_6770586_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T12:27:05+00:00",
-      "titre": "Présidentielle 2027 : François Ruffin tacle le « plafond de béton » de Jean-Luc Mélenchon",
-      "dek": "Le candidat Debout&nbsp;! à la présidentielle tenait un meeting sur le stand de son parti à la Fête de l’Humanité, samedi en début d’après-midi. Le député picard et ses amis alertent sur le sur-optimisme des insoumis.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite-2026/presidentielle-2027-francois-ruffin-tacle-le-plafond-de-beton-de-jean-luc-melenchon"
     }
   ]
 }
