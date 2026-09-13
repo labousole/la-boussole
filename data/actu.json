@@ -1,16 +1,148 @@
 {
-  "generated_at": "2026-09-13T05:06:04+00:00",
+  "generated_at": "2026-09-13T10:12:55+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T05:05:42+00:00",
+      "date_iso": "2026-09-13T10:12:09+00:00",
       "titre": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
       "dek": "Le Rassemblement national fait également sa rentrée parlementaire au Touquet, samedi, tandis que l'ancien Premier ministre Edouard Philippe, candidat à la présidentielle, se rend au festival agricole organisé par les Jeunes Agriculteurs, à Metz.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T10:11:31+00:00",
+      "titre": "Les salaires calent, les négociations aussi",
+      "dek": "Les salaires réels n’ont toujours pas retrouvé leur niveau de 2021. La faute à des négociations salariales qui patinent, et à un patronat largement épargné par le gouvernement. Les syndicats espèrent que le sujet s’imposera dans la campagne présidentielle.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/130926/les-salaires-calent-les-negociations-aussi"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T10:11:20+00:00",
+      "titre": "Erdoğan intensifie la répression en Turquie en préparation de sa réélection",
+      "dek": "Üsküdar, le quartier à Istanbul du président islamo-nationaliste Recep Tayyip Erdoğan, est devenu le laboratoire de la répression politique qui sévit dans le pays. Une manifestation d’opposants s’y est tenue samedi 12 septembre.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/130926/erdogan-intensifie-la-repression-en-turquie-en-preparation-de-sa-reelection"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T10:07:41+00:00",
+      "titre": "Le Premier ministre canadien, Mark Carney, va se rendre avec Emmanuel Macron à Saint-Pierre-et-Miquelon",
+      "dek": "\"Il s'agira de la première visite officielle d'un Premier ministre canadien dans l'archipel\", a souligné la présidence française. Emmanuel Macron y est attendu du 19 au 21 septembre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/canada/le-premier-ministre-canadien-mark-carney-va-se-rendre-avec-emmanuel-macron-a-saint-pierre-et-miquelon_8190524.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T09:30:17+00:00",
+      "titre": "Le média d’extrême droite « Frontières » veut « infiltrer » les politiques et les journalistes",
+      "dek": "Le nouvel hebdomadaire en ligne « L’Infiltré », qui sera lancé le 29 septembre, se présente comme inspiré du « Canard enchaîné » et peut compter sur la caisse de résonance des médias du groupe Bolloré.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/13/le-media-d-extreme-droite-frontieres-veut-infiltrer-les-politiques-et-les-journalistes_6772467_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T09:21:36+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : la candidate du RN Marine Le Pen attendue dans son fief d’Hénin Beaumont",
+      "dek": "La députée-candidate du Rassemblement national devrait prendre la parole autour de 14 h 30-15 heures, après un week-end de travaux à huis clos avec les parlementaires de son parti au Touquet.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-la-candidate-du-rn-marine-le-pen-attendue-dans-son-fief-d-henin-beaumont_6770586_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T08:45:00+00:00",
+      "titre": "Présidentielle, son rôle à gauche… Matthieu Pigasse face à l’Huma",
+      "dek": "Patron de médias et banquier d'affaires, Matthieu Pigasse ne cache pas ses opinions de gauche. Depuis quelques mois il multiplie les déclarations sur une potentielle entrée en politique. Sera-t-il candidat en 2027 ? Quelle est sa vision de la gauche ? On en discute avec lui dans …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/presidentielle-son-role-a-gauche-matthieu-pigasse-face-a-lhuma"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T07:55:42+00:00",
+      "titre": "\"Il faudrait peut-être un peu plus de peps\" : à Nogent-sur-Marne, Bruno Retailleau cherche à faire décoller sa campagne",
+      "dek": "À la peine dans les sondages, Bruno Retailleau cherche un nouvel élan auprès des jeunes de son parti et veut se démarquer de ses adversaires.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/il-faudrait-peut-etre-un-peu-plus-de-peps-a-nogent-sur-marne-bruno-retailleau-cherche-a-faire-decoller-sa-campagne_8190503.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T07:32:52+00:00",
+      "titre": "Vie chère et patriotisme: Mélenchon emporte la gauche à la Fête de l’Huma",
+      "dek": "Le discours du candidat insoumis à la présidentielle, qui reprenait les mots et les thèmes des communistes, a galvanisé des milliers de personnes. Une nouvelle démonstration de force, menée sur le terrain de Fabien Roussel, mais sans tensions.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/130926/vie-chere-et-patriotisme-melenchon-emporte-la-gauche-la-fete-de-l-huma"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T07:11:27+00:00",
+      "titre": "Présidentielle 2027 : à la Fête de la rose, François Hollande prône «l’union sacrée des démocrates» au-delà des partis",
+      "dek": "REPORTAGE - L’ancien président a renoué ce samedi avec cette vieille tradition socialiste de Frangy-en-Bresse (Saône-et-Loire), laissant toujours planer le doute sur ses ambitions élyséennes.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-a-la-fete-de-la-rose-francois-hollande-prone-l-union-sacree-des-democrates-au-dela-des-partis-20260913"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T06:45:16+00:00",
+      "titre": "«Levez-vous !» : face aux «destructeurs» Mélenchon et Le Pen, Retailleau appelle la «jeunesse de France» à choisir le parti de la «reconstruction»",
+      "dek": "REPORTAGE - Devant les jeunes LR, le candidat à la présidentielle promet la «rupture» dès son arrivée à l’Élysée, en visant, sans le nommer, la poursuite du «en même temps macroniste» de ses adversaires.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/levez-vous-face-aux-destructeurs-melenchon-et-le-pen-retailleau-appelle-la-jeunesse-de-france-a-choisir-le-parti-de-la-reconstruction-20260912"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T06:26:29+00:00",
+      "titre": "France Inter en grève contre le recrutement de Charles Sapin : «On a le sentiment d’être piégés»",
+      "dek": "A l’appel des syndicats, les salariés de Radio France ont commencé leur mouvement de grève de deux jours ce dimanche 13 septembre pour protester contre le recrutement d’un journaliste de «Valeurs actuelles» comme éditorialiste.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/medias/greve-a-france-inter-contre-le-recrutement-de-charles-sapin-on-a-le-sentiment-detre-pieges-20260912_5AVKXDWJZJEJNEGKS6EWAPXUDQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T06:15:45+00:00",
+      "titre": "Mise en cause par LFI, la Banque de France dément toute vente de dette publique sur les marchés",
+      "dek": "Vendredi, le député insoumis Eric Coquerel avait critiqué sur X l’institution monétaire ainsi que le gouverneur de la Banque de France, Emmanuel Moulin, qui avait jugé l’annulation de la dette proposée par Jean-Luc Mélenchon «illégale, dangereuse et inutile».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/mise-en-cause-par-lfi-la-banque-de-france-dement-toute-vente-de-dette-publique-sur-les-marches-20260913_GWQSUCE35NCZ5HB5XLGJNJIPFM/"
     },
     {
       "tag": "Politique",
@@ -50,7 +182,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T03:30:13+00:00",
+      "date_iso": "2026-09-13T03:30:03+00:00",
       "titre": "Présidentielle 2027 : à la Fête de « L’Humanité », Jean-Luc Mélenchon accentue la pression sur les autres forces de gauche",
       "dek": "Le candidat LFI s’est livré à une démonstration de force et à un duel à distance avec Fabien Roussel, sur ce territoire traditionnel du PCF, et a tenté de convaincre de ses chances de l’emporter en cas de second tour face à Marine Le Pen.",
       "avis": null,
@@ -61,7 +193,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T03:00:06+00:00",
+      "date_iso": "2026-09-13T03:00:01+00:00",
       "titre": "« Chez les Le Pen, la famille l’emporte toujours » : pour sa quatrième campagne présidentielle, Marine Le Pen se repose sur ses proches",
       "dek": "Suivant la tradition lepéniste, la candidate du RN entame sa campagne entourée de membres de sa famille et de fidèles, tandis que les bardellistes identifiés sont écartés ou perdent en influence.",
       "avis": null,
@@ -172,7 +304,7 @@
       "source": "L'Humanité – Politique",
       "date": "12 Sep 2026",
       "date_iso": "2026-09-12T16:43:08+00:00",
-      "titre": "« Nous sommes prêts à gouverner » : à la Fête de l’Humanité, Jean-Luc Mélenchon s’y voit déjà",
+      "titre": "« Nous sommes prêts à gouverner » : à la Fête de l’Humanité, Jean-Luc Mélenchon galvanise ses troupes et se projette au pouvoir",
       "dek": "Devant une foule acquise à ses idées, Jean-Luc Mélenchon, depuis le stand de la France Insoumise, a martelé sa proposition de geler la dette de la France détenue par la BCE, bien décidé à ne pas céder sur le terrain économique. Le candidat à la présidentielle veut croire à sa vic…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/election-presidentielle/nous-sommes-prets-a-gouverner-a-la-fete-de-lhumanite-jean-luc-melenchon-sy-voit-deja"
@@ -242,17 +374,6 @@
       "dek": "La candidate du RN estime qu'un président de la République pourrait modifier plus rapidement un budget déjà existant. Le Premier ministre, Sébastien Lecornu, dévoilera sa copie budgétaire le 30 septembre.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-prefere-un-budget-imparfait-operationnel-avant-la-presidentielle-plutot-qu-une-loi-speciale_8189900.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T15:50:21+00:00",
-      "titre": "«Levez-vous !» : face aux «destructeurs» Mélenchon et Le Pen, Retailleau appelle la «jeunesse de France» à choisir le parti de la «reconstruction»",
-      "dek": "REPORTAGE - Devant les jeunes LR, le candidat à la présidentielle promet la «rupture» dès son arrivée à l’Élysée, en visant, sans le nommer, la poursuite du «en même temps macroniste» de ses adversaires.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/levez-vous-face-aux-destructeurs-melenchon-et-le-pen-retailleau-appelle-la-jeunesse-de-france-a-choisir-le-parti-de-la-reconstruction-20260912"
     },
     {
       "tag": "Politique",
@@ -429,127 +550,6 @@
       "dek": "Le candidat Debout&nbsp;! à la présidentielle tenait un meeting sur le stand de son parti à la Fête de l’Humanité, samedi en début d’après-midi. Le député picard et ses amis alertent sur le sur-optimisme des insoumis.",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/fete-de-lhumanite-2026/presidentielle-2027-francois-ruffin-tacle-le-plafond-de-beton-de-jean-luc-melenchon"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T12:00:30+00:00",
-      "titre": "Le gouvernement veut imposer le casque aux utilisateurs de trottinettes électriques mais peine à étendre l’obligation aux cyclistes",
-      "dek": "Les arrêtés préfectoraux se succèdent pour contraindre les conducteurs de trottinette à se protéger la tête. Du côté des cyclistes, les associations estiment que cette mesure est contre-productive et qu’elle ne protégerait pas les utilisateurs de vélo dans la majorité des acciden…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/12/le-gouvernement-veut-imposer-le-casque-aux-utilisateurs-de-trottinettes-electriques-mais-peine-a-etendre-l-obligation-aux-cyclistes_6771400_3234.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T11:22:12+00:00",
-      "titre": "«Nous ne serons jamais macronistes !» : au Campus des Jeunes LR, les militants attendent avec «confiance» le discours de Bruno Retailleau",
-      "dek": "REPORTAGE - À Nogent-sur-Marne ce samedi matin, les militants regardent l’horizon 2027 et soutiennent leur candidat à la présidentielle sur une ligne d’indépendance assumée à droite, loin d’un bloc central jugé responsable de «faillites».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/nous-ne-serons-jamais-macronistes-au-campus-des-jeunes-lr-les-militants-attendent-avec-confiance-le-discours-de-bruno-retailleau-20260912"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T11:13:06+00:00",
-      "titre": "Carburants : \"il faut baisser la fiscalité, on ne peut pas laisser un pays s'asphyxier\"",
-      "dek": "Face à la hausse des carburants, il faut \"baisser la fiscalité\" assure Thomas Ménagé. Le porte-parole du RN, invité du \"8h30 franceinfo\", rappelle que son parti propose \"une baisse de la TVA\" et \"la suppression de la hausse des accises (ex-TICPE)\". Une mesure qui coûterait \"12 mi…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-il-faut-baisser-la-fiscalite-on-ne-peut-pas-laisser-un-pays-s-asphyxier_8189711.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T10:11:08+00:00",
-      "titre": "Le front antifasciste va-t-il l’emporter ? Je parie que oui !",
-      "dek": "Alors que le Rassemblement national n’a jamais été aussi proche du pouvoir, des appels se multiplient pour un front populaire et antifasciste en 2027. Cela va-t-il réussir&#160;? Je parie que oui&#160;! Dans les années 1930, le patronat et la bourgeoisie ont préféré l’ordre autor…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/chronique/le-front-antifasciste-va-t-il-lemporter-je-parie-que-oui"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T09:34:57+00:00",
-      "titre": "Élections en Suède: droite et extrême droite jouent leur maintien au pouvoir",
-      "dek": "Dimanche 13 septembre, le Parlement de Stockholm sera entièrement renouvelé. Rejetés dans l’opposition il y a quatre ans, les sociaux-démocrates plaident pour l’alternance. Sans clarifier le type de coalition qu’ils formeraient, ni porter un agenda véritablement transformateur.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/120926/elections-en-suede-droite-et-extreme-droite-jouent-leur-maintien-au-pouvoir"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T09:22:12+00:00",
-      "titre": "À la Fête de l’Humanité, les sympathisants de gauche partagés entre pessimisme et espoir avant 2027",
-      "dek": "La Fête de l'Humanité se tient tout le week-end en région parisienne, à l'occasion de la rentrée politique du Parti communiste français. La présidentielle de 2027 est déjà dans toutes les têtes, dans un contexte où le Rassemblement national est donné largement en tête du premier …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/a-la-fete-de-l-humanite-les-sympathisants-de-gauche-partages-entre-pessimisme-et-espoir-avant-2027_8189516.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T08:45:11+00:00",
-      "titre": "Le piège se referme sur l’économie française",
-      "dek": "La France doit investir davantage pour financer sa réindustrialisation et s’adapter au changement climatique, tout en réduisant un déficit public qui rogne ses marges de manœuvre. Mais les débats sur le budget 2027 et l’élection présidentielle compliquent cette équation.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/le-piege-se-referme-sur-l-economie-francaise_6771262_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T08:37:37+00:00",
-      "titre": "«On a fait toute notre vie ici»: la surprise et l’inquiétude des «gens du voyage» installés sur le futur parc Dragon Ball",
-      "dek": "Des centaines de personnes vivent sur le terrain choisi pour le projet de parc d’attractions porté par Emmanuel Macron et l’Arabie saoudite. Les autorités assurent que la communauté, qui a passé neuf ans sur ce site devenu «presque un village», va être relocalisée au sein de l’ag…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/120926/fait-toute-notre-vie-ici-la-surprise-et-l-inquietude-des-gens-du-voyage-installes-sur-le-futur-parc-dragon"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T08:36:59+00:00",
-      "titre": "EN DIRECT, présidentielle 2027 : Jean-Luc Mélenchon et Fabien Roussel à la Fête de « L’Huma » ; Bruno Retailleau avec les Jeunes Républicains… Suivez le déplacement des candidats",
-      "dek": "A gauche, l’ancien président socialiste François Hollande, toujours pas candidat mais plus que jamais en campagne, se rendra lui à Frangy-en-Bresse (Saône-et-Loire), pour la traditionnelle Fête de la rose du PS. Les députés RN se retrouveront eux au Touquet, samedi.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/09/12/en-direct-presidentielle-2027-jean-luc-melenchon-et-fabien-roussel-a-la-fete-de-l-huma-bruno-retailleau-avec-les-jeunes-lr-suivez-le-deplacement-des-candidats_6770586_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T08:29:53+00:00",
-      "titre": "Prix du carburant, budget, présidentielle... Le \"8h30 franceinfo\" de Thomas Ménagé",
-      "dek": "Le député du Loiret et porte-parole du Rassemblement national était l'invité du \"8h30 franceinfo\", samedi 12 septembre 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/prix-du-carburant-budget-presidentielle-le-8h30-franceinfo-de-thomas-menage_8167418.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Sep 2026",
-      "date_iso": "2026-09-12T08:13:35+00:00",
-      "titre": "Franchises médicales : le plafond annuel passe de 100 à 140 euros le 1ᵉʳ octobre",
-      "dek": "Le décret, paru samedi, prévoit également une réévaluation tous les ans à partir de 2028, en janvier, de ce plafond, sur la base de l’inflation.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/12/franchises-medicales-le-plafond-annuel-passe-de-100-a-140-euros-le-1-octobre_6771228_823448.html"
     }
   ]
 }
