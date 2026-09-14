@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-13T20:06:19+00:00",
+  "generated_at": "2026-09-14T00:09:23+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T20:00:07+00:00",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T00:05:43+00:00",
       "titre": "Manuel Bompard, coordinateur de La France insoumise, répète que son parti \"censurera le budget\"",
       "dek": "Le député des Bouches-du-Rhône est l'invité de l'émission politique \"Le Grand Enjeu\" sur franceinfo et \"ICI\", dimanche.",
       "avis": null,
@@ -16,12 +16,23 @@
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T20:00:07+00:00",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T00:05:43+00:00",
       "titre": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
       "dek": "Le Rassemblement national fait également sa rentrée parlementaire au Touquet, samedi, tandis que l'ancien Premier ministre Edouard Philippe, candidat à la présidentielle, se rend au festival agricole organisé par les Jeunes Agriculteurs, à Metz.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Sep 2026",
+      "date_iso": "2026-09-13T20:42:40+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont et annonce un grand plan logement",
+      "dek": "La candidate du RN à l’élection présidentielle 2027 a fait dimanche son premier véritable discours de campagne dans son fief d’Hénin-Beaumont.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-marine-le-pen-fait-sa-rentree-a-henin-beaumont-et-annonce-un-grand-plan-logement_6770586_823448.html"
     },
     {
       "tag": "Politique",
@@ -215,9 +226,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:26:18+00:00",
+      "date_iso": "2026-09-13T16:26:15+00:00",
       "titre": "En images : le premier discours de campagne présidentielle de Marine Le Pen",
-      "dek": "C’est à Hénin-Beaumont que la candidate du Rassemblement national à l’élection présidentielle 2027 a donné son discours de rentrée.",
+      "dek": "C’est à Hénin-Beaumont que la candidate du Rassemblement national à l’élection présidentielle 2027 a donné dimanche son discours de rentrée.",
       "avis": null,
       "lien": "https://www.lemonde.fr/flux-video-immersif/video/2026/09/13/en-images-le-premier-discours-de-campagne-presidentielle-de-marine-le-pen_6772877_6717263.html"
     },
@@ -539,17 +550,6 @@
       "dek": "Vendredi, le député insoumis Eric Coquerel avait critiqué sur X l’institution monétaire ainsi que le gouverneur de la Banque de France, Emmanuel Moulin, qui avait jugé l’annulation de la dette proposée par Jean-Luc Mélenchon «illégale, dangereuse et inutile».",
       "avis": null,
       "lien": "https://www.liberation.fr/economie/mise-en-cause-par-lfi-la-banque-de-france-dement-toute-vente-de-dette-publique-sur-les-marches-20260913_GWQSUCE35NCZ5HB5XLGJNJIPFM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T05:04:48+00:00",
-      "titre": "En meeting à la Fête de l’Humanité, Jean-Luc Mélenchon attire les foules et plaide pour le blocage des prix",
-      "dek": "À gauche, la campagne présidentielle se joue aussi sur les pelouses de ce rendez-vous annuel. Du blocage des marges à une échelle mobile des salaires, le candidat insoumis s'est offert une tribune pour dérouler une partie de son programme pour 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/en-meeting-a-la-fete-de-l-humanite-jean-luc-melenchon-attire-les-foules-et-plaide-pour-le-blocage-des-prix_8190017.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
