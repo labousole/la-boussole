@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-14T00:09:23+00:00",
+  "generated_at": "2026-09-14T05:05:56+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T00:05:43+00:00",
+      "date_iso": "2026-09-14T05:03:54+00:00",
       "titre": "Manuel Bompard, coordinateur de La France insoumise, répète que son parti \"censurera le budget\"",
       "dek": "Le député des Bouches-du-Rhône est l'invité de l'émission politique \"Le Grand Enjeu\" sur franceinfo et \"ICI\", dimanche.",
       "avis": null,
@@ -17,11 +17,55 @@
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T00:05:43+00:00",
+      "date_iso": "2026-09-14T05:03:54+00:00",
       "titre": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
       "dek": "Le Rassemblement national fait également sa rentrée parlementaire au Touquet, samedi, tandis que l'ancien Premier ministre Edouard Philippe, candidat à la présidentielle, se rend au festival agricole organisé par les Jeunes Agriculteurs, à Metz.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T04:24:00+00:00",
+      "titre": "Pouvoir d’achat : de LFI au RN, des recettes aux ingrédients variables des candidats",
+      "dek": "Echelle mobile des salaires à gauche, fin des 35 heures à droite, «priorité nationale» sur le logement à l’extrême droite… Les postulants à la présidentielle qui se sont exprimés durant le week-end ont mis en avant diverses propositions face à la situation économique dégradée.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/pouvoir-dachat-de-lfi-au-rn-des-recettes-aux-ingredients-variables-des-candidats-20260914_O3FJRU6X65EQ3MC2KU4XDEN6DY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T04:20:03+00:00",
+      "titre": "« Une dette peut être effacée, mais les décisions économiques qui l’ont générée se paient toujours d’une façon ou d’une autre »",
+      "dek": "Jean-Luc Mélenchon a réussi à installer le thème de la dette publique dans la campagne présidentielle en proposant d’en rayer une partie. La proposition, fragile juridiquement, ne dit rien sur la façon de régler le déficit public persistant, analyse, dans sa chronique, Stéphane L…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/14/une-dette-peut-etre-effacee-mais-les-decisions-economiques-qui-l-ont-generee-se-paient-toujours-d-une-facon-ou-d-une-autre_6773360_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T03:00:07+00:00",
+      "titre": "Présidentielle 2027 : la photo de départ",
+      "dek": "La première enquête électorale française du « Monde » marque la rentrée politique et le début de la campagne en vue de l’élection présidentielle. Dotée d’un panel extrêmement solide, elle permet d’envisager divers scénarios, dont tous révèlent la course en tête menée par Marine L…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/podcasts/article/2026/09/14/presidentielle-2027-la-photo-de-depart_6773250_5463015.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T02:48:30+00:00",
+      "titre": "REPORTAGE. \"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022",
+      "dek": "La candidate du RN a effectué sa rentrée politique dimanche dans son fief du Pas-de-Calais. Elle a choisi d'évoquer la question du logement, promettant de continuer à parler de pouvoir d'achat.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-nous-nous-devons-plus-que-jamais-de-mener-la-bataille-sociale-en-meeting-a-henin-beaumont-marine-le-pen-tente-de-retrouver-les-accents-de-sa-campagne-presidentielle-de-2022_8189702.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -74,7 +118,7 @@
       "date": "13 Sep 2026",
       "date_iso": "2026-09-13T18:05:09+00:00",
       "titre": "Présidentielle 2027 : le « fan-club » de Sarah Knafo repart en campagne pour soutenir Eric Zemmour et ses thèmes de la « remigration » et du « grand remplacement »",
-      "dek": "Plus que jamais candidat, devant une foule plus réduite que ces dernières années, le chef de Reconquête ! a lancé, dimanche, sa rentrée politique au Port-Marly par un discours aux relents xénophobes, articulé autour de l’intelligence artificielle.",
+      "dek": "Plus que jamais candidat, devant une foule plus réduite que ces dernières années, le chef de Reconquête ! a lancé, dimanche, sa rentrée politique au Port-Marly (Yvelines) par un discours aux relents xénophobes, articulé autour de l’IA.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-le-fan-club-de-sarah-knafo-repart-en-campagne-pour-soutenir-eric-zemmour-et-ses-themes-de-la-remigration-et-du-grand-remplacement_6772983_823448.html"
     },
@@ -172,7 +216,7 @@
       "source": "Le Monde – Politique",
       "date": "13 Sep 2026",
       "date_iso": "2026-09-13T17:00:09+00:00",
-      "titre": "Présidentielle 2027 : entre poussée populiste et désir de bascule politique, les ambiguïtés de la demande de rupture chez les sondés",
+      "titre": "Présidentielle 2027 : entre poussée populiste et désir de bascule politique, les ambiguïtés de la demande de rupture chez les Français",
       "dek": "La France semble de plus en plus imprégnée de sentiments qui la prédisposent à une bascule populiste, mais elle n’est pas non plus inéluctable, analyse Brice Teinturier, directeur général délégué de l’Ipsos, à partir de l’enquête électorale française réalisée pour « Le Monde » pa…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-entre-poussee-populiste-et-desir-de-bascule-politique-les-ambiguites-de-la-demande-de-rupture-chez-les-francais_6772945_823448.html"
@@ -264,17 +308,6 @@
       "dek": "Notre dessinatrice s’est rendue ce samedi 12 septembre à Nogent-sur-Marne, où le candidat de droite s’adressait aux Jeunes LR, et vous a concocté un reportage dessiné.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/coco-a-suivi-pour-vous-le-meeting-de-bruno-retailleau-20260913_SPX3TX25CJCGZIOHVEW6TNCFZI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:11:20+00:00",
-      "titre": "REPORTAGE. \"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022",
-      "dek": "La candidate du RN a effectué sa rentrée politique dimanche dans son fief du Pas-de-Calais. Elle a choisi d'évoquer la question du logement, promettant de continuer à parler de pouvoir d'achat.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-nous-nous-devons-plus-que-jamais-de-mener-la-bataille-sociale-en-meeting-a-henin-beaumont-marine-le-pen-tente-de-retrouver-les-accents-de-sa-campagne-presidentielle-de-2022_8189702.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -517,39 +550,6 @@
       "dek": "REPORTAGE - L’ancien président a renoué ce samedi avec cette vieille tradition socialiste de Frangy-en-Bresse (Saône-et-Loire), laissant toujours planer le doute sur ses ambitions élyséennes.",
       "avis": null,
       "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-a-la-fete-de-la-rose-francois-hollande-prone-l-union-sacree-des-democrates-au-dela-des-partis-20260913"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T06:45:16+00:00",
-      "titre": "«Levez-vous !» : face aux «destructeurs» Mélenchon et Le Pen, Retailleau appelle la «jeunesse de France» à choisir le parti de la «reconstruction»",
-      "dek": "REPORTAGE - Devant les jeunes LR, le candidat à la présidentielle promet la «rupture» dès son arrivée à l’Élysée, en visant, sans le nommer, la poursuite du «en même temps macroniste» de ses adversaires.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/levez-vous-face-aux-destructeurs-melenchon-et-le-pen-retailleau-appelle-la-jeunesse-de-france-a-choisir-le-parti-de-la-reconstruction-20260912"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T06:26:29+00:00",
-      "titre": "France Inter en grève contre le recrutement de Charles Sapin : «On a le sentiment d’être piégés»",
-      "dek": "A l’appel des syndicats, les salariés de Radio France ont commencé leur mouvement de grève de deux jours ce dimanche 13 septembre pour protester contre le recrutement d’un journaliste de «Valeurs actuelles» comme éditorialiste.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/medias/greve-a-france-inter-contre-le-recrutement-de-charles-sapin-on-a-le-sentiment-detre-pieges-20260912_5AVKXDWJZJEJNEGKS6EWAPXUDQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T06:15:45+00:00",
-      "titre": "Mise en cause par LFI, la Banque de France dément toute vente de dette publique sur les marchés",
-      "dek": "Vendredi, le député insoumis Eric Coquerel avait critiqué sur X l’institution monétaire ainsi que le gouverneur de la Banque de France, Emmanuel Moulin, qui avait jugé l’annulation de la dette proposée par Jean-Luc Mélenchon «illégale, dangereuse et inutile».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/mise-en-cause-par-lfi-la-banque-de-france-dement-toute-vente-de-dette-publique-sur-les-marches-20260913_GWQSUCE35NCZ5HB5XLGJNJIPFM/"
     }
   ]
 }
