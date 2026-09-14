@@ -1,16 +1,148 @@
 {
-  "generated_at": "2026-09-14T10:06:47+00:00",
+  "generated_at": "2026-09-14T15:09:15+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T10:02:19+00:00",
+      "date_iso": "2026-09-14T15:05:40+00:00",
       "titre": "Manuel Bompard, coordinateur de La France insoumise, répète que son parti \"censurera le budget\"",
       "dek": "Le député des Bouches-du-Rhône est l'invité de l'émission politique \"Le Grand Enjeu\" sur franceinfo et \"ICI\", dimanche.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T14:28:26+00:00",
+      "titre": "Municipales : l’annulation de deux victoires insoumises près de Lyon préconisée devant le tribunal administratif",
+      "dek": "L’annulation des élections à Vénissieux et Vaulx-en-Velin, deux des plus grosses prises de LFI, a été préconisée lundi 14 septembre par la rapporteure publique devant le tribunal administratif de Lyon, en raison d’irrégularités sur d’autres listes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/municipales-lannulation-de-deux-victoires-insoumises-pres-de-lyon-preconisee-devant-le-tribunal-administratif-20260914_E7DLHJICLVFVZJ6B3CK6ZHUCCA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T14:23:12+00:00",
+      "titre": "Que pensent les politiques d'une éventuelle reprise du mouvement des \"gilets jaunes\" ?",
+      "dek": "Sur les réseaux sociaux, les appels à manifester foisonnent, notamment pour la journée du 17 octobre, en raison de la hausse des prix des carburants. À huit mois de l'élection présidentielle, les partis politiques réagissent.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/que-pensent-les-politiques-d-une-eventuelle-reprise-du-mouvement-des-gilets-jaunes_8192027.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T14:15:02+00:00",
+      "titre": "Le rond-point, potentielle agora de la riposte sociale",
+      "dek": "Le peuple de la Fête de l’Humanité prouve que, décidément, tout n’est pas perdu. On le sait, le grand patronat et la bourgeoisie ont déjà fait leur choix. Emmanuel Macron prépare sa sortie, mais les élites économiques s’organisent pour perpétuer sa politique de démantèlement soci…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/le-rond-point-potentielle-agora-de-la-riposte-sociale"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T14:02:40+00:00",
+      "titre": "Présidentielle 2027 : retrouvez les résultats de la première grande enquête électorale réalisée pour « Le Monde »",
+      "dek": "Marine Le Pen est créditée d’au moins un tiers des intentions de vote dans toutes les configurations testées par la première enquête électorale publiée, dimanche, par « Le Monde ». Julie Carriat, journaliste au service Politique du « Monde », et Anne Muxel, directrice de recherch…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/14/en-direct-presidentielle-2027-suivez-les-derniers-developpements-de-la-campagne_6770586_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T13:52:23+00:00",
+      "titre": "Interdiction des réseaux sociaux aux moins de 15 ans : comment Macron a amendé son texte censuré en France pour le présenter à Bruxelles",
+      "dek": "Le président de la République a déposé ce lundi une nouvelle version de son projet de loi auprès de l’Union européenne cette fois. Un mois après la censure du premier texte par le Conseil constitutionnel français, de nouvelles modalités ont été introduites dans cette seconde prop…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/seconde-chance-a-bruxelles-pour-le-texte-de-loi-demmanuel-macron-interdisant-les-reseaux-sociaux-aux-moins-de-15-ans-20260914_AGFC4PZ4VRGLREIZUZ6KNHHWZM/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T13:28:03+00:00",
+      "titre": "« Vous ne pouvez pas imaginer comme elle est soulagée » : la nouvelle vie d’Anne Hidalgo, loin de la politique",
+      "dek": "RÉCIT - L’ex-maire socialiste de la capitale a beau avoir tiré sa révérence après un quart de siècle au sommet de la vie politique parisienne, elle est aujourd’hui rattrapée par le scandale du périscolaire. Elle sera auditionnée mardi au Sénat.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/vous-ne-pouvez-pas-imaginer-comme-elle-est-soulagee-la-nouvelle-vie-d-anne-hidalgo-loin-de-la-politique-20260914"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T13:26:07+00:00",
+      "titre": "Pourquoi LFI pourrait voir ses victoires électorales annulées à Vénissieux et Vaulx-en-Velin",
+      "dek": "La rapporteure publique a préconisé, ce lundi 14 septembre devant le tribunal administratif de Lyon, l’annulation des scrutins dans ces deux villes de la banlieue lyonnaise dirigée par les insoumis depuis mars, en raison d’irrégularités sur d'autres listes que celles de LFI. Le t…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/vaulx-en-velin/pourquoi-lfi-pourrait-voir-ses-victoires-electorales-annulees-a-venissieux-et-vaulx-en-velin"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T13:24:22+00:00",
+      "titre": "Traitement, indemnité de résidence… Combien gagnent les ministres, que Sébastien Lecornu veut mettre à la diète ?",
+      "dek": "DÉCRYPTAGE - La rémunération des membres du gouvernement cumule plusieurs avantages distincts, encadrés par des règles strictes.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/conjoncture/traitement-indemnite-de-residence-combien-gagnent-les-ministres-que-lecornu-veut-mettre-a-la-diete-20260909"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T12:52:56+00:00",
+      "titre": "« Il avait évoqué les faits en les minimisant pour ne pas nous inquiéter » : à Carcassonne, la famille de Youssef, mort 13 jours après des violences policières, veut des réponses",
+      "dek": "Violenté par des policiers lors de la Fête de la Musique, Youssef, 29 ans, est mort treize jours après. L’IGPN a été saisie après la diffusion, vendredi dernier, d’une vidéo.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/carcassonne/il-avait-evoque-les-faits-en-les-minimisant-pour-ne-pas-nous-inquieter-a-carcassonne-la-famille-de-youssef-mort-13-jours-apres-des-violences-policieres-veut-des-reponses"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T12:51:08+00:00",
+      "titre": "Jean-Luc Mélenchon dénonce des « manipulations politiques » après la demande d’annulation de deux victoires de LFI aux municipales",
+      "dek": "Lors des municipales de mars, à Vaulx-en-Velin, le député « insoumis » Abdelkader Lahmar avait battu la sortante socialiste, Hélène Geoffroy. A Vénissieux, Idir Boumertit avait conquis le bastion communiste contre la maire sortante, Michèle Picard.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/municipales-2026-l-annulation-de-deux-victoires-de-lfi-pres-de-lyon-preconisee-devant-le-tribunal-administratif_6773792_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T12:47:22+00:00",
+      "titre": "Victoire de l’extrême droite en Saxe-Anhalt: deux heures d’analyse avec Romaric Godin",
+      "dek": "Résultats, contexte économique, scénarios de coalition, répercussions à Berlin... L’émission de «Mediapart» sur Twitch revient sur les élections régionales dans ce land allemand.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/140926/victoire-de-l-extreme-droite-en-saxe-anhalt-deux-heures-d-analyse-avec-romaric-godin"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T11:05:53+00:00",
+      "titre": "Sénatoriales: face à l’offensive du RN, la droite LR oscille entre inquiétude et méthode Coué",
+      "dek": "Le Rassemblement national mise sur des transfuges de la droite pour constituer un groupe au Sénat. Une stratégie qui suscite de plus en plus d’inquiétude chez certains élus Les Républicains, témoins de l’emprise grandissante de l’extrême droite sur le terrain. La direction du par…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/140926/senatoriales-face-l-offensive-du-rn-la-droite-lr-oscille-entre-inquietude-et-methode-coue"
     },
     {
       "tag": "Gauche",
@@ -30,7 +162,7 @@
       "date": "14 Sep 2026",
       "date_iso": "2026-09-14T09:59:44+00:00",
       "titre": "Quand le député lepéniste Frédéric Falcon défendait «l’attachement du RN à la loi SRU»",
-      "dek": "Après que Marine Le Pen a annoncé, dimanche 13 septembre, son intention de supprimer le texte sur les quotas de logements sociaux, l’élu d’extrême droite, qui, en 2024, en était pourtant le partisan, a affirmé désormais avoir «évolué».",
+      "dek": "Après que Marine Le Pen a annoncé, dimanche 13 septembre, son intention de supprimer le texte sur les quotas de logements sociaux, l’élu d’extrême droite, qui, en 2024, en était pourtant le défenseur, affirme désormais avoir «évolué».",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/quand-le-depute-lepeniste-frederic-falcon-defendait-lattachement-du-rn-a-la-loi-sru-20260914_NPAFNPDCAZAJRHEBYUD466IRDQ/"
     },
@@ -418,138 +550,6 @@
       "dek": "Malgré l’hégémonie de Marine Le Pen à l’extrême droite, le polémiste se prépare à annoncer sa candidature pour la présidentielle. La numéro deux de Reconquête, Sarah Knafo, a de nouveau démontré sa popularité lors de l’université d’été du parti, les 12 et 13 septembre. Elle sera …",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/politique/130926/la-ferveur-autour-de-sarah-knafo-laisse-croire-eric-zemmour-qu-il-est-le-meilleur-candidat-pour-2027"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:24:07+00:00",
-      "titre": "Présidentielle 2027 : à Hénin-Beaumont, Marine Le Pen lance sa campagne sur le logement avec comme clé de voûte la « priorité nationale »",
-      "dek": "Du Pas-de-Calais, la candidate du Rassemblement national a tenté d’imposer une première thématique dans cette campagne avec des propositions déjà connues, notamment l’abrogation de la loi SRU.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-a-henin-beaumont-marine-le-pen-lance-sa-campagne-sur-le-logement-avec-comme-cle-de-voute-la-priorite-nationale_6772949_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:15:01+00:00",
-      "titre": "A sept mois de l’élection présidentielle de 2027, des niveaux de détestation très hauts entre les blocs politiques",
-      "dek": "Transformer l’adversaire politique en ennemi… Ce phénomène s’illustre en France à travers la forte antipathie mutuelle entre sympathisants du RN et de LFI, mesure Blanche Leridon, directrice des études France de l’Institut Montaigne.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/a-sept-mois-de-la-presidentielle-de-2027-des-niveaux-de-detestation-tres-hauts-entre-les-blocs-politiques_6772948_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:00:27+00:00",
-      "titre": "Enquête électorale présidentielle 2027 : Marine Le Pen entame la campagne sur un socle inédit au cœur d’un électorat inquiet et en colère",
-      "dek": "Dans un paysage politique marqué par la polarisation, la candidate du RN bénéficie d’intentions de vote inédites. Si Jean-Luc Mélenchon solidifie, lui aussi, sa base électorale, le jeu reste très ouvert pour les autres candidats dans un scrutin qui intéresse déjà largement des so…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/enquete-electorale-presidentielle-2027-marine-le-pen-entame-la-campagne-sur-un-socle-inedit-au-c-ur-d-un-electorat-inquiet-et-en-colere_6772946_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:00:09+00:00",
-      "titre": "Présidentielle 2027 : entre poussée populiste et désir de bascule politique, les ambiguïtés de la demande de rupture chez les Français",
-      "dek": "La France semble de plus en plus imprégnée de sentiments qui la prédisposent à une bascule populiste, mais elle n’est pas non plus inéluctable, analyse Brice Teinturier, directeur général délégué de l’Ipsos, à partir de l’enquête électorale française réalisée pour « Le Monde » pa…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-entre-poussee-populiste-et-desir-de-bascule-politique-les-ambiguites-de-la-demande-de-rupture-chez-les-francais_6772945_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:00:09+00:00",
-      "titre": "« Le Monde » et les sondages : le nombre de garde-fous que nous nous sommes imposés est sans équivalent dans la presse française",
-      "dek": "Face à la surinformation et aux analyses à court terme, « Le Monde » privilégie un dispositif rigoureux et mesuré. Un travail au long cours mené avec nos partenaires, l’Ipsos-BVA, le Cevipof, la Fondation Jean Jaurès et l’Institut Montaigne, pour décrypter les évolutions de l’éle…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/le-monde-et-les-sondages-le-nombre-de-garde-fous-que-nous-nous-sommes-imposes-est-sans-equivalent-dans-la-presse-francaise_6772943_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:47:05+00:00",
-      "titre": "Fête de l’Humanité : retour sur ces trois jours pour « retrouver une forme de joie et de bonheur dans la lutte »",
-      "dek": "À sept mois du premier tour de l’élection présidentielle, le public de la Fête de l’Humanité s’est réuni pour faire le plein d’arguments et de force. Objectif&nbsp;: barrer la route à une extrême droite qui se pense aux portes du pouvoir.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/culture-et-savoir/antifascisme/fete-de-lhumanite-retour-sur-ces-trois-jours-pour-retrouver-une-forme-de-joie-et-de-bonheur-dans-la-lutte"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:41:41+00:00",
-      "titre": "570 000 participants à la Fête de l’Humanité, France Inter en grève… Ce qu’il ne fallait pas manquer ce week-end",
-      "dek": "Pas de panique si vous avez décroché de l'actualité ce week-end, l'Humanité vous fait un récap' de ce qu'il ne fallait pas rater ces 12 et 13 septembre.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite/570-000-participants-a-la-fete-de-lhumanite-france-inter-en-greve-ce-quil-ne-fallait-pas-manquer-ce-week-end"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:40:25+00:00",
-      "titre": "Dans les Yvelines, Eric Zemmour fantasme un remplacement des immigrés par les robots",
-      "dek": "A l’occasion de sa rentrée politique au Port-Marly, le futur candidat Reconquête à la présidentielle a salué l’ouvrage de sa compagne Sarah Knafo et de nouveau vanté la «remigration».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/dans-les-yvelines-eric-zemmour-fantasme-un-remplacement-des-immigres-par-les-robots-20260913_DGYJOBNGURELBI4KA3PWU2B6B4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:26:15+00:00",
-      "titre": "En images : le premier discours de campagne présidentielle de Marine Le Pen",
-      "dek": "C’est à Hénin-Beaumont que la candidate du Rassemblement national à l’élection présidentielle 2027 a donné dimanche son discours de rentrée.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/flux-video-immersif/video/2026/09/13/en-images-le-premier-discours-de-campagne-presidentielle-de-marine-le-pen_6772877_6717263.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:25:39+00:00",
-      "titre": "À la Fête de l’Humanité, la gauche évite de s’attaquer mutuellement et affiche sa combativité face au capital",
-      "dek": "Communistes, insoumis et écologistes ont multiplié les propositions pour faire face à la crise sociale, en évitant de s’attaquer mutuellement. Les insoumis, qui espèrent encore rallier les électeurs des verts et du PCF, ont réservé leurs rares attaques au PS, apparu isolé.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite/a-la-fete-de-lhumanite-la-gauche-evite-de-sattaquer-mutuellement-et-affiche-sa-combativite-face-au-capital"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:25:20+00:00",
-      "titre": "Présidentielle 2027 : pour sa rentrée, Marine Le Pen propose de bétonner et expulser pour plus de logements",
-      "dek": "Pour sa rentrée politique à Hénin-Beaumont, la candidate à la présidentielle a axé son discours sur l’habitation, en proposant de supprimer la loi SRU, le dispositif zéro artificialisation nette, et en instaurant la préférence nationale.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/marine-le-pen/presidentielle-2027-pour-sa-rentree-marine-le-pen-propose-de-betonner-et-expulser-pour-plus-de-logements"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T16:11:50+00:00",
-      "titre": "Coco a suivi pour vous le meeting de Bruno Retailleau",
-      "dek": "Notre dessinatrice s’est rendue ce samedi 12 septembre à Nogent-sur-Marne, où le candidat de droite s’adressait aux Jeunes LR, et vous a concocté un reportage dessiné.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/coco-a-suivi-pour-vous-le-meeting-de-bruno-retailleau-20260913_SPX3TX25CJCGZIOHVEW6TNCFZI/"
     }
   ]
 }
