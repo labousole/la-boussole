@@ -1,6 +1,215 @@
 {
-  "generated_at": "2026-09-14T15:09:15+00:00",
+  "generated_at": "2026-09-14T20:06:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T19:54:53+00:00",
+      "titre": "\"Une façon de tester la solidarité\" : que signifiait la frappe d'un drone russe sur un train près de la frontière polonaise ?",
+      "dek": "Les réactions affluent après la frappe russe sur un train reliant Kiev, en Ukraine, à Varsovie, la capitale polonaise, le week-end dernier. Une nouvelle escalade, à seulement deux kilomètres de la frontière polonaise, dénoncée par l'ensemble des dirigeants européens. Quelles sera…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-facon-de-tester-la-solidarite-que-signifiait-la-frappe-d-un-drone-russe-sur-un-train-pres-de-la-frontiere-polonaise_8192519.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T18:25:23+00:00",
+      "titre": "Présidentielle 2027 : Les Ecologistes dévoilent leurs propositions pour protéger les littoraux",
+      "dek": "Dans un livret thématique d'une vingtaine de pages, le parti écologiste propose plusieurs dizaines de mesures liées à la préservation des zones côtières.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-les-ecologistes-devoilent-leurs-propositions-pour-proteger-les-littoraux_8192429.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T18:00:10+00:00",
+      "titre": "Alain Madelin et Jean-Philippe Feldman : « La souveraineté populaire peut et doit être limitée, n’en déplaise aux populistes de tout poil »",
+      "dek": "Face aux attaques répétées contre l’Etat de droit de la part du candidat Les Républicains à l’élection présidentielle, Bruno Retailleau, l’ancien ministre libéral et l’avocat rappellent, dans une tribune au « Monde », que « rien n’autorise le peuple à fouler aux pieds les droits …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/14/alain-madelin-et-jean-philippe-feldman-la-souverainete-populaire-peut-et-doit-etre-limitee-n-en-deplaise-aux-populistes-de-tout-poil_6773877_3232.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T18:00:00+00:00",
+      "titre": "Budget 2027 : l’exécutif se lance dans une bataille incertaine en visant les retraités",
+      "dek": "DÉCRYPTAGE - Le gouvernement, qui cherche à freiner la croissance des dépenses publiques, veut mettre à contribution les retraités à hauteur de 6 milliards d’euros. Des consultations avec les groupes politiques sont annoncées pour débattre des diverses pistes sur la table.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/budget-2027-l-executif-se-lance-dans-une-bataille-incertaine-en-visant-les-retraites-20260914"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:53:15+00:00",
+      "titre": "Préférence nationale : sur le logement, la «lubie xénophobe» de Marine Le Pen",
+      "dek": "Les solutions de sortie de crise du logement avancées par la cheffe de file du RN servent surtout à conforter sa base électorale sur le principe de préférence nationale, selon de nombreux acteurs du secteur.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/logement/preference-nationale-sur-le-logement-la-lubie-xenophobe-de-marine-le-pen-20260914_LVAI2OVBPRBV3ELWPP6BK3RNWQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:52:16+00:00",
+      "titre": "Est-il vrai que «70 % des Français sont éligibles au parc social», mais «seulement 11 % en bénéficient», comme le dit Marine Le Pen ?",
+      "dek": "Pour défendre sa «priorité nationale» dans le logement social, la candidate d’extrême droite s’appuie sur des chiffres sans rapport avec sa revendication.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/checknews/est-il-vrai-que-70-des-francais-sont-eligibles-au-parc-social-mais-seulement-11-en-beneficient-comme-le-dit-marine-le-pen-20260914_SXW5FDHVGFEAFBZA5BO5J34LJU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:47:44+00:00",
+      "titre": "Marine Le Pen consolide son ancrage chez les retraités, son obsession en vue de la présidentielle de 2027",
+      "dek": "Le RN s’oppose aux pistes d’économie du gouvernement pour marquer son soutien aux retraités, qui lui ont jusqu’ici barré l’accès à l’Elysée. Cette défense de leur pouvoir d’achat va de pair avec un affichage de sérieux.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/marine-le-pen-consolide-son-ancrage-chez-les-retraites-son-obsession-en-vue-de-la-presidentielle-de-2027_6773875_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:36:44+00:00",
+      "titre": "Pesticides dans l’eau: le gouvernement cède aux demandes de l’agro-industrie",
+      "dek": "Selon un document obtenu par «Mediapart», le gouvernement préconise de ne déclarer «prioritaires» que les captages d’eau brute les plus pollués, soit environ 2 000 au lieu de 6 000 à 7 000 précédemment. La présence de molécules interdites ne sera plus prise en compte.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/140926/pesticides-dans-l-eau-le-gouvernement-cede-aux-demandes-de-l-agro-industrie"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:36:15+00:00",
+      "titre": "«Avec notre accord ou non, les étudiants vont continuer à utiliser les outils d’IA»",
+      "dek": "Vice-président de l’université Paris-VIII, Mehdi Ammi constate l’avancée toujours plus rapide de l’intelligence artificielle auprès du corps étudiant. Il estime que s’y opposer frontalement est peu efficace et appelle à accompagner les élèves «pour leur en faire comprendre les li…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/140926/avec-notre-accord-ou-non-les-etudiants-vont-continuer-utiliser-les-outils-d-ia"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:34:59+00:00",
+      "titre": "Fonction publique : le dispositif des ruptures conventionnelles pérennisé mais revu à la baisse",
+      "dek": "Tout en maintenant le dispositif pour les fonctionnaires, le gouvernement a modifié les montants des indemnités pouvant être versées aux agents publics. Si l’administration défend une logique de « régulation » pour éviter certains « effets d’aubaine », les syndicats y voient une …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/fonction-publique-le-dispositif-des-ruptures-conventionnelles-perennise-mais-revu-a-la-baisse_6773874_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:13:17+00:00",
+      "titre": "« La fête est finie, mais le combat ne s’arrêtera pas » : la journaliste Nassira El Moaddem nous raconte sa Fête de l’Humanité",
+      "dek": "L’Humanité a demandé à Nassira El Moaddem, journaliste à Arrêt sur images et autrice, de revenir sur ses trois jours à la Fête de l’Humanité. Elle nous confie ses inquiétudes à sept mois d’élections capitales.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite/la-fete-est-finie-mais-le-combat-ne-sarretera-pas-la-journaliste-nassira-el-moaddem-nous-raconte-sa-fete-de-lhumanite"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T17:00:00+00:00",
+      "titre": "Guillaume Tabard : « Budget 2027, et à la fin, Marine Le Pen décidera »",
+      "dek": "CONTRE-POINT - Sébastien Lecornu ne tiendra et, ce faisant, ne fera passer son budget au 49.3, qu’en étant épargné par le groupe dont il voulait le moins dépendre : le Rassemblement national.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-budget-2027-et-a-la-fin-marine-le-pen-decidera-20260914"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T16:42:12+00:00",
+      "titre": "Salaires, climat, budget… La gauche converge sur les propositions mais se divise pour la présidentielle 2027",
+      "dek": "Ils parlent d’une même urgence sociale et écologique, mais pas encore d’une même stratégie. À la Fête de l’Humanité, le débat entre insoumis, socialistes, écologistes et communistes a dessiné les contours d’une gauche aux propositions proches mais divisée sur 2027.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/agoras-de-lhumanite/salaires-climat-budget-la-gauche-proche-sur-ses-propositions-mais-encore-divisee-pour-la-presidentielle-2027"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T16:29:39+00:00",
+      "titre": "« Une lubie xénophobe » : les propositions sur le logement de Marine Le Pen suscitent un tollé auprès de responsables politiques et d’associations",
+      "dek": "La priorité nationale dans le logement social et la suppression de la loi SRU proposées dimanche par la candidate du Rassemblement national inquiètent des responsables politiques de gauche et de droite et des associations.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/une-lubie-xenophobe-les-propositions-sur-le-logement-de-marine-le-pen-suscitent-un-tolle_6773868_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T16:18:43+00:00",
+      "titre": "Présidentielle 2027 : ces sondages qui rendent fous les candidats, par Denis Pingaud",
+      "dek": "A plus de six mois du scrutin, les candidats devraient se méfier des inflexions apparentes de l’opinion. On préfère d’ailleurs parler de «disposition de vote» plutôt que d’«intention» des sondés, pour témoigner d’une affinité politique plutôt que d’une conviction d’isoloir.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/presidentielle-2027-ces-sondages-qui-rendent-fous-les-candidats-par-denis-pingaud-20260914_MQJGN3ZPTFFQ5EJ2CQFENV7QUU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T15:24:56+00:00",
+      "titre": "Municipales : l’annulation de deux victoires insoumises près de Lyon préconisée devant le tribunal administratif",
+      "dek": "L’annulation des élections à Vénissieux et Vaulx-en-Velin, deux des plus grosses prises de LFI, a été préconisée lundi 14 septembre par la rapporteure publique devant le tribunal administratif de Lyon, en raison d’irrégularités sur d’autres listes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/municipales-lannulation-de-deux-victoires-insoumises-pres-de-lyon-preconisee-devant-le-tribunal-administratif-20260914_E7DLHJICLVFVZJ6B3CK6ZHUCCA/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T15:18:49+00:00",
+      "titre": "Face aux menaces d’apocalypse économique, l’Iran ne cède rien",
+      "dek": "Ni les bombes ni les missiles n’ayant fait plier la République islamique, l’administration Trump s’emploie à l’étouffer avec «la plus grande offensive financière jamais mobilisée». Une opération qui promet de rendre le quotidien encore plus difficile, à défaut de faire chuter le …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/140926/face-aux-menaces-d-apocalypse-economique-l-iran-ne-cede-rien"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T15:13:16+00:00",
+      "titre": "\"J'entends cette colère\" : que pensent les politiques d'une éventuelle reprise du mouvement des \"gilets jaunes\" ?",
+      "dek": "Sur les réseaux sociaux, les appels à manifester foisonnent, notamment pour la journée du 17 octobre, en raison de la hausse des prix des carburants. À huit mois de l'élection présidentielle, les partis politiques réagissent.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/que-pensent-les-politiques-d-une-eventuelle-reprise-du-mouvement-des-gilets-jaunes_8192027.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Sep 2026",
+      "date_iso": "2026-09-14T15:06:36+00:00",
+      "titre": "Sénatoriales 2026 : la présence active sur le terrain des candidats, argument décisif pour les grands électeurs",
+      "dek": "De nombreux maires rappellent l’importance du sénateur pour la vie de leur commune, avant le scrutin du 27 septembre. L’étiquette politique ne sera pas le seul moteur de leur vote.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/senatoriales-2026-la-presence-active-sur-le-terrain-des-candidats-argument-decisif-pour-les-grands-electeurs_6773850_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,17 +220,6 @@
       "dek": "Le député des Bouches-du-Rhône est l'invité de l'émission politique \"Le Grand Enjeu\" sur franceinfo et \"ICI\", dimanche.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T14:28:26+00:00",
-      "titre": "Municipales : l’annulation de deux victoires insoumises près de Lyon préconisée devant le tribunal administratif",
-      "dek": "L’annulation des élections à Vénissieux et Vaulx-en-Velin, deux des plus grosses prises de LFI, a été préconisée lundi 14 septembre par la rapporteure publique devant le tribunal administratif de Lyon, en raison d’irrégularités sur d’autres listes.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/municipales-lannulation-de-deux-victoires-insoumises-pres-de-lyon-preconisee-devant-le-tribunal-administratif-20260914_E7DLHJICLVFVZJ6B3CK6ZHUCCA/"
     },
     {
       "tag": "Politique",
@@ -85,7 +283,7 @@
       "date": "14 Sep 2026",
       "date_iso": "2026-09-14T13:26:07+00:00",
       "titre": "Pourquoi LFI pourrait voir ses victoires électorales annulées à Vénissieux et Vaulx-en-Velin",
-      "dek": "La rapporteure publique a préconisé, ce lundi 14 septembre devant le tribunal administratif de Lyon, l’annulation des scrutins dans ces deux villes de la banlieue lyonnaise dirigée par les insoumis depuis mars, en raison d’irrégularités sur d'autres listes que celles de LFI. Le t…",
+      "dek": "La rapporteure publique a préconisé, ce lundi 14&nbsp;septembre devant le tribunal administratif de Lyon, l’annulation des scrutins dans ces deux villes de la banlieue lyonnaise dirigée par les insoumis depuis mars, en raison d’irrégularités sur d'autres listes que celles de LFI.…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/vaulx-en-velin/pourquoi-lfi-pourrait-voir-ses-victoires-electorales-annulees-a-venissieux-et-vaulx-en-velin"
     },
@@ -106,8 +304,8 @@
       "source": "L'Humanité – Politique",
       "date": "14 Sep 2026",
       "date_iso": "2026-09-14T12:52:56+00:00",
-      "titre": "« Il avait évoqué les faits en les minimisant pour ne pas nous inquiéter » : à Carcassonne, la famille de Youssef, mort 13 jours après des violences policières, veut des réponses",
-      "dek": "Violenté par des policiers lors de la Fête de la Musique, Youssef, 29 ans, est mort treize jours après. L’IGPN a été saisie après la diffusion, vendredi dernier, d’une vidéo.",
+      "titre": "« Il avait évoqué les faits en les minimisant pour ne pas nous inquiéter » : à Carcassonne, le frère de Youssef, mort 13 jours après des violences policières, veut des réponses",
+      "dek": "Violenté par des policiers lors de la Fête de la Musique, Youssef, 29&nbsp;ans, est mort treize jours après. L’IGPN a été saisie après la diffusion, vendredi dernier, d’une vidéo.",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/carcassonne/il-avait-evoque-les-faits-en-les-minimisant-pour-ne-pas-nous-inquieter-a-carcassonne-la-famille-de-youssef-mort-13-jours-apres-des-violences-policieres-veut-des-reponses"
     },
@@ -352,204 +550,6 @@
       "dek": "Parmi les sondés qui se sentent proches du RN et de LFI, 95 % déclarent qu’ils voteront pour le candidat de leur parti. En revanche, un tiers des partisans du PS et 45 % des sympathisants de LR déclarent qu’ils soutiendront une autre personne que celle investie par leur formation…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/14/presidentielle-2027-l-affiliation-partisane-cimente-les-bases-de-marine-le-pen-et-de-jean-luc-melenchon_6773466_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T06:16:02+00:00",
-      "titre": "L’Ukraine et la Pologne dénoncent une frappe russe sur un train à la frontière",
-      "dek": "Un drone russe a frappé la locomotive d’un train de voyageurs à 2 kilomètres de la frontière avec la Pologne, pays membre de l’Otan. «La terreur de Poutine frappe littéralement à la porte de l’Union européenne et de l’Otan», affirme le ministre des affaires étrangères ukrainien.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/140926/l-ukraine-et-la-pologne-denoncent-une-frappe-russe-sur-un-train-la-frontiere"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T06:00:08+00:00",
-      "titre": "Présidentielle 2027 : divisée, la gauche n’est peut-être pas condamnée à la marginalité",
-      "dek": "Alors que Jean-Luc Mélenchon domine les candidats sociaux-démocrates, et en attendant les inévitables surprises de la primaire socialiste début octobre, le sort de la gauche est loin d’être scellé, analyse Gilles Finchelstein, secrétaire général de la Fondation Jean Jaurès.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/presidentielle-2027-divisee-la-gauche-n-est-peut-etre-pas-condamnee-a-la-marginalite_6773432_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T06:00:00+00:00",
-      "titre": "Les nouveaux maires au défi du municipalisme – B. Bagayoko, L. Ruffin, V. Bouget, et L. Castets",
-      "dek": "La ville comme bouclier social ? Les nouveaux maires au défi du municipalisme. Avec Bally Bagayoko (maire LFI de St Denis), Vincent Bouget (maire PCF de Nîmes), Laurence Ruffin (maire écologiste de Grenoble), Lucie Castets, maire du 12è arrondissement de Paris, en direct de l'Ago…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/bally-bagayoko/les-nouveaux-maires-au-defi-du-municipalisme-b-bagayoko-l-ruffin-v-bouget-et-l-castets"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T05:03:54+00:00",
-      "titre": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
-      "dek": "Le Rassemblement national fait également sa rentrée parlementaire au Touquet, samedi, tandis que l'ancien Premier ministre Edouard Philippe, candidat à la présidentielle, se rend au festival agricole organisé par les Jeunes Agriculteurs, à Metz.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T05:00:00+00:00",
-      "titre": "Rémi Lefebvre, politiste : «LFI et Renaissance sont deux machines présidentielles qui ont une peur absolue des contre-pouvoirs»",
-      "dek": "Culte du chef, absence de démocratie interne, force numérique, flou organisationnel… Dans un ouvrage, le chercheur dresse le portrait croisé de la formation mélenchoniste et macroniste aux points de convergences bien plus nombreux qu’attendu.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/remi-lefebvre-politiste-lfi-et-renaissance-sont-deux-machines-presidentielles-qui-ont-une-peur-absolue-des-contre-pouvoirs-20260914_OQWV2H553ZGTXPXUV5LC2ZOEEU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T04:24:00+00:00",
-      "titre": "Pouvoir d’achat : de LFI au RN, des recettes aux ingrédients variables des candidats",
-      "dek": "Echelle mobile des salaires à gauche, fin des 35 heures à droite, «priorité nationale» sur le logement à l’extrême droite… Les postulants à la présidentielle qui se sont exprimés durant le week-end ont mis en avant diverses propositions face à la situation économique dégradée.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/pouvoir-dachat-de-lfi-au-rn-des-recettes-aux-ingredients-variables-des-candidats-20260914_O3FJRU6X65EQ3MC2KU4XDEN6DY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T04:20:02+00:00",
-      "titre": "« Une dette peut être effacée, mais les décisions économiques qui l’ont générée se paient toujours d’une façon ou d’une autre »",
-      "dek": "Jean-Luc Mélenchon a réussi à installer le thème de la dette publique dans la campagne présidentielle en proposant d’en annuler une partie. La proposition, fragile juridiquement, ne dit rien sur la façon de régler le déficit public persistant, analyse, dans sa chronique, Stéphane…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/14/une-dette-peut-etre-effacee-mais-les-decisions-economiques-qui-l-ont-generee-se-paient-toujours-d-une-facon-ou-d-une-autre_6773360_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T03:00:03+00:00",
-      "titre": "Présidentielle 2027 : la photo de départ",
-      "dek": "La première enquête électorale française du « Monde » marque la rentrée politique et le début de la campagne en vue de l’élection présidentielle. Dotée d’un panel extrêmement solide, elle permet d’envisager divers scénarios, dont tous révèlent la course en tête menée par Marine L…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/podcasts/article/2026/09/14/presidentielle-2027-la-photo-de-depart_6773250_5463015.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T20:42:40+00:00",
-      "titre": "EN DIRECT, présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont et annonce un grand plan logement",
-      "dek": "La candidate du RN à l’élection présidentielle 2027 a fait dimanche son premier véritable discours de campagne dans son fief d’Hénin-Beaumont.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-marine-le-pen-fait-sa-rentree-a-henin-beaumont-et-annonce-un-grand-plan-logement_6770586_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T19:57:26+00:00",
-      "titre": "Des tensions sur la ligne du RN entre Marine Le Pen et Jordan Bardella",
-      "dek": "Marine Le Pen demeure en tête des intentions de vote pour l’élection présidentielle. Dimanche 13 septembre, la candidate du RN a fait sa rentrée dans son fief d'Hénin-Beaumont, ponctuée par l’anniversaire de Jordan Bardella. France Télévisions fait le point sur le couple politiqu…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/des-tensions-sur-la-ligne-entre-marine-le-pen-et-jordan-bardella_8191121.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T19:49:07+00:00",
-      "titre": "Budget 2027 : \"Sébastien Lecornu et Marine Le Pen ont pas mal de chances de s'entendre\", estime Charles Sapin, directeur adjoint de Valeurs actuelles",
-      "dek": "Rokhaya Diallo, présidente de Palitis et éditorialiste au Guardian, et Charles Sapin, directeur adjoint de la rédaction de Valeurs actuelles, étaient les invités du Duel. Ils sont notamment revenus sur le budget 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/budget-2027-sebastien-lecornu-et-marine-le-pen-ont-pas-mal-de-chances-de-s-entendre-estime-charles-sapin-directeur-adjoint-de-valeurs-actuelles_8191148.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T19:05:21+00:00",
-      "titre": "Pouvoir d’achat : une présidentielle en zone crise",
-      "dek": "L’Insee alerte sur le décrochage de l’économie française. Un sujet dont les politiques peinent à s’emparer et qui nourrit le sentiment de déclassement. Et la colère avec ?",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/pouvoir-dachat-une-presidentielle-en-zone-crise-20260913_X7ZAUZVEJVCNVAO5SJSJC67QTQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T18:05:09+00:00",
-      "titre": "Présidentielle 2027 : le « fan-club » de Sarah Knafo repart en campagne pour soutenir Eric Zemmour et ses thèmes de la « remigration » et du « grand remplacement »",
-      "dek": "Plus que jamais candidat, devant une foule plus réduite que ces dernières années, le chef de Reconquête ! a lancé, dimanche, sa rentrée politique au Port-Marly (Yvelines) par un discours aux relents xénophobes, articulé autour de l’IA.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/13/presidentielle-2027-le-fan-club-de-sarah-knafo-repart-en-campagne-pour-soutenir-eric-zemmour-et-ses-themes-de-la-remigration-et-du-grand-remplacement_6772983_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T18:01:43+00:00",
-      "titre": "À la Fête de l’Huma, les débats stratégiques d’un peuple de gauche inquiet",
-      "dek": "\"\"Nombreux étaient les électeurs de gauche à chercher de «l’espoir» au grand rassemblement annuel du journal communiste, à quelques mois d’une présidentielle marquée par la menace de l’extrême droite. Si des voix plaident encore pour des candidatures identitaires, l’appel au vote…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/130926/la-fete-de-l-huma-les-debats-strategiques-d-un-peuple-de-gauche-inquiet"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:52:58+00:00",
-      "titre": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027",
-      "dek": "Le gouvernement reste à la recherche de 30 milliards d'euros d'économies pour réduire le déficit et la dette publics. Il envisage de mettre à contribution les retraités à hauteur de 6 milliards, sans pour autant leur faire porter \"l'effort central de ce budget\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:48:15+00:00",
-      "titre": "En meeting à Hénin-Beaumont, Marine Le Pen lance une campagne mariniste sous les yeux de Jordan Bardella",
-      "dek": "La candidate du Rassemblement national faisait dimanche 13 septembre sa rentrée politique dans sa circonscription du Pas-de-Calais, sur fond de tensions avec le président de son parti.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-meeting-a-henin-beaumont-marine-le-pen-lance-une-campagne-mariniste-sous-les-yeux-de-jordan-bardella-20260913_H4B6FJPCHRFM7MESF2C5PMINYA/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:38:20+00:00",
-      "titre": "Dans son fief, Marine Le Pen lance sa campagne après deux semaines de cacophonie",
-      "dek": "Ambiance délétère en interne, polémiques à répétition, éviction de conseillers… Alors que la campagne présidentielle du RN a commencé dans la douleur pour le parti, la candidate a fait sa rentrée officielle, dimanche 13 septembre, avec un discours sans grande nouveauté, et a annu…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/130926/dans-son-fief-marine-le-pen-lance-sa-campagne-apres-deux-semaines-de-cacophonie"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "13 Sep 2026",
-      "date_iso": "2026-09-13T17:38:13+00:00",
-      "titre": "La ferveur autour de Sarah Knafo laisse croire à Éric Zemmour qu’il est le meilleur candidat pour 2027",
-      "dek": "Malgré l’hégémonie de Marine Le Pen à l’extrême droite, le polémiste se prépare à annoncer sa candidature pour la présidentielle. La numéro deux de Reconquête, Sarah Knafo, a de nouveau démontré sa popularité lors de l’université d’été du parti, les 12 et 13 septembre. Elle sera …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/130926/la-ferveur-autour-de-sarah-knafo-laisse-croire-eric-zemmour-qu-il-est-le-meilleur-candidat-pour-2027"
     }
   ]
 }
