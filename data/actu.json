@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-15T00:08:19+00:00",
+  "generated_at": "2026-09-15T05:06:26+00:00",
   "articles": [
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T04:32:18+00:00",
+      "titre": "« Ils vont souffler le chaud et le froid pendant des semaines » : au Parlement, le début d’une bataille à suspense sur le budget",
+      "dek": "DÉCRYPTAGE - Alors que le Rassemblement national envoie des signaux positifs au gouvernement, beaucoup se méfient d’un budget « très contraint » dans lequel l’exécutif n’aura « aucune marge de manœuvre ».",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/ils-vont-souffler-le-chaud-et-le-froid-pendant-des-semaines-au-parlement-le-debut-d-une-bataille-a-suspense-sur-le-budget-20260915"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T04:15:12+00:00",
+      "titre": "Présidentielle 2027 : face à Marine Le Pen et Jean-Luc Mélenchon, les candidats de la droite et du centre persistent dans la fragmentation",
+      "dek": "Edouard Philippe, Gabriel Attal et Bruno Retailleau, tous trois prétendants à l’Elysée, sont engagés dans une guerre de position. Le climat de division qui en résulte inquiète les cadres et les élus de leurs formations politiques.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/presidentielle-2027-face-a-marine-le-pen-et-jean-luc-melenchon-les-candidats-de-la-droite-et-du-centre-persistent-dans-la-fragmentation_6774332_823448.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T04:00:00+00:00",
+      "titre": "Tests antidrogue, vacances menacées, baisse des rémunérations… Sébastien Lecornu, le shérif du gouvernement",
+      "dek": "ANALYSE - Plutôt acceptées jusqu’ici, les initiatives infantilisantes du premier ministre commencent à braquer au sein de ses troupes.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/tests-antidrogue-vacances-menacees-baisse-des-remunerations-sebastien-lecornu-le-sherif-du-gouvernement-20260915"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T03:20:04+00:00",
+      "titre": "Budget 2027 : « Attention à ne pas casser ce qui reste de croissance par une austérité trop violente ! »",
+      "dek": "Alors qu’emprunter devient de plus en plus cher du fait des taux d’intérêt pour la France, l’économiste Mathieu Plane, de l’OFCE, appelle, dans un entretien au « Monde », à un effort budgétaire étalé sur plusieurs années pour diminuer la dette.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/budget-2027-attention-a-ne-pas-casser-ce-qui-reste-de-croissance-par-une-austerite-trop-violente_6774287_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -506,50 +550,6 @@
       "dek": "La campagne présidentielle s'est poursuivie avec Marine Le Pen, qui a fait sa rentrée dans son fief d'Hénin-Beaumont (Pas-de-Calais), dimanche 13 septembre. La candidate du Rassemblement national a mis l'accent sur le logement et la priorité nationale.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-marine-le-pen-fait-sa-rentree-a-henin-beaumont_8191541.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T06:39:43+00:00",
-      "titre": "Primaire du PS : la candidature contrariée de Matthieu Pigasse",
-      "dek": "Poussé par Olivier Faure qui a ensuite affirmé que Raphaël Glucksmann ne voudrait pas de sa participation, le banquier d’affaires ne sera sans doute pas candidat. « J’ai dit, je suis prêt. Et on me dit, non, on ne veut pas de toi », a-t-il affirmé lors de la Fête de « L’Humanité …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/primaire-du-ps-la-candidature-contrariee-de-matthieu-pigasse-a-la-primaire-de-gauche_6773501_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T06:39:35+00:00",
-      "titre": "Élections en Suède: l’opposition est en mesure de faire tomber l’union des droites",
-      "dek": "Les résultats définitifs des législatives ne seront connus que mercredi. Après une nuit haletante, la coalition sortante de la droite et de l’extrême droite est en retard de trois sièges sur les partis qui souhaitent sa chute. Parmi eux, les sociaux-démocrates réalisent une contr…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/140926/elections-en-suede-l-opposition-est-en-mesure-de-faire-tomber-l-union-des-droites"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T06:30:48+00:00",
-      "titre": "Présidentielle 2027 : comment savoir si un sondage est fiable ?",
-      "dek": "La course à l’Elysée s’accélère et les études d’opinion fleurissent. Néanmoins, leur qualité est inégale. Méthode, échantillon, mode de collecte, voici les principaux critères à vérifier pour mesurer leur fiabilité.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/14/election-presidentielle-2027-comment-savoir-si-un-sondage-est-fiable_6773499_4355770.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T06:30:09+00:00",
-      "titre": "Présidentielle 2027 : l’affiliation partisane cimente les bases de Marine Le Pen et de Jean-Luc Mélenchon",
-      "dek": "Parmi les sondés qui se sentent proches du RN et de LFI, 95 % déclarent qu’ils voteront pour le candidat de leur parti. En revanche, un tiers des partisans du PS et 45 % des sympathisants de LR déclarent qu’ils soutiendront une autre personne que celle investie par leur formation…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/14/presidentielle-2027-l-affiliation-partisane-cimente-les-bases-de-marine-le-pen-et-de-jean-luc-melenchon_6773466_823448.html"
     }
   ]
 }
