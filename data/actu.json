@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-09-15T15:06:46+00:00",
+  "generated_at": "2026-09-15T20:06:36+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T18:55:30+00:00",
+      "titre": "Après Olivier Faure et Ségolène Royal, les députés Jérôme Guedj et Philippe Brun affirment pouvoir participer à la primaire socialiste",
+      "dek": "Si les parrainages sont validés par la commission d'organisation de la primaire mercredi, les quatre candidats socialistes rejoindront Raphaël Glucksmann et Emmanuel Maurel sur la ligne de départ.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/apres-olivier-faure-et-segolene-royal-les-deputes-jerome-guedj-et-philippe-brun-affirment-pouvoir-participer-a-la-primaire-socialiste_8194187.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T18:24:50+00:00",
+      "titre": "Budget 2027 : pour Sébastien Lecornu, le danger d’un RN en fourbe-fête",
+      "dek": "Alors que Marine Le Pen souhaite «un budget imparfait opérationnel avant les élections», l’hypothèse d’une non-censure du Rassemblement national se dessine. Un cadeau empoisonné pour le gouvernement qui répète ne pas vouloir négocier avec l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/budget-2027-pour-sebastien-lecornu-le-danger-dun-rn-en-fourbe-fete-20260915_4PQMKPPACNCX7OIBXTGPQAZG3U/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T18:24:35+00:00",
+      "titre": "Protestations d’innocence au procès en appel des assistants parlementaires du MoDem",
+      "dek": "Face à la cour d’appel de Paris, responsables et anciens élus du MoDem assurent qu’il n’y a jamais eu de système d’emplois fictifs mis en place au préjudice du Parlement européen.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/150926/protestations-d-innocence-au-proces-en-appel-des-assistants-parlementaires-du-modem"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T18:18:25+00:00",
+      "titre": "Scandale du périscolaire: face à des révélations embarrassantes, Hidalgo plaide un «échec collectif»",
+      "dek": "Auditionnée par la mission d’information du Sénat, mardi 15 septembre, l’ancienne maire de Paris a dû admettre que son administration avait cessé, entre 2021 et 2025, d’opérer systématiquement des signalements à la justice, à rebours de ses «consignes». «C’est plus que fâcheux», …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/150926/scandale-du-periscolaire-face-des-revelations-embarrassantes-hidalgo-plaide-un-echec-collectif"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T17:39:42+00:00",
+      "titre": "Affaire de Carcassonne: Laurent Nuñez choisit ses indignations",
+      "dek": "Si le ministre de l’intérieur a qualifié d’«inacceptables» les propos racistes enregistrés par la caméra-piéton d’un policier municipal de Carcassonne affilié au RN, il ne se montre pas toujours aussi bavard et sévère quand ses effectifs sont pointés du doigt.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/150926/affaire-de-carcassonne-laurent-nunez-choisit-ses-indignations"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T17:00:20+00:00",
+      "titre": "Emmanuel Macron lance le nouveau service militaire national avec une première cohorte de 3 000 jeunes",
+      "dek": "Le nouveau format, qui succède au service national universel, devra faire ses preuves. Notamment sur son financement et sur l’emploi des jeunes volontaires, qui pourront remplacer des militaires d’active sur des missions annexes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/emmanuel-macron-lance-le-nouveau-service-militaire-national-avec-une-premiere-cohorte-de-3-000-jeunes_6774464_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T17:00:00+00:00",
+      "titre": "Loi intégrale : « Sur certaines questions, nous ne pouvons pas faire de compromis »",
+      "dek": "Lancées avant l’été, les mobilisations autour de la loi intégrale contre les violences sexistes et sexuelles ont repris partout en France. Emmanuelle, du collectif #NousToutes, et Suzy Rojtman, du CNDF, participent à deux initiatives distinctes, qui mettent en exergue les dissens…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=506589"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +88,83 @@
       "dek": "Lancées avant l’été, les mobilisations autour de la loi intégrale contre les violences sexistes et sexuelles ont repris partout en France. Emmanuelle, du collectif #NousToutes, et Suzy Rojtman, du CNDF, participent à deux initiatives distinctes, qui mettent en exergue les dissens…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=506589"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T16:49:11+00:00",
+      "titre": "Budget 2027 : Sébastien Lecornu demande à ses ministres de ne pas augmenter les dépenses de l’Etat pour l’année à venir",
+      "dek": "Dans une lettre envoyée aux différents membres de son gouvernement, le premier ministre explique cette décision par « un nouveau choc » sur les prix de l’énergie, qui « pèse » sur les entreprises et « sur le pouvoir d’achat des Français ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/budget-2027-sebastien-lecornu-demande-a-ses-ministres-de-ne-pas-augmenter-les-depenses-de-l-etat-pour-l-annee-a-venir_6774460_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T16:39:50+00:00",
+      "titre": "Qui était Henri Fertet, ce résistant fusillé à 16 ans, sorti de l’oubli par Emmanuel Macron pour le nouveau service militaire",
+      "dek": "Arrêté à 16 ans, torturé pendant 87 jours puis exécuté en septembre 1943, le jeune Franc-Comtois avait laissé une lettre à ses parents devenue un témoignage poignant de son engagement et de son idéal pour la France.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/qui-etait-henri-fertet-ce-resistant-fusille-a-16-ans-sorti-de-loubli-par-emmanuel-macron-pour-le-nouveau-service-militaire-20260915_MDM6RQHY2JDENOP5C7ZRA3YDGQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T16:00:11+00:00",
+      "titre": "Sénatoriales 2026 : une augmentation notable du nombre de députés candidats",
+      "dek": "Trente-trois députés figurent parmi les quelque 1 600 candidats aux élections qui se tiendront le 27 septembre. Un nombre en forte hausse, dans la lignée d’une tendance déjà observée aux élections municipales de mars.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/senatoriales-2026-une-augmentation-notable-du-nombre-de-deputes-candidats_6774448_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T15:54:27+00:00",
+      "titre": "Budget 2027 : Sébastien Lecornu ne veut pas augmenter les dépenses de l’Etat, excepté pour la défense",
+      "dek": "Au cœur d’une journée rythmée par les annonces, le Premier ministre a défendu une stratégie qui, il l’espère, apaisera les marchés financiers et ses opposants politiques.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/budget-2027-sebastien-lecornu-ne-veut-pas-augmenter-les-depenses-de-letat-excepte-pour-la-defense-20260915_5P2GSFRNHJC4LPGFL6CBRYQUXY/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T15:31:56+00:00",
+      "titre": "La bataille entre Ursula von der Leyen et Kaja Kallas fragilise la diplomatie européenne",
+      "dek": "Des documents internes, consultés par «Mediapart», témoignent des ratés du cabinet de la responsable de la politique extérieure de l’Union européenne. Ses prérogatives sont en outre menacées par la présidente de la Commission, qui entend «dévorer» son administration.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/150926/la-bataille-entre-ursula-von-der-leyen-et-kaja-kallas-fragilise-la-diplomatie-europeenne"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T15:21:56+00:00",
+      "titre": "Budget 2027 : Lecornu annonce 1,5 milliard d’euros contre les violences sexistes et sexuelles et 2,6 milliards pour la protection de l’enfance",
+      "dek": "Dans une tribune publiée dans «le Monde», mardi 15 septembre, le Premier ministre annonce pour la première fois le montant qu’il entend mettre en face du projet de loi intégrale contre les violences sexistes et sexuelles.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/budget-2027-lecornu-annonce-15-milliard-deuros-contre-les-violences-sexistes-et-sexuelles-et-26-milliards-pour-la-protection-de-lenfance-20260915_3TKFJ4WFYZCGRIPP3QFY5LQN5Y/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T15:10:02+00:00",
+      "titre": "«On manque d’eau, on sèche, on crame» : des associations et des élus de gauche s’opposent aux JO 2030",
+      "dek": "Du 14 au 16 septembre, le CIO est en visite à Lyon, pour repérer les infrastructures qui devraient accueillir les Jeux olympiques d’hiver. L’occasion pour des acteurs de l’écologie de protester contre la tenue de la compétition.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/environnement/climat/on-manque-deau-on-seche-on-crame-des-associations-et-des-elus-de-gauche-sopposent-aux-jo-2030-20260915_WBSN5QM5SBD3DFUWMQY2SXWAMI/"
     },
     {
       "tag": "Gauche",
@@ -48,17 +202,6 @@
     {
       "tag": "Politique",
       "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T14:48:42+00:00",
-      "titre": "Budget 2027 : Lecornu annonce 1,5 milliard d’euros contre les violences sexistes et sexuelles et 2,6 milliards pour la protection de l’enfance",
-      "dek": "Dans une tribune publiée dans «le Monde», mardi 15 septembre, le Premier ministre annonce pour la première fois le montant qu’il entend mettre en face du projet de loi intégrale contre les violences sexistes et sexuelles.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/budget-2027-lecornu-annonce-15-milliard-deuros-contre-les-violences-sexistes-et-sexuelles-et-26-milliards-pour-la-protection-de-lenfance-20260915_3TKFJ4WFYZCGRIPP3QFY5LQN5Y/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "15 Sep 2026",
       "date_iso": "2026-09-15T14:39:57+00:00",
@@ -66,17 +209,6 @@
       "dek": "La loi solidarité et renouvellement urbain, qui fixe des quotas de logements sociaux dans deux milliers de communes urbaines, a été assouplie et attaquée ces dernières années. La candidate du Rassemblement national à la présidentielle de 2027 va plus loin, promettant de l’abroger…",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/09/15/logement-social-la-loi-sru-deja-fragilisee-dans-le-viseur-de-marine-le-pen_6774436_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T14:16:29+00:00",
-      "titre": "«On manque d’eau, on sèche, on crame» : des associations et des élus de gauche s’opposent aux JO 2030",
-      "dek": "Du 14 au 16 septembre, le CIO est en visite à Lyon, pour repérer les infrastructures qui devraient accueillir les Jeux olympiques d’hiver. L’occasion pour des acteurs de l’écologie de protester contre la tenue de la compétition.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/environnement/climat/on-manque-deau-on-seche-on-crame-des-associations-et-des-elus-de-gauche-sopposent-aux-jo-2030-20260915_WBSN5QM5SBD3DFUWMQY2SXWAMI/"
     },
     {
       "tag": "Gauche",
@@ -132,6 +264,17 @@
       "dek": "Le député du mouvement de Jean-Luc Mélenchon se défend en affirmant que «la lutte doit aussi se mener de l’intérieur». Son livre «Le Français, une langue africaine» doit être publié le 14 octobre dans la collection dirigée par la journaliste Sonia Mabrouk.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/aucun-depute-lfi-ne-devrait-publier-chez-bollore-repond-mathilde-panot-au-sujet-du-livre-daurelien-tache-chez-fayard-20260915_BQZMMGGLRNBNNEQFXOMSNRYOCY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T13:38:52+00:00",
+      "titre": "Charles Sapin à Radio France : les personnels votent une nouvelle grève le 21 septembre",
+      "dek": "Les salariés du groupe public se mobilisent contre le recrutement de Charles Sapin, directeur adjoint de la rédaction de « Valeurs actuelles ». Depuis le 30 août, il signe un édito politique de deux minutes trente le dimanche matin sur France Inter.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/15/radio-france-une-nouvelle-journee-de-greve-votee-pour-le-lundi-21-septembre_6774425_3234.html"
     },
     {
       "tag": "Politique",
@@ -407,149 +550,6 @@
       "dek": "Mathilde Panot, députée du Val-de-Marne, présidente du groupe LFI à l'Assemblée nationale",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-mathilde-panot_8171411.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T07:01:00+00:00",
-      "titre": "1936–2026 : que reste-t-il du Front Populaire ? – La Fête de l’Humanité",
-      "dek": "Congés payés, semaine de 40 heures, conventions collectives : 90 ans après la victoire de 1936, comment le Front populaire continue-t-il d'inspirer les luttes et les projets de la gauche contemporaine ? En direct de l'Agora de la Fête de l'Humanité, Ludivine Bantigny, Guillaume R…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/histoire/front-populaire/1936-2026-que-reste-t-il-du-front-populaire-la-fete-de-lhumanite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T07:00:00+00:00",
-      "titre": "Logement social : Marine Le Pen n’aime pas la loi qui vise à créer de la mixité sociale… logique",
-      "dek": "En s’attaquant à la loi SRU, la candidate d’extrême droite nourrit ce qu’elle dénonce à longueur de discours : «l’archipélisation» de la société française. Pas étonnant, le mélange social étant l’un des meilleurs remèdes aux recroquevillements identitaires dont le RN tire profit.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/logement-social-marine-le-pen-naime-pas-la-loi-qui-vise-a-creer-de-la-mixite-sociale-logique-20260915_XL7GPTZFMVDVBPM3JGMPYVJGXQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T06:10:01+00:00",
-      "titre": "Édito. Faire contribuer les retraités au budget 2027, le pari à haut risque de Sébastien Lecornu",
-      "dek": "Pour dégager 30 milliards d’euros d’économies, Sébastien Lecornu envisage de désindexer les pensions les plus élevées et de réduire l’abattement fiscal des retraités imposables. Mais toucher aux retraites reste politiquement explosif, tant cette catégorie d’électeurs se mobilise …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-faire-contribuer-les-retraites-au-budget-2027-le-pari-a-haut-risque-de-sebastien-lecornu_8171420.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T06:00:07+00:00",
-      "titre": "Gérald Darmanin, en se ralliant à Edouard Philippe pour la présidentielle, ménage son propre avenir politique",
-      "dek": "Le ministre de la justice, qui a longtemps laissé planer le doute sur sa candidature à l’Elysée, veut incarner la « droite sociale » auprès du candidat Horizons. Mais il prépare aussi la suite, quel que soit le destin de l’ancien premier ministre en mai 2027.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/presidentielle-2027-en-se-ralliant-a-edouard-philippe-gerald-darmanin-menage-son-propre-avenir-politique_6774342_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T05:30:17+00:00",
-      "titre": "Plan sécheresse: les petits maraîchers dénoncent des aides «déconnectées» de leur réalité",
-      "dek": "Rendements en chute libre, semis détruits, assurances absentes: après un été catastrophique pour leurs cultures, les maraîchers de l’Ain et de la Loire jugent les mesures annoncées par le gouvernement largement inadaptées à leur situation et s’inquiètent pour l’avenir.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/150926/plan-secheresse-les-petits-maraichers-denoncent-des-aides-deconnectees-de-leur-realite"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T05:30:13+00:00",
-      "titre": "Les assurances, même subventionnées, ne répondent pas aux besoins des agriculteurs",
-      "dek": "Le milliard d’aides promis par le gouvernement aux agriculteurs en difficulté ira en priorité à ceux qui ont souscrit une assurance. Une façon de pousser le monde agricole vers un système assurantiel privé que le ministère promeut sans succès depuis des années.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/150926/les-assurances-meme-subventionnees-ne-repondent-pas-aux-besoins-des-agriculteurs"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T05:28:58+00:00",
-      "titre": "Meurtre d’Aramburú: deux mères à la barre",
-      "dek": "La mère de la victime et celle d’un des accusés ont témoigné au procès des tueurs du rugbyman argentin. Deux récits maternels accablés par un même crime, et étayés tels un réquisitoire et une plaidoirie.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/150926/meurtre-d-aramburu-deux-meres-la-barre"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T04:32:18+00:00",
-      "titre": "« Ils vont souffler le chaud et le froid pendant des semaines » : au Parlement, le début d’une bataille à suspense sur le budget",
-      "dek": "DÉCRYPTAGE - Alors que le Rassemblement national envoie des signaux positifs au gouvernement, beaucoup se méfient d’un budget « très contraint » dans lequel l’exécutif n’aura « aucune marge de manœuvre ».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/ils-vont-souffler-le-chaud-et-le-froid-pendant-des-semaines-au-parlement-le-debut-d-une-bataille-a-suspense-sur-le-budget-20260915"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T04:15:12+00:00",
-      "titre": "Présidentielle 2027 : face à Marine Le Pen et Jean-Luc Mélenchon, les candidats de la droite et du centre persistent dans la fragmentation",
-      "dek": "Edouard Philippe, Gabriel Attal et Bruno Retailleau, tous trois prétendants à l’Elysée, sont engagés dans une guerre de position. Le climat de division qui en résulte inquiète les cadres et les élus de leurs formations politiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/presidentielle-2027-face-a-marine-le-pen-et-jean-luc-melenchon-les-candidats-de-la-droite-et-du-centre-persistent-dans-la-fragmentation_6774332_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T04:15:09+00:00",
-      "titre": "Présidentielle 2027 : Edouard Philippe, Gabriel Attal et Bruno Retailleau pris au piège de la dispersion",
-      "dek": "Les trois prétendants à l’Elysée sont engagés dans une guerre de position à droite et au centre. La fragmentation inquiète les cadres et les élus de leurs formations politiques, alors que plane la menace d’un second tour entre Marine Le Pen et Jean-Luc Mélenchon.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/presidentielle-2027-face-a-marine-le-pen-et-jean-luc-melenchon-les-candidats-de-la-droite-et-du-centre-persistent-dans-la-fragmentation_6774332_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T03:20:02+00:00",
-      "titre": "Budget 2027 : « Attention à ne pas casser ce qui reste de croissance par une austérité trop violente ! », estime l’économiste Mathieu Plane",
-      "dek": "Alors qu’emprunter devient de plus en plus cher du fait des taux d’intérêt pour la France, l’expert de l’OFCE, appelle, dans un entretien au « Monde », à un effort budgétaire étalé sur plusieurs années pour diminuer la dette.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/15/budget-2027-attention-a-ne-pas-casser-ce-qui-reste-de-croissance-par-une-austerite-trop-violente_6774287_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T20:40:31+00:00",
-      "titre": "\"Une façon de tester la solidarité\" : que signifiait la frappe d'un drone russe sur un train près de la frontière polonaise ?",
-      "dek": "Les réactions affluent après la frappe russe sur un train reliant Kiev, en Ukraine, à Varsovie, la capitale polonaise, le week-end dernier. Une nouvelle escalade, à seulement deux kilomètres de la frontière polonaise, dénoncée par l'ensemble des dirigeants européens. Quelles sera…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-facon-de-tester-la-solidarite-que-signifiait-la-frappe-d-un-drone-russe-sur-un-train-pres-de-la-frontiere-polonaise_8192519.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Sep 2026",
-      "date_iso": "2026-09-14T18:25:23+00:00",
-      "titre": "Présidentielle 2027 : Les Ecologistes dévoilent leurs propositions pour protéger les littoraux",
-      "dek": "Dans un livret thématique d'une vingtaine de pages, le parti écologiste propose plusieurs dizaines de mesures liées à la préservation des zones côtières.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-les-ecologistes-devoilent-leurs-propositions-pour-proteger-les-littoraux_8192429.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
