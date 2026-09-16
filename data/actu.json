@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-09-16T00:08:25+00:00",
+  "generated_at": "2026-09-16T05:05:45+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T05:05:36+00:00",
+      "titre": "DIRECT. Le procès de Rachida Dati pour corruption s'ouvre à Paris",
+      "dek": "L'ancienne eurodéputée, actuellement maire du 7e arrondissement de Paris, est jugée à partir de mercredi devant le tribunal correctionnel de Paris, pour corruption et trafic d'influence. Elle est renvoyée aux côtés de l'ex-PDG de Renault Carlos Ghosn, en fuite au Liban.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/rachida-dati/direct-le-proces-de-rachida-dati-pour-corruption-s-ouvre-a-paris_8194037.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T04:52:39+00:00",
+      "titre": "Présidentielle 2027 : qui sont les 6 candidats qualifiés pour la primaire socialiste ?",
+      "dek": "Les militants du Parti socialiste et de Place publique et leurs sympathisants prêts à débourser 15 euros, désigneront leur candidat les week-ends des 9-10 et 16-17 octobre. Passage en revue des prétendants qui ont obtenu leurs parrainages.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-qui-sont-les-candidats-declares-a-la-primaire-sociale-democrate-20260825_QQADNI5M5RAV5JAXOHILWCS5OA/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T04:18:00+00:00",
+      "titre": "Le média d’extrême droite « Frontières » veut jouer les infiltrés",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=506590"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T04:07:29+00:00",
+      "titre": "Six questions sur le procès pour corruption de Rachida Dati et Carlos Ghosn, ex-PDG de Renault",
+      "dek": "L'ancienne ministre, qui a perçu 900 000 euros d'honoraires de Renault-Nissan, comparaît à partir de mercredi devant le tribunal correctionnel de Paris, dans un retentissant procès pour corruption et trafic d'influence. Renvoyé devant la justice à ses côtés mais toujours en fuite…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/rachida-dati/six-questions-sur-le-proces-pour-corruption-de-rachida-dati-et-carlos-ghosn-ex-pdg-de-renault_8193776.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T04:00:31+00:00",
+      "titre": "Dette, déficits, taux d’intérêt : les graphiques pour comprendre la crise des finances publiques",
+      "dek": "« Les idées claires pour 2027 » | Est-il vraiment si urgent de s’attaquer à la question de la dette ? Voici les principaux chiffres à connaître pour débattre des finances publiques de façon éclairée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/16/dette-deficits-taux-d-interet-les-graphiques-pour-comprendre-la-crise-des-finances-publiques_6774888_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T03:39:46+00:00",
+      "titre": "Sébastien Lecornu rabote son budget 2027 et met les forces politiques sous pression",
+      "dek": "Le premier ministre demande au gouvernement un effort supplémentaire sur les dépenses de l’Etat en 2027, qu’il veut « strictement au même niveau » que celles de 2026. Et rappelle aux parlementaires que la réponse à l’affaire Lyhanna passe par l’adoption de la loi de finances.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/16/sebastien-lecornu-rabote-son-budget-2027-et-met-les-forces-politiques-sous-pression_6774818_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T03:11:00+00:00",
+      "titre": "Bruno Retailleau, l’extrême glissade de la droite",
+      "dek": "A écouter le patron de LR, son parti n’a plus de différences de valeurs ou de nature avec le Rassemblement national et – bientôt – plus aucune différence de degrés. Une mutation profonde qui permet d’affirmer qu’à la fin, le candidat est capable de placer son parti dans les pas d…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/bruno-retailleau-lextreme-glissade-de-la-droite-20260916_4EQ7U54FQVFYLOMTN5HFNVJWHA/"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -8,7 +85,7 @@
       "date": "15 Sep 2026",
       "date_iso": "2026-09-15T22:18:29+00:00",
       "titre": "Présidentielle 2027 : six candidats sur la ligne de départ de la primaire à gauche",
-      "dek": "Philippe Brun, Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal seront, a priori, candidats à la primaire qui doit désigner le candidat de l’« espace social démocrate » d’ici au 18 octobre. Tous se sont engagés à soutenir le gagnant dans la cours…",
+      "dek": "Philippe Brun, Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal seront, a priori, en lice pour la primaire qui doit désigner le candidat de l’« espace social-démocrate » d’ici au 18 octobre. Tous se sont engagés à soutenir le gagnant dans la cour…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-six-candidats-sur-la-ligne-de-depart-de-la-primaire-a-gauche_6774514_823448.html"
     },
@@ -473,83 +550,6 @@
       "dek": "Xavier Bertrand, Jean-Louis Borloo, François Hollande, Thierry Breton ou encore Bernard Cazeneuve… Nombre de candidats tournent autour du ring sans y monter. Chacun attend qu’une place se libère, écrit, dans sa chronique, Solenn de Royer, journaliste au « Monde ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/15/l-automne-s-annonce-comme-un-triangle-des-bermudes-ou-plus-d-une-ambition-presidentielle-pourrait-se-perdre_6774397_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T09:20:24+00:00",
-      "titre": "Présidentielle 2027 : dans les coulisses du nouveau QG politique de François Hollande, en campagne sans être candidat",
-      "dek": "EXCLUSIF - À sept mois du scrutin élyséen, celui qui assume de s’y «préparer» a investi un local de 90 mètres carrés dans le XIe arrondissement de Paris où ses équipes sont déjà à pied d’œuvre. Le Figaro s’est rendu sur place.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-dans-les-coulisses-du-nouveau-qg-politique-de-francois-hollande-en-campagne-sans-etre-candidat-20260915"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T08:47:53+00:00",
-      "titre": "Marine Tondelier appelle à \"décarboner l'activité portuaire\" afin de \"soutenir les pêcheurs\" qui \"crèvent avec l'augmentation du carburant\"",
-      "dek": "La candidate à l'élection présidentielle présentait mardi ses propositions concernant les littoraux, mers et océans. Des mesures qui concernent notamment les pêcheurs, victimes de la concurrence étrangère et de la hausse des prix du carburant.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/eelv/marine-tondelier-appelle-a-decarboner-l-activite-portuaire-afin-de-soutenir-les-pecheurs-qui-crevent-avec-l-augmentation-du-carburant_8193245.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T08:43:42+00:00",
-      "titre": "\"Nous censurerons quoi qu'il arrive et nous n'avons rien à discuter\", tranche Mathilde Panot, alors que le Premier ministre lance des consultations sur le budget 2027",
-      "dek": "\"Nos propositions sont connues. Nous faisons chaque année un contre-budget et le débat doit normalement avoir lieu à l'Assemblée nationale\", rappelle la présidente du groupe LFI à l'Assemblée, mardi sur franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/nous-censurerons-quoi-qu-il-arrive-et-nous-n-avons-rien-a-discuter-tranche-mathilde-panot-alors-que-le-premier-ministre-lance-des-consultations-sur-le-budget-2027_8193188.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T08:40:40+00:00",
-      "titre": "Emmanuel Macron à Orange ce mardi pour le lancement d’un service militaire nouvelle génération",
-      "dek": "Après l’échec du SNU, le président de la République vient rencontrer ce mardi sur une base aérienne du Vaucluse, la première promotion de volontaires d’un nouveau dispositif destiné aux volontaires entre 18 et 25 ans.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/emmanuel-macron-a-orange-ce-mardi-pour-le-lancement-dun-service-militaire-nouvelle-generation-20260915_IO4CHHXR75HBTI3P5DSIMZEMEU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T08:01:37+00:00",
-      "titre": "Anne Hidalgo fait part de ses « regrets immenses » à propos des violences dans le périscolaire à Paris",
-      "dek": "L’ancienne maire de Paris est auditionnée au Sénat, mardi, qui enquête sur les violences sexuelles dans le périscolaire en France. « Nos institutions ont failli », a-t-elle également affirmé.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/15/anne-hidalgo-fait-part-de-ses-regrets-immenses-a-propos-des-violences-dans-le-periscolaire-a-paris_6774353_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T07:52:50+00:00",
-      "titre": "\"Il n'y a aucun risque de pénurie, 90% des stations-service n'ont aucune difficulté d'approvisionnement\", assure Maud Bregeon, ministre chargée de l'Energie",
-      "dek": "Invitée des \"4V\" sur France 2 mardi 15 septembre, Maud Bregeon est revenue sur la hausse des prix des carburants et les difficultés d'approvisionnement rencontrées dans certaines stations-service. La porte-parole du gouvernement et ministre déléguée à l'Énergie a également évoqué…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/il-n-y-a-aucun-risque-de-penurie-et-90-des-stations-services-n-ont-aucune-difficulte-d-approvisionnement-assure-maud-bregeon-porte-parole-du-gouvernelent-et-ministre-deleguee-a-l-energie_8193146.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T07:35:27+00:00",
-      "titre": "A suivre Loïc de la Mornais : RN : un parti, deux lignes entre Le Pen et Bardella ?",
-      "dek": "Loïc de la Mornais conclut cette édition avec ses invités qui reviennent sur les tensions au sein du Rassemblement national entre Marine Le Pen et Jordan Bardella. Une séquence consacrée aux divisions au sein du parti et au parallèle avec la scission entre Jean-Marie Le Pen et Br…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-rn-un-parti-deux-lignes-entre-le-pen-et-barsella_8193110.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
