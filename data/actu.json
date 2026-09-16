@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-15T20:06:36+00:00",
+  "generated_at": "2026-09-16T00:08:25+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T22:18:29+00:00",
+      "titre": "Présidentielle 2027 : six candidats sur la ligne de départ de la primaire à gauche",
+      "dek": "Philippe Brun, Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal seront, a priori, candidats à la primaire qui doit désigner le candidat de l’« espace social démocrate » d’ici au 18 octobre. Tous se sont engagés à soutenir le gagnant dans la cours…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-six-candidats-sur-la-ligne-de-depart-de-la-primaire-a-gauche_6774514_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Sep 2026",
+      "date_iso": "2026-09-15T20:29:42+00:00",
+      "titre": "Agressions russes contre l'Europe : le ministre Jean-Noël Barrot dénonce des \"actes irresponsables\" et une agressivité \"qui s'accélère\"",
+      "dek": "À l'heure où les tensions et les provocations de la Russie se multiplient, quelle réponse la France peut-elle apporter ? Pour en parler, Jean-Noël Barrot, le ministre de l'Europe et des Affaires étrangères, est l'invité du \"20 Heures\", mardi 15 septembre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/agressions-russes-contre-l-europe-le-ministre-jean-noel-barrot-denonce-des-actes-irresponsables-et-une-agressivite-qui-s-accelere_8194340.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -61,7 +83,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T17:00:20+00:00",
+      "date_iso": "2026-09-15T17:00:07+00:00",
       "titre": "Emmanuel Macron lance le nouveau service militaire national avec une première cohorte de 3 000 jeunes",
       "dek": "Le nouveau format, qui succède au service national universel, devra faire ses preuves. Notamment sur son financement et sur l’emploi des jeunes volontaires, qui pourront remplacer des militaires d’active sur des missions annexes.",
       "avis": null,
@@ -228,7 +250,7 @@
       "date": "15 Sep 2026",
       "date_iso": "2026-09-15T14:10:51+00:00",
       "titre": "Sébastien Lecornu, premier ministre : « La mort de Lyhanna nous oblige. Nous proposerons une trajectoire pluriannuelle avec un socle de départ de 1,5 milliard d’euros contre les violences sexistes et sexuelles en 2027 »",
-      "dek": "Dans une tribune au « Monde », le premier ministre annonce pour la première fois les montants qu’il entend associer à la « loi intégrale » contre les violences sexistes et sexuelles, qui sera discutée au Parlement à l’automne 2026.",
+      "dek": "Dans une tribune au « Monde », le chef du gouvernement annonce pour la première fois les montants qu’il entend associer à la « loi intégrale » contre les violences sexistes et sexuelles, qui sera discutée au Parlement à l’automne.",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/09/15/sebastien-lecornu-premier-ministre-la-mort-de-lyhanna-nous-oblige-nous-proposerons-une-trajectoire-pluriannuelle-avec-1-5-milliard-d-euros-contre-les-violences-sexistes-et-sexuelles-des-2027_6774429_3232.html"
     },
@@ -528,28 +550,6 @@
       "dek": "Loïc de la Mornais conclut cette édition avec ses invités qui reviennent sur les tensions au sein du Rassemblement national entre Marine Le Pen et Jordan Bardella. Une séquence consacrée aux divisions au sein du parti et au parallèle avec la scission entre Jean-Marie Le Pen et Br…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-rn-un-parti-deux-lignes-entre-le-pen-et-barsella_8193110.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T07:20:24+00:00",
-      "titre": "« La rentrée de Marine Le Pen, sous le regard crispé de son numéro deux, marque sa volonté d’assurer seule le show »",
-      "dek": "La vive réaction de la candidate à l’élection présidentielle et de son clan aux ambitions affichées par Jordan Bardella, porté par sa popularité, a eu raison du mythe d’un parti normalisé, rappelle dans sa chronique Françoise Fressoz, éditorialiste au « Monde ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/15/la-rentree-de-marine-le-pen-sous-le-regard-crispe-de-son-numero-deux-marque-sa-volonte-d-assurer-seule-le-show_6774348_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "15 Sep 2026",
-      "date_iso": "2026-09-15T07:05:23+00:00",
-      "titre": "Le \"8h30 franceinfo\" de Mathilde Panot",
-      "dek": "Mathilde Panot, députée du Val-de-Marne, présidente du groupe LFI à l'Assemblée nationale",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-mathilde-panot_8171411.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
