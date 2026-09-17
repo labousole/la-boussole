@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-09-16T20:06:44+00:00",
+  "generated_at": "2026-09-17T00:08:10+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T22:28:50+00:00",
+      "titre": "Nice : Christian Estrosi visé par une enquête pour détournement de fonds publics après un signalement d’Eric Ciotti",
+      "dek": "L’affaire avait déjà fait l’objet d’une plainte de l’association Transparence citoyenne, qui avait relevé plus de 312 000 euros de frais de représentation remboursés sans justificatif au profit de l’ancien maire (Horizons), entre 2016 et 2025.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/17/nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-d-eric-ciotti_6775567_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T21:48:17+00:00",
+      "titre": "Marine Le Pen souhaite \"interdire le voile\" islamique \"de manière progressive\"",
+      "dek": "\"Nous le ferons si les Français nous en donnent mandat\", a assuré la présidente du Rassemblement national et candidate à l'élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-souhaite-interdire-le-voile-islamique-de-maniere-progressive_8196287.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T21:37:42+00:00",
+      "titre": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\"",
+      "dek": "L'avocat de Rima Hassan a demandé l'ouverture d'une information judiciaire pour \"identifier sans délai les personnes à l'origine de ces fuites et d'en comprendre les motivations\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/fausse-information-sur-rima-hassan-lfi-demande-la-demission-du-ministre-laurent-nunez-apres-les-revelations-de-complement-d-enquete_8196206.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T20:52:12+00:00",
+      "titre": "VIDEO. \"Peut-être qu'un ministre de l'Intérieur ne devrait pas dire ça\" : Laurent Nuñez a-t-il participé à alimenter des fuites sur la détention de drogue par Rima Hassan ?",
+      "dek": "En avril, plusieurs médias avaient relayé l'information erronée selon laquelle de la drogue de synthèse avait été retrouvée dans les effets personnels de l'eurodéputée LFI, alors en garde à vue. Selon \"Complément d'enquête\", qui a recueilli le témoignage de plusieurs sources, le …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/video-peut-etre-qu-un-ministre-de-l-interieur-ne-devrait-pas-dire-ca-laurent-nunez-a-t-il-participe-a-alimenter-des-fuites-sur-la-detention-de-drogue-par-rima-hassan_8191880.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T20:31:45+00:00",
+      "titre": "\"C'est un laisser-aller, un manque d'entretien…\" : de Toulouse à Cahors, la vétusté des immeubles historiques et ses conséquences",
+      "dek": "Dans plusieurs centres-villes français, des immeubles anciens se dégradent, au point parfois de menacer de s’effondrer. À Toulouse (Haute-Garonne), les signalements se multiplient et la mairie a lancé un plan qui concerne 12 700 bâtiments. Un danger pour les habitants, mais aussi…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/immobilier/c-est-un-laisser-aller-un-manque-d-entretien-de-toulouse-a-cahors-la-vetuste-des-immeubles-historiques-et-ses-consequences_8196197.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T20:09:00+00:00",
+      "titre": "Présidentielle 2027 : Philippe Brun, accusé de violences par une ancienne collaboratrice, exclu de la primaire socialiste",
+      "dek": "La primaire de la gauche se fera sans le député socialiste Philippe Brun. Accusé notamment de harcèlement et de violences physiques par une ancienne collaboratrice, il a été suspendu à titre conservatoire par son parti. Il a contre-attaqué dans l'après-midi, dénonçant un conflit …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/presidentielle-2027-philippe-brun-accuses-de-violences-par-une-ancienne-collaboratrice-exclu-de-la-primaire-socialiste_8196107.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "16 Sep 2026",
+      "date_iso": "2026-09-16T20:08:48+00:00",
+      "titre": "Procès de Rachida Dati pour corruption : l'ancienne ministre \"tendue\" et \"très concentrée\" lors de la première journée d'audience",
+      "dek": "Le procès de Rachida Dati s’est ouvert ce mercredi 16 septembre à Paris. Les premiers débats se sont concentrés sur l’absence de Carlos Ghosn, réfugié au Liban, qui réclamait le report de l’audience. Au cœur de l’affaire : les 900 000 euros perçus par Rachida Dati lorsqu’elle éta…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-pour-corruption-l-ancienne-ministre-tendue-et-tres-concentree-lors-de-la-premiere-journee-d-audience_8196101.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -8,7 +85,7 @@
       "date": "16 Sep 2026",
       "date_iso": "2026-09-16T20:00:53+00:00",
       "titre": "Christian Estrosi visé par une enquête pour détournement de fonds publics, après un signalement d’Eric Ciotti",
-      "dek": "Le maire de Nice reproche à son prédécesseur et ennemi juré l’absence de justificatifs pour une partie de ses notes de frais, un écart évalué à 312 euros par l’association Transparence citoyenne.",
+      "dek": "Le maire de Nice reproche à son prédécesseur et ennemi juré l’absence de justificatifs pour une partie de ses notes de frais, un écart évalué à 312 000 euros par l’association Transparence citoyenne.",
       "avis": null,
       "lien": "https://www.liberation.fr/societe/police-justice/christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-publics-apres-un-signalement-deric-ciotti-20260916_CMPVPGB33FDKDFJAVWEYEJSZKQ/"
     },
@@ -22,17 +99,6 @@
       "dek": "Ursula von der Leyen est destinataire d’une demande venue de Paris : Sébastien Lecornu souhaite que l’amende record de 4,6 milliards d’euros infligée à Google pour abus de position dominante soit reversée aux États membres, et ne serve pas à financer de nouvelles dépenses de l’Un…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/budget-2027-l-amende-record-infligee-par-l-europe-a-google-pourra-t-elle-alleger-les-depenses-francaises_8196179.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T19:50:47+00:00",
-      "titre": "VIDEO. \"Peut-être qu'un ministre de l'Intérieur ne devrait pas dire ça\" : Laurent Nuñez a-t-il participé à alimenter des fuites sur la détention de drogue par Rima Hassan ?",
-      "dek": "En avril, plusieurs médias avaient relayé l'information erronée selon laquelle de la drogue de synthèse avait été retrouvée dans les effets personnels de l'eurodéputée LFI, alors en garde à vue. Selon \"Complément d'enquête\", qui a recueilli le témoignage de plusieurs sources, le …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/video-peut-etre-qu-un-ministre-de-l-interieur-ne-devrait-pas-dire-ca-laurent-nunez-a-t-il-participe-a-alimenter-des-fuites-sur-la-detention-de-drogue-par-rima-hassan_8191880.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -50,7 +116,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T19:27:02+00:00",
+      "date_iso": "2026-09-16T19:26:58+00:00",
       "titre": "Prix des carburants : Sébastien Lecornu prolonge les aides ciblées jusqu’au 31 décembre",
       "dek": "Emmanuel Macron a demandé, mercredi, en conseil des ministres, une « totale mobilisation » du gouvernement sur « l’approvisionnement » et la « maîtrise des prix » des carburants.",
       "avis": null,
@@ -484,72 +550,6 @@
       "dek": "À la préfecture des Bouches-du-Rhône, les rares rendez-vous dédiés au renouvellement des titres de séjour sont systématiquement aspirés par des robots informatiques. Avant d’être revendus aux usagers désespérés.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/160926/marseille-pour-obtenir-un-rendez-vous-en-prefecture-le-marche-parallele-est-devenu-incontournable"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T10:47:29+00:00",
-      "titre": "Au tribunal, à Évreux: «La femme est juste des fesses, un sexe, des formes»",
-      "dek": "Un ancien juriste, employé du conseil départemental de l’Eure, a été condamné mardi pour avoir capturé, à leur insu et durant plusieurs années, les parties intimes de ses collègues féminines. Les enquêteurs ont pu identifier une trentaine de victimes sur plus de 14 000 fichiers n…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/160926/au-tribunal-evreux-la-femme-est-juste-des-fesses-un-sexe-des-formes"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T10:42:57+00:00",
-      "titre": "Le maire RN de Carpentras demande au préfet d'interdire une manifestation de LFI",
-      "dek": "De son côté, LFI annonce saisir la justice administrative pour obtenir une salle communale que lui a refusée la mairie.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/carpentras/le-maire-rn-de-carpentras-demande-au-prefet-d-interdire-une-manifestation-de-lfi_8195387.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T10:42:17+00:00",
-      "titre": "Laurent Pietraszewski, ex-secrétaire d’Etat chargé des retraites : « Puisque l’on veut faire les comptes entre générations, faisons-les »",
-      "dek": "L’ancien député et secrétaire d’Etat rappelle, dans une tribune au « Monde », que les retraités n’ont pas de dette à l’égard des actifs. Selon lui, si le plafonnement de l’abattement de 10 % peut être un moindre mal pour aider au financement des pensions, la sous-indexation ciblé…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/16/laurent-pietraszewski-ex-secretaire-d-etat-charge-des-retraites-puisque-l-on-veut-faire-les-comptes-entre-generations-faisons-les_6775203_3232.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T10:38:29+00:00",
-      "titre": "Programme du RN, procès du meurtre d’Aramburú, cordon sanitaire… «Mediapart» a répondu à vos questions",
-      "dek": "Lénaïg Bredoux, codirectrice éditoriale du journal, et Youmni Kezzouf, journaliste au service politique, ont répondu à vos questions sur la vie de la rédaction et sa couverture de l’extrême droite, mercredi 16 septembre, dans le cadre d’un chat.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/160926/programme-du-rn-proces-du-meurtre-d-aramburu-cordon-sanitaire-mediapart-repondu-vos-questions"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T10:29:43+00:00",
-      "titre": "Le camp Faure n’exclut pas de renouer avec LFI après la présidentielle",
-      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-camp-faure-nexclut-pas-de-renouer-avec-lfi-apres-la-presidentielle-20260916_5N2WKRU2QNGAHIQMWG2C3ROPBU/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "16 Sep 2026",
-      "date_iso": "2026-09-16T10:24:22+00:00",
-      "titre": "Primaire socialiste : Philippe Brun écarté, qui sont les cinq candidats en lice ?",
-      "dek": "Le comité d’organisation de la primaire a finalement validé mercredi matin cinq candidatures pour le premier tour qui doit se tenir les 9 et 10&nbsp;octobre. Philippe Brun a été écarté au dernier moment suite à des accusations de violences.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/olivier-faure/primaire-socialiste-philippe-brun-ecarte-qui-sont-les-cinq-candidats-en-lice"
     }
   ]
 }
