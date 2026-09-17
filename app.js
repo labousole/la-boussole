@@ -580,13 +580,53 @@ function Outils() {
   return (
     <div className="px-5 md:px-10 py-10 max-w-3xl mx-auto">
       <Eyebrow>Des outils pour les citoyens</Eyebrow>
-      <h2 className="mt-3 uppercase" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 700, fontSize: "clamp(1.8rem, 4vw, 2.4rem)", color: "var(--ink)" }}>
+
+      <h2
+        className="mt-3 uppercase"
+        style={{
+          fontFamily: "'Oswald', sans-serif",
+          fontWeight: 700,
+          fontSize: "clamp(1.8rem, 4vw, 2.4rem)",
+          color: "var(--ink)",
+        }}
+      >
         Regrouper en un seul endroit.
       </h2>
-      <div className="mt-6 space-y-5 text-[1.05rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#241f18" }}>
-        <p>Vos droits, vos démarches. Un projet de La Boussole · non affilié à l'État</p>
-        <p>Une collection d'outils gratuits pour comprendre un délai, générer le bon document et l'envoyer au bon endroit. Chaque outil fonctionne entièrement dans votre navigateur</p>
-        <p>Nous vous donnons rendez-vous ici : "https://labousole.github.io/Annuaire-Citoyen/"</p>
+
+      <div
+        className="mt-6 space-y-5 text-[1.05rem] leading-relaxed"
+        style={{
+          fontFamily: "'Source Serif 4', serif",
+          color: "#241f18",
+        }}
+      >
+        <p>
+          Vos droits, vos démarches. Un projet de La Boussole · non affilié à
+          l'État
+        </p>
+
+        <p>
+          Une collection d'outils gratuits pour comprendre un délai, générer
+          le bon document et l'envoyer au bon endroit. Chaque outil fonctionne
+          entièrement dans votre navigateur.
+        </p>
+
+        <p>
+          Nous vous donnons rendez-vous ici :{" "}
+          <a
+            href="https://labousole.github.io/Annuaire-Citoyen/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              color: "var(--ink)",
+              fontWeight: 700,
+              textDecoration: "underline",
+              textUnderlineOffset: "3px",
+            }}
+          >
+            Annuaire Citoyen
+          </a>
+        </p>
       </div>
     </div>
   );
