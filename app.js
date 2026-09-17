@@ -85,6 +85,15 @@ const CANDIDATS = [
   { nom: "Dominique de Villepin", parti: "sans étiquette", bloc: "d", statut: "pressenti", note: "Verrait dans l'actualité internationale une voie de passage." },
 ];
 
+const OUTILS = [
+  {
+    titre: "Vos droits, vos démarches",
+    dek: "Une collection d'outils gratuits pour comprendre un délai, générer le bon document et l'envoyer au bon endroit. Chaque outil fonctionne entièrement dans votre navigateur",
+    date: "Un projet de La Boussole · non affilié à l'État",
+    lien: "https://labousole.github.io/Annuaire-Citoyen/",
+  },
+];
+
 const DOSSIERS = [
   {
     titre: "L'hôpital français est-il vraiment en train de s'effondrer ?",
@@ -114,6 +123,7 @@ const NAV = [
   { id: "comparateur", label: "Comparateur" },
   { id: "boussole", label: "Testez-vous" },
   { id: "edito", label: "Édito" },
+  { id: "Outils", label: "Outils" },
 ];
 
 /* ============================================================
@@ -567,6 +577,44 @@ function Dossiers() {
             </p>
             <span className="inline-block mt-3 text-[0.85rem] font-medium" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "var(--red)" }}>
               Lire le dossier →
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function Outils() {
+  return (
+    <div className="px-5 md:px-10 py-10 max-w-4xl mx-auto">
+      <Eyebrow>Vos droits &amp; vos démarches</Eyebrow>
+      <h2 className="mt-3 uppercase" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 700, fontSize: "clamp(1.8rem, 4vw, 2.6rem)", color: "var(--ink)" }}>
+        Dossiers
+      </h2>
+      <p className="mt-3 max-w-2xl text-[0.98rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+        Une collection d'outils gratuits pour comprendre un délai, générer le bon document et l'envoyer au bon endroit.
+      </p>
+
+      <div className="mt-8 grid gap-5">
+        {Outils.map((d, i) => (
+          <a
+            key={i}
+            href={d.lien}
+            className="block p-5 transition-colors"
+            style={{ border: "1px solid var(--line)", background: "#fff" }}
+          >
+            <span className="text-[11px] uppercase tracking-wide" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "var(--red)" }}>
+              {d.date}
+            </span>
+            <h3 className="mt-2 text-xl leading-snug" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, color: "var(--ink)" }}>
+              {d.titre}
+            </h3>
+            <p className="mt-2 text-[0.95rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+              {d.dek}
+            </p>
+            <span className="inline-block mt-3 text-[0.85rem] font-medium" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "var(--red)" }}>
+              Accès aux outils →
             </span>
           </a>
         ))}
