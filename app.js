@@ -882,6 +882,7 @@ function App() {
         {tab === "partis" && <Partis />}
         {tab === "candidats" && <Candidats />}
         {tab === "dossiers" && <Dossiers />}
+        {tab === "dossiers" && <Outils />}
         {tab === "comparateur" && <Comparateur />}
         {tab === "boussole" && <Boussole />}
         {tab === "edito" && <Edito />}
