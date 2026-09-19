@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-09-19T17:39:29+00:00",
+  "generated_at": "2026-09-19T22:00:51+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T19:27:57+00:00",
+      "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan candidat pour la quatrième fois",
+      "dek": "Le candidat souverainiste n’a jamais dépassé les 5 % au premier tour de la présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-nicolas-dupont-aignan-candidat-pour-la-quatrieme-fois_6777845_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T19:00:03+00:00",
+      "titre": "Le Festival du « Monde » interroge la place des femmes dans la statuaire parisienne",
+      "dek": "Au Festival du « Monde », samedi 19 septembre, le journaliste Olivier Razemon animait un parcours consacré à la place des femmes et des hommes dans l’espace public. Au Jardin des plantes, les vingt-quatre statues, toutes à l’effigie d’hommes, révèlent une représentation genrée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/festival/article/2026/09/19/le-festival-du-monde-interroge-la-place-des-femmes-dans-la-statuaire-parisienne_6777841_4415198.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T18:42:43+00:00",
+      "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+      "dek": "Le président du parti Debout la France n'a jamais dépassé les 5% des suffrages lors de ses trois premières candidatures.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T18:40:06+00:00",
+      "titre": "Présidentielle 2027 : Philippe Brun réclame d’être réintégré dans la primaire à gauche",
+      "dek": "Le député en avait été exclu mercredi après des accusations de violence d’une militante. Il a également été suspendu du Parti socialiste à titre conservatoire.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-a-gauche_6777840_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T18:28:50+00:00",
+      "titre": "Au Festival du « Monde », une rédaction mobilisée face au défi d’une présidentielle sous tension : « La communication étouffe la politique »",
+      "dek": "Au Festival du « Monde », samedi 19 septembre, Mariama Darame, journaliste au service politique du quotidien, évoquait, lors d’une rencontre avec les lecteurs, les enjeux de la couverture de la campagne présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/festival/article/2026/09/19/au-festival-du-monde-une-redaction-mobilisee-face-au-defi-d-une-presidentielle-sous-tension-la-communication-etouffe-la-politique_6777839_4415198.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T18:20:43+00:00",
+      "titre": "Réunion d'urgence à l'Élysée, la France prépare un plan pour contrer les attaques russes",
+      "dek": "Vladimir Poutine entend maintenir la pression sous des formes multiples sur les pays qu’il qualifie d’inamicaux et qui soutiennent l’Ukraine. Vendredi 18 septembre, Emmanuel Macron a reconnu que les temps avaient changé et que la France, comme ses homologues européens, se prépara…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/russie/reunion-d-urgence-a-l-elysee-le-france-prepare-un-plan-pour-contrer-les-attaques-russes_8201009.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T18:19:50+00:00",
+      "titre": "Philippe Brun réclame d'être réintégré dans la primaire de la gauche",
+      "dek": "\"Je demande à Olivier Faure de me réintégrer à la primaire de la gauche\", prévue les 9-10 et 16-17 octobre, a déclaré le parlementaire exclu mercredi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-de-la-gauche_8201006.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T17:45:37+00:00",
+      "titre": "Au MoDem, l’après-Bayrou reste un interdit, malgré un début de « guerre des chefs »",
+      "dek": "DÉCRYPTAGE - Pas candidat à la présidentielle, le dirigeant centriste n’entend toujours pas laisser la main à la tête de son parti, soucieux de retarder la compétition sourde entre ses fidèles Marc Fesneau, chef des députés MoDem, et Jean-Noël Barrot, ministre des Affaires étrang…",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/au-modem-l-apres-bayrou-reste-un-interdit-malgre-un-debut-de-guerre-des-chefs-20260918"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -462,94 +550,6 @@
       "dek": "Le président du MoDem évoque depuis cet été une primaire du \"grand courant central\", les candidats déclarés, Édouard Philippe et Gabriel Attal manquant à ses yeux de la \"légitimité\" d'une désignation.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/lors-de-la-rentree-du-modem-francois-bayrou-a-plaide-a-nouveau-pour-une-primaire-allant-de-la-droite-a-la-gauche-moderee_8199797.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T19:08:48+00:00",
-      "titre": "INFO RADIO FRANCE. Écarté du PS, Philippe Brun tente de \"rassembler des preuves de violences de la part de son ancienne collaboratrice\"",
-      "dek": "Le député socialiste, qui s'apprêtait à être candidat à la primaire de l'espace social-démocrate, a été écarté de son parti mercredi, à cause d'accusations de \"violences\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/justice/info-radio-france-ecarte-du-ps-philippe-brun-tente-de-rassembler-des-preuves-de-violences-de-la-part-de-son-ancienne-collaboratrice_8199776.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T18:36:39+00:00",
-      "titre": "Le budget de l'Education nationale \"ne sera pas en baisse\" en 2027, assure le ministre Edouard Geffray",
-      "dek": "Fin août, le Premier ministre Sébastien Lecornu avait esquissé ses orientations budgétaires, affirmant que l'Education nationale ferait partie des ministères préservés.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/le-budget-de-l-education-nationale-ne-sera-pas-en-baisse-en-2027-assure-le-ministre-edouard-geffray_8199722.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T18:06:23+00:00",
-      "titre": "Face aux candidats à sa succession, Emmanuel Macron à cor et à crises internationales et nationales",
-      "dek": "Après une réunion à l’Elysée avec des chefs de partis et des candidats à la présidentielle vendredi, le Président a dressé un sombre tableau de la situation géopolitique internationale. Et a martelé que les prix historiquement hauts de l’énergie étaient dus «intégralement aux gue…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/face-aux-candidats-a-sa-succession-emmanuel-macron-a-cor-et-crises-internationales-et-nationales-20260918_27JBMZIGUNAG7GUXNJFS6F63CI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T17:49:53+00:00",
-      "titre": "Budget 2027 : le gouvernement de Lecornu veut raboter les dépenses sociales",
-      "dek": "Arrêts maladies, allocations, retraités… Matignon entend réduire d’un tiers le déficit de la Sécurité sociale dans le budget 2027. Les entreprises, elles, seront largement épargnées par les efforts.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/budget-2027-le-gouvernement-veut-raboter-les-depenses-sociales-20260918_JPRKCBPPTFCQ7GL4ZHYMLYTOUU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T17:44:13+00:00",
-      "titre": "«Un scandale d’Etat» : Rima Hassan porte plainte contre Laurent Nuñez pour «violation du secret de l’enquête»",
-      "dek": "Après les révélations de «Complément d’enquête» selon lesquelles le ministre de l’Intérieur avait évoqué auprès de journalistes la présence de drogue dans le sac de l’eurodéputée, l’insoumise a décidé de porter l’affaire devant la Cour de justice de la République.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/police-justice/rima-hassan-porte-plainte-devant-la-cjr-contre-laurent-nunez-pour-violation-du-secret-de-lenquete-20260918_CIZHLUD7RVE6DI3R7FYUFAADMM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T17:11:09+00:00",
-      "titre": "« Empêcher le permis de tuer pour la police d’entrer dans notre système judiciaire »",
-      "dek": "Avec la mobilisation « Non au permis de tuer » ce 20 septembre dans une centaine de villes en France, familles de victimes, associations, syndicats et partis de gauche se retrouvent autour d’un même appel. Samia El Khalfaoui, tante d’une victime et cofondatrice de Stop aux violen…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=507613"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T17:09:19+00:00",
-      "titre": "Sous couvert de tensions internationales, Emmanuel Macron tente de tuer la contestation sociale dans l’œuf",
-      "dek": "Alors que les prix des carburants augmentent, le président de la République a réuni les principaux candidats à la présidentielle pour partager des informations sur la situation internationale. Manière de nier la responsabilité du gouvernement dans la crise sociale et de déplacer …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/180926/sous-couvert-de-tensions-internationales-emmanuel-macron-tente-d-etouffer-la-contestation-sociale-dans"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T17:02:08+00:00",
-      "titre": "Ambiguïtés du RN, pression des marchés… Après ses annonces sur le budget, Sébastien Lecornu face à un casse-tête politique et financier",
-      "dek": "DÉCRYPTAGE - Le premier ministre doit composer avec une Assemblée nationale éclatée, des oppositions entrées en campagne présidentielle et la dégradation de la situation financière française.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/ambiguites-du-rn-pression-des-marches-apres-ses-annonces-sur-le-budget-sebastien-lecornu-face-a-un-casse-tete-politique-et-financier-20260918"
     }
   ]
 }
