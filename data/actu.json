@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-18T20:06:05+00:00",
+  "generated_at": "2026-09-19T00:08:08+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "18 Sep 2026",
+      "date_iso": "2026-09-18T21:17:55+00:00",
+      "titre": "Raphaël Glucksmann promet que la gauche peut \"transformer la vie des Français\"",
+      "dek": "En déplacement à Montpellier, le candidat a décrit \"une situation sociale catastrophique\", notamment du fait de l'explosion du prix des carburants qui \"va empirer\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-promet-que-la-gauche-peut-transformer-la-vie-des-francais_8199911.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -132,6 +143,17 @@
       "dek": "En proposant d’instaurer la préférence nationale dans l’attribution des logements sociaux et de supprimer la loi SRU, la candidate du Rassemblement national a remis en avant deux des lubies de l’extrême droite. Sur le terrain, les élus des villes populaires dénoncent un projet di…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/politique/180926/dans-les-banlieues-populaires-le-projet-logement-de-marine-le-pen-se-prend-le-mur"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "18 Sep 2026",
+      "date_iso": "2026-09-18T16:09:06+00:00",
+      "titre": "Meurtre d’Aramburú: la défense de Le Priol fait citer comme témoin de moralité un terroriste néonazi",
+      "dek": "Un ancien codétenu est venu raconter que le tueur du rugbyman argentin n’était absolument pas violent en prison. Problème: il a oublié de préciser que lui-même avait été condamné pour des projets d’attentat d’extrême droite. «Mediapart» révèle son pedigree.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/180926/meurtre-d-aramburu-la-defense-de-le-priol-fait-citer-comme-temoin-de-moralite-un-terroriste-neonazi"
     },
     {
       "tag": "Gauche",
@@ -528,28 +550,6 @@
       "dek": "Le chef de l'Etat a convoqué les chefs de parti et candidats à la présidentielle pour évoquer la situation internationale et les conséquences sur le quotidien des Français.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-crise-energetique-emmanuel-macron-va-recevoir-les-principaux-responsables-politiques-pour-evoquer-les-conflits-internationaux-et-leurs-consequences-en-france_8198486.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T09:35:40+00:00",
-      "titre": "Présidentielle : Clémence Guetté évoque ces hauts fonctionnaires anonymes qui «aident» à la campagne de Jean-Luc Mélenchon",
-      "dek": "La coresponsable du programme de LFI détaille le rôle des «phrygiens», qui œuvrent dans l’ombre pour la victoire de LFI à l’élection de 2027.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-clemence-guette-evoque-ces-hauts-fonctionnaires-anonymes-qui-aident-a-la-campagne-de-jean-luc-melenchon-20260918_4WSNC2MM6JHI3DWM44WZ2PHMJE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T09:29:25+00:00",
-      "titre": "Le ministre de la Ruralité Michel Fournier va quitter le gouvernement",
-      "dek": "A 76 ans, le maire depuis 1989 des Voivres, dans les Vosges, s’apprête à reprendre la présidence de l’Association des maires ruraux de France. La ministre chargée de l’Aménagement du territoire et de la Décentralisation devrait reprendre son portefeuille.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-ministre-de-la-ruralite-michel-fournier-va-quitter-le-gouvernement-20260918_RZ56YE2EVNEXBFMQK63LWPLE4A/"
     }
   ]
 }
