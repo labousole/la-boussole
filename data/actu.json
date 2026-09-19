@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-19T00:08:08+00:00",
+  "generated_at": "2026-09-19T05:05:42+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T04:58:25+00:00",
+      "titre": "\"Dérouler sa campagne présidentielle\", apparaître comme \"une cheffe d'Etat\"… Pourquoi le scénario d'une non-censure de Marine Le Pen et du RN sur le budget se renforce",
+      "dek": "Sébastien Lecornu a présenté jeudi les grandes lignes de son budget 2027, qu'il va devoir faire adopter dans une Assemblée toujours sans majorité. A quelques mois de la présidentielle, les soutiens du gouvernement misent sur une non-censure du Rassemblement national.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/derouler-sa-campagne-presidentielle-apparaitre-comme-une-cheffe-d-etat-pourquoi-le-scenario-d-une-non-censure-de-marine-le-pen-et-du-rn-sur-le-budget-se-renforce_8198828.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T04:30:00+00:00",
+      "titre": "Quand la gauche reprend confiance",
+      "dek": "Par Sébastien Crépel, codirecteur de la rédaction.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/quand-la-gauche-reprend-confiance"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T04:00:16+00:00",
+      "titre": "Emmanuel Macron alerte les candidats à la présidentielle sur la gravité de la situation internationale à l’origine de la crise des carburants",
+      "dek": "Le président de la République a réuni vendredi les chefs de partis et les prétendants à l’Elysée, afin de partager des informations sur les conséquences pour la France des guerres en Iran et en Ukraine.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T03:00:04+00:00",
+      "titre": "Pourquoi Emmanuel Macron insiste sur les risques d’intensification de la guerre hybride russe en France",
+      "dek": "Le chef de l’Etat a réuni, vendredi, à l’Elysée, les candidats à la présidentielle et les chefs de partis pour une présentation confidentielle de l’état de la menace, alors que les attaques et les accidents suspects se multiplient en Europe.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/19/pourquoi-emmanuel-macron-insiste-sur-les-risques-d-intensification-de-la-guerre-hybride-russe-en-france_6777145_3210.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -506,50 +550,6 @@
       "dek": "Le candidat à l’élection présidentielle a accusé jeudi soir, sur BFM-TV, le joueur de football de « solidarité islamique » avec les migrants à Ceuta. Une députée écologiste a saisi l’Arcom.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/18/pendant-combien-de-temps-va-t-on-laisser-cet-homme-cracher-sa-haine-des-propos-d-eric-zemmour-sur-kylian-mbappe-suscitent-l-indignation-a-gauche_6776777_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T10:50:18+00:00",
-      "titre": "Carburants : \"Familles rurales réclame le \"prolongement\" de l'aide aux grands rouleurs, son \"doublement\" et son \"élargissement\"",
-      "dek": "Invité sur franceinfo, l'un des responsables de l'association estime que \"le gouvernement ne peut pas rester sans agir\" face à la flambée des prix.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/carburants-familles-rurales-reclame-le-prolongement-de-l-aide-aux-grands-rouleurs-son-doublement-et-son-elargissement_8198996.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T10:00:44+00:00",
-      "titre": "«L’écocide, les féminicides et les génocides relèvent d’une même violence»",
-      "dek": "Figure de #MusicToo, Flore Benguigui, qui a tourné la page du groupe L’Impératrice pour se consacrer au jazz, est une musicienne et chanteuse engagée dans le combat antispéciste. Entretien et chanson.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/180926/l-ecocide-les-feminicides-et-les-genocides-relevent-d-une-meme-violence"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T10:00:00+00:00",
-      "titre": "Présidentielle 2027 : « Les ingérences électorales ne visent pas seulement des candidats, mais la confiance démocratique »",
-      "dek": "Afin de répondre efficacement aux menaces étrangères qui pèsent sur la campagne électorale, les politistes Frédéric Charillon, Aurélien Colson et Joséphine Staron exposent, dans une tribune au « Monde », les dispositifs à mettre en place et les erreurs à ne pas commettre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/18/presidentielle-2027-les-ingerences-electorales-ne-visent-pas-seulement-des-candidats-mais-la-confiance-democratique_6776769_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T09:51:04+00:00",
-      "titre": "DIRECT. Crise énergétique : les responsables politiques échangent à l'Elysée avec Emmanuel Macron, qui s'exprimera à l'issue de la réunion",
-      "dek": "Le chef de l'Etat a convoqué les chefs de parti et candidats à la présidentielle pour évoquer la situation internationale et les conséquences sur le quotidien des Français.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-crise-energetique-emmanuel-macron-va-recevoir-les-principaux-responsables-politiques-pour-evoquer-les-conflits-internationaux-et-leurs-consequences-en-france_8198486.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
