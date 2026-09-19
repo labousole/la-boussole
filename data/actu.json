@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-09-19T05:05:42+00:00",
+  "generated_at": "2026-09-19T10:06:03+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T10:01:00+00:00",
+      "titre": "Racisme, discriminations, inégalités : l’extrême droite au pouvoir ? Un projet d’oppressions !",
+      "dek": "Rhétorique opposant « producteurs » et « parasites », menace sur les droits des femmes et des minorités, déni des réalités vécues dans les outre-mer et complicité grandissante de la droite traditionnelle : parlementaires et intellectuels démontrent, en direct de l'Agora de la Fêt…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/discriminations/racisme-discriminations-inegalites-lextreme-droite-au-pouvoir-un-projet-doppressions"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T10:00:07+00:00",
+      "titre": "« Responsabilité budgétaire, croissance et développement social ne sont pas contradictoires » : le plaidoyer de deux ministres espagnol et brésilien pour « des économies plus justes »",
+      "dek": "Le ministre de l’économie espagnol, Carlos Cuerpo, et le ministre des finances brésilien, Dario Durigan, défendent, dans une tribune au « Monde », les vertus d’une économie progressiste comme l’ont mise en œuvre les présidents Lula au Brésil et le premier ministre Pedro Sanchez e…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/19/responsabilite-budgetaire-croissance-et-developpement-social-ne-sont-pas-contradictoires-le-plaidoyer-de-deux-ministres-espagnol-et-bresilien-pour-des-economies-plus-justes_6777640_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T08:45:15+00:00",
+      "titre": "Budget 2027 : le gouvernement envisage de geler les pensions de base pour les retraités touchant au moins 2034 euros par mois",
+      "dek": "Selon l’avant-projet de loi de financement de la Sécurité sociale loi, les retraités percevant entre 1260 et 2034 euros par mois verraient leur pension du régime général s’accroître, mais à un rythme moins soutenu que l’inflation. Les plus modestes resteraient protégés.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/budget-2027-le-gouvernement-envisage-de-geler-les-pensions-de-base-pour-les-retraites-touchant-au-moins-2034-euros-par-mois_6777535_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T08:39:11+00:00",
+      "titre": "Budget 2027 : la périlleuse ligne de crête de Sébastien Lecornu",
+      "dek": "Les mesures contenues dans la copie budgétaire que le premier ministre a présentée jeudi sont économiquement nécessaires pour stopper le dérapage du déficit. Mais elles s’annoncent politiquement risquées pour le chef du gouvernement.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/19/budget-2027-la-perilleuse-ligne-de-crete-de-sebastien-lecornu_6777534_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T08:31:39+00:00",
+      "titre": "Pour le budget 2027, \"on demande un petit effort à tout le monde\", souligne le ministre du Logement pour justifier le gel des APL",
+      "dek": "Vincent Jeanbrun était l'invité du \"8h30 franceinfo\", samedi 19 septembre 2026. Il répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/pour-le-budget-2027-on-demande-un-petit-effort-a-tout-le-monde-souligne-le-ministre-du-logement-pour-justifier-le-gel-des-apl_8178035.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T07:30:16+00:00",
+      "titre": "Budget 2027 : le pas de deux entre Sébastien Lecornu et le Rassemblement national",
+      "dek": "En quelques jours, le premier ministre a avancé dans le sens souhaité par le RN sur quatre sujets majeurs pour le parti d’extrême droite. Marine Le Pen semble prête à un accord de non-censure pour éviter une crise financière.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/budget-2027-le-pas-de-deux-entre-sebastien-lecornu-et-le-rassemblement-national_6777398_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T07:12:31+00:00",
+      "titre": "Eric Zemmour (presque) candidat à l'élection présidentielle de 2027, un atout pour Marine Le Pen ?",
+      "dek": "Le président de Reconquête compte lancer sa deuxième campagne présidentielle cet automne. Mais a déjà fait acte de candidature cette semaine.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T07:01:00+00:00",
+      "titre": "Divertir sans être une distraction : discussion avec Merwane Benlazar – Fête de l’Humanité",
+      "dek": "Polémique raciste après son passage dans C à vous sur France 5, lynchage numérique mené par l'extrême droite, censure aux Flammes et refus d'être enfermé dans la case du « militant exemplaire » : l'humoriste Merwane Benlazar partage sa vision de l'humour et du stand-up en direct …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/divertir-sans-etre-une-distraction-discussion-avec-merwane-benlazar-fete-de-lhumanite"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T07:00:00+00:00",
+      "titre": "Dans le monde rouge de Twitch, Sardoche, le streamer français «libertarien» qui rêve d’union des droites entre Knafo et Lisnard",
+      "dek": "PORTRAIT - Poids lourd de la plateforme web de diffusion de vidéos en direct, Sardoche était à un meeting de Nouvelle Énergie puis aux universités d’été de Reconquête. Aussi populaire que contesté pour ses propos, il compte bien faire peser son million d’abonnés dans la balance d…",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/dans-le-monde-rouge-de-twitch-sardoche-le-streamer-francais-libertarien-qui-reve-d-union-des-droites-entre-knafo-et-lisnard-20260919"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T06:26:56+00:00",
+      "titre": "Allemagne: Friedrich Merz, un chancelier en sursis",
+      "dek": "Signe de la fragilité du chancelier allemand, les rumeurs bruissent à propos d’un éventuel successeur. Selon le résultat des élections régionales en Mecklembourg-Poméranie-Occidentale et à Berlin, le 20 septembre, la pression sera plus ou moins forte sur ses épaules.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/190926/allemagne-friedrich-merz-un-chancelier-en-sursis"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T06:26:48+00:00",
+      "titre": "En Allemagne, la perspective de nouvelles déroutes électorales fait paniquer la CDU",
+      "dek": "À quelques jours des élections régionales du 20 septembre, notamment dans le Mecklembourg-Poméranie-Occidentale, les élus et militants conservateurs, menacés de perdre leurs positions, remettent en cause le cordon sanitaire vis-à-vis de l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/190926/en-allemagne-la-perspective-de-nouvelles-deroutes-electorales-fait-paniquer-la-cdu"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T06:26:22+00:00",
+      "titre": "Violences sexuelles: un ancien évêque, héros de la Résistance, rattrapé par l’affaire Bétharram",
+      "dek": "Une enquête interne ouverte à partir du témoignage d’un ancien pensionnaire de l’établissement privé a abouti à une découverte explosive, que révèle «Mediapart». Le religieux mis en cause est Pierre-Marie Théas, mort en 1977, célèbre pour ses engagements contre la persécution des…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/190926/violences-sexuelles-un-ancien-eveque-heros-de-la-resistance-rattrape-par-l-affaire-betharram"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T05:05:00+00:00",
+      "titre": "La France d’extrême droite, est-ce Carcassonne qui nous la montre le mieux ?",
+      "dek": "Plusieurs épisodes survenus dans la préfecture de l’Aude, jusqu’au prêche d’extrême droite révélé ce jeudi par «le Canard enchaîné», nous offrent le saisissant tableau d’un futur possible dans le pays.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/la-france-dextreme-droite-est-ce-carcassonne-qui-nous-la-montre-le-mieux-20260919_YUB7MPUBPVBJ7MHCMPFDF7OZKY/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -29,6 +172,17 @@
       "source": "Le Monde – Politique",
       "date": "19 Sep 2026",
       "date_iso": "2026-09-19T04:00:16+00:00",
+      "titre": "Emmanuel Macron rend compte aux candidats à la présidentielle de la gravité de la situation internationale à l’origine de la crise des carburants",
+      "dek": "Le président de la République a réuni, vendredi 18 septembre, les chefs de partis et les prétendants à l’Elysée, afin de partager des informations sur les conséquences pour la France des guerres en Iran et en Ukraine.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T04:00:16+00:00",
       "titre": "Emmanuel Macron alerte les candidats à la présidentielle sur la gravité de la situation internationale à l’origine de la crise des carburants",
       "dek": "Le président de la République a réuni vendredi les chefs de partis et les prétendants à l’Elysée, afin de partager des informations sur les conséquences pour la France des guerres en Iran et en Ukraine.",
       "avis": null,
@@ -39,9 +193,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T03:00:04+00:00",
+      "date_iso": "2026-09-19T03:00:01+00:00",
       "titre": "Pourquoi Emmanuel Macron insiste sur les risques d’intensification de la guerre hybride russe en France",
-      "dek": "Le chef de l’Etat a réuni, vendredi, à l’Elysée, les candidats à la présidentielle et les chefs de partis pour une présentation confidentielle de l’état de la menace, alors que les attaques et les accidents suspects se multiplient en Europe.",
+      "dek": "Le président de la République a réuni, vendredi 18 septembre, à l’Elysée, les candidats à l’élection présidentielle et les chefs de formations politiques pour une présentation confidentielle de l’état de la menace, alors que les attaques et les accidents suspects se multiplient e…",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/09/19/pourquoi-emmanuel-macron-insiste-sur-les-risques-d-intensification-de-la-guerre-hybride-russe-en-france_6777145_3210.html"
     },
@@ -396,160 +550,6 @@
       "dek": "Après les révélations de «Complément d’enquête» selon lesquelles le ministre de l’Intérieur avait évoqué auprès de journalistes la présence de drogue dans le sac de l’eurodéputée, l’insoumise a décidé de porter l’affaire devant la Cour de justice de la République.",
       "avis": null,
       "lien": "https://www.liberation.fr/societe/police-justice/rima-hassan-porte-plainte-devant-la-cjr-contre-laurent-nunez-pour-violation-du-secret-de-lenquete-20260918_CIZHLUD7RVE6DI3R7FYUFAADMM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T13:46:14+00:00",
-      "titre": "Protection des \"infrastructures critiques\", G7 de l'énergie, prix des carburants… Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron à l'Elysée",
-      "dek": "Le chef de l'Etat s'est exprimé vendredi à l'issue d'une réunion avec les chefs de parti et candidats à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/protection-des-infrastructures-critiques-g7-de-l-energie-prix-des-carburants-ce-qu-il-faut-retenir-de-la-prise-de-parole-d-emmanuel-macron-a-l-elysee_8199119.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T13:32:09+00:00",
-      "titre": "Censure ou indulgence ? Sur le budget 2027, le RN tergiverse",
-      "dek": "A l’approche de la présidentielle, le parti d’extrême droite hésite entre un gain politique immédiat, la chute du gouvernement, et un risque financier qui lui retomberait sur les bras s’il prenait le pouvoir au printemps.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/censure-ou-indulgence-sur-le-budget-2027-le-rn-tergiverse-20260918_QOTDOV4AVRAMVCSXLORAUTLXBY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T13:20:35+00:00",
-      "titre": "Carole Delga : «Raphaël Glucksmann est le mieux placé d’entre nous pour gagner la présidentielle»",
-      "dek": "Avant ses «rencontres de la gauche» dans l’Aude ce samedi, la présidente socialiste de la région Occitanie réfute les procès en parisianisme faits à l’eurodéputé, candidat à la primaire, et défend sa «volonté de bâtir une France du travail». Tout en taclant sévèrement ses adversa…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/carole-delga-raphael-glucksmann-est-le-mieux-place-dentre-nous-pour-gagner-la-presidentielle-20260918_BCUME5JNDZFBRG4R2NLOVWPRVY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T13:01:49+00:00",
-      "titre": "Le maire de Concarneau mis en examen pour viol et agression sexuelle et placé sous contrôle judiciaire",
-      "dek": "Les faits dénoncés se seraient produits alors qu'il était encore candidat aux municipales. Une information judiciaire a été ouverte.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-maire-de-concarneau-mis-en-examen-pour-viol-et-agression-sexuelle-et-place-sous-controle-judiciaire_8199134.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T13:01:35+00:00",
-      "titre": "La tour Eiffel, monument de carte postale plombé par les scandales",
-      "dek": "Failles sécuritaires, problèmes de gestion financière, défaut de contrôle, gouvernance erratique : des dysfonctionnements profonds au sein de la société d’exploitation du monument, la SETE, ont été mis en évidence, mettant en danger la « dame de fer » elle-même, mais aussi salari…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/18/la-tour-eiffel-monument-de-carte-postale-plombe-par-les-scandales_6776793_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T12:55:34+00:00",
-      "titre": "Le maire de Concarneau, Quentin Le Gaillard, mis en examen pour « viol et agression sexuelle » à l’issue de sa garde à vue",
-      "dek": "Le parquet de Quimper avait annoncé à la fin de juillet avoir ouvert une enquête visant l’élu (divers droite) en raison du dépôt, le 29 janvier, d’une main courante l’accusant de violences sexuelles. Il nie les faits.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/18/le-maire-de-concarneau-quentin-le-gaillard-mis-en-examen-pour-viol-et-agression-sexuelle-a-l-issue-de-sa-garde-a-vue_6776790_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T12:45:33+00:00",
-      "titre": "EN DIRECT, présidentielle 2027 : ce qu’il faut retenir de l’allocution d’Emmanuel Macron après sa rencontre à l’Elysée avec les chefs de partis",
-      "dek": "« Nous ne sommes pas intimidés » par les menaces russes, a affirmé le président de la République vendredi à la sortie de la réunion avec Sébastien Lecornu, Yaël Braun-Pivet et les principaux chefs de partis et candidats à la présidentielle. « Le gouvernement et moi-même avons à c…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/09/18/en-direct-presidentielle-2027-nous-ne-sommes-pas-intimides-par-les-menaces-russes-affirme-emmanuel-macron-a-la-sortie-de-la-reunion-a-l-elysee_6776151_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T12:39:39+00:00",
-      "titre": "Budget 2027 : une quarantaine d’associations s’opposent au délai de carence pour certaines allocations aux étrangers proposé par Sébastien Lecornu",
-      "dek": "Le collectif Alerte, regroupant près d’une quarantaine d’associations de lutte contre la pauvreté, considère qu’une telle mesure soulèverait « de sérieuses interrogations au regard de nos principes constitutionnels et de nos engagements européens ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/18/budget-2027-une-quarantaine-d-associations-s-opposent-au-delai-de-carence-pour-certaines-allocations-aux-etrangers-propose-par-sebastien-lecornu_6776788_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T12:24:50+00:00",
-      "titre": "Carcassonne : un aumônier militaire appelle les « gauchistes » à « se calmer » lors d’une messe filmée, suscitant l’indignation à gauche",
-      "dek": "La ville, dirigée par Christophe Barthès (Rassemblement national), fait régulièrement la une de l’actualité depuis l’élection de ce dernier en mars. Depuis quelques jours, deux vidéos mettant en cause la police ont aussi suscité la polémique.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/18/carcassonne-un-aumonier-militaire-appelle-les-gauchistes-a-se-calmer-lors-d-une-messe-filmee-suscitant-l-indignation-a-gauche_6776786_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T12:04:10+00:00",
-      "titre": "Santé : « Je fais du soin dans le respect de la temporalité du patient »",
-      "dek": "Florence fait partie des 2 000 infirmières employées par l’association Asalée. Au quotidien, elles travaillent aux côtés des médecins libéraux pour suivre leurs patients atteints de maladies chroniques comme le diabète. Aujourd’hui, la survie de l’association, uniquement financée…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=506981"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T12:00:25+00:00",
-      "titre": "Laurent Nuñez déprogrammé des médias Bolloré CNews et Europe 1, quelques jours après avoir menacé la chaîne d’info de sanctions pénales",
-      "dek": "Le ministre de l’intérieur aurait dû participer à l’émission « La Grande Interview », animée par Laurence Ferrari, mercredi 16 septembre. Il avait rappelé quelques jours plus tôt les risques de poursuites pénales encourus par CNews si celle-ci continuait à faire intervenir Xenia …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/18/laurent-nunez-deprogramme-des-medias-bollore-cnews-et-europe-1-quelques-jours-apres-avoir-menace-la-chaine-d-info-de-sanctions-penales_6776782_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T11:49:00+00:00",
-      "titre": "Eric Zemmour accuse Kylian Mbappé de \"solidarité islamique\" avec les migrants à Ceuta, ses propos suscitent l'indignation à gauche",
-      "dek": "Sur BFMTV, jeudi soir, le polémiste d'extrême droite a critiqué le joueur de football pour avoir refusé de porter en intégralité un tee-shirt de soutien à la population de Ceuta. Une députée écologiste a saisi l'Arcom pour \"appel à la haine\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T11:46:54+00:00",
-      "titre": "Le Parlement européen réclame près de 170 000 euros à Marine Le Pen pour des dépenses indues",
-      "dek": "Selon des informations de «Mediapart», la direction générale financière du Parlement européen demande le recouvrement de 168 997 euros à la candidate du RN, en raison d’irrégularités dans son usage de fonds publics lorsqu’elle était eurodéputée.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/180926/le-parlement-europeen-reclame-pres-de-170-000-euros-marine-le-pen-pour-des-depenses-indues"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T11:10:08+00:00",
-      "titre": "Des propos d’Eric Zemmour sur Kylian Mbappé suscitent l’indignation à gauche : « Pendant combien de temps va-t-on laisser cet homme cracher sa haine ? »",
-      "dek": "Le candidat à l’élection présidentielle a accusé jeudi soir, sur BFM-TV, le joueur de football de « solidarité islamique » avec les migrants à Ceuta. Une députée écologiste a saisi l’Arcom.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/18/pendant-combien-de-temps-va-t-on-laisser-cet-homme-cracher-sa-haine-des-propos-d-eric-zemmour-sur-kylian-mbappe-suscitent-l-indignation-a-gauche_6776777_823448.html"
     }
   ]
 }
