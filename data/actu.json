@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-09-20T02:48:22+00:00",
+  "generated_at": "2026-09-20T09:33:06+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T09:20:45+00:00",
+      "titre": "Philippe Brun réclame d'être réintégré dans la primaire de la gauche",
+      "dek": "\"Je demande à Olivier Faure de me réintégrer à la primaire de la gauche\", prévue les 9-10 et 16-17 octobre, a déclaré le parlementaire exclu mercredi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-de-la-gauche_8201006.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T09:18:10+00:00",
+      "titre": "Elections régionales en Allemagne : la CDU de Friedrich Merz menacée d’un revers historique",
+      "dek": "L’Union chrétienne-démocrate du chancelier risque de disparaître du Parlement en Mecklembourg-Poméranie-Occidentale et est devancée par la gauche radicale dans les sondages à Berlin.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/20/elections-regionales-en-allemagne-la-cdu-de-friedrich-merz-menacee-d-un-revers-historique_6778330_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T08:44:44+00:00",
+      "titre": "DIRECT. Saint-Pierre-et-Miquelon : Emmanuel Macron va rencontrer le Premier ministre canadien, Mark Carney, à 16h30",
+      "dek": "Les responsables français et canadiens veulent afficher leur bonne entente en réponse aux volontés hégémoniques de Donald Trump.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/direct-saint-pierre-et-miquelon-emmanuel-macron-va-rencontrer-le-premier-ministre-canadien-mark-carney-a-16h30_8201543.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T08:21:09+00:00",
+      "titre": "Philippe Brun réclame d’être réintégré dans la primaire de la gauche, Jérôme Guedj juge que le PS est allé «vite en besogne»",
+      "dek": "Le député de l’Eure, accusé par une militante, affirme que «le bureau national du PS a été trompé» et que «rien ne justifie» sa suspension du parti et du processus en vue de la présidentielle.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/philippe-brun-reclame-detre-reintegre-dans-la-primaire-de-la-gauche-jerome-guedj-juge-que-le-ps-est-alle-vite-en-besogne-20260920_RPAO7HE73ZBR7KBXVPH26JG4IU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T08:04:59+00:00",
+      "titre": "Un député de Côte-d'Or se verrait bien ministre de la Ruralité et adresse une candidature spontanée à Sébastien Lecornu",
+      "dek": "Cette annonce intervient après le départ du gouvernement du précédent titulaire du poste, Michel Fournier.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/un-depute-de-cote-d-or-se-verrait-bien-ministre-de-la-ruralite-et-adresse-une-candidature-spontanee-a-sebastien-lecornu_8201540.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T08:00:02+00:00",
+      "titre": "Sardoche chez Zemmour : comment l'extrême droite cherche à convaincre les jeunes à travers les streamers",
+      "dek": "Sardoche, vous le connaissez peut-être pour ses parties de jeux vidéo sur Twitch. Mais la semaine dernière, il était au premier rang du meeting d’Éric Zemmour. Une illustration de la stratégie de l'extrême droite qui tente de se mettre les influenceurs dans la poche.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/sardoche-chez-zemmour-comment-l-extreme-droite-cherche-a-convaincre-les-jeunes-a-travers-les-streamers_8157878.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T07:04:41+00:00",
+      "titre": "Primaire socialiste: le grand bond en arrière",
+      "dek": "Il y a vingt ans, le Parti socialiste inaugurait un cycle de primaires imparfaites mais régénérantes, en ce qu’elles ouvraient – enfin – le parti à la société mobilisée. Faute d’y avoir jamais réellement cru depuis, le voilà revenu à la case départ, l’hégémonie à gauche en moins.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/200926/primaire-socialiste-le-grand-bond-en-arriere"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T07:03:48+00:00",
+      "titre": "À Bram, Raphaël Glucksmann se fait adouber par la «gauche cassoulet»",
+      "dek": "Le leader de Place publique a été accueilli en majesté dans le fief de Carole Delga. Depuis des mois, la présidente de région travaille à faire accepter aux socialistes occitans de soutenir un candidat dont le profil est pourtant éloigné de la sociologie locale.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/200926/bram-raphael-glucksmann-se-fait-adouber-par-la-gauche-cassoulet"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T06:54:22+00:00",
+      "titre": "Présidentielle 2027 : Jérôme Guedj dénonce la suspension « brutale » de Philippe Brun",
+      "dek": "Jérôme Guedj critique la brutalité de la décision prise par la direction du PS et s’étonne que celle-ci n’ait pas agi plus tôt, alors que la presse fait état « d’alertes » remontant « au début de l’été ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/20/presidentielle-2027-jerome-guedj-denonce-la-suspension-brutale-de-philippe-brun_6778194_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T05:27:12+00:00",
+      "titre": "Saint-Pierre-et-Miquelon est \"français\" déclare Emmanuel Macron à son arrivée dans l'archipel en réponse à Donald Trump",
+      "dek": "Face au président américain, le locataire de l'Elysée a tenu à réaffirmer que la France est une puissance régionale.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/saint-pierre-et-miquelon-est-francais-repond-emmanuel-macron-a-donald-trump-a-son-arrivee-dans-l-archipel_8201387.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T03:30:00+00:00",
+      "titre": "Emmanuel Macron réaffirme la souveraineté de Saint-Pierre-et-Miquelon face aux convoitises de Donald Trump",
+      "dek": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord, samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement exprime la volonté du Canada de prendre ses distances avec les Etats-Unis.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -17,7 +138,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T19:27:57+00:00",
+      "date_iso": "2026-09-19T19:27:55+00:00",
       "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan candidat pour la quatrième fois",
       "dek": "Le candidat souverainiste n’a jamais dépassé les 5 % au premier tour de la présidentielle.",
       "avis": null,
@@ -28,7 +149,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T19:00:03+00:00",
+      "date_iso": "2026-09-19T19:00:00+00:00",
       "titre": "Le Festival du « Monde » interroge la place des femmes dans la statuaire parisienne",
       "dek": "Au Festival du « Monde », samedi 19 septembre, le journaliste Olivier Razemon animait un parcours consacré à la place des femmes et des hommes dans l’espace public. Au Jardin des plantes, les vingt-quatre statues, toutes à l’effigie d’hommes, révèlent une représentation genrée.",
       "avis": null,
@@ -61,7 +182,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T18:28:50+00:00",
+      "date_iso": "2026-09-19T18:28:48+00:00",
       "titre": "Au Festival du « Monde », une rédaction mobilisée face au défi d’une présidentielle sous tension : « La communication étouffe la politique »",
       "dek": "Au Festival du « Monde », samedi 19 septembre, Mariama Darame, journaliste au service politique du quotidien, évoquait, lors d’une rencontre avec les lecteurs, les enjeux de la couverture de la campagne présidentielle.",
       "avis": null,
@@ -77,17 +198,6 @@
       "dek": "Vladimir Poutine entend maintenir la pression sous des formes multiples sur les pays qu’il qualifie d’inamicaux et qui soutiennent l’Ukraine. Vendredi 18 septembre, Emmanuel Macron a reconnu que les temps avaient changé et que la France, comme ses homologues européens, se prépara…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/russie/reunion-d-urgence-a-l-elysee-le-france-prepare-un-plan-pour-contrer-les-attaques-russes_8201009.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T18:19:50+00:00",
-      "titre": "Philippe Brun réclame d'être réintégré dans la primaire de la gauche",
-      "dek": "\"Je demande à Olivier Faure de me réintégrer à la primaire de la gauche\", prévue les 9-10 et 16-17 octobre, a déclaré le parlementaire exclu mercredi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-de-la-gauche_8201006.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Droite",
@@ -440,116 +550,6 @@
       "dek": "PORTRAIT - Poids lourd de la plateforme web de diffusion de vidéos en direct, Sardoche était à un meeting de Nouvelle Énergie puis aux universités d’été de Reconquête. Aussi populaire que contesté pour ses propos, il compte bien faire peser son million d’abonnés dans la balance d…",
       "avis": null,
       "lien": "https://www.lefigaro.fr/politique/dans-le-monde-rouge-de-twitch-sardoche-le-streamer-francais-libertarien-qui-reve-d-union-des-droites-entre-knafo-et-lisnard-20260919"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T06:26:56+00:00",
-      "titre": "Allemagne: Friedrich Merz, un chancelier en sursis",
-      "dek": "Signe de la fragilité du chancelier allemand, les rumeurs bruissent à propos d’un éventuel successeur. Selon le résultat des élections régionales en Mecklembourg-Poméranie-Occidentale et à Berlin, le 20 septembre, la pression sera plus ou moins forte sur ses épaules.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/190926/allemagne-friedrich-merz-un-chancelier-en-sursis"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T06:26:48+00:00",
-      "titre": "En Allemagne, la perspective de nouvelles déroutes électorales fait paniquer la CDU",
-      "dek": "À quelques jours des élections régionales du 20 septembre, notamment dans le Mecklembourg-Poméranie-Occidentale, les élus et militants conservateurs, menacés de perdre leurs positions, remettent en cause le cordon sanitaire vis-à-vis de l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/190926/en-allemagne-la-perspective-de-nouvelles-deroutes-electorales-fait-paniquer-la-cdu"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T06:26:22+00:00",
-      "titre": "Violences sexuelles: un ancien évêque, héros de la Résistance, rattrapé par l’affaire Bétharram",
-      "dek": "Une enquête interne ouverte à partir du témoignage d’un ancien pensionnaire de l’établissement privé a abouti à une découverte explosive, que révèle «Mediapart». Le religieux mis en cause est Pierre-Marie Théas, mort en 1977, célèbre pour ses engagements contre la persécution des…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/190926/violences-sexuelles-un-ancien-eveque-heros-de-la-resistance-rattrape-par-l-affaire-betharram"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T05:05:00+00:00",
-      "titre": "La France d’extrême droite, est-ce Carcassonne qui nous la montre le mieux ?",
-      "dek": "Plusieurs épisodes survenus dans la préfecture de l’Aude, jusqu’au prêche d’extrême droite révélé ce jeudi par «le Canard enchaîné», nous offrent le saisissant tableau d’un futur possible dans le pays.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/la-france-dextreme-droite-est-ce-carcassonne-qui-nous-la-montre-le-mieux-20260919_YUB7MPUBPVBJ7MHCMPFDF7OZKY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T04:58:25+00:00",
-      "titre": "\"Dérouler sa campagne présidentielle\", apparaître comme \"une cheffe d'Etat\"… Pourquoi le scénario d'une non-censure de Marine Le Pen et du RN sur le budget se renforce",
-      "dek": "Sébastien Lecornu a présenté jeudi les grandes lignes de son budget 2027, qu'il va devoir faire adopter dans une Assemblée toujours sans majorité. A quelques mois de la présidentielle, les soutiens du gouvernement misent sur une non-censure du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/derouler-sa-campagne-presidentielle-apparaitre-comme-une-cheffe-d-etat-pourquoi-le-scenario-d-une-non-censure-de-marine-le-pen-et-du-rn-sur-le-budget-se-renforce_8198828.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T04:30:00+00:00",
-      "titre": "Quand la gauche reprend confiance",
-      "dek": "Par Sébastien Crépel, codirecteur de la rédaction.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/quand-la-gauche-reprend-confiance"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T04:00:16+00:00",
-      "titre": "Emmanuel Macron rend compte aux candidats à la présidentielle de la gravité de la situation internationale à l’origine de la crise des carburants",
-      "dek": "Le président de la République a réuni, vendredi 18 septembre, les chefs de partis et les prétendants à l’Elysée, afin de partager des informations sur les conséquences pour la France des guerres en Iran et en Ukraine.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T04:00:16+00:00",
-      "titre": "Emmanuel Macron alerte les candidats à la présidentielle sur la gravité de la situation internationale à l’origine de la crise des carburants",
-      "dek": "Le président de la République a réuni vendredi les chefs de partis et les prétendants à l’Elysée, afin de partager des informations sur les conséquences pour la France des guerres en Iran et en Ukraine.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T03:00:01+00:00",
-      "titre": "Pourquoi Emmanuel Macron insiste sur les risques d’intensification de la guerre hybride russe en France",
-      "dek": "Le président de la République a réuni, vendredi 18 septembre, à l’Elysée, les candidats à l’élection présidentielle et les chefs de formations politiques pour une présentation confidentielle de l’état de la menace, alors que les attaques et les accidents suspects se multiplient e…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/09/19/pourquoi-emmanuel-macron-insiste-sur-les-risques-d-intensification-de-la-guerre-hybride-russe-en-france_6777145_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T21:17:55+00:00",
-      "titre": "Raphaël Glucksmann promet que la gauche peut \"transformer la vie des Français\"",
-      "dek": "En déplacement à Montpellier, le candidat a décrit \"une situation sociale catastrophique\", notamment du fait de l'explosion du prix des carburants qui \"va empirer\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-promet-que-la-gauche-peut-transformer-la-vie-des-francais_8199911.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
