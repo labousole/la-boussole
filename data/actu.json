@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-09-20T09:33:06+00:00",
+  "generated_at": "2026-09-20T13:51:40+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T13:00:01+00:00",
+      "titre": "Léo Cohen-Paperman : Les présidents sont aussi le reflet de notre société",
+      "dek": "Jusqu'à la présidentielle, Léo Cohen-Paperman met en scène ceux qui ont occupé l'Elysée sous la 5e République. \"Huit Rois\" utilise tous les registres de la comédie, sans être jamais dans la caricature et en laissant le spectateur se faire sa propre idée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-invite-culture/leo-cohen-paperman-les-presidents-sont-aussi-le-reflet-de-notre-societe_8177681.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T12:51:25+00:00",
+      "titre": "Budget 2027 : et si enfin les milliardaires participaient à réduire la dette",
+      "dek": "Mais d’où Nicolas Charbonneau, le directeur de la rédaction du Parisien, tient-il sa science et ses certitudes&#160;? Ainsi, dimanche, dans son éditorial, tançait-il sévèrement les élus qui promettent déjà de rejeter les économies proposées dans le futur budget&#160;: «&#160;La c…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/le-billet-de-maurice-ulrich/budget-2027-et-si-enfin-les-milliardaires-participaient-a-reduire-la-dette"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T12:49:20+00:00",
+      "titre": "Au cœur de la campagne électorale brésilienne, l’insécurité, talon d’Achille de Lula",
+      "dek": "«Mediapart» s’est rendu à Fortaleza, la capitale de l’État du Ceará, un des plus frappés par la violence des gangs. Le Parti des travailleurs, celui du président, dirige la région depuis vingt ans: l’opposition y voit l’exemple parfait de l’incompétence de la gauche en la matière…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/200926/au-coeur-de-la-campagne-electorale-bresilienne-l-insecurite-talon-d-achille-de-lula"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T12:46:43+00:00",
+      "titre": "Eric Ciotti appelle Bruno Retailleau à le rejoindre « dans une maison de droite forte »",
+      "dek": "Le président de l’Union des droites pour la République (UDR) plaide pour l’union « des droites », soit de la droite et de l’extrême droite. Il dit redouter la pression qui amènerait le patron des Républicains à aller « à la soupe » d’Edouard Philippe.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/eric-ciotti-appelle-bruno-retailleau-a-le-rejoindre-dans-une-maison-de-droite-forte_6778379_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T12:45:10+00:00",
+      "titre": "Femme noire aux États-Unis, un si lourd héritage",
+      "dek": "Dans son premier roman, «Les Porteuses d’eau», Sasha Bonét fouille le sol de Louisiane et d’ailleurs, remonte ses racines tout en explorant l’histoire de son pays et de son racisme – parce que la féminité noire en est indissociable, comme elle est irrémédiablement liée à la mater…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/200926/femme-noire-aux-etats-unis-un-si-lourd-heritage"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T12:44:34+00:00",
+      "titre": "François Bayrou détaille les conditions de sa primaire en clôture de la rentrée du MoDem",
+      "dek": "« On ne peut pas se permettre le luxe de la division au premier tour », a insisté dimanche l’ancien premier ministre, en clôture de la rentrée du MoDem à L’Isle-sur-la-Sorgue (Vaucluse), craignant un face-à-face entre Marine Le Pen et Jean-Luc Mélenchon au second tour de la prési…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/francois-bayrou-detaille-les-conditions-de-sa-primaire-en-cloture-de-la-rentree-du-modem_6778378_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T12:25:27+00:00",
+      "titre": "Présidentielle 2027 : chez les Ecologistes, un malaise nourri par les doutes sur leur stratégie et un audit interne",
+      "dek": "Alors que le parti devrait acter ce dimanche l’organisation d’un référendum en décembre pour décider du maintien ou non d’une candidature autonome, une étude interne porte un regard critique sur sa sociologie et dénonce des défaillances en matière de violences et de discriminatio…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/presidentielle-2027-chez-les-ecologistes-un-malaise-nourri-par-les-doutes-sur-leur-strategie-et-un-audit-interne_6778377_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T11:42:05+00:00",
+      "titre": "Budget 2027 : et si on regardait du côté des 211 milliards d’aides publiques aux entreprises ?",
+      "dek": "Chaque automne, c’est le même scénario&#160;: un gouvernement illégitime qui ne repose sur aucune majorité propose au Parlement un budget tout aussi illégitime, fait de coupes rases dans les besoins essentiels. Un seul impératif – la dette&#160;! – vaut tous les sacrifices. L’an …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/aides-publiques/budget-2027-et-si-on-regardait-du-cote-des-211-milliards-daides-publiques-aux-entreprises"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T10:04:08+00:00",
+      "titre": "Fontainebleau, après les feux: la difficile reconstruction d’une forêt très fréquentée",
+      "dek": "Après les incendies qui ont ravagé cet été le massif des Trois-Pignons et une partie de la forêt de Fontainebleau, habitants et spécialistes se mobilisent pour participer à la reconstruction. Et s’interrogent sur l’avenir des lieux. Le bilan des pertes biologiques, lui, est encor…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/200926/fontainebleau-apres-les-feux-la-difficile-reconstruction-d-une-foret-tres-frequentee"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T10:04:00+00:00",
+      "titre": "La Russie subit une attaque de drones ukrainiens massive au dernier jour des législatives",
+      "dek": "La Russie a subi dimanche une attaque massive de drones ukrainiens, dénoncée par les autorités comme visant à «perturber» le déroulement des législatives, qui devraient sans surprise se solder par la victoire du parti de Vladimir Poutine, plus de quatre ans et demi après le début…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/200926/la-russie-subit-une-attaque-de-drones-ukrainiens-massive-au-dernier-jour-des-legislatives"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T10:01:00+00:00",
+      "titre": "House, politique et lutte des classes : rencontre avec Folamour – Fête de l’Humanité 2026",
+      "dek": "Premiers chocs politiques en 2002 et 2006, racines contestataires des dancefloors américains, lutte contre la marchandisation de la fête et enjeux de la présidentielle 2027 : on discute avec l'artiste Folamour, en direct de la Fête de l'Humanité.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/culture/house-politique-et-lutte-des-classes-rencontre-avec-folamour-fete-de-lhumanite-2026"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T09:51:23+00:00",
+      "titre": "Budget 2027 : Amélie de Montchalin alerte sur l’état de la dette : « Chaque mois d’inaction aggrave l’asphyxie financière »",
+      "dek": "Le gouvernement – qui table sur un déficit public de 5,4 % en 2026, en hausse par rapport aux 5,1 % de 2025 –, prévoit un effort de 54 milliards d’euros l’an prochain pour assainir les finances publiques.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/budget-2027-amelie-de-montchalin-alerte-sur-l-etat-de-la-dette-chaque-mois-d-inaction-aggrave-l-asphyxie-financiere_6778365_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -118,7 +250,7 @@
       "date": "20 Sep 2026",
       "date_iso": "2026-09-20T03:30:00+00:00",
       "titre": "Emmanuel Macron réaffirme la souveraineté de Saint-Pierre-et-Miquelon face aux convoitises de Donald Trump",
-      "dek": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord, samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement exprime la volonté du Canada de prendre ses distances avec les Etats-Unis.",
+      "dek": "Le président français, qui est arrivé sur l’archipel de l’Atlantique Nord samedi, doit recevoir le premier ministre canadien, Mark Carney. Ce déplacement exprime la volonté du Canada de prendre ses distances avec les Etats-Unis.",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/09/20/emmanuel-macron-reaffirme-la-souverainete-de-saint-pierre-et-miquelon-face-aux-convoitises-de-trump_6778047_3210.html"
     },
@@ -143,6 +275,17 @@
       "dek": "Le candidat souverainiste n’a jamais dépassé les 5 % au premier tour de la présidentielle.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-nicolas-dupont-aignan-candidat-pour-la-quatrieme-fois_6777845_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T19:00:00+00:00",
+      "titre": "Le Festival du Monde interroge la place des femmes dans la statuaire parisienne",
+      "dek": "Au Festival du Monde, samedi 19 septembre, le journaliste Olivier Razemon animait un parcours consacré à la place des femmes et des hommes dans l’espace public. Au Jardin des plantes, les 24 statues, toutes à l’effigie d’hommes, révèlent une représentation genrée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/festival/article/2026/09/19/le-festival-du-monde-interroge-la-place-des-femmes-dans-la-statuaire-parisienne_6777841_4415198.html"
     },
     {
       "tag": "Politique",
@@ -176,6 +319,17 @@
       "dek": "Le député en avait été exclu mercredi après des accusations de violence d’une militante. Il a également été suspendu du Parti socialiste à titre conservatoire.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-a-gauche_6777840_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T18:28:48+00:00",
+      "titre": "Au Festival du Monde, une rédaction mobilisée face au défi d’une présidentielle sous tension : « La communication étouffe la politique »",
+      "dek": "Samedi 19 septembre, Mariama Darame, journaliste au service Politique du quotidien, évoquait, lors d’une rencontre avec les lecteurs, les enjeux de la couverture de la campagne présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/festival/article/2026/09/19/au-festival-du-monde-une-redaction-mobilisee-face-au-defi-d-une-presidentielle-sous-tension-la-communication-etouffe-la-politique_6777839_4415198.html"
     },
     {
       "tag": "Politique",
@@ -396,160 +550,6 @@
       "dek": "A Paris, des militants se réjouissent de l’organisation d’une primaire, même si certains regrettent son périmètre restreint. Si les deux principaux opposants à Olivier Faure, Nicolas Mayer-Rossignol et Boris Vallaud, ont apporté leur soutien au candidat de Place publique, Raphaël…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/19/il-n-est-pas-au-ps-rencontre-avec-des-militants-socialistes-peu-enclins-a-soutenir-raphael-glucksmann-pour-la-primaire-a-gauche_6777710_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T11:55:07+00:00",
-      "titre": "La secrétaire générale de la CGT conseille au gouvernement d'écouter la grogne sociale, \"sinon l'hiver va mal se passer\"",
-      "dek": "Invitée de France Inter samedi, Sophie Binet qualifie le projet de budget présenté par le Premier ministre de \"dangereux\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/syndicats/la-secretaire-generale-de-la-cgt-conseille-au-gouvernement-d-ecouter-la-grogne-sociale-sinon-l-hiver-va-mal-se-passer_8200691.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T11:31:09+00:00",
-      "titre": "Réunion à l'Élysée : la menace russe s'intensifie en France",
-      "dek": "Emmanuel Macron a organisé une réunion confidentielle à l’Elysée, vendredi 18 septembre, où on était reçus les candidats à la présidentielle et chefs de partis. Il a présenté l’état de la menace russe sur les alliés de l’Ukraine, dans un contexte où des attaques, cyberattaques et…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/russie/reunion-a-l-elysee-la-menace-russe-s-intensifie-en-france_8200682.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T11:21:20+00:00",
-      "titre": "Budget : la dette publique française attendue à plus de 120 % du produit intérieur brut en 2027, un nouveau record",
-      "dek": "Le gouvernement a transmis, vendredi, son projet de budget au Haut Conseil des finances publiques. Le texte prévoit une nouvelle hausse des prélèvements obligatoires, qui sera le principal facteur de la réduction attendue du déficit. La dette, elle, va poursuivre son ascension.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/budget-la-dette-publique-francaise-devrait-atteindre-un-nouveau-record-en-2027-a-plus-de-120-du-produit-interieur-brut_6777675_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T11:00:08+00:00",
-      "titre": "La conférence sur le travail, l’emploi et les retraites marque le retour du clivage entre syndicats réformistes et contestataires",
-      "dek": "Accusé de partialité par la CGT, la FSU et l’union syndicale Solidaires, en raison de pistes jugées influencées par le patronat, mais accueilli favorablement par la CFDT et la CFE-CGC, le rapport rédigé par Jean-Denis Combrexelle rejoue les clivages traditionnels.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/la-conference-sur-le-travail-l-emploi-et-les-retraites-marque-le-retour-du-clivage-entre-syndicats-reformistes-et-contestataires_6777673_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T10:29:00+00:00",
-      "titre": "De «League of Legends» à Eric Zemmour : Sardoche, le streamer rageur devenu porte-étendard de l’extrême droite libertarienne",
-      "dek": "Andréas Honnet, l’un des visages les plus populaires de l’Internet français il y a quelques années, est critiqué pour ses accès de violence en live, son comportement envers les femmes et plus récemment ses sorties politiques. S’il se dit «apartisan», il a pourtant participé à la …",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/de-league-of-legends-a-eric-zemmour-sardoche-le-streamer-rageur-devenu-porte-etendard-de-lextreme-droite-libertarienne-20260919_5K2ROIWJBJHRHJZHBOFMBSBW7Q/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T10:01:00+00:00",
-      "titre": "Racisme, discriminations, inégalités : l’extrême droite au pouvoir ? Un projet d’oppressions !",
-      "dek": "Rhétorique opposant « producteurs » et « parasites », menace sur les droits des femmes et des minorités, déni des réalités vécues dans les outre-mer et complicité grandissante de la droite traditionnelle : parlementaires et intellectuels démontrent, en direct de l'Agora de la Fêt…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/discriminations/racisme-discriminations-inegalites-lextreme-droite-au-pouvoir-un-projet-doppressions"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T10:00:07+00:00",
-      "titre": "« Responsabilité budgétaire, croissance et développement social ne sont pas contradictoires » : le plaidoyer de deux ministres espagnol et brésilien pour « des économies plus justes »",
-      "dek": "Le ministre de l’économie espagnol, Carlos Cuerpo, et le ministre des finances brésilien, Dario Durigan, défendent, dans une tribune au « Monde », les vertus d’une économie progressiste comme l’ont mise en œuvre les présidents Lula au Brésil et le premier ministre Pedro Sanchez e…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/19/responsabilite-budgetaire-croissance-et-developpement-social-ne-sont-pas-contradictoires-le-plaidoyer-de-deux-ministres-espagnol-et-bresilien-pour-des-economies-plus-justes_6777640_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T08:45:15+00:00",
-      "titre": "Budget 2027 : le gouvernement envisage de geler les pensions de base pour les retraités touchant au moins 2034 euros par mois",
-      "dek": "Selon l’avant-projet de loi de financement de la Sécurité sociale loi, les retraités percevant entre 1260 et 2034 euros par mois verraient leur pension du régime général s’accroître, mais à un rythme moins soutenu que l’inflation. Les plus modestes resteraient protégés.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/budget-2027-le-gouvernement-envisage-de-geler-les-pensions-de-base-pour-les-retraites-touchant-au-moins-2034-euros-par-mois_6777535_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T08:39:11+00:00",
-      "titre": "Budget 2027 : la périlleuse ligne de crête de Sébastien Lecornu",
-      "dek": "Les mesures contenues dans la copie budgétaire que le premier ministre a présentée jeudi sont économiquement nécessaires pour stopper le dérapage du déficit. Mais elles s’annoncent politiquement risquées pour le chef du gouvernement.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/19/budget-2027-la-perilleuse-ligne-de-crete-de-sebastien-lecornu_6777534_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T08:31:39+00:00",
-      "titre": "Pour le budget 2027, \"on demande un petit effort à tout le monde\", souligne le ministre du Logement pour justifier le gel des APL",
-      "dek": "Vincent Jeanbrun était l'invité du \"8h30 franceinfo\", samedi 19 septembre 2026. Il répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/pour-le-budget-2027-on-demande-un-petit-effort-a-tout-le-monde-souligne-le-ministre-du-logement-pour-justifier-le-gel-des-apl_8178035.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T07:30:09+00:00",
-      "titre": "Budget 2027 : le pas de deux entre Sébastien Lecornu et le Rassemblement national",
-      "dek": "En quelques jours, le premier ministre a avancé dans le sens souhaité par le RN sur quatre sujets majeurs pour le parti d’extrême droite. Marine Le Pen semble prête à un accord de non-censure pour éviter une crise financière.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/budget-2027-le-pas-de-deux-entre-sebastien-lecornu-et-le-rassemblement-national_6777398_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T07:12:31+00:00",
-      "titre": "Eric Zemmour (presque) candidat à l'élection présidentielle de 2027, un atout pour Marine Le Pen ?",
-      "dek": "Le président de Reconquête compte lancer sa deuxième campagne présidentielle cet automne. Mais a déjà fait acte de candidature cette semaine.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T07:01:00+00:00",
-      "titre": "Divertir sans être une distraction : discussion avec Merwane Benlazar – Fête de l’Humanité",
-      "dek": "Polémique raciste après son passage dans C à vous sur France 5, lynchage numérique mené par l'extrême droite, censure aux Flammes et refus d'être enfermé dans la case du « militant exemplaire » : l'humoriste Merwane Benlazar partage sa vision de l'humour et du stand-up en direct …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/divertir-sans-etre-une-distraction-discussion-avec-merwane-benlazar-fete-de-lhumanite"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T07:00:00+00:00",
-      "titre": "Dans le monde rouge de Twitch, Sardoche, le streamer français «libertarien» qui rêve d’union des droites entre Knafo et Lisnard",
-      "dek": "PORTRAIT - Poids lourd de la plateforme web de diffusion de vidéos en direct, Sardoche était à un meeting de Nouvelle Énergie puis aux universités d’été de Reconquête. Aussi populaire que contesté pour ses propos, il compte bien faire peser son million d’abonnés dans la balance d…",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/dans-le-monde-rouge-de-twitch-sardoche-le-streamer-francais-libertarien-qui-reve-d-union-des-droites-entre-knafo-et-lisnard-20260919"
     }
   ]
 }
