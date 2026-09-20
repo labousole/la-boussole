@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-09-20T13:51:40+00:00",
+  "generated_at": "2026-09-20T17:51:07+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T17:48:47+00:00",
+      "titre": "DIRECT. Saint-Pierre-et-Miquelon : la France et le Canada sont \"deux grandes nations indépendantes et qui veulent le rester\", affirme Emmanuel Macron",
+      "dek": "Les responsables français et canadiens veulent afficher leur bonne entente en réponse aux volontés hégémoniques de Donald Trump.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/direct-saint-pierre-et-miquelon-emmanuel-macron-va-rencontrer-le-premier-ministre-canadien-mark-carney-a-16h30_8201543.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T17:35:33+00:00",
+      "titre": "En images. Plus de 10 000 personnes dans la rue en France contre « le permis de tuer » des forces de l’ordre",
+      "dek": "Des milliers de personnes ont manifesté à travers la France contre une loi qui prévoit que policiers et gendarmes « sont présumés avoir agi » dans le respect de la loi quand ils ont fait « usage de leurs armes ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/videos/video/2026/09/20/en-images-plus-de-10-000-personnes-dans-la-rue-en-france-contre-le-permis-de-tuer-des-forces-de-l-ordre_6778408_1669088.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T17:26:47+00:00",
+      "titre": "Présidentielle : face aux bouleversements du monde, l’illusion du «pré carré» français",
+      "dek": "Inflation, agriculture, climat… Alors que l’influence des événements à l’étranger se fait sentir dans tous les aspects de nos vies, les candidats rechignent à placer l’international au cœur de leur campagne. Une grossière erreur.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-face-aux-bouleversements-du-monde-lillusion-du-pre-carre-francais-20260920_MGBDF5WTSRFH5IKB7JX6SWANXY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T17:24:01+00:00",
+      "titre": "Budget 2027 : Sébastien Lecornu promet 5 milliards d’euros de plus aux collectivités locales",
+      "dek": "Dans un courrier au Sénat, le premier ministre s’engage à ce que les dépenses des villes, départements et régions évoluent au même niveau que l’inflation, alors que celles de l’Etat seront « inférieures ». Mais l’engagement est jugé « flou » par certains élus.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/budget-2027-sebastien-lecornu-promet-5-milliards-d-euros-de-plus-aux-collectivites-locales_6778406_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T17:07:56+00:00",
+      "titre": "François Bayrou défend une primaire nébuleuse du « grand fleuve central » pour la présidentielle",
+      "dek": "L’ancien premier ministre a proposé, lors de l’université de rentrée de son parti, un calendrier pour organiser un scrutin ouvert afin de désigner un candidat unique allant de la gauche à la droite modérée d’ici à début 2027. Mais peu de ses invités du week-end comme des cadres d…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/francois-bayrou-defend-une-primaire-nebuleuse-du-grand-fleuve-central-pour-la-presidentielle_6778405_823448.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T16:00:00+00:00",
+      "titre": "Au RN, l’autre campagne « présidentielle » de Jordan Bardella",
+      "dek": "RÉCIT - Seul candidat à la tête du parti à la flamme, le patron du Rassemblement national se prépare à être reconduit à la faveur d’un congrès prévu fin octobre.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/au-rn-l-autre-campagne-presidentielle-de-jordan-bardella-20260920"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T15:51:10+00:00",
+      "titre": "\"Vous ne mettez pas un stagiaire à la tête d'une entreprise\", estime Ségolène Royal à propos de la candidature de Raphaël Glucksmann à la présidentielle",
+      "dek": "L'ancienne ministre socialiste épingle la supposée inexpérience et la \"méconnaissance du peuple\" de son adversaire à la primaire sociale-démocrate, dans une interview au quotidien \"Libération\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/vous-ne-mettez-pas-un-stagiaire-a-la-tete-d-une-entreprise-estime-segolene-royal-a-propos-de-la-candidature-de-raphael-glucksmann-a-la-presidentielle_8201996.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T15:38:35+00:00",
+      "titre": "Budget 2027 : après avoir creusé la dette, les macronistes jouent à « l’austérité ou le chaos »",
+      "dek": "Après avoir creusé la dette avec leurs cadeaux aux plus riches, les macronistes ressortent la vieille rengaine de l’urgence financière pour imposer une nouvelle cure d'austérité. Et regardent déjà du côté du RN pour sauver la copie de Sébastien Lecornu.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/budget/budget-2027-apres-avoir-creuse-la-dette-les-macronistes-jouent-a-lausterite-ou-le-chaos"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T15:15:47+00:00",
+      "titre": "Au RN, l’ambiguïté persiste autour du conflit russo-ukrainien",
+      "dek": "Le parti d’extrême droite enchaîne les signaux contradictoires : entre posture de fermeté vis-à-vis de Moscou et menaces de «couper le robinet» des aides à Kyiv, refus des ingérences en France mais absence d’engagements envers les pays européens victimes des mêmes faits.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/au-rn-la-cacophonie-persiste-autour-du-conflit-russo-ukrainien-20260920_GAIXN7ADFJHWLDE3NFNM5HG7WA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T14:47:29+00:00",
+      "titre": "Primaire à gauche : Ségolène Royal critique le manque d’expérience de Raphaël Glucksmann",
+      "dek": "Interrogée sur ce qui la distingue de l’eurodéputé, l’ancienne candidate à la présidentielle a dit avoir fait ses « preuves dans l’exercice difficile du commandement démocratique local, national et international ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/primaire-a-gauche-segolene-royal-critique-le-manque-d-experience-de-raphael-glucksmann_6778390_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T14:25:25+00:00",
+      "titre": "Raphaël Glucksmann en campagne dans un territoire rural pour tenter de casser son image de Parisien",
+      "dek": "Le candidat à la primaire du Parti socialiste pour l’élection présidentielle de 2027 était l’invité des Rencontres de la gauche, orchestrées par Carole Delga, à Bram, dans sa région d’Occitanie. Alors que nombre d’opposants à Olivier Faure étaient présents, l’objectif était de mi…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/20/raphael-glucksmann-en-campagne-dans-un-territoire-rural-pour-tenter-de-casser-son-image-de-parisien_6778389_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T14:15:37+00:00",
+      "titre": "François Bayrou poursuit son plaidoyer solitaire pour une primaire «des sociaux-démocrates aux gaullistes»",
+      "dek": "Le président du Modem continue de prêcher pour la désignation d’un candidat commun qui rallierait les nombreux prétendants à l’Elysée situés entre Jean-Luc Mélenchon et Marine Le Pen. Sans grand soutien à ce stade.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/francois-bayrou-poursuit-son-plaidoyer-solitaire-pour-une-primaire-des-sociaux-democrates-aux-gaullistes-20260920_A4J4S4GPDFD45BLKNE5ZJ2BBQY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T13:52:00+00:00",
+      "titre": "Pour Ségolène Royal, Raphaël Glucksmann prépare «une alliance au centre et à droite pour faire barrage à LFI»",
+      "dek": "Bilan d’Emmanuel Macron, pouvoir d’achat, «France tranquille» : l’ancienne candidate socialiste de 2007 explique pourquoi elle participe à la primaire du PS en vue de 2027, et dit ses réserves envers le favori des sondages.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/pour-segolene-royal-raphael-glucksmann-prepare-une-alliance-au-centre-et-a-droite-pour-faire-barrage-a-lfi-20260920_HS5KCKARSBEXLORNHGT3PHFRZA/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -72,7 +215,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "20 Sep 2026",
-      "date_iso": "2026-09-20T12:25:27+00:00",
+      "date_iso": "2026-09-20T12:25:24+00:00",
       "titre": "Présidentielle 2027 : chez les Ecologistes, un malaise nourri par les doutes sur leur stratégie et un audit interne",
       "dek": "Alors que le parti devrait acter ce dimanche l’organisation d’un référendum en décembre pour décider du maintien ou non d’une candidature autonome, une étude interne porte un regard critique sur sa sociologie et dénonce des défaillances en matière de violences et de discriminatio…",
       "avis": null,
@@ -407,149 +550,6 @@
       "dek": "Brandie depuis les années 1990, la création d’un État palestinien apparaît comme une chimère qui justifie de ne rien changer. Des voix proposent pourtant des alternatives nourries de l’espoir d’un règlement juste, qui permette aux deux peuples de vivre ensemble.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/international/190926/israel-et-palestine-face-l-impasse-de-la-solution-deux-etats"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T17:10:42+00:00",
-      "titre": "Charles Sapin ne sera plus sur France Inter pour son édito contesté",
-      "dek": "Après deux éditos sur France Inter et autant de journées de grève contre son arrivée, Charles Sapin, l'un des responsables du magazine «Valeurs actuelles», a refusé la proposition de transformer en débat ce rendez-vous et ne sera plus à l’antenne de la radio publique.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/190926/charles-sapin-ne-sera-plus-sur-france-inter-pour-son-edito-conteste"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T16:50:25+00:00",
-      "titre": "Logement : le gouvernement annonce vouloir geler les APL en 2027",
-      "dek": "Le projet de budget sera débattu au Parlement au cours des prochaines semaines. Jeudi, Sébastien Lecornu a présenté un budget avec un « effort » massif de 54 milliards d’euros.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/logement-le-gouvernement-annonce-vouloir-geler-les-apl-en-2027_6777834_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T15:59:26+00:00",
-      "titre": "Emmanuel Macron attendu à Saint-Pierre-et-Miquelon",
-      "dek": "Le président de la République sera dans l’archipel d’Amérique du Nord jusqu’à lundi avant de partir pour New York. De nombreux sujets seront abordés durant son séjour.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/emmanuel-macron-attendu-a-saint-pierre-et-miquelon-20260919"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T15:45:15+00:00",
-      "titre": "A l’assemblée citoyenne lancée par Jean-Marc Jancovici : « Ce n’est pas si souvent qu’on a l’occasion de faire entendre nos idées »",
-      "dek": "L’ingénieur a donné le coup d’envoi, samedi, d’une assemblée de 156 personnes tirées au sort. Elle doit aboutir, en février 2027, à des propositions destinées aux candidats à l’élection présidentielle sur divers sujets.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/planete/article/2026/09/19/a-l-assemblee-citoyenne-lancee-par-jean-marc-jancovici-ce-n-est-pas-si-souvent-qu-on-a-l-occasion-de-faire-entendre-nos-idees_6777828_3244.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T14:55:08+00:00",
-      "titre": "La priorité nationale est-elle une idée de gauche ?",
-      "dek": "Aujourd’hui portée par le Rassemblement national, l’idée de préférence ou priorité nationale vient-elle de Vichy ou du Front populaire ?",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/vrai-ou-fake/la-priorite-nationale-est-elle-une-idee-de-gauche_8200784.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T14:09:55+00:00",
-      "titre": "Laurent Nuñez appelle à la « vigilance » lors des rassemblements contre la loi permis de tuer",
-      "dek": "Le ministre de l’Intérieur Laurent Nuñez demande aux préfets et aux responsables des forces de sécurité intérieure une «&nbsp;particulière vigilance&nbsp;» lors des manifestations ce week-end en France.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/legitime-defense/laurent-nunez-appelle-a-la-vigilance-lors-des-rassemblements-contre-la-loi-permis-de-tuer"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T13:16:22+00:00",
-      "titre": "Budget 2027 : le gouvernement envisage un plafond de 3 000 euros pour l’abattement fiscal des retraités",
-      "dek": "Au sein de l’exécutif, on table sur une rentrée d’argent supplémentaire à hauteur de 1,4 milliard d’euros avec cette mesure, qui n’en est pour l’instant qu’au stade de la proposition et reste inflammable politiquement.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/budget-2027-le-gouvernement-envisage-un-plafond-de-3-000-euros-pour-labattement-fiscal-des-retraites-20260919_2OHQTMIPDFE5HM7KFXQ7RBEJS4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T12:36:44+00:00",
-      "titre": "Les avocats du député Philippe Brun, exclu de la primaire du PS, annoncent leur intention de porter plainte pour dénonciation calomnieuse",
-      "dek": "Les conseils du député de l'Eure, écarté du Parti socialiste après des accusations de violence, considèrent qu'il est victime \"de rivalités internes\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/les-avocats-de-philippe-brun-annoncent-leur-intention-de-porter-plainte-pour-denonciation-calomnieuse_8200673.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T12:32:00+00:00",
-      "titre": "«Le message aujourd’hui est l’unité» : les gauches rassemblées contre la présomption de légitime défense des forces de l’ordre",
-      "dek": "Socialistes, écologistes et insoumis seront ensemble dans la rue dimanche 20 septembre pour contester le texte instaurant un régime dérogatoire pour les policiers et gendarmes inquiétés par la justice en cas d’usage de leur arme. Une mobilisation commune, au-delà des divergences …",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/police-justice/le-message-aujourdhui-est-lunite-les-gauches-rassemblees-contre-la-presomption-de-legitime-defense-des-forces-de-lordre-20260919_IL47FQRNYBBHHBAWA34AWVKSXQ/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T12:03:28+00:00",
-      "titre": "Un ancien salarié d’Ornikar poursuit l’entreprise pour racisme et harcèlement",
-      "dek": "Un ex-employé d’Ornikar, plateforme d’auto-école en ligne, accuse la société de racisme, de harcèlement discriminatoire et se dit victime de représailles après avoir dénoncé ses conditions de travail. L’entreprise conteste les faits et défend la légitimité du licenciement.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/190926/un-ancien-salarie-d-ornikar-poursuit-l-entreprise-pour-racisme-et-harcelement"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T12:01:44+00:00",
-      "titre": "Le scandale du Grand Prix de Formule 1 percute le porte-parole d’Édouard Philippe",
-      "dek": "L’avocat Arnaud Péricard, qui a rejoint la campagne présidentielle de l’ex-premier ministre, est mis en cause dans deux rapports sur l’organisation de l’événement automobile, qui a laissé derrière lui une dette abyssale. «Ce n’est pas l’affaire McKinsey», rétorque-t-il à «Mediapa…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/190926/le-scandale-du-grand-prix-de-formule-1-percute-le-porte-parole-d-edouard-philippe"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T12:01:37+00:00",
-      "titre": "Christian Estrosi, un élu cerné par les affaires",
-      "dek": "Déjà visé par une enquête sur ses notes de frais, l’ancien maire de Nice l’est aussi dans un autre dossier, concernant cette fois l’organisation de sa rentrée politique de 2025, selon les informations de «Mediapart». Deux procédures qui viennent s’ajouter aux nombreuses autres ou…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/190926/christian-estrosi-un-elu-cerne-par-les-affaires"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T12:00:13+00:00",
-      "titre": "« Il n’est pas au PS » : rencontre avec des militants socialistes peu enclins à soutenir Raphaël Glucksmann pour la primaire à gauche",
-      "dek": "A Paris, des militants se réjouissent de l’organisation d’une primaire, même si certains regrettent son périmètre restreint. Si les deux principaux opposants à Olivier Faure, Nicolas Mayer-Rossignol et Boris Vallaud, ont apporté leur soutien au candidat de Place publique, Raphaël…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/il-n-est-pas-au-ps-rencontre-avec-des-militants-socialistes-peu-enclins-a-soutenir-raphael-glucksmann-pour-la-primaire-a-gauche_6777710_823448.html"
     }
   ]
 }
