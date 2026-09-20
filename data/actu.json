@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-09-20T17:51:07+00:00",
+  "generated_at": "2026-09-20T22:05:31+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T21:58:07+00:00",
+      "titre": "Saint-Pierre-et-Miquelon : la France et le Canada sont \"deux grandes nations indépendantes et qui veulent le rester\", affirme Emmanuel Macron",
+      "dek": "Les responsables français et canadiens veulent afficher leur bonne entente en réponse aux volontés hégémoniques de Donald Trump.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/direct-saint-pierre-et-miquelon-emmanuel-macron-va-rencontrer-le-premier-ministre-canadien-mark-carney-a-16h30_8201543.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T21:11:22+00:00",
+      "titre": "«En cédant aux syndicats sur Charles Sapin, la direction est extrêmement affaiblie» : le récit d’un bras de fer qui replonge Radio France dans la tourmente",
+      "dek": "À sept mois de la présidentielle, la suppression de l’édito confié au journaliste de Valeurs actuelles relance le débat sur le manque de pluralisme dans l’audiovisuel public.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/en-cedant-aux-syndicats-sur-charles-sapin-la-direction-est-extremement-affaiblie-le-recit-d-un-bras-de-fer-qui-replonge-radio-france-dans-la-tourmente-20260920"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T20:33:37+00:00",
+      "titre": "Présidentielle 2027 : \"J'ai le sentiment que bien des programmes sont un peu courts sur pattes\", estime Dominique de Villepin, ancien Premier ministre",
+      "dek": "Dominique de Villepin, ancien Premier ministre, était l’invité du Grand Enjeu sur franceinfo ce dimanche 20 septembre. Il a, au cours de l’entretien, évoqué les candidats à la présidentielle 2027 et leur programme.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-j-ai-le-sentiment-que-bien-des-programmes-sont-un-peu-courts-sur-pattes-estime-dominique-de-villepin-ancien-premier-ministre_8202191.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T20:31:03+00:00",
+      "titre": "Russie: le parti de Poutine donné sans surprise vainqueur aux législatives",
+      "dek": "Le parti de Vladimir Poutine est donné vainqueur dimanche aux élections législatives, un scrutin marqué par des piratages informatiques et des attaques de drones ukrainiens auxquelles Moscou a promis de riposter.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/200926/russie-le-parti-de-poutine-donne-sans-surprise-vainqueur-aux-legislatives"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T19:06:16+00:00",
+      "titre": "Élections allemandes: l’extrême droite en tête dans le Mecklembourg, la gauche gagnante à Berlin",
+      "dek": "Les deux scrutins régionaux outre-Rhin dimanche 20 septembre ont donné des résultats contrastés. Un point commun: la déroute de la droite, qui enregistre, dans le Mecklembourg, le plus mauvais score de son histoire. Le chancelier Friedrich Merz, sous pression, a indiqué dimanche …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/200926/elections-allemandes-l-extreme-droite-en-tete-dans-le-mecklembourg-la-gauche-gagnante-berlin"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T19:05:03+00:00",
+      "titre": "Menace russe, guerre au Moyen-Orient et prix des carburants… Emmanuel Macron sera au 20 heures de TF1 et France 2 jeudi",
+      "dek": "Après sa conférence de presse vendredi à l’issue d’une réunion avec les chefs des partis politiques, le président de la République prendra cette fois la parole à une heure de grande audience.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/menace-russe-guerre-au-moyen-orient-et-prix-des-carburants-emmanuel-macron-sera-au-20-heures-de-tf1-et-france-2-jeudi-20260920_MWAAZEAHVNE6HB5CP3WFOJGG6Y/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T18:56:06+00:00",
+      "titre": "Emmanuel Macron sera interviewé jeudi à 20 heures sur France 2 et TF1",
+      "dek": "Le président répondra en direct aux questions des journalistes Caroline Roux et Gilles Bouleau",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-sera-interviewe-jeudi-a-20-heures-sur-france-2-et-tf1_8202125.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T18:39:35+00:00",
+      "titre": "Pêche, sécurité, énergie... La France et le Canada vont \"travailler à un rapprochement\", assure Emmanuel Macron depuis Saint-Pierre-et-Miquelon",
+      "dek": "La France et le Canada sont \"deux grandes nations indépendantes et qui veulent le rester\", a assuré le président français.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/canada/peche-securite-energie-la-france-et-le-canada-vont-travailler-a-un-rapprochement-assure-emmanuel-macron-depuis-saint-pierre-et-miquelon_8202101.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T18:33:56+00:00",
+      "titre": "À Marseille, plusieurs milliers de personnes manifestent contre le «permis de tuer»",
+      "dek": "La proposition de loi qui accorderait une «présomption de légitime défense» aux policiers et gendarmes devrait être examinée par le Sénat à l’automne. Elle a rassemblé contre elle des milliers de citoyens de gauche inquiets dans toute la France, dimanche 20 septembre.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/200926/marseille-plusieurs-milliers-de-personnes-manifestent-contre-le-permis-de-tuer"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T18:23:16+00:00",
+      "titre": "La France et le Canada vont « travailler à un rapprochement » sur plusieurs sujets, annonce Emmanuel Macron",
+      "dek": "Le président français a accueilli le premier ministre canadien à Saint-Pierre-et-Miquelon, unique territoire d’outre-mer situé dans l’Atlantique Nord.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -440,116 +550,6 @@
       "dek": "Au Festival du « Monde », samedi 19 septembre, le journaliste Olivier Razemon animait un parcours consacré à la place des femmes et des hommes dans l’espace public. Au Jardin des plantes, les vingt-quatre statues, toutes à l’effigie d’hommes, révèlent une représentation genrée.",
       "avis": null,
       "lien": "https://www.lemonde.fr/festival/article/2026/09/19/le-festival-du-monde-interroge-la-place-des-femmes-dans-la-statuaire-parisienne_6777841_4415198.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T18:42:43+00:00",
-      "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
-      "dek": "Le président du parti Debout la France n'a jamais dépassé les 5% des suffrages lors de ses trois premières candidatures.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T18:40:06+00:00",
-      "titre": "Présidentielle 2027 : Philippe Brun réclame d’être réintégré dans la primaire à gauche",
-      "dek": "Le député en avait été exclu mercredi après des accusations de violence d’une militante. Il a également été suspendu du Parti socialiste à titre conservatoire.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/19/presidentielle-2027-philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-a-gauche_6777840_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T18:28:48+00:00",
-      "titre": "Au Festival du Monde, une rédaction mobilisée face au défi d’une présidentielle sous tension : « La communication étouffe la politique »",
-      "dek": "Samedi 19 septembre, Mariama Darame, journaliste au service Politique du quotidien, évoquait, lors d’une rencontre avec les lecteurs, les enjeux de la couverture de la campagne présidentielle.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/festival/article/2026/09/19/au-festival-du-monde-une-redaction-mobilisee-face-au-defi-d-une-presidentielle-sous-tension-la-communication-etouffe-la-politique_6777839_4415198.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T18:28:48+00:00",
-      "titre": "Au Festival du « Monde », une rédaction mobilisée face au défi d’une présidentielle sous tension : « La communication étouffe la politique »",
-      "dek": "Au Festival du « Monde », samedi 19 septembre, Mariama Darame, journaliste au service politique du quotidien, évoquait, lors d’une rencontre avec les lecteurs, les enjeux de la couverture de la campagne présidentielle.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/festival/article/2026/09/19/au-festival-du-monde-une-redaction-mobilisee-face-au-defi-d-une-presidentielle-sous-tension-la-communication-etouffe-la-politique_6777839_4415198.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T18:20:43+00:00",
-      "titre": "Réunion d'urgence à l'Élysée, la France prépare un plan pour contrer les attaques russes",
-      "dek": "Vladimir Poutine entend maintenir la pression sous des formes multiples sur les pays qu’il qualifie d’inamicaux et qui soutiennent l’Ukraine. Vendredi 18 septembre, Emmanuel Macron a reconnu que les temps avaient changé et que la France, comme ses homologues européens, se prépara…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/russie/reunion-d-urgence-a-l-elysee-le-france-prepare-un-plan-pour-contrer-les-attaques-russes_8201009.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T17:45:37+00:00",
-      "titre": "Au MoDem, l’après-Bayrou reste un interdit, malgré un début de « guerre des chefs »",
-      "dek": "DÉCRYPTAGE - Pas candidat à la présidentielle, le dirigeant centriste n’entend toujours pas laisser la main à la tête de son parti, soucieux de retarder la compétition sourde entre ses fidèles Marc Fesneau, chef des députés MoDem, et Jean-Noël Barrot, ministre des Affaires étrang…",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/au-modem-l-apres-bayrou-reste-un-interdit-malgre-un-debut-de-guerre-des-chefs-20260918"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T17:26:41+00:00",
-      "titre": "Prestations sociales: derrière les annonces de Lecornu, des «coupes sur les pauvres» et le «sacrifice des étrangers»",
-      "dek": "Délai de carence pour les prestations sociales des étrangères et étrangers, gel des allocations logement: ce que prépare le gouvernement pour le budget 2027 inquiète profondément les associations du secteur.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/190926/prestations-sociales-derriere-les-annonces-de-lecornu-des-coupes-sur-les-pauvres-et-le-sacrifi"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T17:18:48+00:00",
-      "titre": "Présidentielle : sur les terres de Carole Delga, Raphaël Glucksmann veut «refonder la gauche»",
-      "dek": "Le candidat à la primaire socialiste, invité par la présidente de la région Occitanie ce samedi, a notamment promis de mettre fin «au lobbying des grands céréaliers».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-sur-les-terres-de-carole-delga-raphael-glucksmann-veut-refonder-la-gauche-20260919_G7HHTWJRB5FR5J4CEH2FAAISOE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T17:15:54+00:00",
-      "titre": "Présidentielle 2027 : Nicolas Dupont-Aignan vers une quatrième candidature",
-      "dek": "Le souverainiste, qui avait recueilli 2,1 % des voix en 2022, défend notamment une sortie de l’Union européenne.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-nicolas-dupont-aignan-vers-une-quatrieme-candidature-20260919_QCPQVACIVFFYRGPEDLGHRX3OEA/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T17:13:52+00:00",
-      "titre": "Israël et Palestine face à l’impasse de la solution à deux États",
-      "dek": "Brandie depuis les années 1990, la création d’un État palestinien apparaît comme une chimère qui justifie de ne rien changer. Des voix proposent pourtant des alternatives nourries de l’espoir d’un règlement juste, qui permette aux deux peuples de vivre ensemble.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/190926/israel-et-palestine-face-l-impasse-de-la-solution-deux-etats"
     }
   ]
 }
