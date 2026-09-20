@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-19T22:00:51+00:00",
+  "generated_at": "2026-09-20T02:48:22+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Sep 2026",
+      "date_iso": "2026-09-19T23:43:51+00:00",
+      "titre": "Saint-Pierre-et-Miquelon est bien « français », martèle sur place Emmanuel Macron, en réponse aux visées expansionnistes de Donald Trump",
+      "dek": "Dès son arrivée sur place, le président a réaffirmé la souveraineté française sur l’unique territoire d’outre-mer situé dans l’Atlantique Nord, où il doit recevoir, dimanche, le premier ministre canadien, Mark Carney.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/20/saint-pierre-et-miquelon-est-bien-francais-martele-sur-place-emmanuel-macron-en-reponse-aux-visees-expansionnistes-de-donald-trump_6777911_3210.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -539,17 +550,6 @@
       "dek": "En déplacement à Montpellier, le candidat a décrit \"une situation sociale catastrophique\", notamment du fait de l'explosion du prix des carburants qui \"va empirer\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-promet-que-la-gauche-peut-transformer-la-vie-des-francais_8199911.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Sep 2026",
-      "date_iso": "2026-09-18T19:39:23+00:00",
-      "titre": "Lors de la rentrée du MoDem, François Bayrou a plaidé à nouveau pour une primaire allant de la droite à la gauche modérée",
-      "dek": "Le président du MoDem évoque depuis cet été une primaire du \"grand courant central\", les candidats déclarés, Édouard Philippe et Gabriel Attal manquant à ses yeux de la \"légitimité\" d'une désignation.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/lors-de-la-rentree-du-modem-francois-bayrou-a-plaide-a-nouveau-pour-une-primaire-allant-de-la-droite-a-la-gauche-moderee_8199797.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
