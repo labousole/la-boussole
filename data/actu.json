@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T22:05:31+00:00",
+  "generated_at": "2026-09-21T02:45:36+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
-      "date": "20 Sep 2026",
-      "date_iso": "2026-09-20T21:58:07+00:00",
+      "date": "21 Sep 2026",
+      "date_iso": "2026-09-21T02:44:20+00:00",
       "titre": "Saint-Pierre-et-Miquelon : la France et le Canada sont \"deux grandes nations indépendantes et qui veulent le rester\", affirme Emmanuel Macron",
       "dek": "Les responsables français et canadiens veulent afficher leur bonne entente en réponse aux volontés hégémoniques de Donald Trump.",
       "avis": null,
@@ -99,6 +99,17 @@
       "dek": "La proposition de loi qui accorderait une «présomption de légitime défense» aux policiers et gendarmes devrait être examinée par le Sénat à l’automne. Elle a rassemblé contre elle des milliers de citoyens de gauche inquiets dans toute la France, dimanche 20 septembre.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/200926/marseille-plusieurs-milliers-de-personnes-manifestent-contre-le-permis-de-tuer"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Sep 2026",
+      "date_iso": "2026-09-20T18:23:16+00:00",
+      "titre": "À Saint-Pierre-et-Miquelon, la France et le Canada plaident pour un rapprochement « profond »",
+      "dek": "« Nous croyons ensemble que nos pays sont deux grandes nations indépendantes et qui veulent le rester », a déclaré Emmanuel Macron, dimanche, au côté du premier ministre canadien Mark Carney, venu en voisin.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/20/la-france-et-le-canada-vont-travailler-a-un-rapprochement-sur-plusieurs-sujets-annonce-emmanuel-macron_6778413_3210.html"
     },
     {
       "tag": "Politique",
@@ -537,17 +548,6 @@
       "date_iso": "2026-09-19T19:00:00+00:00",
       "titre": "Le Festival du Monde interroge la place des femmes dans la statuaire parisienne",
       "dek": "Au Festival du Monde, samedi 19 septembre, le journaliste Olivier Razemon animait un parcours consacré à la place des femmes et des hommes dans l’espace public. Au Jardin des plantes, les 24 statues, toutes à l’effigie d’hommes, révèlent une représentation genrée.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/festival/article/2026/09/19/le-festival-du-monde-interroge-la-place-des-femmes-dans-la-statuaire-parisienne_6777841_4415198.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Sep 2026",
-      "date_iso": "2026-09-19T19:00:00+00:00",
-      "titre": "Le Festival du « Monde » interroge la place des femmes dans la statuaire parisienne",
-      "dek": "Au Festival du « Monde », samedi 19 septembre, le journaliste Olivier Razemon animait un parcours consacré à la place des femmes et des hommes dans l’espace public. Au Jardin des plantes, les vingt-quatre statues, toutes à l’effigie d’hommes, révèlent une représentation genrée.",
       "avis": null,
       "lien": "https://www.lemonde.fr/festival/article/2026/09/19/le-festival-du-monde-interroge-la-place-des-femmes-dans-la-statuaire-parisienne_6777841_4415198.html"
     }
