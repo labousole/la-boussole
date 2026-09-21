@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-21T19:50:12+00:00",
+  "generated_at": "2026-09-21T22:57:15+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Sep 2026",
+      "date_iso": "2026-09-21T22:55:05+00:00",
+      "titre": "Flambée des prix des carburants : le gouvernement présentera de nouvelles aides lors d'une conférence de presse mardi à 17 heures",
+      "dek": "Les ministres se sont réunis, dans l'après-midi, pour réfléchir à \"l'accompagnement à court et moyen terme\" des Français.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-des-prix-des-carburants-deux-reunions-se-tiennent-a-matignon-lundi-pour-evoquer-la-crise-energetique_8202515.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -73,7 +84,7 @@
       "source": "Le Monde – Politique",
       "date": "21 Sep 2026",
       "date_iso": "2026-09-21T17:47:55+00:00",
-      "titre": "Présidentielle 2027 : les Ecologistes trancheront en décembre sur l’avenir de la candidature de Marine Tondelier",
+      "titre": "Présidentielle 2027 : Les Ecologistes trancheront en décembre sur l’avenir de la candidature de Marine Tondelier",
       "dek": "La candidature présidentielle portée par la secrétaire nationale des Verts est encore défendue par le parlement interne du parti, qui l’a confirmée le 21 septembre. Mais dans les rangs écologistes, rares sont ceux qui croient à une victoire finale sur cette ligne.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/21/presidentielle-2027-les-ecologistes-trancheront-en-decembre-sur-l-avenir-de-la-candidature-de-marine-tondelier_6779300_823448.html"
@@ -539,17 +550,6 @@
       "dek": "REPORTAGE - En visite sur l’archipel français d’Amérique du Nord, le président français y a fait des annonces pour développer le territoire dans l’avenir. Tout en rappelant l’atout de sa position stratégique.",
       "avis": null,
       "lien": "https://www.lefigaro.fr/politique/spatial-peche-souverainete-emmanuel-macron-veut-ecrire-une-nouvelle-page-pour-saint-pierre-et-miquelon-20260921"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T08:11:16+00:00",
-      "titre": "Prix du carburant : le gouvernement promet « des mesures pour aller jusqu’à la fin de l’année »… sans convaincre la gauche",
-      "dek": "Le gouvernement planche sur des mesures pour contrer la hausse du prix des carburants allant jusqu’à fin 2026, a annoncé, lundi 21&nbsp;septembre, le ministre du Travail et des Solidarités, Jean-Pierre Farandou, sur TF1. Reste que ses annonces s’inscrivent dans la politique déjà …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/carburants/prix-du-carburant-le-gouvernement-promet-des-mesures-pour-aller-jusqua-la-fin-de-lannee-sans-convaincre-la-gauche"
     }
   ]
 }
