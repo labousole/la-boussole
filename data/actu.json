@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-09-22T14:17:25+00:00",
+  "generated_at": "2026-09-22T18:26:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:20:03+00:00",
+      "titre": "Baisse des taxes sur le carburant : comment Marine Le Pen en a fait sa mesure phare",
+      "dek": "Brandie par la candidate du RN, la promesse, simple mais fort coûteuse pour l’Etat, a intégré le programme du parti en 2021, malgré des réserves au sein comme hors de l’appareil.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/baisse-des-taxes-sur-le-carburant-comment-marine-le-pen-en-a-fait-sa-mesure-phare-20260922_GDPNIP3CTVHLPIFZWAKJQ7Y344/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:16:08+00:00",
+      "titre": "Pouvoirs de l'exécutif, fragilités du cadre électoral... Un rapport alerte sur \"les vulnérabilités\" de la France en cas de \"choc autoritaire\"",
+      "dek": "Le rapport, réalisé par des universitaires spécialistes du droit public, a été commandé par trois élues écologistes.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/pouvoirs-de-l-executif-fragilites-du-cadre-electoral-un-rapport-alerte-sur-les-vulnerabilites-de-la-france-en-cas-de-choc-autoritaire_8205071.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:13:09+00:00",
+      "titre": "Comment un(e) président(e) d’extrême droite pourrait s’attaquer à nos institutions : le rapport qui dénonce les failles de la Ve République",
+      "dek": "Avec leur rapport « Rendre le système juridique français résilient face à un potentiel choc autoritaire », des universitaires alertent sur la fragilité de nos institutions et proposent des solutions.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/dictature/comment-une-presidente-dextreme-droite-pourrait-sattaquer-a-nos-institutions-des-chercheurs-en-font-la-demonstration"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:09:14+00:00",
+      "titre": "Budget 2027 : « On essaie encore de nous faire peur avec la dette », prévient Éric Coquerel",
+      "dek": "54&nbsp;milliards d’euros&nbsp;: derrière cette somme d’économies annoncée par Sébastien Lecornu, une bataille sur le partage des richesses. Éric Coquerel, président insoumis de la commission des Finances de l’Assemblée nationale, conteste le choix du gouvernement de continuer un…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/assemblee-nationale/budget-2027-on-essaie-encore-de-nous-faire-peur-avec-la-dette-previent-eric-coquerel"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:05:56+00:00",
+      "titre": "Aides aux carburants : pour éviter une crise, le gouvernement double les aides aux automobilistes",
+      "dek": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 millions de Français pourront en profiter. Objectif : tuer dans l’œuf un éventuel mouvement de prote…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T17:49:48+00:00",
+      "titre": "En Allemagne, démocratie chrétienne et social-démocratie accélèrent leur déclin",
+      "dek": "Les derniers scrutins régionaux l’ont confirmé: la CDU et le SPD ne sont définitivement plus les partis de rassemblement autour desquels s’était structuré le gouvernement de la République fédérale. Face à une extrême droite qui prétend à ce statut, des nouvelles configurations po…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/220926/en-allemagne-democratie-chretienne-et-social-democratie-accelerent-leur-declin"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T17:44:08+00:00",
+      "titre": "Présidentielle 2027 : Adèle Exarchopoulos appelle à faire « barrage au RN »",
+      "dek": "En promotion pour le film « Garance », de Jeanne Herry, Adèle Exarchopoulos a réaffirmé son engagement contre l’extrême droite. À quelques mois de l’élection présidentielle de 2027, elle appelle à battre dans les urnes le Rassemblement national et ses idéologies de haine et de di…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/culture-et-savoir/extreme-droite/presidentielle-2027-adele-exarchopoulos-appelle-a-faire-barrage-au-rn"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T17:34:57+00:00",
+      "titre": "Renouvellement et élargissement du soutien aux gros rouleurs, hausse du plafond de la prime carburant : les annonces tièdes du gouvernement",
+      "dek": "Pour alléger la pression des prix à la pompe sur le pouvoir d’achat des Français, l’exécutif a dévoilé mardi 22 septembre un nouveau paquet d’aides avec une même ambition : ne pas dégrader les comptes publics. Depuis début septembre, la consommation de carburant a chuté de 19 % p…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/conso/renouvellement-et-elargissement-du-soutien-aux-gros-rouleurs-hausse-du-plafond-de-la-prime-carburant-les-annonces-tiedes-du-gouvernement-20260922_GAE47NSIXJFO3JKREPMZJGC5BM/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T17:27:31+00:00",
+      "titre": "Loi intégrale contre les violences sexuelles et sexistes : un jour en commission et déjà un « recul inadmissible »",
+      "dek": "Alors que les débats vont bon train devant la commission spéciale de l’Assemblée nationale, les députés ont supprimé mardi le caractère obligatoire d’un entretien annuel de chaque élève, portant recommandé par la Ciivise. L’examen du texte bute sur un point de friction majeur, la…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/assemblee-nationale/loi-integrale-contre-les-violences-sexuelles-et-sexistes-un-jour-en-commission-et-deja-un-recul-inadmissible"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T17:26:12+00:00",
+      "titre": "Le gel annoncé des APL, un énième coup de rabot qui fragilisera les locataires les plus pauvres",
+      "dek": "Le gel des APL en 2027, un « petit effort » selon le ministre du logement, aura un impact certain sur les budgets déjà contraints des foyers les plus paupérisés, estiment économistes et acteurs du logement social, qui rappellent que les allocations logement ont déjà connu une sér…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/22/le-gel-annonce-des-apl-un-enieme-coup-de-rabot-qui-fragilisera-les-locataires-les-plus-modestes_6780280_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T16:59:32+00:00",
+      "titre": "Apologie de la force, mépris du droit international… Ce qu’il faut retenir du discours de Donald Trump à l’ONU",
+      "dek": "Dans le temple du multilatéralisme et de la diplomatie, le président états-unien a fait l’apologie de la force et menacé, entre autres, d’annihiler l’Iran.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/monde/donald-trump/apologie-de-la-force-mepris-du-droit-international-ce-quil-faut-retenir-du-discours-de-donald-trump-a-lonu"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T16:57:59+00:00",
+      "titre": "Budget, hausse des prix: le débat Éric Coquerel (LFI) – Chloé Ridel (PS)",
+      "dek": "L’heure est encore à l’austérité dans le budget présenté par Sébastien Lecornu. Pendant ce temps, les prix augmentent et les salaires stagnent. Que faire? Débat entre l’insoumis Éric Coquerel, président de la commission des finances de l’Assemblée nationale, et l’eurodéputée soci…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/220926/budget-hausse-des-prix-le-debat-eric-coquerel-lfi-chloe-ridel-ps"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T16:53:49+00:00",
+      "titre": "L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en examen pour viol et agression sexuelle",
+      "dek": "Les huit élus d'opposition font valoir la \"protection de l'intérêt municipal\" afin de réclamer la démission de l'édile, mis en cause pour des faits qui remontent à sa campagne pour les municipales, avant son élection en mars 2026.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-opposition-municipale-a-concarneau-reclame-la-demission-du-maire-mis-en-examen-pour-viol-et-agression-sexuelle_8205059.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T16:49:02+00:00",
+      "titre": "Perpignan : faute de crèche dans la mairie, le maire RN Louis Aliot prévoit des statues religieuses géantes dans la rue",
+      "dek": "La justice avait interdit en 2025 l’installation de la structure dans l’hôtel de ville en raison du «principe de neutralité». Après l’achat de santons XXL pour 120 000 euros, l’opposition de gauche dénonce un «décor identitaire» «contraire à l’universalisme laïc».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/perpignan-faute-de-creche-dans-la-mairie-le-maire-rn-louis-aliot-prevoit-des-statues-religieuses-geantes-dans-la-rue-20260922_FMGXM5CI5NHANMHFUDC7M3MHDU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T16:34:36+00:00",
+      "titre": "\"C'est l'État qui va faire des efforts, il n'y aura pas d'impôt\" en plus pour financer les nouvelles aides aux carburants du gouvernement selon le ministre du Travail",
+      "dek": "Le gouvernement a présenté mardi de nouvelles aides en soutien aux personnes les plus touchées par la hausse des prix du carburant à hauteur de 450 millions d'euros, au moment la manœuvre budgétaire est restreinte.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/c-est-l-etat-qui-va-faire-des-efforts-il-n-y-aura-pas-d-impot-en-plus-pour-financer-les-nouvelles-aides-aux-carburants-du-gouvernement-selon-le-ministre-du-travail_8205017.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T16:00:16+00:00",
+      "titre": "En gelant les APL, le gouvernement cible les plus pauvres pour épargner les grandes fortunes",
+      "dek": "Le 19&nbsp;septembre, dans le cadre du prochain budget, le gouvernement a annoncé son intention de geler les aides au logement. Les premières victimes devraient être les femmes, les familles monoparentales et les étudiants, déjà largement fragilisés depuis 2017.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/aide-au-logement/en-gelant-les-apl-le-gouvernement-cible-les-plus-pauvres-pour-epargner-les-grandes-fortunes"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +187,61 @@
       "dek": "Au CRA de Cornebarrieu, près de Toulouse, plusieurs personnes ont tenté de se suicider depuis fin août, après l’entrée en vigueur de la loi qui prolonge la durée maximale de rétention de 90 à 210 jours. Des actes de désespoir ont été relevés dans d’autres CRA.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=508592"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T15:48:03+00:00",
+      "titre": "Retraites des fonctionnaires d’Etat : des pistes pour revoir les règles sur les départs anticipés",
+      "dek": "Dans un rapport rendu public mardi, la Cour des comptes préconise de « réexaminer » les dispositions permettant à certaines catégories d’agents d’obtenir le versement de leur pension plus tôt que les autres actifs.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/retraites-des-fonctionnaires-d-etat-des-pistes-pour-revoir-les-regles-sur-les-departs-anticipes_6780262_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T15:12:13+00:00",
+      "titre": "Budget 2027 : Sébastien Lecornu appelle les socialistes à renouer avec « l’esprit de responsabilité »",
+      "dek": "Dans une lettre adressée aux députés et sénateurs socialistes, le premier ministre a dit vouloir poursuivre « la démarche » de compromis, « dans le respect des convictions de chacun ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/budget-2027-sebastien-lecornu-appelle-les-socialistes-a-renouer-avec-l-esprit-de-responsabilite_6780249_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T15:10:33+00:00",
+      "titre": "Budget 2027 : Lecornu en pleine opération séduction du RN",
+      "dek": "Le budget Lecornu est une vaste opération de séduction du Rassemblement national. C'est le dernier bras de fer budgétaire de l'ère Macron qui se joue en cette rentrée, et le Premier ministre aura besoin des voix du RN et fera des concessions.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/budget/budget-2027-lecornu-en-pleine-operation-seduction-du-rn"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T15:00:12+00:00",
+      "titre": "Eric Zemmour veut expulser les étrangers en se basant sur une loi de 1945, une approximation historique et juridique",
+      "dek": "Le candidat Reconquête ! à l’élection présidentielle de 2027 veut expulser les étrangers en situation régulière qui « vivent des aides sociales ». Mais le texte juridique qu’il prend pour modèle combattait tout autre chose : les attaques contre la crédibilité financière de la Fra…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/22/eric-zemmour-veut-expulser-les-etrangers-en-se-basant-sur-une-loi-de-1945-une-approximation-historique-et-juridique_6780244_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T14:29:06+00:00",
+      "titre": "Budget : si la copie ne change pas, \"on censurera\"",
+      "dek": "Budget 2027, Thomas Ménagé, député RN du Loiret et porte-parole du groupe RN à l'assemblée met en garde le gouvernement. S'il ne revoit pas sa copie du budget concernant les petites retraites que l'exécutif souhaite sous-indexer ou désindexer, alors il risque la censure du RN.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/budget-2027-si-le-gouvernement-ne-change-pas-sa-copie-on-censure-declare-thomas-menage_8204645.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -319,237 +550,6 @@
       "dek": "Le président français demande à la Commission européenne des mesures d’urgence en raison de l’explosion des prix à la pompe liée à la guerre au Moyen-Orient. Mais elles ne doivent pas interférer avec les actions de long terme de l’UE, comme l’électrification ou la diversification…",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/09/22/carburants-emmanuel-macron-demande-un-assouplissement-des-normes-europeennes-sur-la-production-et-l-import_6780080_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T09:40:24+00:00",
-      "titre": "Sur le budget 2027, le gouvernement ne sait plus à quel soc’ se vouer",
-      "dek": "Le PS reste le «principal partenaire» de l’exécutif pour négocier une voie de passage sur le budget. Mais les atermoiements des roses et la multiplication de leurs têtes d’affiche avec la primaire les rendent plus imprévisibles que jamais.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/sur-le-budget-2027-le-gouvernement-ne-sait-plus-a-quel-soc-se-vouer-20260922_5NUFXVMAKRAENJQISHRCITKDWI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T09:32:13+00:00",
-      "titre": "Présidentielle 2027 : une campagne marathon, mais pour certains déjà un sprint décisif",
-      "dek": "Si Marine Le Pen et Jean-Luc Mélenchon avancent vers le premier tour comme sur un boulevard, l’automne qui vient va faire un grand tri entre leurs concurrents.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-une-campagne-marathon-mais-pour-certains-deja-un-sprint-decisif-20260922_SAKRGSPEPFDTLGYEGKIRD6YWCI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T09:10:57+00:00",
-      "titre": "\"La discussion a été très constructive\" : Emmanuel Macron salue son échange avec Donald Trump",
-      "dek": "Emmanuel Macron a proposé plusieurs initiatives à Donald Trump, lundi 21 septembre, pour tenter d'enrayer l'envolée des prix du pétrole, dont une résolution à l'ONU visant à débloquer le détroit d'Ormuz. Les deux dirigeants ont échangé durant 45 minutes, en marge de l'Assemblée g…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-discussion-a-ete-tres-constructive-emmanuel-macron-salue-son-echange-avec-donald-trump_8204423.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T09:09:09+00:00",
-      "titre": "Le député Philippe Brun dépose un référé pour être réintégré au PS et à la primaire socialiste pour la présidentielle, après sa suspension pour \"violences\"",
-      "dek": "\"Je n'ai jamais levé la main sur une femme, je n'ai jamais été violent avec personne\", a-t-il martelé sur RTL, mardi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-depute-philippe-brun-depose-un-refere-pour-etre-reintegre-au-ps-et-a-la-primaire-apres-sa-suspension-pour-violences_8204246.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T09:02:00+00:00",
-      "titre": "Ce n’est pas parce que Matthieu Pigasse est resté à la porte de la primaire PS qu’il ne tentera pas de rentrer par la fenêtre pour la présidentielle",
-      "dek": "A huit mois du scrutin, le banquier d’affaires a continué de se présenter en recours possible pour une candidature unique à gauche, mardi matin sur France Inter.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/ce-nest-pas-parce-que-matthieu-pigasse-est-reste-a-la-porte-de-la-primaire-ps-quil-ne-tentera-pas-de-rentrer-par-la-fenetre-pour-la-presidentielle-20260922_4752NK2EAJH27LFXNLSACYBJHQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T08:47:53+00:00",
-      "titre": "Emmanuel Macron évoque \"une très bonne discussion\" avec Donald Trump à la veille du sommet de l'ONU à New York",
-      "dek": "Une discussion entre Emmanuel Macron et Donald Trump qualifiée de \"très constructive\", dans la nuit du lundi 21 au mardi 22 septembre. Les deux chefs d'État se sont entretenus sur la manière de mieux sécuriser les sites pétroliers en mer Rouge, ou encore de la nécessité d'aider l…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/onu/une-tres-bonne-discussion-que-sait-on-de-l-echange-entre-donald-trump-et-emmanuel-macron-la-veille-du-sommet-de-l-onu-a-new-york_8204345.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T08:44:36+00:00",
-      "titre": "DIRECT. Assemblée générale de l'ONU : en route pour New York, le président iranien promet de \"défendre fermement\" les positions de son pays",
-      "dek": "Massoud Pezeshkian doit s'exprimer mercredi à la tribune de l'ONU. Il est le plus haut responsable iranien à se rendre sur le sol américain depuis le début de la guerre, déclenchée fin février par des frappes israélo-américaines.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/onu/direct-assemblee-generale-de-l-onu-le-president-iranien-promet-de-defendre-fermement-les-positions-de-son-pays_8204159.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T08:35:41+00:00",
-      "titre": "Matthieu Pigasse « ne tourne pas la page » de l’élection présidentielle et veut « œuvrer pour l’union de la gauche »",
-      "dek": "Le banquier d’affaires aurait voulu participer à une « primaire large » à gauche et a dénoncé « une primaire de cooptation », « où les candidats choisissent les candidats » et « où les candidats choisissent même d’une certaine façon leurs électeurs ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-matthieu-pigasse-ne-tourne-pas-la-page-de-l-election-presidentielle-et-n-exclut-pas-de-se-presenter_6780072_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T08:24:15+00:00",
-      "titre": "\"100 euros, ça a duré quoi, 30 secondes ?\" : le ras-le-bol des automobilistes face à l'envolée des prix à la pompe",
-      "dek": "La colère grandit chez les Français, alors que les prix du carburant continuent d'augmenter, mardi 22 septembre. Le gouvernement doit annoncer de nouvelles aides cet après-midi, dans une conférence de presse. L'objectif est de mettre en place des dispositifs d'aide supplémentaire…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/100-euros-ca-a-dure-quoi-30-secondes-le-ras-le-bol-des-automobilistes-face-a-l-envolee-des-prix-a-la-pompe_8204327.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T08:20:14+00:00",
-      "titre": "Carburants : Sébastien Lecornu propose d’inscrire une « règle d’or » dans le budget 2027 pour « restituer » les surplus de TVA aux Français",
-      "dek": "« Concrètement, si les prix devaient encore augmenter et alimenter un surplus de TVA, la hausse de TVA sera[it] neutralisée pour être restituée aux Français à la pompe », affirme l’entourage du premier ministre, sans donner plus de détail sur le mécanisme de cette restitution.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-sebastien-lecornu-propose-d-inscrire-une-regle-d-or-dans-le-budget-2027-pour-restituer-les-surplus-de-tva-aux-francais_6780071_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T08:18:36+00:00",
-      "titre": "Les députés renforcent la répression des violences sexuelles lors de l'examen de la loi \"intégrale\" en commission",
-      "dek": "Les peines seront par exemple portées à 30 ans de réclusion dans le cadre des viols sériels, ou lorsque le viol a entraîné la mort de la victime. Le texte arrive dans l'hémicycle le 1er octobre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-renforcent-la-repression-des-violences-sexuelles-lors-de-l-examen-de-la-loi-integrale-en-commission_8204288.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T08:12:09+00:00",
-      "titre": "Flambée des prix du carburant : le gouvernement veut imposer une «règle d’or» pour redistribuer le surplus de TVA aux Français",
-      "dek": "L’entourage de Matignon précise ce mardi 22 septembre qu’à ce stade, le gouvernement n’a «en rien profité» de la hausse des prix.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/flambee-des-prix-du-carburant-le-gouvernement-veut-imposer-une-regle-dor-pour-redistribuer-le-surplus-de-tva-aux-francais-20260922_ENLALCDVYJGVPA2REMRYGVLRV4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T07:43:38+00:00",
-      "titre": "Une discussion \"très constructive\" : Emmanuel Macron a proposé plusieurs initiatives à Donald Trump pour lutter contre l'envolée des prix du pétrole, dans un entretien à New York",
-      "dek": "Après cette entrevue à la Trump Tower, le président français a fait état d'une volonté commune \"de rouvrir Ormuz\", le détroit par lequel transitait 20% du commercial mondial d'hydrocarbures, et de \"libérer des volumes\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/une-discussion-tres-constructive-emmanuel-macron-a-propose-plusieurs-initiatives-a-donald-trump-pour-lutter-contre-l-envolee-des-prix-du-petrole_8204108.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T07:22:30+00:00",
-      "titre": "Carburant : \"Les raffineurs profitent de la crise\", estime le rapporteur LR du budget à l'Assemblée, Philippe Juvin",
-      "dek": "Invité politique de \"La Matinale\" mardi 22 septembre, le député Les Républicains des Hauts-de-Seine et rapporteur général du budget à l'Assemblée nationale détaille les mesures qui, selon lui, permettraient de \"ne pas dépasser les deux euros\" à la pompe. Il souhaite notamment sup…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-22-septembre-2026_8182142.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T07:22:15+00:00",
-      "titre": "Budget 2027 : les pensions retraites de plus de 2 000 euros dans le viseur du gouvernement",
-      "dek": "L'exécutif souhaite geler la pension de base des retraités qui touchent exactement plus de 2 034 euros par mois. Cette mesure devrait concerner plus de la moitié des retraites.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/budget-2027-les-pensions-retraites-de-plus-de-2-000-euros-dans-le-viseur-du-gouvernement_8181968.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T07:07:49+00:00",
-      "titre": "Crises géopolitiques, prix des carburants, budget 2027... Le \"8h30 franceinfo\" de Thomas Ménagé",
-      "dek": "Le député RN du Loiret et porte-parole du parti, est l'invité du \"8h30 franceinfo\", mardi 22 septembre 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crises-geopolitiques-prix-des-carburants-budget-2027-le-8h30-franceinfo-de-thomas-menage_8182028.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T07:00:01+00:00",
-      "titre": "Le RN prend ses distances avec la Russie sans clarifier sa position sur l’Ukraine, un exercice d’équilibriste à l’approche de l’élection présidentielle de 2027",
-      "dek": "Après avoir minimisé les alertes d’Emmanuel Macron sur la menace russe à la sortie de la réunion organisée à l’Elysée, vendredi 18 septembre, Marine Le Pen et Jordan Bardella ont publié le lendemain un long communiqué d’une inhabituelle défiance envers Moscou, sans solder les div…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/le-rn-prend-ses-distances-avec-la-russie-sans-clarifier-sa-position-sur-l-ukraine-un-exercice-d-equilibriste-a-l-approche-de-l-election-presidentielle-de-2027_6779933_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T07:00:00+00:00",
-      "titre": "Avec « Impulsion IA 2027 », comment le gouvernement fonce tête baissée dans la course à l’intelligence artificielle",
-      "dek": "Le ministre Jean-Pierre Farandou présente, ce mardi 22&nbsp;septembre, les grands axes d’un plan «&nbsp;Impulsion IA 2027&nbsp;», qui a vocation à augmenter le taux d’utilisation de l’IA dans le monde du travail. Interrogé sur le coût environnemental d’une intensification de l’us…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/france-travail/avec-impulsion-ia-2027-comment-le-gouvernement-fonce-tete-baissee-dans-la-course-a-lintelligence-artificielle"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:42:03+00:00",
-      "titre": "Des « solutions évoquées » concernant l’Ukraine et la forte augmentation du prix du pétrole : Emmanuel Macron rencontre Donald Trump à New York",
-      "dek": "Le président français a présenté à son homologue américain, lundi, des initiatives qui auraient un impact  sur les prix du baril.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/video/2026/09/22/des-solutions-evoquees-concernant-l-ukraine-et-la-forte-augmentation-du-prix-du-petrole-emmanuel-macron-rencontre-donald-trump-a-new-york_6779900_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:40:09+00:00",
-      "titre": "L’IA lorgne sur les métiers de la presse écrite",
-      "dek": "Le déploiement d’outils d’intelligence artificielle générative sert de prétexte pour supprimer des postes dans un secteur déjà fragilisé par le numérique. Si les tâches de correction, de vérification et de mise en page sont les plus menacées, celles de rédaction ne sont plus à l’…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/220926/l-ia-lorgne-sur-les-metiers-de-la-presse-ecrite"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:39:39+00:00",
-      "titre": "Meurtre d’Aramburú: «Oui, j’étais une grenade dégoupillée…»",
-      "dek": "Confronté à la famille du rugbyman argentin, le tueur Loïk Le Priol a laissé percer son émotion et reconnu sa pleine responsabilité. Le reste de la journée, face aux questions des magistrats et des avocats, la repentance du militant néonazi a sonné faux.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/220926/meurtre-d-aramburu-oui-j-etais-une-grenade-degoupillee"
     }
   ]
 }
