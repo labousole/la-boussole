@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-09-22T09:34:57+00:00",
+  "generated_at": "2026-09-22T14:17:25+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T16:00:09+00:00",
+      "titre": "Au CRA de Toulouse, une série de tentatives de suicide sur fond d’allongement des délais de rétention",
+      "dek": "Au CRA de Cornebarrieu, près de Toulouse, plusieurs personnes ont tenté de se suicider depuis fin août, après l’entrée en vigueur de la loi qui prolonge la durée maximale de rétention de 90 à 210 jours. Des actes de désespoir ont été relevés dans d’autres CRA.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=508592"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T14:01:21+00:00",
+      "titre": "\"On essaie d'être prudents\" : les automobilistes s'adaptent dans l'attente de nouvelles aides carburant dévoilées ce mardi",
+      "dek": "À qui profiteront les nouvelles aides dévoilées ce mardi 22 septembre à 17 heures par le gouvernement à Bercy ? Un nouveau dispositif très attendu par les Français, car avec un gasoil à plus de 2,40 euros, de nombreux ménages peinent à faire le plein.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/on-essaie-d-etre-prudents-les-automobilistes-s-adaptent-dans-l-attente-de-nouvelles-aides-carburant-devoilees-ce-mardi_8204603.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T13:58:22+00:00",
+      "titre": "Présidentielle 2027 : « l’opération carburant » de Fabien Roussel pour faire baisser la TVA et les marges de TotalEnergies",
+      "dek": "Le candidat communiste à l’élection présidentielle a mené une «&nbsp;opération carburant&nbsp;» dans une station essence d’Issy-les-Moulineaux (Hauts-de-Seine), afin de mobiliser en faveur d’une baisse de la TVA et des marges de Total.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fabien-roussel/presidentielle-2027-loperation-carburant-de-fabien-roussel-pour-faire-baisser-la-tva-et-les-marges-de-totalenergies"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T13:44:50+00:00",
+      "titre": "Penser la liberté d’expression avec les philosophes",
+      "dek": "Dans un contexte où l’extrême droite se pose en martyre de la liberté d’expression et accuse la presse sérieuse de propager des «fake news», un ouvrage collectif consacré aux philosophes qui ont pensé cette notion vient de paraître. Et permet de reprendre le problème à la racine.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/220926/penser-la-liberte-d-expression-avec-les-philosophes"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T13:44:24+00:00",
+      "titre": "En Guadeloupe, les jeunes élèves priées de mettre des shorts sous leurs jupes",
+      "dek": "Dans l’archipel, l’uniforme à l’école est imposé dans les écoles privées et publiques. Mais les contraintes vestimentaires ne s’arrêtent pas là, notamment pour les filles. En maternelle et en primaire, elles sont bien souvent priées de porter des shorts sous leurs jupes.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/220926/en-guadeloupe-les-jeunes-eleves-priees-de-mettre-des-shorts-sous-leurs-jupes"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T13:20:45+00:00",
+      "titre": "«On n’est jamais trahi que par les siens» : devant le juge des référés, Philippe Brun joue sa place à la primaire de la gauche",
+      "dek": "COMPTE RENDU D’AUDIENCE - Visé par des accusations de violences qu’il conteste, le député de l’Eure dénonce une manœuvre «politicienne» derrière sa suspension conservatoire. Son sort sera fixé mercredi à 10h00.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/faits-divers/on-n-est-jamais-trahi-que-par-les-siens-devant-le-juge-des-referes-philippe-brun-joue-sa-place-a-la-primaire-de-la-gauche-20260922"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T13:00:08+00:00",
+      "titre": "« Tout a brûlé. Et pourtant, ce sont des cactus » : une interminable sécheresse en Martinique",
+      "dek": "Pour aider les agriculteurs affectés par des chutes de production, le plan d’urgence agricole présenté le 4 septembre par la ministre de l’agriculture, Annie Genevard, a été décliné aux Antilles. Il inclut une enveloppe d’aides de 10 millions d’euros.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/22/tout-a-brule-en-martinique-l-agriculture-souffre-de-la-secheresse-persistante_6780103_3234.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T13:00:00+00:00",
+      "titre": "« Écrire la vie » : lire, c’est vivre",
+      "dek": "Claire Simon filme des jeunes stimulés par la lecture d’Annie Ernaux.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=507602"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T12:59:37+00:00",
+      "titre": "Emmanuel Macron n'assistera à aucune des messes du pape pendant sa visite en France",
+      "dek": "Pour la messe en plein air de samedi, qui se tiendra place de la Concorde, à Paris, il sera représenté par son épouse Brigitte Macron et le Premier ministre Sébastien Lecornu, a annoncé la présidence, mardi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/emmanuel-macron-n-assistera-a-aucune-des-messes-du-pape-pendant-sa-visite-en-france_8204552.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T12:52:44+00:00",
+      "titre": "Présidentielle 2027 : toujours accusé de violences, Philippe Brun dépose un référé pour réintégrer le PS et la primaire de la gauche",
+      "dek": "Exclu à titre provisoire du Parti socialiste, Philippe Brun a annoncé avoir déposé un référé ce 22&nbsp;septembre pour réintégrer le PS et la primaire pour désigner le candidat socialiste à la prochaine élection présidentielle. Le délibéré qui scellera le sort du député accusé de…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-toujours-accuse-de-violences-philippe-brun-depose-un-refere-pour-reintegrer-le-ps-et-la-primaire-de-la-gauche"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T12:41:29+00:00",
+      "titre": "La droite et l’extrême droite veulent en finir avec le droit du sol ? A la gauche de prendre le chemin inverse",
+      "dek": "De Bruno Retailleau à Marine Le Pen, la campagne donne lieu à des surenchères afin de restreindre l’accès à la nationalité française. Et si la gauche proposait de ratifier la convention des Nations unies de 1961 sur la réduction des cas d’apatridie ? suggèrent les professeurs de …",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/la-droite-et-lextreme-droite-veulent-en-finir-avec-le-droit-du-sol-a-la-gauche-de-prendre-le-chemin-inverse-20260922_XZOCRI4JPJHPDJNBWY2BM65AXU/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T12:28:43+00:00",
+      "titre": "Dans la presse de Bernard Arnault, au choix des conseils pour « serrer la vis » ou de la sympathie pour « des vies sans plaisir »",
+      "dek": "Le journal économique de Bernard Arnault, Les Échos, est clair. Il titre en une : « L’équation budgétaire insoluble ». Et il prévient : quelle que soit l’équipe au pouvoir en 2027, elle devra construire un budget dans des conditions plus dures encore et ne pourra pas attendre l’a…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/budget/dans-la-presse-de-bernard-arnault-au-choix-des-conseils-pour-serrer-la-vis-ou-de-la-sympathie-pour-des-vies-sans-plaisir"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T12:26:45+00:00",
+      "titre": "Budget 2027 : \"Si le gouvernement ne change pas sa copie, on censure\" déclare Thomas Ménagé",
+      "dek": "Thomas Ménagé, député RN du Loiret et porte-parole du groupe RN à l'assemblée",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/budget-2027-si-le-gouvernement-ne-change-pas-sa-copie-on-censure-declare-thomas-menage_8204645.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T12:25:26+00:00",
+      "titre": "Sommet de l'ONU : \"Il faut s'attendre à un discours très agressif de la part du président américain à l'encontre de ses alliés historiques\", prévient l'essayiste Romuald Sciora",
+      "dek": "Directeur de l'Observatoire politique et géostratégique des États-Unis à l'IRIS, Romuald Sciora sort \"Lettre ouverte à Trump d'un Américain de papier\", dans lequel il s'adresse au président américain en tant que Français de nationalité américaine. Dans \"La Matinale\" du 22 septemb…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/onu/sommet-de-l-onu-il-faut-s-attendre-a-un-discours-tres-agressif-de-la-part-du-president-americain-a-l-encontre-de-ses-allies-historiques-previent-l-essayiste-romuald-sciora_8204429.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T12:00:03+00:00",
+      "titre": "« Emmanuel Macron, plus qu’aucun autre de ses prédécesseurs, est confronté au défi de ne pas laisser les clés de l’Elysée à l’extrême droite »",
+      "dek": "Tous les présidents sortants ont vécu une phase de dévitalisation qui, à chaque fois, a conduit le pays à douter fortement de lui-même. Jamais cependant le RN n’a été en situation aussi favorable pour tenter de récupérer le malaise ambiant, observe dans sa chronique Françoise Fre…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/22/emmanuel-macron-plus-qu-aucun-autre-de-ses-predecesseurs-est-confronte-au-defi-de-ne-pas-laisser-les-cles-de-l-elysee-a-l-extreme-droite_6780093_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T11:54:23+00:00",
+      "titre": "Visite de Léon XIV : Emmanuel Macron a invité tous les dirigeants de l’UE au discours du pape sur l’Europe à Metz",
+      "dek": "Pour cet événement prévu lundi, au quatrième jour de la visite apostolique du pape Léon XIV en France, un « format européen » a été privilégié, limité aux représentants des institutions de l’Union européenne et aux dirigeants des pays membres, selon l’Elysée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/22/visite-de-leon-xiv-emmanuel-macron-a-invite-tous-les-dirigeants-de-l-ue-au-discours-du-pape-sur-l-europe-a-metz_6780092_3210.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -15,6 +191,83 @@
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T11:14:13+00:00",
+      "titre": "Entre le FC Barcelone et la RDC, le contrat mirifique d’une société poussée par Macron",
+      "dek": "Un litige commercial entre deux sociétés françaises lève le voile sur les coulisses de la signature d’un important contrat conclu entre la République démocratique du Congo et le club de football catalan, et sur les enjeux diplomatiques qui l’entourent.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/220926/entre-le-fc-barcelone-et-la-rdc-le-contrat-mirifique-d-une-societe-poussee-par-macron"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T11:10:54+00:00",
+      "titre": "Repas à 1 euro menacés: les jeunes précaires ne sont pas une monnaie d’échange politique",
+      "dek": "Le ministre de l’enseignement supérieur, Philippe Baptiste, a déclaré le 20 septembre que la pérennité du dispositif destiné aux étudiants ne serait pas assurée en cas de non-adoption du budget au Parlement.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/220926/repas-1-euro-menaces-les-jeunes-precaires-ne-sont-pas-une-monnaie-d-echange-politique"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T10:56:33+00:00",
+      "titre": "«Être de gauche, ce n’est pas faire vœu de pauvreté», se justifie Matthieu Pigasse, pointé du doigt pour ses vacances sur l’île Moustique",
+      "dek": "Le banquier d’affaires, qui n’exclut pas une candidature à la présidentielle, dit vouloir être jugé sur son engagement et ses convictions plutôt que sur son compte en banque.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/etre-de-gauche-ce-n-est-pas-faire-voeu-de-pauvrete-se-justifie-matthieu-pigasse-pointe-du-doigt-pour-ses-vacances-sur-l-ile-moustique-20260922"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T10:54:20+00:00",
+      "titre": "« Amusant, mais aussi très, très immature » : les répliques cinglantes d’Edouard Philippe sur Gabriel Attal dans le livre « Le Crépuscule des princes »",
+      "dek": "Depuis plusieurs mois, le camp du patron de Renaissance distille auprès de la presse une comparaison peu flatteuse, caricaturant Edouard Philippe en un autre Edouard, Balladur. Le maire du Havre réplique dans un ouvrage des journalistes Jérémy Marot (AFP) et Pauline Théveniaud (R…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-2027-dans-le-crepuscule-des-princes-edouard-philippe-multiplie-les-coups-de-griffe-a-l-egard-de-gabriel-attal_6780090_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T10:51:51+00:00",
+      "titre": "\"Ça se restitue comme on veut\" : cinq questions sur la \"règle d'or\" envisagée par Sébastien Lecornu face à la hausse des prix des carburants",
+      "dek": "Le Premier ministre suggère que les surplus éventuels de TVA engendrés par l'augmentation du prix de l'essence et du gazole soient \"restitués\" aux Français. Il souhaite proposer aux parlementaires d'inscrire cette mesure dans le budget pour 2027.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/ca-se-restitue-comme-on-veut-cinq-questions-sur-la-regle-d-or-envisagee-par-sebastien-lecornu-face-a-la-hausse-des-prix-des-carburants_8204333.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T10:20:01+00:00",
+      "titre": "À quoi joue le Rassemblement National sur l’Ukraine ?",
+      "dek": "Alors que Laurent Jacobelli est actuellement à Kiev, est-il logique pour le parti RN d'envoyer un député sur place lorsqu'il veut couper le robinet des aides ?",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8204498.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T10:06:41+00:00",
+      "titre": "En Seine-et-Marne, dans cet ancien fief de LR, « on sent la vague RN arriver »",
+      "dek": "« Extrême droite : l’ancrage européen » 2/6. Alors que le Rassemblement national mène une stratégie d’implantation minutieuse dans ce département francilien, très rural, longtemps fief du parti Les Républicains, les électeurs conservateurs basculent, scrutin après scrutin, vers l…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/22/en-seine-et-marne-dans-cet-ancien-fief-de-lr-on-sent-la-vague-rn-arriver_6780085_3210.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
       "source": "Politis",
       "date": "22 Sep 2026",
       "date_iso": "2026-09-22T10:03:10+00:00",
@@ -22,6 +275,17 @@
       "dek": "",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=508414"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T10:01:49+00:00",
+      "titre": "Quand Edouard Philippe cartonne Gabriel Attal sur son faible pedigree électoral",
+      "dek": "Dans un ouvrage à paraître mercredi 23 septembre, le candidat Horizons tient des propos acides contre son rival de Renaissance, qui s’estimait au printemps meilleur en campagne que lui.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/quand-edouard-philippe-cartonne-gabriel-attal-sur-son-faible-pedigree-electoral-20260922_TIA2TCF5BNDYZIHC4BCHJDPYGI/"
     },
     {
       "tag": "Gauche",
@@ -33,6 +297,39 @@
       "dek": "Depuis 2012, Delphine Huet accuse de viol son supérieur dans la police. Après un non-lieu, elle dénonce un système qui détruit les plaignantes, et se tourne vers le suicide assisté en Belgique.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=508176"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T09:51:53+00:00",
+      "titre": "Primaire socialiste : Philippe Brun «croit encore» pouvoir être candidat, malgré les accusations de violences",
+      "dek": "Invité ce mardi au micro de RTL, le député de l’Eure, a asséné n’avoir «jamais violenté personne». Alors que le référé contre son éviction est examiné ce mardi matin par la justice, il estime qu’il va pouvoir «prouver son innocence».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/primaire-socialiste-philippe-brun-annonce-que-son-refere-depose-contre-le-ps-pour-reintegrer-le-parti-sera-examine-ce-matin-par-le-tribunal-judiciaire-20260922_T7BSCCGZAJD2ZBEX3FRWNJBLWQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T09:46:36+00:00",
+      "titre": "Carburants : Emmanuel Macron demande un assouplissement des normes européennes sur la production et l’import",
+      "dek": "Le président français demande à la Commission européenne des mesures d’urgence en raison de l’explosion des prix à la pompe liée à la guerre au Moyen-Orient. Mais elles ne doivent pas interférer avec les actions de long terme de l’UE, comme l’électrification ou la diversification…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/22/carburants-emmanuel-macron-demande-un-assouplissement-des-normes-europeennes-sur-la-production-et-l-import_6780080_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T09:40:24+00:00",
+      "titre": "Sur le budget 2027, le gouvernement ne sait plus à quel soc’ se vouer",
+      "dek": "Le PS reste le «principal partenaire» de l’exécutif pour négocier une voie de passage sur le budget. Mais les atermoiements des roses et la multiplication de leurs têtes d’affiche avec la primaire les rendent plus imprévisibles que jamais.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/sur-le-budget-2027-le-gouvernement-ne-sait-plus-a-quel-soc-se-vouer-20260922_5NUFXVMAKRAENJQISHRCITKDWI/"
     },
     {
       "tag": "Politique",
@@ -168,17 +465,6 @@
     },
     {
       "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T07:30:17+00:00",
-      "titre": "Primaire socialiste : Philippe Brun «croit encore» pouvoir être candidat, malgré les accusations de violences",
-      "dek": "Invité ce mardi au micro de RTL, le député de l’Eure, a asséné n’avoir «jamais violenté personne». Alors que le référé contre son éviction est examiné ce mardi matin par la justice, il estime qu’il va pouvoir «prouver son innocence».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/primaire-socialiste-philippe-brun-annonce-que-son-refere-depose-contre-le-ps-pour-reintegrer-le-parti-sera-examine-ce-matin-par-le-tribunal-judiciaire-20260922_T7BSCCGZAJD2ZBEX3FRWNJBLWQ/"
-    },
-    {
-      "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "22 Sep 2026",
@@ -264,292 +550,6 @@
       "dek": "Confronté à la famille du rugbyman argentin, le tueur Loïk Le Priol a laissé percer son émotion et reconnu sa pleine responsabilité. Le reste de la journée, face aux questions des magistrats et des avocats, la repentance du militant néonazi a sonné faux.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/220926/meurtre-d-aramburu-oui-j-etais-une-grenade-degoupillee"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:35:45+00:00",
-      "titre": "Hausse du prix des carburants : le gouvernement va proposer une \"règle d'or\", dans le budget 2027, pour redistribuer le surplus de TVA",
-      "dek": "L'idée de cette mesure est de garantir le fait \"qu’il n'y aura pas de gain pour les comptes publics\" avec la hausse du prix des carburants, indique Matignon à franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-va-proposer-une-regle-d-or-dans-le-budget-2027-pour-redistribuer-le-surplus-de-tva_8204171.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:30:24+00:00",
-      "titre": "À suivre Loïc de la Mornais : Donald Trump en croisade contre le multilatéralisme à l'ONU ?",
-      "dek": "Dans cette quatrième partie, Loïc de la Mornais s'intéresse au rapport de Donald Trump avec le multilatéralisme, en amont de l'ouverture, mardi, de l'Assemblée générale des Nations unies. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-donald-trump-en-croisade-contre-le-multilateralisme-a-l-onu_8204204.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:24:02+00:00",
-      "titre": "Face à la hausse du prix des carburants, Emmanuel Macron écrit à Bruxelles pour produire davantage et assouplir les normes",
-      "dek": "Le président propose notamment d'assouplir les règles concernant le raffinage, le temps de surmonter la crise. Cette activité est cependant très encadrée pour des raisons environnementales et de compatibilité avec les moteurs de voiture.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/face-a-la-hausse-du-prix-des-carburants-emmanuel-macron-ecrit-a-bruxelles-pour-produire-davantage-et-assouplir-les-normes_8204180.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:10:02+00:00",
-      "titre": "EDITO. À quoi joue le Rassemblement national sur l’Ukraine ?",
-      "dek": "Le parti a remis en cause ces derniers jours le soutien financier à l'Ukraine en raison des finances publiques dégradées.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8182076.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T06:00:09+00:00",
-      "titre": "Budget 2027 : LR avance avec prudence, entre un appel aux ordonnances et le refus de la censure",
-      "dek": "En 2025, l’exercice budgétaire avait révélé les divisions du parti. Dans l’attente de la copie initiale de Matignon, la droite reste attentive à l’effort demandé aux retraités. Mais les premières mesures de Sébastien Lecornu ne seraient pas de nature à « provoquer une levée de bo…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/budget-2027-entre-un-appel-aux-ordonnances-et-le-refus-de-la-censure-lr-avance-avec-prudence_6779831_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T05:19:13+00:00",
-      "titre": "Dans les académies de Toulouse et de Nantes, c’est toujours le chaos technique",
-      "dek": "Trois semaines après la rentrée, la plupart des outils numériques scolaires restent hors service. Les conséquences du piratage estival de l’Éducation nationale s’accumulent: élections des représentants de parents d’élèves reportées, versement des bourses menacé, élèves toujours s…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/220926/dans-les-academies-de-toulouse-et-de-nantes-c-est-toujours-le-chaos-technique"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T02:40:43+00:00",
-      "titre": "Flambée des prix des carburants : le gouvernement présentera de nouvelles aides lors d'une conférence de presse mardi à 17 heures",
-      "dek": "Les ministres se sont réunis, dans l'après-midi, pour réfléchir à \"l'accompagnement à court et moyen terme\" des Français.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-des-prix-des-carburants-deux-reunions-se-tiennent-a-matignon-lundi-pour-evoquer-la-crise-energetique_8202515.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T19:42:05+00:00",
-      "titre": "DIRECT. Flambée des prix des carburants : le gouvernement présentera de nouvelles aides lors d'une conférence de presse mardi à 17 heures",
-      "dek": "Les ministres se sont réunis, dans l'après-midi, pour réfléchir à \"l'accompagnement à court et moyen terme\" des Français.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-des-prix-des-carburants-deux-reunions-se-tiennent-a-matignon-lundi-pour-evoquer-la-crise-energetique_8202515.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T19:14:58+00:00",
-      "titre": "« Valeurs actuelles » : Tugdual Denis quitte la direction de l’hebdomadaire ultraconservateur",
-      "dek": "La direction de « Valeurs actuelles » reste floue sur l’avenir du journal alors que le départ de Tugdual Denis survient dans un contexte de tensions internes et de transformation éditoriale.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/21/tugdual-denis-quitte-la-direction-de-valeurs-actuelles_6779340_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T19:04:25+00:00",
-      "titre": "Crise des carburants : Edouard Philippe et Gabriel Attal ne veulent pas se faire rouler dessus",
-      "dek": "Les candidats Renaissance et Horizons à la présidentielle voient leur campagne percutée par l’envolée des prix de l’essence. Et l’absence de marge de manœuvre budgétaire ramène les deux ex-Premiers ministres au bilan des quinquennats d’Emmanuel Macron.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/crise-des-carburants-edouard-philippe-et-gabriel-attal-ne-veulent-pas-se-faire-rouler-dessus-20260921_3IUYWSIXK5C7VGLEZUBPDYGKXU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T18:51:17+00:00",
-      "titre": "Crise des carburants : pour les Français comme pour le gouvernement, le stress monte d’un cran",
-      "dek": "En attendant de nouvelles mesures du l’exécutif, promises pour ce mardi 22 septembre, l’augmentation du prix à la pompe angoisse les citoyens et handicape de nombreuses professions.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/crise-des-carburants-pour-les-francais-comme-pour-le-gouvernement-le-stress-monte-dun-cran-20260921_2ABFELDDEZEHLJJAE44XYR2JAA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T18:29:20+00:00",
-      "titre": "Rencontre Macron-Trump, l'extrême droite en Allemagne... Les informés de franceinfo du lundi 21 septembre 2026",
-      "dek": "Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/rencontre-macron-trump-l-extreme-droite-en-allemagne-les-informes-de-franceinfo-du-lundi-21-septembre-2026_8180273.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:56:51+00:00",
-      "titre": "Budget 2027 : la Cour des comptes relance l’idée d’un nouvel impôt sur la fortune",
-      "dek": "Dans une note récente, l’institution préconise, pour des raisons d’équité, de créer un impôt sur la fortune personnelle et demande à nouveau de réduire les avantages fiscaux du pacte Dutreil. Deux pistes écartées à ce stade par le premier ministre, Sébastien Lecornu, avant l’exam…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/21/budget-2027-la-cour-des-comptes-relance-l-idee-d-un-nouvel-impot-sur-la-fortune_6779302_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:47:55+00:00",
-      "titre": "Présidentielle 2027 : Les Ecologistes trancheront en décembre sur l’avenir de la candidature de Marine Tondelier",
-      "dek": "La candidature présidentielle portée par la secrétaire nationale des Verts est encore défendue par le parlement interne du parti, qui l’a confirmée le 21 septembre. Mais dans les rangs écologistes, rares sont ceux qui croient à une victoire finale sur cette ligne.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/21/presidentielle-2027-les-ecologistes-trancheront-en-decembre-sur-l-avenir-de-la-candidature-de-marine-tondelier_6779300_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:43:24+00:00",
-      "titre": "Die Linke gagne à Berlin, mais Berlin n’est pas l’Allemagne",
-      "dek": "Le parti de gauche est arrivé largement en tête des élections dans la capitale fédérale dimanche 20 septembre. Le fruit d’un contexte local, d’une campagne réussie et de la faiblesse de ses concurrents. Mais le cas berlinois reste, pour l’instant, singulier dans le contexte allem…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/210926/die-linke-gagne-berlin-mais-berlin-n-est-pas-l-allemagne"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:21:24+00:00",
-      "titre": "Budget 2027 : alerte enlèvement, où sont les 5 milliards promis aux collectivités locales par Sébastien Lecornu ?",
-      "dek": "Une semaine avant les élections sénatoriales, le premier ministre vient de donner un coup de pouce électoraliste à la droite en promettant, dans le projet de loi de finances 2027, d’amoindrir de 5&nbsp;milliards d’euros la douloureuse austéritaire pour les communes, les départeme…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/austerite/budget-2027-alerte-enlevement-ou-sont-les-5-milliards-promis-aux-collectivites-locales-par-sebastien-lecornu"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:20:00+00:00",
-      "titre": "Guillaume Tabard : « Essence, Russie… Pourquoi Emmanuel Macron invoque le temps long »",
-      "dek": "CONTRE-POINT - Le président sera l’invité des journaux de 20 heures ce jeudi. Lier dans une même intervention crise pétrolière et menace russe peut surprendre. Dans les deux cas, le chef de l’État veut prévenir les Français qu’il ne s’agit pas de turbulences passagères.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-essence-russie-pourquoi-emmanuel-macron-invoque-le-temps-long-20260921"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:11:45+00:00",
-      "titre": "Sénatoriales : PCF, Les Écologistes, LFI… tout comprendre aux stratégies des partis de gauche",
-      "dek": "Le scrutin du 27&nbsp;septembre ne devrait pas bouleverser les équilibres de la Haute Assemblée, toujours largement dominée par la droite. La principale nouveauté pourrait venir de l’extrême droite, qui espère former un groupe. Après des municipales contrastées, la gauche, de son…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/elections-senatoriales/senatoriales-pcf-les-ecologistes-lfi-tout-comprendre-aux-strategies-des-partis-de-gauche"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:08:51+00:00",
-      "titre": "«Une stratégie de reconquête» : Les Républicains ouvrent déjà le chantier des législatives de 2027",
-      "dek": "DÉCRYPTAGE - Stratégie, calendrier, ligne politique… Sous l’impulsion de Bruno Retailleau, le parti LR lance un « travail de fourmi, circo par circo » et assume l’ambition de prendre des sièges à la concurrence, d’Horizons au RN.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/une-strategie-de-reconquete-les-republicains-ouvrent-deja-le-chantier-des-legislatives-de-2027-20260921"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T17:00:15+00:00",
-      "titre": "Fonction publique : la Cour des comptes appelle à un effort sur la « masse salariale »",
-      "dek": "Effectifs, rémunérations, promotions… la Cour des comptes vise les dépenses de la fonction publique dans une note publiée lundi 21 septembre. Les magistrats de la rue Cambon incitent, au vu du poids de la masse salariale, à « une maîtrise de son évolution qui a, en partie, fait d…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/21/fonction-publique-la-cour-des-comptes-appelle-a-un-effort-sur-la-masse-salariale_6779295_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T16:30:11+00:00",
-      "titre": "« En refusant à Kylian Mbappé le droit d’exprimer des opinions, l’extrême droite explicite sa conception de la liberté d’expression »",
-      "dek": "Plus le football est instrumentalisé à des fins politiques, plus les joueurs sont sommés de ne pas se politiser, estime le journaliste Jérôme Latta, dans sa chronique. Le capitaine des Bleus a été la cible de critiques pour avoir refusé de porter entièrement un tee-shirt en souti…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/sport/article/2026/09/21/en-refusant-a-kylian-mbappe-le-droit-d-exprimer-des-opinions-l-extreme-droite-explicite-sa-conception-de-la-liberte-d-expression_6779253_3242.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T16:21:19+00:00",
-      "titre": "France Télévisions mise sur « L’Heure de vérité » pour relancer les grandes émissions présidentielles",
-      "dek": "Alors que le programme emblématique des années 1980 fait son retour, jeudi 8 octobre, les chaînes de télévision cherchent de nouveaux concepts pour recevoir les prétendants à l’Elysée.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/21/france-televisions-mise-sur-l-heure-de-verite-pour-relancer-les-grandes-emissions-presidentielles_6779252_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T16:13:23+00:00",
-      "titre": "Donald Trump va rencontrer Emmanuel Macron à New York lundi soir en marge de l'Assemblée générale des Nations unies",
-      "dek": "L'entretien est prévu à 23h35, heure de Paris, selon l'agenda du président américain publié dimanche soir.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/usa/donald-trump-va-rencontrer-emmanuel-macron-a-new-york-lundi-soir-en-marge-de-l-assemblee-generale-des-nations-unies_8202458.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T16:00:00+00:00",
-      "titre": "Mélanie Vogel, sénatrice écologiste : «La France est plus vulnérable que n’importe quel autre pays européen face à l’arrivée de l’extrême droite»",
-      "dek": "Les verts présentent mardi 22 septembre un rapport pour relever les zones de faiblesse de la démocratie française, et mettent sur la table une quinzaine de propositions pour sécuriser les institutions avant une éventuelle victoire de Marine Le Pen en 2027.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/melanie-vogel-senatrice-ecologiste-la-france-est-plus-vulnerable-que-nimporte-quel-autre-pays-europeen-face-a-larrivee-de-lextreme-droite-20260921_5COZYJUUEJGCVGPV2MU4U352SM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T15:54:34+00:00",
-      "titre": "Portfolio : « Non au permis de tuer », les familles de victimes en tête du cortège à Paris",
-      "dek": "Des familles de victimes aux associations de défense des droits, en passant par les syndicats et les partis de gauche, le 20 septembre a rassemblé à Paris – et dans de nombreuses villes françaises – un front large contre la présomption d’usage légitime des armes par les forces de…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=508132"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "21 Sep 2026",
-      "date_iso": "2026-09-21T15:25:36+00:00",
-      "titre": "Présidentielle 2027 : Marine Tondelier, candidate… jusqu’en décembre, les Écologistes décideront de leur stratégie après",
-      "dek": "On ne sait pas encore sur quoi les militants verts auront à se décider, tout dépendra des discussions que le parti espère mener avec ses partenaires potentiels. Pour l'aile gauche, c'est bien trop tard.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/les-ecologistes/presidentielle-2027-marine-tondelier-candidate-jusquen-decembre-les-ecologistes-decideront-de-leur-strategie-apres"
     }
   ]
 }
