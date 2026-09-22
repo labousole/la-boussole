@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-09-22T18:26:49+00:00",
+  "generated_at": "2026-09-22T22:36:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T21:35:52+00:00",
+      "titre": "A Paris, un intervenant en anglais en garde à vue à pour des soupçons de viols et agressions sexuelles sur des enfants de maternelle",
+      "dek": "La société CapEnglish, qui employait cet homme au moment des faits dénoncés, affirme avoir respecté toutes les procédures de vérification lors du recrutement de l’intervenant mis en cause à l’école Saint-Laurent.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/22/a-paris-un-intervenant-en-anglais-en-garde-a-vue-a-pour-des-soupcons-de-viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle_6780298_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T20:34:44+00:00",
+      "titre": "Primaire à gauche : Ségolène Royal ressuscite son « ordre juste »",
+      "dek": "L’ancienne ministre a convoqué son slogan d’il y a presque vingt ans, « l’ordre juste », auquel elle a ajouté « La France tranquille », en clin d’œil à l’ancien président socialiste François Mitterrand, dont elle fut la ministre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/primaire-a-gauche-segolene-royal-ressuscite-son-ordre-juste_6780297_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T20:21:43+00:00",
+      "titre": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65",
+      "dek": "Le candidat LR à la présidentielle Bruno Retailleau a aussi proposé l'introduction d'une retraite par capitalisation \"pour les jeunes\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T20:07:53+00:00",
+      "titre": "« Un spectacle qui nous fait honte à tous » : les images du discours d’Emmanuel Macron à l’Assemblée générale de l’ONU",
+      "dek": "Le président français a appelé a dénoncé une « paix prétendue » qui n’a « pas rouvert les voies humanitaires » à Gaza. Il a aussi appelé à un « double moratoire » sur les frappes contre les sites énergétiques en Russie et Ukraine.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/video/2026/09/22/un-spectacle-qui-nous-fait-honte-a-tous-les-images-du-discours-d-emmanuel-macron-a-l-assemblee-generale-de-l-onu_6780296_3210.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T19:36:35+00:00",
+      "titre": "Détection des violences sexuelles: la loi intégrale privée de sa mesure phare en commission",
+      "dek": "Les députés ont adopté, mardi 22 septembre en commission, un amendement supprimant l’entretien obligatoire destiné, à l’école, à repérer les enfants victimes. Ce qui revient à «accepter que ça continue», s’indigne la Coalition féministe et enfantiste à l’origine du texte.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/220926/detection-des-violences-sexuelles-la-loi-integrale-privee-de-sa-mesure-phare-en-commission"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T19:20:17+00:00",
+      "titre": "Hausse des prix des carburants: le gouvernement risque l’accident",
+      "dek": "Pour lutter contre la hausse des prix à la pompe, le gouvernement prolonge les aides existantes et continue de miser en premier lieu sur le plafonnement des prix dans les stations-service de Total. Il refuse toujours d’envisager le blocage des prix ou la taxation des superprofits…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/220926/hausse-des-prix-des-carburants-le-gouvernement-risque-l-accident"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:58:48+00:00",
+      "titre": "A l’Assemblée générale de l’ONU, Emmanuel Macron appelle à se « tenir droit » aux côtés des Nations unies face à « la loi de la jungle »",
+      "dek": "Le président français a également appelé à un « double moratoire » sur les frappes contre les sites énergétiques en Russie et Ukraine.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/22/emmanuel-macron-appelle-a-se-tenir-droit-aux-cotes-des-nations-unies-face-a-la-loi-de-la-jungle_6780290_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:30:18+00:00",
+      "titre": "Aides carburant, Donald Trump et Emmanuel Macron à l'ONU...Les informés de franceinfo du mardi 22 septembre 2026",
+      "dek": "Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/aides-carburant-donald-trump-et-emmanuel-macron-a-l-onu-les-informes-de-franceinfo-du-mardi-22-septembre-2026_8181998.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:22:40+00:00",
+      "titre": "\"Je suis le dernier marxiste français\" : Alain Minc, économiste et co-auteur de \"Un capitalisme devenu fou\"",
+      "dek": "Alain Minc, économiste et essayiste, est l'invité de l'émission \"C Ce Soir\" du mardi 22 septembre. Dans son livre \"Un capitalisme devenu fou\", il réalise une critique des excès du monde financier, de son emballement, non pas pour mettre à bas le capitalisme mais pour le sauver \"d…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/je-suis-le-dernier-marxiste-francais-alain-minc-economiste-et-co-auteur-de-un-capitalisme-devenu-fou_8205113.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -40,10 +139,21 @@
       "source": "L'Humanité – Politique",
       "date": "22 Sep 2026",
       "date_iso": "2026-09-22T18:09:14+00:00",
-      "titre": "Budget 2027 : « On essaie encore de nous faire peur avec la dette », prévient Éric Coquerel",
+      "titre": "Budget 2027 : « On essaie encore de nous faire peur avec la dette », dénonce Éric Coquerel",
       "dek": "54&nbsp;milliards d’euros&nbsp;: derrière cette somme d’économies annoncée par Sébastien Lecornu, une bataille sur le partage des richesses. Éric Coquerel, président insoumis de la commission des Finances de l’Assemblée nationale, conteste le choix du gouvernement de continuer un…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/assemblee-nationale/budget-2027-on-essaie-encore-de-nous-faire-peur-avec-la-dette-previent-eric-coquerel"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T18:05:56+00:00",
+      "titre": "Carburants : le gouvernement double les aides aux automobilistes pour éviter une crise",
+      "dek": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 millions de Français pourront en profiter. Objectif : tuer dans l’œuf un éventuel mouvement de prote…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html"
     },
     {
       "tag": "Politique",
@@ -440,116 +550,6 @@
       "dek": "Le ministre de l’enseignement supérieur, Philippe Baptiste, a déclaré le 20 septembre que la pérennité du dispositif destiné aux étudiants ne serait pas assurée en cas de non-adoption du budget au Parlement.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/220926/repas-1-euro-menaces-les-jeunes-precaires-ne-sont-pas-une-monnaie-d-echange-politique"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:56:33+00:00",
-      "titre": "«Être de gauche, ce n’est pas faire vœu de pauvreté», se justifie Matthieu Pigasse, pointé du doigt pour ses vacances sur l’île Moustique",
-      "dek": "Le banquier d’affaires, qui n’exclut pas une candidature à la présidentielle, dit vouloir être jugé sur son engagement et ses convictions plutôt que sur son compte en banque.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/etre-de-gauche-ce-n-est-pas-faire-voeu-de-pauvrete-se-justifie-matthieu-pigasse-pointe-du-doigt-pour-ses-vacances-sur-l-ile-moustique-20260922"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:54:20+00:00",
-      "titre": "« Amusant, mais aussi très, très immature » : les répliques cinglantes d’Edouard Philippe sur Gabriel Attal dans le livre « Le Crépuscule des princes »",
-      "dek": "Depuis plusieurs mois, le camp du patron de Renaissance distille auprès de la presse une comparaison peu flatteuse, caricaturant Edouard Philippe en un autre Edouard, Balladur. Le maire du Havre réplique dans un ouvrage des journalistes Jérémy Marot (AFP) et Pauline Théveniaud (R…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-2027-dans-le-crepuscule-des-princes-edouard-philippe-multiplie-les-coups-de-griffe-a-l-egard-de-gabriel-attal_6780090_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:51:51+00:00",
-      "titre": "\"Ça se restitue comme on veut\" : cinq questions sur la \"règle d'or\" envisagée par Sébastien Lecornu face à la hausse des prix des carburants",
-      "dek": "Le Premier ministre suggère que les surplus éventuels de TVA engendrés par l'augmentation du prix de l'essence et du gazole soient \"restitués\" aux Français. Il souhaite proposer aux parlementaires d'inscrire cette mesure dans le budget pour 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/ca-se-restitue-comme-on-veut-cinq-questions-sur-la-regle-d-or-envisagee-par-sebastien-lecornu-face-a-la-hausse-des-prix-des-carburants_8204333.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:20:01+00:00",
-      "titre": "À quoi joue le Rassemblement National sur l’Ukraine ?",
-      "dek": "Alors que Laurent Jacobelli est actuellement à Kiev, est-il logique pour le parti RN d'envoyer un député sur place lorsqu'il veut couper le robinet des aides ?",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8204498.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:06:41+00:00",
-      "titre": "En Seine-et-Marne, dans cet ancien fief de LR, « on sent la vague RN arriver »",
-      "dek": "« Extrême droite : l’ancrage européen » 2/6. Alors que le Rassemblement national mène une stratégie d’implantation minutieuse dans ce département francilien, très rural, longtemps fief du parti Les Républicains, les électeurs conservateurs basculent, scrutin après scrutin, vers l…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/09/22/en-seine-et-marne-dans-cet-ancien-fief-de-lr-on-sent-la-vague-rn-arriver_6780085_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:03:10+00:00",
-      "titre": "Allemagne : progression historique de l’extrême droite",
-      "dek": "",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=508414"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:01:49+00:00",
-      "titre": "Quand Edouard Philippe cartonne Gabriel Attal sur son faible pedigree électoral",
-      "dek": "Dans un ouvrage à paraître mercredi 23 septembre, le candidat Horizons tient des propos acides contre son rival de Renaissance, qui s’estimait au printemps meilleur en campagne que lui.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/quand-edouard-philippe-cartonne-gabriel-attal-sur-son-faible-pedigree-electoral-20260922_TIA2TCF5BNDYZIHC4BCHJDPYGI/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T10:00:00+00:00",
-      "titre": "Violences sexuelles : face au silence de la justice, elle demande le suicide assisté",
-      "dek": "Depuis 2012, Delphine Huet accuse de viol son supérieur dans la police. Après un non-lieu, elle dénonce un système qui détruit les plaignantes, et se tourne vers le suicide assisté en Belgique.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=508176"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T09:51:53+00:00",
-      "titre": "Primaire socialiste : Philippe Brun «croit encore» pouvoir être candidat, malgré les accusations de violences",
-      "dek": "Invité ce mardi au micro de RTL, le député de l’Eure, a asséné n’avoir «jamais violenté personne». Alors que le référé contre son éviction est examiné ce mardi matin par la justice, il estime qu’il va pouvoir «prouver son innocence».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/primaire-socialiste-philippe-brun-annonce-que-son-refere-depose-contre-le-ps-pour-reintegrer-le-parti-sera-examine-ce-matin-par-le-tribunal-judiciaire-20260922_T7BSCCGZAJD2ZBEX3FRWNJBLWQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T09:46:36+00:00",
-      "titre": "Carburants : Emmanuel Macron demande un assouplissement des normes européennes sur la production et l’import",
-      "dek": "Le président français demande à la Commission européenne des mesures d’urgence en raison de l’explosion des prix à la pompe liée à la guerre au Moyen-Orient. Mais elles ne doivent pas interférer avec les actions de long terme de l’UE, comme l’électrification ou la diversification…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/09/22/carburants-emmanuel-macron-demande-un-assouplissement-des-normes-europeennes-sur-la-production-et-l-import_6780080_3210.html"
     }
   ]
 }
