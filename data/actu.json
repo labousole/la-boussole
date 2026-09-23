@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-22T22:36:49+00:00",
+  "generated_at": "2026-09-23T02:46:43+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T23:58:24+00:00",
+      "titre": "Perpignan : la mairie RN veut exposer des statues de la Nativité pour les fêtes de fin d’année",
+      "dek": "L’opposition dénonce « un acte idéologique affirmé, contraire à l’universalisme laïc », alors que la municipalité entend célébrer une tradition catalane et attirer les touristes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/perpignan-la-mairie-rn-veut-exposer-des-statues-de-la-nativite-pour-les-fetes-de-fin-d-annee_6780366_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Sep 2026",
+      "date_iso": "2026-09-22T21:35:52+00:00",
+      "titre": "A Paris, un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle",
+      "dek": "La société CapEnglish, qui employait cet homme au moment des faits dénoncés, affirme avoir respecté toutes les procédures de vérification lors du recrutement de l’intervenant mis en cause à l’école Saint-Laurent.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/22/a-paris-un-intervenant-en-anglais-en-garde-a-vue-a-pour-des-soupcons-de-viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle_6780298_3224.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -151,7 +173,7 @@
       "date": "22 Sep 2026",
       "date_iso": "2026-09-22T18:05:56+00:00",
       "titre": "Carburants : le gouvernement double les aides aux automobilistes pour éviter une crise",
-      "dek": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 millions de Français pourront en profiter. Objectif : tuer dans l’œuf un éventuel mouvement de prote…",
+      "dek": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 millions de Français pourront en profiter. Objectif : tuer dans l’œuf un éventuel mouvement de prote…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html"
     },
@@ -528,28 +550,6 @@
       "dek": "Le 20 septembre, dans la capitale allemande, le parti de gauche radicale Die Linke l’a emporté haut la main face aux chrétiens-démocrates (CDU) aux élections régionales. Elif Eralp, fille d’immigrés turcs, en est la figure de proue. Un message politique qui prend un tour symboliq…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=508455"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T11:14:13+00:00",
-      "titre": "Entre le FC Barcelone et la RDC, le contrat mirifique d’une société poussée par Macron",
-      "dek": "Un litige commercial entre deux sociétés françaises lève le voile sur les coulisses de la signature d’un important contrat conclu entre la République démocratique du Congo et le club de football catalan, et sur les enjeux diplomatiques qui l’entourent.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/220926/entre-le-fc-barcelone-et-la-rdc-le-contrat-mirifique-d-une-societe-poussee-par-macron"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T11:10:54+00:00",
-      "titre": "Repas à 1 euro menacés: les jeunes précaires ne sont pas une monnaie d’échange politique",
-      "dek": "Le ministre de l’enseignement supérieur, Philippe Baptiste, a déclaré le 20 septembre que la pérennité du dispositif destiné aux étudiants ne serait pas assurée en cas de non-adoption du budget au Parlement.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/220926/repas-1-euro-menaces-les-jeunes-precaires-ne-sont-pas-une-monnaie-d-echange-politique"
     }
   ]
 }
