@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-09-23T18:45:49+00:00",
+  "generated_at": "2026-09-23T22:36:30+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T22:22:33+00:00",
+      "titre": "Les copropriétaires de la tour Montparnasse, à Paris, rejettent le lancement des travaux de rénovation",
+      "dek": "DIvisés, les copropriétaires du bâtiment parisien ont refusé la première phase des travaux qui devaient enclencher la transformation à 800 millions d’euros du gratte-ciel. Un énième rebondissement à deux mois de l’expiration du permis de construire.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/24/les-coproprietaires-de-la-tour-montparnasse-a-paris-rejettent-le-lancement-des-travaux-de-renovation_6781124_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T22:10:38+00:00",
+      "titre": "Royal, Gaza, Ukraine, LFI… Les 4 moments marquants du premier débat de la primaire sociale-démocrate",
+      "dek": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont échangé avec des Français, mercredi 23 septembre au soir, en direct sur LCI. «Libé» revient sur cette première confrontation.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/royal-gaza-lfi-ukraine-les-4-moments-marquants-du-premier-debat-de-la-primaire-sociale-democrate-20260924_EWOLMO3W4ZBXDD7BJMNR4YVWWY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T21:59:39+00:00",
+      "titre": "Présidentielle 2027 : revivez le premier débat de la primaire de la gauche sociale-démocrate",
+      "dek": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont échangé ce mercredi soir sur des questions économiques, internationales et de politique intérieure.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-premier-debat-de-la-primaire-de-gauche-20260923_P7HIRMCMZJDEXGE5SSLVJLOPHE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T20:40:56+00:00",
+      "titre": "\"Le Hamas n'a jamais sévi en Cisjordanie\" : polémique autour du discours d'Emmanuel Macron à l'ONU",
+      "dek": "À la tribune des Nations unies, le Président français a dénoncé, dans la soirée du mardi 22 septembre, les violences contre les Palestiniens. Mais il a aussi affirmé, à tort, que le Hamas n’avait “jamais sévi en Cisjordanie”. Le mouvement y a pourtant bien mené des attentats. Le …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-hamas-n-a-jamais-sevi-en-cisjordanie-polemique-autour-du-discours-d-emmanuel-macron-a-l-onu_8206973.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T20:31:48+00:00",
+      "titre": "Au procès en appel des assistants parlementaires européens du MoDem, Michel Mercier conteste le rôle de « chef d’orchestre »",
+      "dek": "« Il faudrait être malade, pour aller essayer de tripatouiller des contrats de trois francs six sous, alors qu’on a à côté l’argent pour payer », a dit l’ancien ministre lors de son interrogatoire, mardi.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/23/au-proces-en-appel-des-assistants-parlementaires-europeens-du-modem-michel-mercier-conteste-le-role-de-chef-d-orchestre_6780992_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T20:31:20+00:00",
+      "titre": "Primaire du PS : la Cour d’appel désavoue Philippe Brun, qui reste écarté de la course à la présidentielle",
+      "dek": "Mis en retrait et éjecté de la primaire des sociaux-démocrates à la dernière minute, l’élu socialiste avait déposé un référé pour contester la décision mais le tribunal judiciaire et la Cour d’appel de Paris l’ont débouté ce mercredi 23 septembre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/suspendu-du-ps-pour-des-accusations-de-violences-le-depute-philippe-brun-ne-pourra-pas-reintegrer-son-parti-20260923_IJ5DRIOEVFAHXLPSIRRFI26V3Q/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T20:23:51+00:00",
+      "titre": "Présidentielle 2027 : revivez le premier débat entre les cinq candidats de la primaire à gauche",
+      "dek": "Raphaël Glucksmann, Ségolène Royal, Olivier Faure, Jérôme Guedj et Emmanuel Maurel ont répondu, mercredi soir, sur TF1-LCI, à un panel de Français lors d’une émission animée par David Pujadas.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/09/23/en-direct-debat-de-la-primaire-a-gauche-les-candidats-debattent-de-la-situation-a-gaza-si-les-mots-sont-importants-il-faut-reconnaitre-le-genocide-rappelle-royal-a-glucksmann_6780940_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T20:20:26+00:00",
+      "titre": "Présidentielle 2027 : la Cour d’appel rejette à son tour la demande de réintégration de Philippe Brun à la primaire à gauche",
+      "dek": "Le député de l’Eure avait été mis à l’écart du Parti socialiste pour des accusations de violence sur une ancienne collaboratrice.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-la-cour-d-appel-rejette-a-son-tour-la-demande-de-reintegration-de-philippe-brun-a-la-primaire-a-gauche_6780868_823449.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -128,7 +216,7 @@
       "source": "L'Humanité – Politique",
       "date": "23 Sep 2026",
       "date_iso": "2026-09-23T17:04:06+00:00",
-      "titre": "Immigration : le préfet des Hauts-de-Seine vante son bilan répressif auprès des élus locaux avec les mots de l’extrême droite",
+      "titre": "Immigration : le préfet des Hauts-de-Seine vante son bilan répressif auprès des élus du 92 avec les mots de l’extrême droite",
       "dek": "Dans un courrier adressé aux élus des Hauts-de-Seine, consulté par «&nbsp;l’Humanité&nbsp;», le préfet Alexandre Brugère vante son bilan répressif en matière d’immigration avec les mots de l’extrême droite. Sans toutefois s’épancher sur les délais de renouvellement des titres de …",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/alexandre-brugere/immigration-le-prefet-des-hauts-de-seine-vante-son-bilan-repressif-aupres-des-elus-locaux-avec-les-mots-de-lextreme-droite"
@@ -462,94 +550,6 @@
       "dek": "Du livre à succès de l’eurodéputée Reconquête ! au lancement de la revue «Civilisation» en passant par la Journée de la liberté, les chapelles ultralibérales, inspirées des idées de Javier Milei, tentent d’infléchir le débat public sur fond d’offensive antifiscale. Avec, en ligne…",
       "avis": null,
       "lien": "https://www.liberation.fr/idees-et-debats/revues-think-tanks-soirees-les-reseaux-qui-inspirent-les-liberaux-conservateurs-de-david-lisnard-a-sarah-knafo-20260923_6WP2MNYOSJD35MKHLGYRXAASS4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T10:00:14+00:00",
-      "titre": "Présidentielle 2027 : comment des propositions-clés du RN infusent les discours de la campagne",
-      "dek": "Les pistes d’économie du Rassemblement national irriguent le projet de budget de Sébastien Lecornu, et d’autres figures médiatiques de droite comme de gauche reprennent des propositions jusqu’ici rejetées pour leur inapplicabilité.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-comment-des-propositions-cles-du-rn-infusent-les-discours-de-la-campagne_6780885_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:58:29+00:00",
-      "titre": "La justice rejette la demande de réintégration de Philippe Brun, exclu de la primaire socialiste après des accusations de violences, le député saisit la cour d'appel",
-      "dek": "Selon la direction du PS, une militante l'avait accusé de \"faits susceptibles de relever d'une caractérisation pénale\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-justice-rejette-la-demande-de-reintegration-de-philippe-brun-exclu-de-la-primaire-socialiste-apres-des-accusations-de-violences_8206013.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:49:10+00:00",
-      "titre": "Aides aux carburants : \"La responsabilité, c'est celle de ne pas avoir anticipé depuis dix ans certains problèmes\", pointe Laure Salvaing, spécialiste de l'opinion",
-      "dek": "La directrice générale du cabinet d'études et de conseil Verian France livre dans \"La Matinale\" du 23 septembre son éclairage sur le regard que portent les Français sur la crise des carburants et la responsabilité du gouvernement, avec le \"sentiment\" de mesures \"en décalage par r…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/aides-aux-carburants-la-responsabilite-c-est-celle-de-ne-pas-avoir-anticipe-depuis-dix-ans-certains-problemes-pointe-laure-salvaing-specialiste-de-l-opinion_8206136.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:41:26+00:00",
-      "titre": "Suspendu du PS pour des accusations de violences, Philippe Brun ne pourra réintégrer ni son parti ni la primaire",
-      "dek": "Mis en retrait et éjecté de la primaire de la gauche à la dernière minute, l’élu socialiste avait déposé un référé pour contester la décision mais le tribunal judiciaire de Paris l’a débouté ce mercredi 23 septembre. Il annonce faire appel de la décision.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/suspendu-du-ps-pour-des-accusations-de-violences-le-depute-philippe-brun-ne-pourra-pas-reintegrer-son-parti-20260923_IJ5DRIOEVFAHXLPSIRRFI26V3Q/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:39:23+00:00",
-      "titre": "Carburant : ce qu’il faut retenir des mesurettes annoncées par le gouvernement",
-      "dek": "Le gouvernement présentait ce mardi 22 septembre ses mesures pour lutter contre la hausse du prix du carburant. Si Roland Lescure, ministre de l'Économie, et ses collègues ont annoncé un élargissement et une amplification de l’aide aux grands rouleurs, l’exécutif refuse toujours …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/emmanuel-macron/carburant-ce-quil-faut-retenir-des-mesurettes-annoncees-par-le-gouvernement"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:30:29+00:00",
-      "titre": "Thélyson Orélien: mécanique d’une polémique",
-      "dek": "La campagne accusant l’écrivain canado-haïtien d’avoir eu recours à l’IA est orchestrée depuis l’extrême droite médiatique. Mais elle prend aussi son essor dans le vertige de ce que l’usage des outils d’IA générative pourrait faire à la littérature.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/230926/thelyson-orelien-mecanique-d-une-polemique"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:25:04+00:00",
-      "titre": "Il y a quinze ans, un Sénat pas normal préfigure l’arrivée du Président «normal»",
-      "dek": "En 2011, la chambre haute basculait à gauche pour la première et dernière fois depuis 1958, sept mois avant l’élection de Hollande. L’ambiance devrait être légèrement différente ce dimanche 27 septembre, pour les sénatoriales.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/il-y-a-quinze-ans-un-senat-pas-normal-prefigure-larrivee-du-president-normal-20260923_F5426OPCQVCVTKXCNHGZNAGK2Q/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:22:00+00:00",
-      "titre": "Sénatoriales : dans le Rhône, Gabriel Amard, cadre LFI et «gendre de», veut faire entrer les insoumis au Sénat",
-      "dek": "Le député de Villeurbanne, soldat de la garde rapprochée de Mélenchon et spécialiste des collectivités locales, espère bénéficier des progrès du parti lors des dernières municipales.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/senatoriales-dans-le-rhone-gabriel-amard-cadre-lfi-et-gendre-de-veut-faire-entrer-les-insoumis-au-senat-20260923_2PBPUZF3R5AFHHAWYDG2RGBVI4/"
     }
   ]
 }
