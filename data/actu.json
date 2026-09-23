@@ -1,6 +1,292 @@
 {
-  "generated_at": "2026-09-23T09:40:30+00:00",
+  "generated_at": "2026-09-23T14:35:39+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T15:28:51+00:00",
+      "titre": "Au Sénat, le RN prépare son entrée par la petite porte",
+      "dek": "Le 27 septembre, le Rassemblement national pourrait investir le palais du Luxembourg avec un groupe d’élus issus de son parti et de l’UDR d’Éric Ciotti. Une présence numériquement limitée mais importante dans la stratégie d’implantation territoriale de l’extrême droite et dans se…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=508839"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T15:05:54+00:00",
+      "titre": "Se mêler de la primaire « de la gauche et des écologistes »",
+      "dek": "Ce mercredi soir aura lieu le premier débat de la primaire sociale-démocrate sur LCI. Règles restrictives et participation attendue en net recul par rapport à 2011 : le scrutin prête le flanc à la critique. Mais s’en détourner, c’est laisser quelques dizaines de milliers de perso…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=508784"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T14:28:17+00:00",
+      "titre": "Présidentielle 2027 : demain ne disparaîtra pas avec une élection",
+      "dek": "Après une rentrée locale réussie et une Fête de l’Humanité dynamisante, sortir de cette bulle progressiste a été un choc. Un retour brutal à la réalité : la peur, la sidération et l’acceptation ont rythmé ce « voyage en terre inconnue » qu’est devenu, pour beaucoup, l’avenir du p…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fascisme/presidentielle-2027-demain-ne-disparaitra-pas-avec-une-election"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T14:24:01+00:00",
+      "titre": "Le sénateur Laurent Duplomb soupçonné de détournement de fonds publics",
+      "dek": "En mai 2025, «Mediacités» révélait qu’une collaboratrice parlementaire du sénateur de Haute-Loire Laurent Duplomb avait incité de nombreux élus locaux à adhérer au parti Les Républicains pour soutenir l’élection, en interne, de Laurent Wauquiez. Le parquet de Clermont-Ferrand a d…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/230926/le-senateur-laurent-duplomb-soupconne-de-detournement-de-fonds-publics"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T13:44:11+00:00",
+      "titre": "Présidentielle 2027 : « Le scrutin qui vient se tient dans un contexte de crise profonde du présidentialisme à la française »",
+      "dek": "L’exercice du pouvoir issu de la Constitution de 1958 s’est progressivement déréglé ces vingt dernières années, le régime devenant de plus en plus focalisé sur la fonction présidentielle, jusqu’à l’épuisement, analyse, dans sa chronique, Solenn de Royer, journaliste au « Monde »,…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-le-scrutin-qui-vient-se-tient-dans-un-contexte-de-crise-profonde-du-presidentialisme-a-la-francaise_6780915_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T13:36:06+00:00",
+      "titre": "Logement : Sébastien Lecornu s’engage à faire inscrire à l’ordre du jour de l’Assemblée nationale le projet de loi « relance logement »",
+      "dek": "Le premier ministre promet, dans une lettre adressée aux acteurs du logement, de maintenir, dans le projet de loi de finances pour 2027, « les 500 millions d’euros consentis au logement social en 2026 ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/logement-sebastien-lecornu-s-engage-a-faire-inscrire-a-l-ordre-du-jour-de-l-assemblee-nationale-le-projet-de-loi-relance-logement_6780914_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T13:32:01+00:00",
+      "titre": "Affaire Alexis Kohler : non-lieu requis pour l’ex-bras droit d’Emmanuel Macron dans l’enquête pour prise illégale d’intérêts",
+      "dek": "Alexis Kohler, mis en examen depuis 2022 dans ce dossier autour de ses liens familiaux avec l’armateur MSC, est aujourd’hui directeur général adjoint de la Société générale. Proche d’Emmanuel Macron, il a été son directeur de cabinet au ministère de l’économie puis secrétaire gén…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/23/affaire-alexis-kohler-non-lieu-requis-pour-l-ex-bras-droit-d-emmanuel-macron-dans-l-enquete-pour-prise-illegale-d-interets_6780913_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T13:00:08+00:00",
+      "titre": "Primaire du PS : le désarroi des militants socialistes face à une campagne davantage centrée sur les candidats que sur les idées",
+      "dek": "Les adhérents des sections du PS de Rennes-Nord et de Chalon-sur-Saône semblent déboussolés face au processus de départage qui pourrait aussi avoir des conséquences sur les stratégies d’alliance pour la suite.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/primaire-du-ps-le-desarroi-des-militants-socialistes-face-a-une-campagne-davantage-centree-sur-les-candidats-que-sur-les-idees_6780903_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T13:00:00+00:00",
+      "titre": "Sénatoriales : à gauche, petites manœuvres contre la vague mariniste",
+      "dek": "Face à la percée de l’extrême droite et la stabilisation des droites, socialistes, écologistes et communistes ont négocié de nombreux accords. Les insoumis, snobés, n’ont presque aucun espoir d’accéder à la chambre haute. La guerre des gauches n’est jamais bien loin.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=508586"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T12:55:26+00:00",
+      "titre": "Aides carburants : les professionnels et particuliers exclus du dispositif réagissent",
+      "dek": "Les annonces sur l'aide aux carburants du gouvernement suscitent la grogne de certains professionnels. Les transporteurs routiers, notamment, dont les aides n'ont pas été prolongées. La colère s'exprime également chez les auto-écoles et les artisans.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/aides-carburants-les-professionnels-et-particuliers-exclus-du-dispositif-reagissent_8206376.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T12:52:41+00:00",
+      "titre": "Enquête pour prise illégale d’intérêts : non-lieu requis pour Alexis Kohler",
+      "dek": "Cette réquisition du Parquet national financier en faveur de l’ex-bras droit d’Emmanuel Macron porte sur ses liens familiaux avec l’armateur MSC. La décision remonte au 31 août.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/enquete-pour-prise-illegale-dinterets-non-lieu-requis-pour-alexis-kohler-20260923_QIPF3ANOQNCOTBANCGUNF4VZHE/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T12:00:00+00:00",
+      "titre": "Sénatoriales : une drôle d’élection, complexe mais capitale",
+      "dek": "Les élections de la chambre haute fin septembre pourraient changer durablement le paysage politique du pays. L’extrême droite fera son entrée en trombe dans cette chambre. En parallèle, les gauches se testent quelques mois avant le premier tour de la présidentielle.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=508551"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T11:49:04+00:00",
+      "titre": "Aides carburants : qui sont les nouveaux bénéficiaires du dispositif grands rouleurs ?",
+      "dek": "Faites-vous partie des nouveaux bénéficiaires des aides carburants ? Face à l'envolée des prix à la pompe, le gouvernement a élargi à cinq millions et demi de Français le coup de pouce aux grands rouleurs : un chèque de 100 euros, et une aide spécifique, notamment pour les infirm…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/aides-carburants-qui-sont-les-nouveaux-beneficiaires-du-dispositif-grands-rouleurs_8206352.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T11:04:00+00:00",
+      "titre": "Sénatoriales : dans l’Hérault rural, les candidats battent la campagne",
+      "dek": "Quasi invisible pour le grand public, le scrutin de la Chambre haute, qui aura lieu dimanche 27 septembre, voit les élus locaux courtisés de toute part. Hors des zones urbaines, c’est village après village que les candidats ont cherché à s’assurer de leur soutien.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/senatoriales-dans-lherault-rural-les-candidats-battent-la-campagne-20260923_XZAONGOBQVB5NKCPK5PCOCYQWU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:54:19+00:00",
+      "titre": "Listing des personnalités engagées contre l’extrême droite : Patrick Cohen charge Pascal Praud et «les médias Bolloré»",
+      "dek": "Dans son édito du mercredi 23 septembre sur France Inter, au lendemain de la sortie de l’animateur de CNews qui avait annoncé son intention d’afficher les artistes ou les sportifs qui critiqueraient le RN, le journaliste accuse la chaîne d’être «le bras armé» de l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/medias/listing-des-personnalites-engagees-contre-lextreme-droite-patrick-cohen-charge-pascal-praud-et-les-medias-bollore-20260923_RATLUZSHW5G2BEWKU5T7UJDHBY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:34:57+00:00",
+      "titre": "Aides aux carburants : \"On n'en garde pas sous le coude\"",
+      "dek": "Au lendemain des annonces du gouvernement de nouvelles aides pour les carburants, Maud Bregeon, porte-parole du gouvernement et ministre déléguée chargée de l'Énergie, réfute l’idée selon laquelle le gouvernement \"en garde sous le coude\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/aides-aux-carburants-on-n-en-garde-pas-sous-le-coude_8206292.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:22:30+00:00",
+      "titre": "Censure du budget, retour des Gilets jaunes… «Mediapart» a répondu à vos questions",
+      "dek": "Valentine Oberti, codirectrice éditoriale du journal, et Mathias Thépot, journaliste au service économie, social et travail, ont répondu à vos questions sur le climat social et le budget, mercredi 23 septembre, dans le cadre d’un chat.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/230926/censure-du-budget-retour-des-gilets-jaunes-mediapart-repondu-vos-questions"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:19:20+00:00",
+      "titre": "\"Le travail rend libre\" : accusé d'avoir fait écho à un slogan nazi dans un discours, le député RN Jean-Philippe Tanguy dénonce du \"n'importe quoi\"",
+      "dek": "Le lieutenant de Marine Le Pen a prononcé cette phrase lors d'un événement à Vierzon (Cher) samedi. Ce slogan, \"Arbeit macht frei\" en allemand, figurait à l'entrée de camps de concentration et d'extermination nazis.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-travail-rend-libre-accuse-d-avoir-fait-echo-a-un-slogan-nazi-dans-un-discours-le-depute-rn-jean-philippe-tanguy-denonce-du-n-importe-quoi_8205998.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:01:39+00:00",
+      "titre": "« Il n’y a pas d’affaire Brun, il y a une affaire Olivier Faure » : toujours exclu du PS, Philippe Brun affirme être victime d’un « coup monté »",
+      "dek": "Son exclusion à titre provisoire du Parti socialiste confirmée, Philippe Brun a estimé, mercredi 23&nbsp;septembre, que la décision «&nbsp;est caduque&nbsp;». Il avait déposé, un jour plus tôt, un référé pour réintégrer le PS et la primaire pour désigner le candidat socialiste à …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-toujours-accuse-de-violences-philippe-brun-depose-un-refere-pour-reintegrer-le-ps-et-la-primaire-de-la-gauche"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:01:00+00:00",
+      "titre": "Revues, think tanks, soirées… Les réseaux qui inspirent les libéraux conservateurs, de David Lisnard à Sarah Knafo",
+      "dek": "Du livre à succès de l’eurodéputée Reconquête ! au lancement de la revue «Civilisation» en passant par la Journée de la liberté, les chapelles ultralibérales, inspirées des idées de Javier Milei, tentent d’infléchir le débat public sur fond d’offensive antifiscale. Avec, en ligne…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/revues-think-tanks-soirees-les-reseaux-qui-inspirent-les-liberaux-conservateurs-de-david-lisnard-a-sarah-knafo-20260923_6WP2MNYOSJD35MKHLGYRXAASS4/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:00:35+00:00",
+      "titre": "Écarté de la primaire de la gauche, Philippe Brun dénonce des «manœuvres» en interne et va faire appel",
+      "dek": "INFO LE FIGARO - Le député de l’Eure réclamait en justice sa réintégration afin de concourir à la primaire de la gauche. Dénonçant une procédure «déloyale» et politiquement instrumentalisée, il va faire appel. Le Figaro a pu consulter la décision rendue ce mercredi matin.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/faits-divers/ecarte-de-la-primaire-de-la-gauche-philippe-brun-denonce-des-manoeuvres-en-interne-et-va-faire-appel-20260923"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T10:00:14+00:00",
+      "titre": "Présidentielle 2027 : comment des propositions-clés du RN infusent les discours de la campagne",
+      "dek": "Les pistes d’économie du Rassemblement national irriguent le projet de budget de Sébastien Lecornu, et d’autres figures médiatiques de droite comme de gauche reprennent des propositions jusqu’ici rejetées pour leur inapplicabilité.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-comment-des-propositions-cles-du-rn-infusent-les-discours-de-la-campagne_6780885_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T09:58:29+00:00",
+      "titre": "La justice rejette la demande de réintégration de Philippe Brun, exclu de la primaire socialiste après des accusations de violences, le député saisit la cour d'appel",
+      "dek": "Selon la direction du PS, une militante l'avait accusé de \"faits susceptibles de relever d'une caractérisation pénale\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-justice-rejette-la-demande-de-reintegration-de-philippe-brun-exclu-de-la-primaire-socialiste-apres-des-accusations-de-violences_8206013.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T09:49:10+00:00",
+      "titre": "Aides aux carburants : \"La responsabilité, c'est celle de ne pas avoir anticipé depuis dix ans certains problèmes\", pointe Laure Salvaing, spécialiste de l'opinion",
+      "dek": "La directrice générale du cabinet d'études et de conseil Verian France livre dans \"La Matinale\" du 23 septembre son éclairage sur le regard que portent les Français sur la crise des carburants et la responsabilité du gouvernement, avec le \"sentiment\" de mesures \"en décalage par r…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/aides-aux-carburants-la-responsabilite-c-est-celle-de-ne-pas-avoir-anticipe-depuis-dix-ans-certains-problemes-pointe-laure-salvaing-specialiste-de-l-opinion_8206136.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T09:41:26+00:00",
+      "titre": "Suspendu du PS pour des accusations de violences, Philippe Brun ne pourra réintégrer ni son parti ni la primaire",
+      "dek": "Mis en retrait et éjecté de la primaire de la gauche à la dernière minute, l’élu socialiste avait déposé un référé pour contester la décision mais le tribunal judiciaire de Paris l’a débouté ce mercredi 23 septembre. Il annonce faire appel de la décision.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/suspendu-du-ps-pour-des-accusations-de-violences-le-depute-philippe-brun-ne-pourra-pas-reintegrer-son-parti-20260923_IJ5DRIOEVFAHXLPSIRRFI26V3Q/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T09:39:23+00:00",
+      "titre": "Carburant : ce qu’il faut retenir des mesurettes annoncées par le gouvernement",
+      "dek": "Le gouvernement présentait ce mardi 22 septembre ses mesures pour lutter contre la hausse du prix du carburant. Si Roland Lescure, ministre de l'Économie, et ses collègues ont annoncé un élargissement et une amplification de l’aide aux grands rouleurs, l’exécutif refuse toujours …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/emmanuel-macron/carburant-ce-quil-faut-retenir-des-mesurettes-annoncees-par-le-gouvernement"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -8,7 +294,7 @@
       "date": "23 Sep 2026",
       "date_iso": "2026-09-23T09:30:29+00:00",
       "titre": "Thélyson Orélien: mécanique d’une polémique",
-      "dek": "La campagne accusant l’écrivain Thélyson Orélien d’avoir eu recours à l’IA est orchestrée depuis l’extrême droite médiatique. Mais elle prend aussi son essor dans le vertige de ce que l’usage des outils d’IA générative pourrait faire à la littérature.",
+      "dek": "La campagne accusant l’écrivain canado-haïtien d’avoir eu recours à l’IA est orchestrée depuis l’extrême droite médiatique. Mais elle prend aussi son essor dans le vertige de ce que l’usage des outils d’IA générative pourrait faire à la littérature.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/culture-et-idees/230926/thelyson-orelien-mecanique-d-une-polemique"
     },
@@ -35,17 +321,6 @@
       "lien": "https://www.liberation.fr/politique/elections/senatoriales-dans-le-rhone-gabriel-amard-cadre-lfi-et-gendre-de-veut-faire-entrer-les-insoumis-au-senat-20260923_2PBPUZF3R5AFHHAWYDG2RGBVI4/"
     },
     {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:16:41+00:00",
-      "titre": "Écarté de la primaire de la gauche, Philippe Brun dénonce des «manœuvres» en interne et va faire appel",
-      "dek": "INFO LE FIGARO - Le député de l’Eure réclamait en justice sa réintégration afin de concourir à la primaire de la gauche. Dénonçant une procédure «déloyale» et politiquement instrumentalisée, il va faire appel. Le Figaro a pu consulter la décision rendue ce mercredi matin.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/faits-divers/ecarte-de-la-primaire-de-la-gauche-philippe-brun-denonce-des-manoeuvres-en-interne-et-va-faire-appel-20260923"
-    },
-    {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
@@ -66,17 +341,6 @@
       "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/place-publique-profite-de-la-primaire-pour-doubler-son-nombre-dadherents-20260923_VY6ARVQ2Q5CV3OLQ3DSDSGWNN4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T09:02:46+00:00",
-      "titre": "Suspendu du PS pour des accusations de violences, Philippe Brun ne pourra réintégrer ni son parti ni la primaire",
-      "dek": "Mis en retrait et éjecté de la primaire de la gauche à la dernière minute, l’élu socialiste avait déposé un référé pour contester la décision mais le tribunal judiciaire de Paris l’a débouté ce mercredi 23 septembre, à quelques heures du premier débat télévisé.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/suspendu-du-ps-pour-des-accusations-de-violences-le-depute-philippe-brun-ne-pourra-pas-reintegrer-son-parti-20260923_IJ5DRIOEVFAHXLPSIRRFI26V3Q/"
     },
     {
       "tag": "Politique",
@@ -121,17 +385,6 @@
       "dek": "Un maire d’une commune de la métropole marseillaise accuse l’édile PS de la deuxième ville de France de l’avoir menacé par téléphone en représailles d’une décision qui lui aurait déplu. Ce dernier conteste les propos allégués.",
       "avis": null,
       "lien": "https://www.liberation.fr/societe/police-justice/marseille-le-maire-benoit-payan-vise-par-une-enquete-apres-un-echange-telephonique-violent-20260923_N2S4Y2SJFRAE5GUCL2DNX34IHQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T08:34:17+00:00",
-      "titre": "La justice rejette la demande de réintégration de Philippe Brun, exclu de la primaire socialiste après des accusations de violences",
-      "dek": "Selon la direction du PS, une militante l'avait accusé de \"faits susceptibles de relever d'une caractérisation pénale\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-justice-rejette-la-demande-de-reintegration-de-philippe-brun-exclu-de-la-primaire-socialiste-apres-des-accusations-de-violences_8206013.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -297,259 +550,6 @@
       "dek": "Leurs craintes sont cristallisées autour d'un article qui prévoit plusieurs nouvelles infractions spécifiques pour sanctionner les atteintes au consentement dans les soins, avec un plafond bien inférieur aux peines pour sanctionner une agression sexuelle ou un viol.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/des-associations-craignent-une-sous-qualification-des-agressions-sexistes-et-sexuelles-commises-dans-un-contexte-medical-dans-la-proposition-de-la-loi-integrale_8205812.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T06:10:02+00:00",
-      "titre": "La règle d’or sur les carburants ressemble surtout à un effet d’annonce",
-      "dek": "Le gouvernement propose d’inscrire dans le budget 2027 une règle d’or pour \"restituer les surplus de TVA sur les carburants aux Français\". L’objectif est d’éviter que l’État ne profite d’une nouvelle hausse des prix à la pompe. Encore faut-il que cette règle soit inscrite dans le…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-regle-d-or-sur-les-carburants-ressemble-surtout-a-un-effet-d-annonce_8183921.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T06:10:01+00:00",
-      "titre": "Édito. Avant même son premier débat, la primaire social-démocrate semble déjà maudite",
-      "dek": "Le premier débat de la primaire se tient mercredi soir, alors que le nombre de participants reste suspendu à une décision de justice concernant Philippe Brun. Entre cette affaire et les attaques qui se multiplient entre candidats, la campagne est déjà loin de l’affrontement apais…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-avant-meme-son-premier-debat-la-primaire-social-democrate-semble-deja-maudite_8183915.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T05:55:13+00:00",
-      "titre": "Retraite à 65 ans et capitalisation pour les plus jeunes : le grand braquage de Retailleau",
-      "dek": "Derrière le ton policé adopté mardi soir face à Darius Rochebin sur le plateau de LCI, le projet de réforme des retraites dévoilé par Bruno Retailleau dessine une société terrifiante : moins de solidarité, plus de sueur pour ceux qui produisent, et un tapis rouge déroulé pour la …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/bruno-retailleau/retraite-a-65-ans-et-capitalisation-pour-les-plus-jeunes-le-grand-braquage-de-retailleau"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T23:58:24+00:00",
-      "titre": "Perpignan : la mairie RN veut exposer des statues de la Nativité pour les fêtes de fin d’année",
-      "dek": "L’opposition dénonce « un acte idéologique affirmé, contraire à l’universalisme laïc », alors que la municipalité entend célébrer une tradition catalane et attirer les touristes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/perpignan-la-mairie-rn-veut-exposer-des-statues-de-la-nativite-pour-les-fetes-de-fin-d-annee_6780366_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T21:35:52+00:00",
-      "titre": "A Paris, un intervenant en anglais en garde à vue pour des soupçons de viols et d’agressions sexuelles sur des enfants de maternelle",
-      "dek": "La société CapEnglish, qui employait cet homme au moment des faits dénoncés, affirme avoir respecté toutes les procédures de vérification lors du recrutement de l’intervenant mis en cause à l’école Saint-Laurent.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/22/a-paris-un-intervenant-en-anglais-en-garde-a-vue-a-pour-des-soupcons-de-viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle_6780298_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T21:35:52+00:00",
-      "titre": "A Paris, un intervenant en anglais en garde à vue à pour des soupçons de viols et agressions sexuelles sur des enfants de maternelle",
-      "dek": "La société CapEnglish, qui employait cet homme au moment des faits dénoncés, affirme avoir respecté toutes les procédures de vérification lors du recrutement de l’intervenant mis en cause à l’école Saint-Laurent.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/22/a-paris-un-intervenant-en-anglais-en-garde-a-vue-a-pour-des-soupcons-de-viols-et-agressions-sexuelles-sur-des-enfants-de-maternelle_6780298_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T20:34:44+00:00",
-      "titre": "Primaire à gauche : Ségolène Royal ressuscite son « ordre juste »",
-      "dek": "L’ancienne ministre a convoqué son slogan d’il y a presque vingt ans, « l’ordre juste », auquel elle a ajouté « La France tranquille », en clin d’œil à l’ancien président socialiste François Mitterrand, dont elle fut la ministre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/primaire-a-gauche-segolene-royal-ressuscite-son-ordre-juste_6780297_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T20:21:43+00:00",
-      "titre": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, le taux plein à 65",
-      "dek": "Le candidat LR à la présidentielle Bruno Retailleau a aussi proposé l'introduction d'une retraite par capitalisation \"pour les jeunes\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T20:07:53+00:00",
-      "titre": "« Un spectacle qui nous fait honte à tous » : les images du discours d’Emmanuel Macron à l’Assemblée générale de l’ONU",
-      "dek": "Le président français a appelé a dénoncé une « paix prétendue » qui n’a « pas rouvert les voies humanitaires » à Gaza. Il a aussi appelé à un « double moratoire » sur les frappes contre les sites énergétiques en Russie et Ukraine.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/video/2026/09/22/un-spectacle-qui-nous-fait-honte-a-tous-les-images-du-discours-d-emmanuel-macron-a-l-assemblee-generale-de-l-onu_6780296_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T19:36:35+00:00",
-      "titre": "Détection des violences sexuelles: la loi intégrale privée de sa mesure phare en commission",
-      "dek": "Les députés ont adopté, mardi 22 septembre en commission, un amendement supprimant l’entretien obligatoire destiné, à l’école, à repérer les enfants victimes. Ce qui revient à «accepter que ça continue», s’indigne la Coalition féministe et enfantiste à l’origine du texte.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/220926/detection-des-violences-sexuelles-la-loi-integrale-privee-de-sa-mesure-phare-en-commission"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T19:20:17+00:00",
-      "titre": "Hausse des prix des carburants: le gouvernement risque l’accident",
-      "dek": "Pour lutter contre la hausse des prix à la pompe, le gouvernement prolonge les aides existantes et continue de miser en premier lieu sur le plafonnement des prix dans les stations-service de Total. Il refuse toujours d’envisager le blocage des prix ou la taxation des superprofits…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/220926/hausse-des-prix-des-carburants-le-gouvernement-risque-l-accident"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:58:48+00:00",
-      "titre": "A l’Assemblée générale de l’ONU, Emmanuel Macron appelle à se « tenir droit » aux côtés des Nations unies face à « la loi de la jungle »",
-      "dek": "Le président français a également appelé à un « double moratoire » sur les frappes contre les sites énergétiques en Russie et Ukraine.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/09/22/emmanuel-macron-appelle-a-se-tenir-droit-aux-cotes-des-nations-unies-face-a-la-loi-de-la-jungle_6780290_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:30:18+00:00",
-      "titre": "Aides carburant, Donald Trump et Emmanuel Macron à l'ONU...Les informés de franceinfo du mardi 22 septembre 2026",
-      "dek": "Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/aides-carburant-donald-trump-et-emmanuel-macron-a-l-onu-les-informes-de-franceinfo-du-mardi-22-septembre-2026_8181998.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:22:40+00:00",
-      "titre": "\"Je suis le dernier marxiste français\" : Alain Minc, économiste et co-auteur de \"Un capitalisme devenu fou\"",
-      "dek": "Alain Minc, économiste et essayiste, est l'invité de l'émission \"C Ce Soir\" du mardi 22 septembre. Dans son livre \"Un capitalisme devenu fou\", il réalise une critique des excès du monde financier, de son emballement, non pas pour mettre à bas le capitalisme mais pour le sauver \"d…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/je-suis-le-dernier-marxiste-francais-alain-minc-economiste-et-co-auteur-de-un-capitalisme-devenu-fou_8205113.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:20:03+00:00",
-      "titre": "Baisse des taxes sur le carburant : comment Marine Le Pen en a fait sa mesure phare",
-      "dek": "Brandie par la candidate du RN, la promesse, simple mais fort coûteuse pour l’Etat, a intégré le programme du parti en 2021, malgré des réserves au sein comme hors de l’appareil.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/baisse-des-taxes-sur-le-carburant-comment-marine-le-pen-en-a-fait-sa-mesure-phare-20260922_GDPNIP3CTVHLPIFZWAKJQ7Y344/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:16:08+00:00",
-      "titre": "Pouvoirs de l'exécutif, fragilités du cadre électoral... Un rapport alerte sur \"les vulnérabilités\" de la France en cas de \"choc autoritaire\"",
-      "dek": "Le rapport, réalisé par des universitaires spécialistes du droit public, a été commandé par trois élues écologistes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/pouvoirs-de-l-executif-fragilites-du-cadre-electoral-un-rapport-alerte-sur-les-vulnerabilites-de-la-france-en-cas-de-choc-autoritaire_8205071.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:13:09+00:00",
-      "titre": "Comment un(e) président(e) d’extrême droite pourrait s’attaquer à nos institutions : le rapport qui dénonce les failles de la Ve République",
-      "dek": "Avec leur rapport « Rendre le système juridique français résilient face à un potentiel choc autoritaire », des universitaires alertent sur la fragilité de nos institutions et proposent des solutions.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/dictature/comment-une-presidente-dextreme-droite-pourrait-sattaquer-a-nos-institutions-des-chercheurs-en-font-la-demonstration"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:09:14+00:00",
-      "titre": "Budget 2027 : « On essaie encore de nous faire peur avec la dette », dénonce Éric Coquerel",
-      "dek": "54&nbsp;milliards d’euros&nbsp;: derrière cette somme d’économies annoncée par Sébastien Lecornu, une bataille sur le partage des richesses. Éric Coquerel, président insoumis de la commission des Finances de l’Assemblée nationale, conteste le choix du gouvernement de continuer un…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/assemblee-nationale/budget-2027-on-essaie-encore-de-nous-faire-peur-avec-la-dette-previent-eric-coquerel"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:05:56+00:00",
-      "titre": "Carburants : le gouvernement double les aides aux automobilistes pour éviter une crise",
-      "dek": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 millions de Français pourront en profiter. Objectif : tuer dans l’œuf un éventuel mouvement de prote…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T18:05:56+00:00",
-      "titre": "Aides aux carburants : pour éviter une crise, le gouvernement double les aides aux automobilistes",
-      "dek": "Face à la nouvelle flambée de l’essence et du gazole, l’Etat va verser un nouveau chèque de 100 euros aux conducteurs qui utilisent leur voiture à titre professionnel. Quelque 5,5 millions de Français pourront en profiter. Objectif : tuer dans l’œuf un éventuel mouvement de prote…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T17:49:48+00:00",
-      "titre": "En Allemagne, démocratie chrétienne et social-démocratie accélèrent leur déclin",
-      "dek": "Les derniers scrutins régionaux l’ont confirmé: la CDU et le SPD ne sont définitivement plus les partis de rassemblement autour desquels s’était structuré le gouvernement de la République fédérale. Face à une extrême droite qui prétend à ce statut, des nouvelles configurations po…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/220926/en-allemagne-democratie-chretienne-et-social-democratie-accelerent-leur-declin"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T17:44:08+00:00",
-      "titre": "Présidentielle 2027 : Adèle Exarchopoulos appelle à faire « barrage au RN »",
-      "dek": "En promotion pour le film « Garance », de Jeanne Herry, Adèle Exarchopoulos a réaffirmé son engagement contre l’extrême droite. À quelques mois de l’élection présidentielle de 2027, elle appelle à battre dans les urnes le Rassemblement national et ses idéologies de haine et de di…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/culture-et-savoir/extreme-droite/presidentielle-2027-adele-exarchopoulos-appelle-a-faire-barrage-au-rn"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Sep 2026",
-      "date_iso": "2026-09-22T17:34:57+00:00",
-      "titre": "Renouvellement et élargissement du soutien aux gros rouleurs, hausse du plafond de la prime carburant : les annonces tièdes du gouvernement",
-      "dek": "Pour alléger la pression des prix à la pompe sur le pouvoir d’achat des Français, l’exécutif a dévoilé mardi 22 septembre un nouveau paquet d’aides avec une même ambition : ne pas dégrader les comptes publics. Depuis début septembre, la consommation de carburant a chuté de 19 % p…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/conso/renouvellement-et-elargissement-du-soutien-aux-gros-rouleurs-hausse-du-plafond-de-la-prime-carburant-les-annonces-tiedes-du-gouvernement-20260922_GAE47NSIXJFO3JKREPMZJGC5BM/"
     }
   ]
 }
