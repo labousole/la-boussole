@@ -1,6 +1,193 @@
 {
-  "generated_at": "2026-09-24T09:39:24+00:00",
+  "generated_at": "2026-09-24T14:33:44+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T14:04:57+00:00",
+      "titre": "Elections législatives au Maroc : la coalition sortante remporte un scrutin marqué par un taux de participation au plus bas depuis presque 20 ans",
+      "dek": "Arrivé en tête mais sans majorité absolue, le Parti Authenticité et modernité (PAM) devra former une nouvelle alliance.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/afrique/maroc/elections-legislatives-au-maroc-la-coalition-sortante-remporte-un-scrutin-marque-par-un-taux-de-participation-au-plus-bas-depuis-presque-20-ans_8208008.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T14:00:02+00:00",
+      "titre": "Prime carburant : \"Refiler la patate chaude aux entreprises, c'est un peu gonflé\"",
+      "dek": "Patrick Martin, président du Medef, réagit à l’annonce par le gouvernement d’un nouveau relèvement du plafond de la prime carburant versée par l’employeur, afin d’aider les salariés face à la hausse des prix des carburants. \"On le fera dans la limite de ce qui est possible\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/prime-carburant-refiler-la-patate-chaude-aux-entreprises-c-est-un-peu-gonfle_8208035.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T12:57:31+00:00",
+      "titre": "« Je continuerai à m’exprimer librement, avec respect et sans haine » : Teddy Riner réagit aux insultes et commentaires racistes dont il a été victime",
+      "dek": "Le sportif s’est exprimé pour la première fois depuis qu’il fait l’objet d’insultes en ligne, de critiques d’élus du RN et de pressions dans les médias proches de l’extrême droite pour avoir dit son « angoisse » de « la montée de l’extrême droite » en France.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/je-continuerai-a-m-exprimer-librement-avec-respect-et-sans-haine-teddy-rinner-reagit-aux-insultes-et-commentaires-racistes-dont-il-a-ete-victime_6781517_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T12:55:58+00:00",
+      "titre": "Emmanuel Macron bouscule la campagne présidentielle pour 2027 en introduisant les tensions géopolitiques au cœur du débat politique",
+      "dek": "Le chef de l’Etat, qui a dressé vendredi un inquiétant tableau de la menace hybride russe et de la crise des prix du carburant liée au conflit au Moyen-Orient, sera interviewé jeudi, à 20 heures, par TF1 et France 2.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/emmanuel-macron-bouscule-la-campagne-presidentielle-en-introduisant-la-crise-internationale-dans-le-debat-politique_6781516_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T12:46:57+00:00",
+      "titre": "Primaire des socio-démocrates : le débrief du 1ᵉʳ débat de Glucksmann, Royal, Faure, Guedj et Maurel",
+      "dek": "Audiences inattendues, manque de propositions phares et clash sur la question des alliances et du conflit à Gaza : mercredi 23 septembre avait lieu le tout premier débat de la primaire des socio-démocrates avec Raphaël Glucksmann, Ségolène Royal, Olivier Faure, Jérôme Guedj et Em…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/jerome-guedj/primaire-des-socio-democrates-le-debrief-du-1%e1%b5%89%ca%b3-debat-de-glucksmann-royal-faure-guedj-et-morel"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T12:36:37+00:00",
+      "titre": "Quel est le profil du candidat aux sénatoriales ? (spoiler : un homme cadre de plus de 50 ans)",
+      "dek": "Dimanche 27&nbsp;septembre, 178 sièges de sénateur, sur un total de 348, sont remis en jeu, lors d’un scrutin au suffrage universel indirect. Malgré un certain rajeunissement, la course à la Chambre haute du Parlement reste surtout une affaire de cadres et d’hommes.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/elections-senatoriales/quel-est-le-profil-du-candidat-aux-senatoriales-spoiler-un-homme-cadre-de-plus-de-50-ans"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T12:25:39+00:00",
+      "titre": "Sommet de l’ONU : IA qu’un sujet pour « les Échos », c’est Macron",
+      "dek": "Soyons sérieux, comme l’étaient jeudi les Échos. La rencontre au sommet ce n’est pas celle entre Donald Trump et Xi Jinping, mais celle qui justifiait une grande photo en une du quotidien, entre Sam Altman, le PDG d’OpenAI, et Emmanuel Macron, en marge du sommet de l’ONU. Que se …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/le-billet-de-maurice-ulrich/sommet-de-lonu-ia-quun-sujet-pour-les-echos-cest-macron"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T12:05:04+00:00",
+      "titre": "La formation professionnelle, marqueur de la politique pour l’emploi d’Emmanuel Macron, subit un nouveau tour de vis de la part du gouvernement",
+      "dek": "Le ministère du travail a annoncé, mercredi 23 septembre, une nouvelle augmentation du reste à charge pour les salariés mobilisant leur CPF pour des formations classées non prioritaire. La France réduit ainsi progressivement son effort de formation au moment où la structure même …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/la-formation-professionnelle-marqueur-de-la-politique-pour-l-emploi-d-emmanuel-macron-subit-un-nouveau-tour-de-vis-de-la-part-du-gouvernement_6781510_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T12:00:08+00:00",
+      "titre": "Le lobbyiste, le député, le journaliste et l’avocat : les nouvelles révélations d’une affaire tentaculaire d’ingérences étrangères",
+      "dek": "Un cadre d’un cabinet de conseil britannique, mis en examen en juillet pour « corruption » et « trafic d’influence », est soupçonné par la justice d’avoir rémunéré l’affairiste Jean-Pierre Duthion afin qu’il interfère en faveur d’un ancien premier ministre kazakh. Le nom d’un cél…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/24/le-lobbyiste-le-depute-le-journaliste-et-l-avocat-les-nouvelles-revelations-d-une-affaire-tentaculaire-d-ingerences-etrangeres_6781508_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T11:52:30+00:00",
+      "titre": "\"Il n'a plus de ressorts dans l'opinion\" : Emmanuel Macron peut-il calmer la grogne sociale en occupant le terrain médiatique ?",
+      "dek": "Moins d'une semaine après une conférence de presse surprise, le chef de l'Etat va de nouveau s'exprimer jeudi soir lors d'une interview télévisée, dans un contexte géopolitique extrêmement tendu dont les répercussions en France font craindre un automne social.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/il-n-a-plus-de-ressort-dans-l-opinion-emmanuel-macron-peut-il-calmer-la-grogne-sociale-en-occupant-le-terrain-mediatique_8205935.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T11:49:09+00:00",
+      "titre": "Au procès de Rachida Dati, un bal de témoins presque parfaits",
+      "dek": "Pour appuyer sa défense, les avocats de l’ancienne eurodéputée ont fait citer sept témoins venus contredire les thèses des parties civiles et du Parquet national financier. S’ils rejetent les accusations de corruption, certains en ont trop dit et d’autres pas assez.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/240926/au-proces-de-rachida-dati-un-bal-de-temoins-presque-parfaits"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T11:18:04+00:00",
+      "titre": "Face aux identitaires, « les voix des cathos de gauche sont invisibilisées » : comment une forme de polarisation politique a gagné l’Église",
+      "dek": "Le pape entame, ce vendredi, sa visite en France, alors que les catholiques français subissent eux aussi une forme de polarisation politique, du fait de l’offensive identitaire d’une extrême droite qui promet de regarnir les églises.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/eglise-catholique/face-aux-identitaires-les-voix-des-cathos-de-gauche-sont-invisibilisees-comment-une-forme-de-polarisation-politique-a-gagne-leglise"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T11:05:20+00:00",
+      "titre": "VRAI OU FAUX. Raphaël Glucksmann a-t-il soutenu Nicolas Sarkozy lors de la campagne présidentielle de 2007 ?",
+      "dek": "Les adversaires du cofondateur de Place publique l'accusent d'avoir préféré le candidat de droite à Ségolène Royal, il y a près de vingt ans. L'intéressé se défend depuis des années de tout engagement en faveur de l'ancien chef de l'Etat.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-raphael-glucksmann-a-t-il-soutenu-nicolas-sarkozy-lors-de-la-campagne-presidentielle-de-2007_8206151.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T10:48:15+00:00",
+      "titre": "Candidat à la présidentielle, Olivier Becht mise sur un malentendu : «Quand on n’a aucune chance, il faut la saisir !»",
+      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/candidat-a-la-presidentielle-olivier-becht-mise-sur-un-malentendu-quand-on-na-aucune-chance-il-faut-la-saisir-20260924_XLVV2APCOBAETK6YXBJROMFZGM/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T10:13:40+00:00",
+      "titre": "« Tout le monde était conscient de la situation financière de la métropole d’Aix-Marseille », estime Martine Vassal auprès du Figaro",
+      "dek": "ENTRETIEN - La présidente du département des Bouches-du-Rhône souhaite rétablir « la vérité » sur la situation de la métropole qu’elle a présidée et dont le budget n’a toujours pas été adopté. L’élue appelle à une réforme de la collectivité.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/marseille/tout-le-monde-etait-conscient-de-la-situation-financiere-de-la-metropole-d-aix-marseille-estime-martine-vassal-aupres-du-figaro-20260924"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T10:04:04+00:00",
+      "titre": "« Une atteinte grave à une liberté fondamentale » : la maire LR de Villeneuve Saint-Georges interdit la distribution de tracts dans sa commune",
+      "dek": "En croisade contre la gauche qu’elle entend diaboliser pour mieux la bâillonner, Kristell Niasme, la maire de Villeneuve-Saint-Georges (Val-de-Marne) et porte-parole de Bruno Retailleau, candidat LR pour 2027, vient d’interdire la distribution de tracts dans sa ville. Pour le Par…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/les-republicains/une-atteinte-grave-a-une-liberte-fondamentale-la-maire-lr-de-villeneuve-saint-georges-interdit-la-distribution-de-tracts-dans-sa-commune"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T10:00:46+00:00",
+      "titre": "Des députés RN contestent à leur tour la nomination d’Amélie de Montchalin à la tête de la Cour des comptes",
+      "dek": "Le Conseil d’Etat a examiné, jeudi 24 septembre, le recours déposé par des députés du Rassemblement national contre la nomination de l’ancienne ministre à la tête de l’institution de la rue Cambon. Leur action en justice pourrait toutefois rapidement tourner court, le rapporteur …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/des-deputes-rn-contestent-a-leur-tour-la-nomination-d-amelie-de-montchalin-a-la-tete-de-la-cour-des-comptes_6781500_823448.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -14,11 +201,44 @@
     },
     {
       "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T09:48:26+00:00",
+      "titre": "Une \"primaire sauvage\" au centre et à droite ?",
+      "dek": "Édouard Philippe, Gabriel Attal et Bruno Retailleau sont lancés dans ce qu’on pourrait appeler une \"primaire sauvage\"... L'édito de Jean-Rémi Baudot.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/une-primaire-sauvage-au-centre-et-a-droite_8207807.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T09:42:51+00:00",
+      "titre": "Primaire du pôle socialiste : \"Aller dialoguer avec la Macronie est aujourd'hui un tabou pour la quasi-totalité des candidats\", pointe le politologue Benjamin Morel",
+      "dek": "Invité de \"La Matinale\" de franceinfo jeudi 24 septembre, le politologue, constitutionnaliste et maître de conférences à Paris II analyse les prises de position des candidats à la primaire PS-Place publique lors du débat de mercredi soir. \"Deux lignes\" s'affirment, note-t-il, aut…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/primaire-du-pole-socialiste-aller-dialoguer-avec-la-macronie-est-aujourd-hui-un-tabou-pour-la-quasi-totalite-des-candidats-pointe-le-politologue-benjamin-morel_8207759.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "24 Sep 2026",
       "date_iso": "2026-09-24T09:31:58+00:00",
       "titre": "L’ancien ministre Olivier Becht candidat à l’élection présidentielle",
+      "dek": "Ancien maire d’une ville du Haut-Rhin, il est député depuis 2017 et assure qu’il n’a pas « de camp politique », même s’il se revendique à « l’extrême centre ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/l-ancien-ministre-olivier-becht-candidat-a-l-election-presidentielle_6781497_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T09:31:57+00:00",
+      "titre": "Olivier Becht, ancien ministre du commerce extérieur, candidat à l’élection présidentielle",
       "dek": "Ancien maire d’une ville du Haut-Rhin, il est député depuis 2017 et assure qu’il n’a pas « de camp politique », même s’il se revendique à « l’extrême centre ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/24/l-ancien-ministre-olivier-becht-candidat-a-l-election-presidentielle_6781497_823448.html"
@@ -44,6 +264,17 @@
       "dek": "Dans la course à la présidence, chacun cherche à peser sur le plan de l’international. Enarques, ambassadeurs et conseillers sont consultés par les candidats.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/ces-diplomates-derriere-les-pretendants-a-lelysee-20260924_FHQ7RRFSGNAV7M3OYRZK4BC7CM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T08:39:21+00:00",
+      "titre": "«Le travail rend libre» : Jean-Philippe Tanguy se noie dans ses justifications après sa référence nazie",
+      "dek": "Depuis qu’il a affirmé, samedi 19 septembre, à Vierzon, que «le travail rend libre», le député RN s’évertue à s’expliquer sur cette citation malavisée, qui figure à l’entrée du camp d’Auschwitz.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/jean-philippe-tanguy-se-noie-dans-ses-justifications-apres-sa-reference-nazie-20260924_KFOS4ERE4ZETXE46GJ7UXOPM6M/"
     },
     {
       "tag": "Politique",
@@ -83,9 +314,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T08:16:19+00:00",
+      "date_iso": "2026-09-24T08:16:17+00:00",
       "titre": "Un calendrier parlementaire étriqué condamne le destin de plusieurs projets de loi avant la présidentielle",
-      "dek": "Alors que la session parlementaire, d’ici à la fin février, devrait laisser une large place à l’examen des textes budgétaires, seules la proposition de loi intégrale contre les violences sexistes et sexuelles, et celle sur le fonctionnement du titre-restaurant, ainsi que le proje…",
+      "dek": "Alors que la session parlementaire, d’ici à la fin du mois de février, devrait laisser une large place à l’examen des textes budgétaires, seules la proposition de loi intégrale contre les violences sexistes et sexuelles, et celle sur le fonctionnement du titre-restaurant, ainsi q…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/24/un-calendrier-parlementaire-etrique-condamne-le-destin-de-plusieurs-projets-de-loi-avant-la-presidentielle_6781486_823448.html"
     },
@@ -319,237 +550,6 @@
       "dek": "A la tribune des Nations unies, mardi, le président français a affirmé que le Hamas n’avait jamais sévi en Cisjordanie. Une erreur factuelle dont s’est immédiatement emparé le premier ministre israélien, Benyamin Nétanyahou, pour retourner les critiques visant sa politique de col…",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/09/24/a-l-assemblee-generale-de-l-onu-l-erreur-d-emmanuel-macron-sur-le-hamas-et-la-colere-d-israel_6781327_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T22:49:24+00:00",
-      "titre": "«Ce n’est pas quelqu’un à l’extérieur du PS qui va définir la refondation de la gauche» : Glucksmann endure les attaques de Royal lors du premier débat de la primaire socialiste",
-      "dek": "Réunis en plateau sur LCI mercredi 23 septem bre, les cinq candidats à la primaire, outre quelques accrochages sur l’international, se sont surtout opposés sur la question stratégique du rapport à LFI. Attendu au tournant, l’eurodéputé Place publique a tenté de donner des gages à…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/ce-nest-pas-quelquun-a-lexterieur-du-ps-qui-va-definir-la-refondation-de-la-gauche-glucksmann-endure-les-attaques-de-royal-lors-du-premier-debat-de-la-primaire-socialiste-20260924_JIY2E2WYJBF7TK5BZ4WGY4XPII/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T22:22:33+00:00",
-      "titre": "Les copropriétaires de la tour Montparnasse, à Paris, rejettent le lancement des travaux de rénovation",
-      "dek": "DIvisés, les copropriétaires du bâtiment parisien ont refusé la première phase des travaux qui devaient enclencher la transformation à 800 millions d’euros du gratte-ciel. Un énième rebondissement à deux mois de l’expiration du permis de construire.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/24/les-coproprietaires-de-la-tour-montparnasse-a-paris-rejettent-le-lancement-des-travaux-de-renovation_6781124_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T22:10:38+00:00",
-      "titre": "Royal, Gaza, Ukraine, LFI… Les 4 moments marquants du premier débat de la primaire socialiste",
-      "dek": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont échangé avec des Français, mercredi 23 septembre au soir, en direct sur LCI. «Libé» revient sur cette première confrontation.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/royal-gaza-lfi-ukraine-les-4-moments-marquants-du-premier-debat-de-la-primaire-sociale-democrate-20260924_EWOLMO3W4ZBXDD7BJMNR4YVWWY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T21:59:39+00:00",
-      "titre": "Présidentielle 2027 : revivez le premier débat de la primaire de la gauche sociale-démocrate",
-      "dek": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont échangé ce mercredi soir sur des questions économiques, internationales et de politique intérieure.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-premier-debat-de-la-primaire-de-gauche-20260923_P7HIRMCMZJDEXGE5SSLVJLOPHE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T20:40:56+00:00",
-      "titre": "\"Le Hamas n'a jamais sévi en Cisjordanie\" : polémique autour du discours d'Emmanuel Macron à l'ONU",
-      "dek": "À la tribune des Nations unies, le Président français a dénoncé, dans la soirée du mardi 22 septembre, les violences contre les Palestiniens. Mais il a aussi affirmé, à tort, que le Hamas n’avait “jamais sévi en Cisjordanie”. Le mouvement y a pourtant bien mené des attentats. Le …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/le-hamas-n-a-jamais-sevi-en-cisjordanie-polemique-autour-du-discours-d-emmanuel-macron-a-l-onu_8206973.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T20:31:48+00:00",
-      "titre": "Au procès en appel des assistants parlementaires européens du MoDem, Michel Mercier conteste le rôle de « chef d’orchestre »",
-      "dek": "« Il faudrait être malade, pour aller essayer de tripatouiller des contrats de trois francs six sous, alors qu’on a à côté l’argent pour payer », a dit l’ancien ministre lors de son interrogatoire, mardi.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/23/au-proces-en-appel-des-assistants-parlementaires-europeens-du-modem-michel-mercier-conteste-le-role-de-chef-d-orchestre_6780992_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T20:31:20+00:00",
-      "titre": "Primaire du PS : la Cour d’appel désavoue Philippe Brun, qui reste écarté de la course à la présidentielle",
-      "dek": "Mis en retrait et éjecté de la primaire des sociaux-démocrates à la dernière minute, l’élu socialiste avait déposé un référé pour contester la décision mais le tribunal judiciaire et la Cour d’appel de Paris l’ont débouté ce mercredi 23 septembre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/suspendu-du-ps-pour-des-accusations-de-violences-le-depute-philippe-brun-ne-pourra-pas-reintegrer-son-parti-20260923_IJ5DRIOEVFAHXLPSIRRFI26V3Q/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T20:23:51+00:00",
-      "titre": "Présidentielle 2027 : revivez le premier débat entre les cinq candidats de la primaire à gauche",
-      "dek": "Raphaël Glucksmann, Ségolène Royal, Olivier Faure, Jérôme Guedj et Emmanuel Maurel ont répondu, mercredi soir, sur TF1-LCI, à un panel de Français lors d’une émission animée par David Pujadas.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/09/23/en-direct-debat-de-la-primaire-a-gauche-les-candidats-debattent-de-la-situation-a-gaza-si-les-mots-sont-importants-il-faut-reconnaitre-le-genocide-rappelle-royal-a-glucksmann_6780940_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T20:20:26+00:00",
-      "titre": "Présidentielle 2027 : la Cour d’appel rejette à son tour la demande de réintégration de Philippe Brun à la primaire à gauche",
-      "dek": "Le député de l’Eure avait été mis à l’écart du Parti socialiste pour des accusations de violence sur une ancienne collaboratrice.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-la-cour-d-appel-rejette-a-son-tour-la-demande-de-reintegration-de-philippe-brun-a-la-primaire-a-gauche_6780868_823449.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T18:43:39+00:00",
-      "titre": "EN DIRECT – Présidentielle 2027 : suivez le premier débat de la primaire de gauche",
-      "dek": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel échangent avec des Français ce mercredi soir en direct sur LCI.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-premier-debat-de-la-primaire-de-gauche-20260923_P7HIRMCMZJDEXGE5SSLVJLOPHE/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T18:38:28+00:00",
-      "titre": "Quand Michel Mercier surjoue l’humilité au procès en appel du MoDem",
-      "dek": "L’ancien trésorier du MoDem (et ancien garde des Sceaux) a nié l’existence d’un système frauduleux mis en place par le parti centriste au préjudice du Parlement européen, mercredi à la cour d’appel de Paris.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/230926/quand-michel-mercier-surjoue-l-humilite-au-proces-en-appel-du-modem"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T18:36:40+00:00",
-      "titre": "«La Chine se positionne comme le fer de lance de l’IA open source à l’échelle internationale»",
-      "dek": "Dans le domaine de l’intelligence artificielle, la Chine se présente comme une alternative aux États-Unis en proposant aux pays du Sud des modèles libres, moins gourmands et moins coûteux, souligne Nowmay Opalinski, spécialiste des politiques numériques chinoises.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/230926/la-chine-se-positionne-comme-le-fer-de-lance-de-l-ia-open-source-l-echelle-internationale"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T18:22:29+00:00",
-      "titre": "Présidentielle 2027 : les associations exigent que les candidats tirent les leçons de la canicule",
-      "dek": "Dans un appel publié ce mercredi 23&nbsp;septembre, une soixantaine d’organisations associatives et syndicales somment les candidats à l’Élysée de trouver des solutions pour parer à la fournaise dans les logements et les écoles.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/environnement/climat/presidentielle-2027-les-associations-exigent-que-les-candidats-tirent-les-lecons-de-la-canicule"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T18:07:28+00:00",
-      "titre": "Liens avec des groupes néonazis, passé négationniste, discours anti-IVG… Portraits (sans surprise) des candidats RN aux sénatoriales",
-      "dek": "Sur les 156 candidats lepénistes au scrutin qui a lieu le dimanche 27&nbsp;septembre, «&nbsp;l’Humanité&nbsp;» a repéré une douzaine de profils problématiques. Liens avec des groupes néonazis, passé négationniste, discours anti-IVG, glorification des colonies françaises, racisme……",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/liens-avec-des-groupes-neonazis-passe-negationniste-discours-anti-ivg-portraits-sans-surprise-des-candidats-rn-aux-senatoriales"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T18:02:14+00:00",
-      "titre": "Teddy Riner visé par des messages racistes en ligne, le parquet de Paris ouvre une enquête",
-      "dek": "Le quintuple champion olympique a été pris à partie sur les médias proches de l’extrême droite ou sur les réseaux sociaux pour avoir exprimé lors de l’émission « Stade 2 » son « angoisse » de « la montée de l’extrême droite ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/23/teddy-riner-vise-par-des-messages-racistes-le-parquet-de-paris-ouvre-une-enquete_6780956_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T17:50:00+00:00",
-      "titre": "Jean-Philippe Tanguy accusé d'avoir utilisé un slogan nazi : \"Une formulation maladroite\", estime Aleksandar Nikolic, porte-parole du RN.",
-      "dek": "Richard Ramos, député MoDem du Loiret et Aleksandar Nikolic, députée européen et porte-parole du Rassemblement National, étaient les invités du Duel sur franceinfo, mercredi 23 septembre. Ils ont débattu sur la formule polémique \"le travail rend libre\" prononcé par le député RN J…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jean-philippe-tanguy-accuse-d-avoir-utilise-un-slogan-nazi-une-formulation-maladroite-estime-aleksandar-nikolic-porte-parole-du-rn_8206871.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T17:30:32+00:00",
-      "titre": "Un colloque pour défendre la Cour pénale internationale, «mortellement menacée» par Trump",
-      "dek": "À l’initiative de l’eurodéputée Chloé Ridel et du député écologiste Pouria Amirshahi, une rencontre a été organisée à l’Assemblée nationale pour soutenir les juges de la CPI, dont neuf d’entre elles et eux sont visés par des sanctions états-uniennes. Une atteinte à leurs droits p…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/230926/un-colloque-pour-defendre-la-cour-penale-internationale-mortellement-menacee-par-trump"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T17:30:00+00:00",
-      "titre": "Budget : le plan de Gabriel Attal pour faire 150 milliards d’euros d’économies en cinq ans",
-      "dek": "S’il est élu, l’ancien premier ministre promet de ramener les comptes à l’équilibre en dix ans en réformant l’assurance-chômage, l’assurance-maladie et le système des retraites.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/budget-le-plan-de-gabriel-attal-pour-faire-150-milliards-d-euros-d-economies-en-cinq-ans-20260923"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T17:16:00+00:00",
-      "titre": "Crise des carburants : entre fin du monde et fin du mois, les insoumis et les Ecologistes divergent",
-      "dek": "Alors que des négociations pourraient s’ouvrir dans les prochaines semaines pour aboutir à un potentiel accord entre les deux formations pour 2027, leurs solutions face à la hausse du prix de l’essence ne sont pas tout à fait les mêmes.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/crise-des-carburants-entre-fin-du-monde-et-fin-du-mois-les-insoumis-et-les-ecologistes-divergent-20260923_FDYV4OTJMBBJTFU7Y5WMZLBMBY/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T17:04:06+00:00",
-      "titre": "Immigration : le préfet des Hauts-de-Seine vante son bilan répressif auprès des élus du 92 avec les mots de l’extrême droite",
-      "dek": "Dans un courrier adressé aux élus des Hauts-de-Seine, consulté par «&nbsp;l’Humanité&nbsp;», le préfet Alexandre Brugère vante son bilan répressif en matière d’immigration avec les mots de l’extrême droite. Sans toutefois s’épancher sur les délais de renouvellement des titres de …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/alexandre-brugere/immigration-le-prefet-des-hauts-de-seine-vante-son-bilan-repressif-aupres-des-elus-locaux-avec-les-mots-de-lextreme-droite"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T16:56:06+00:00",
-      "titre": "E. Jean Carroll: «Les femmes qui parlent ne cherchent pas à devenir célèbres»",
-      "dek": "Elle a attaqué en justice le président états-unien, qu’elle accuse de l’avoir violée. Trump l’a traitée de «cinglée» et de «menteuse». Elle a gagné deux fois devant la justice. La journaliste états-unienne E. Jean Carroll est l’invitée de «Mediapart».",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/230926/e-jean-carroll-les-femmes-qui-parlent-ne-cherchent-pas-devenir-celebres"
     }
   ]
 }
