@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-09-24T18:46:38+00:00",
+  "generated_at": "2026-09-24T22:54:47+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T22:02:39+00:00",
+      "titre": "REPLAY. Revivez l'interview d'Emmanuel Macron sur France2",
+      "dek": "De retour de New York, le président de la République évoque sur France 2 et TF1 plusieurs sujets au cœur des préoccupations des Français, dans un contexte international très tendu et à sept mois de l'élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/direct-interview-d-emmanuel-macron-sur-france-2-carburants-guerre-au-moyen-orient-menace-russe-le-chef-de-l-etat-s-exprime-a-20-heures_8207660.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T20:49:00+00:00",
+      "titre": "Tensions avec la Russie, pouvoir d'achat, budget 2027... Que retenir de l'entretien avec Emmanuel Macron ?",
+      "dek": "Quelles informations retenir des réponses du président de la République lors de son entretien avec Caroline Roux et Gilles Bouleau ? Quelles déclarations, et quels engagements ? France Télévisions fait le point.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/tensions-avec-la-russie-pouvoir-d-achat-budget-2027-que-retenir-de-l-entretien-avec-emmanuel-macron_8208644.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T20:41:31+00:00",
+      "titre": "\"Déconnecté\", \"mensonges\", \"aucune perspective d'espoir\"... La classe politique réagit à l'interview d'Emmanuel Macron",
+      "dek": "De la gauche à l'extrême droite, l'interview du président de la République jeudi soir a agité une large partie de la classe politique, en particulier sur l'épineuse question de la hausse des prix du carburant.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/deconnecte-mensonges-aucune-perspective-d-espoir-la-classe-politique-reagit-a-l-interview-d-emmanuel-macron-sur-france-2_8208617.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T20:37:57+00:00",
+      "titre": "Emmanuel Macron dément l'existence d'une alerte de la CIA sur une possible attaque de drones russes visant le sud de la France",
+      "dek": "Il a ainsi contredit les informations parues dans la presse étrangère.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/russie/emmanuel-macron-dement-l-existence-d-une-alerte-de-la-cia-sur-une-possible-attaque-de-drones-russes-visant-le-sud-de-la-france_8208686.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T20:37:42+00:00",
+      "titre": "Emmanuel Macron se pose en protecteur et défend son bilan",
+      "dek": "DÉCRYPTAGE - Sur TF1 et France 2, jeudi soir, le chef de l’État s’est dit « mobilisé » pour tenter de faire baisser les prix des carburants.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/emmanuel-macron-se-pose-en-protecteur-et-defend-son-bilan-20260924"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T20:24:59+00:00",
+      "titre": "Emmanuel Macron : “Ces dernières semaines, les actes hostiles en Europe se sont multipliés.“",
+      "dek": "Le président de la République, Emmanuel Macron, a évoqué la menace russe qui s'amplifie en Europe : il a démenti l'existence d'une alerte de la CIA sur une possible attaque de drones russes visant le sud de la France, tout en estimant possible que la France soit ciblée par une te…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-ces-dernieres-semaines-les-actes-hostiles-en-europe-se-sont-multiplies_8208695.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T20:14:30+00:00",
+      "titre": "\"Vraie menace\" de la Russie, taxes sur les carburants, moyens militaires en Arabie saoudite… Ce qu'il faut retenir de l'interview d'Emmanuel Macron sur France 2",
+      "dek": "Le chef de l'Etat est longuement revenu, jeudi soir, sur le rôle diplomatique de la France pour tenter de faire baisser les prix des carburants, dans un entretien diffusé sur France 2 et TF1.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/vraie-menace-de-la-russie-taxes-sur-les-carburants-moyens-militaires-en-arabie-saoudite-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-sur-france-2_8208521.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T20:06:30+00:00",
+      "titre": "Crise du carburant : Emmanuel Macron annonce l’envoi de « moyens militaires » en Arabie saoudite et n’écarte pas une baisse des taxes",
+      "dek": "Lors d’un entretien au journal de 20 heures de TF1 et France 2, le président de la République a assuré que les autorités faisaient « tout » pour « éviter » des pénuries, et que l’approvisionnement « en diesel, en gaz, en fioul » était garanti « d’ici à la fin de l’année ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/crise-du-carburant-emmanuel-macron-annonce-l-envoie-de-moyens-militaires-en-arabie-saoudite-et-n-ecarte-pas-une-baisse-des-taxes_6781582_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T19:41:54+00:00",
+      "titre": "Au procès en appel du MoDem, François Bayrou se compare au capitaine Dreyfus",
+      "dek": "Le patron du parti centriste a nié toute responsabilité dans l’affaire des assistants parlementaires européens, jeudi devant la cour d’appel de Paris. Il a également commis quelques sorties douteuses.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/240926/au-proces-en-appel-du-modem-francois-bayrou-se-compare-au-capitaine-dreyfus"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T19:29:26+00:00",
+      "titre": "Envoi de militaires en Arabie Saoudite, prix du carburant, réserves énergétiques… Ce qu’il faut retenir de l’interview d’Emmanuel Macron",
+      "dek": "Jeudi soir, le Président a joué au pédagogue, notamment sur les conflits en Ukraine et au Moyen-Orient. Il s’est voulu rassurant sur les risques de pénuries d’essence mais ne s’est pas avancé sur des aides supplémentaires à la pompe.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/envoi-de-militaires-en-arabie-saoudite-prix-du-carburant-reserves-energetiques-ce-quil-faut-retenir-de-linterview-demmanuel-macron-20260924_55HEKNBLK5GB3AYXEICNZ7CDPY/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T19:17:47+00:00",
+      "titre": "Carburants, tensions avec la Russie… Ce qu’il faut retenir de l’interview d’Emmanuel Macron",
+      "dek": "Le président de la République s’est invité jeudi soir sur TF1 et France 2 pour une interview de 40 minutes largement dominée par les questions internationales et les tensions sur le prix de l’énergie.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/carburants/carburants-tensions-avec-la-russie-ce-quil-faut-retenir-de-linterview-demmanuel-macron"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T19:04:29+00:00",
+      "titre": "Interview d’Emmanuel Macron : ce qu’il faut retenir du passage du chef de l’Etat sur TF1 et France 2",
+      "dek": "Emmanuel Macron a notamment annoncé, jeudi, l’envoi de « moyens militaires » pour « protéger » le site de Yanbou, un maillon stratégique du réseau d’installations énergétiques de l’Arabie saoudite.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/24/en-direct-interview-d-emmanuel-macron-c-est-normal-qu-il-y-ait-de-la-colere-a-propos-de-la-situation-economique-en-france-reconnait-le-chef-de-l-etat_6781553_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Sep 2026",
+      "date_iso": "2026-09-24T19:03:40+00:00",
+      "titre": "Une nouvelle dissolution ? «Ce ne serait pas bon pour le pays», assure Emmanuel Macron",
+      "dek": "A sept mois de la fin de son mandat et sur fond de grogne sociale, le président de la République a fait peu d’annonces ce jeudi 24 septembre au soir et beaucoup de pédagogie sur les raisons de la flambée des carburants en France. Il a toutefois évoqué l’envoi de militaires pour s…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/en-direct-flambee-du-prix-des-carburants-crises-internationales-suivez-linterview-simultanee-demmanuel-macron-sur-tf1-et-france-2-20260924_LUTP5FOZOBAY5FWK5OHDWLZI4E/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -52,7 +195,7 @@
       "date": "24 Sep 2026",
       "date_iso": "2026-09-24T17:56:10+00:00",
       "titre": "À Carcassonne, face à de nouveaux éléments accablants, le maire RN musèle ses oppositions",
-      "dek": "Empêtré dans une succession de révélations sur sa police municipale, le maire Rassemblement national de Carcassonne, Christophe Barthès, a empêché son opposition de s’exprimer sur l’affaire en conseil municipal. Celui-ci s’est rapidement transformé en «cirque antidémocratique».",
+      "dek": "Empêtré dans une succession de révélations sur sa police municipale, le maire de Carcassonne, Christophe Barthès, a empêché son opposition de s’exprimer sur l’affaire en conseil municipal. Des mails internes prouvent que l’élu Rassemblement national a menti: il était bien au cour…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/politique/240926/carcassonne-face-de-nouveaux-elements-accablants-le-maire-rn-musele-ses-oppositions"
     },
@@ -407,149 +550,6 @@
       "dek": "Moins d'une semaine après une conférence de presse surprise, le chef de l'Etat va de nouveau s'exprimer jeudi soir lors d'une interview télévisée, dans un contexte géopolitique extrêmement tendu dont les répercussions en France font craindre un automne social.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/il-n-a-plus-de-ressort-dans-l-opinion-emmanuel-macron-peut-il-calmer-la-grogne-sociale-en-occupant-le-terrain-mediatique_8205935.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T11:49:09+00:00",
-      "titre": "Au procès de Rachida Dati, un bal de témoins presque parfaits",
-      "dek": "Pour appuyer sa défense, les avocats de l’ancienne eurodéputée ont fait citer sept témoins venus contredire les thèses des parties civiles et du Parquet national financier. S’ils rejetent les accusations de corruption, certains en ont trop dit et d’autres pas assez.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/240926/au-proces-de-rachida-dati-un-bal-de-temoins-presque-parfaits"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T11:18:04+00:00",
-      "titre": "Face aux identitaires, « les voix des cathos de gauche sont invisibilisées » : comment une forme de polarisation politique a gagné l’Église",
-      "dek": "Le pape entame, ce vendredi, sa visite en France, alors que les catholiques français subissent eux aussi une forme de polarisation politique, du fait de l’offensive identitaire d’une extrême droite qui promet de regarnir les églises.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/eglise-catholique/face-aux-identitaires-les-voix-des-cathos-de-gauche-sont-invisibilisees-comment-une-forme-de-polarisation-politique-a-gagne-leglise"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T11:05:20+00:00",
-      "titre": "VRAI OU FAUX. Raphaël Glucksmann a-t-il soutenu Nicolas Sarkozy lors de la campagne présidentielle de 2007 ?",
-      "dek": "Les adversaires du cofondateur de Place publique l'accusent d'avoir préféré le candidat de droite à Ségolène Royal, il y a près de vingt ans. L'intéressé se défend depuis des années de tout engagement en faveur de l'ancien chef de l'Etat.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-raphael-glucksmann-a-t-il-soutenu-nicolas-sarkozy-lors-de-la-campagne-presidentielle-de-2007_8206151.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T10:48:15+00:00",
-      "titre": "Candidat à la présidentielle, Olivier Becht mise sur un malentendu : «Quand on n’a aucune chance, il faut la saisir !»",
-      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/candidat-a-la-presidentielle-olivier-becht-mise-sur-un-malentendu-quand-on-na-aucune-chance-il-faut-la-saisir-20260924_XLVV2APCOBAETK6YXBJROMFZGM/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T10:13:40+00:00",
-      "titre": "« Tout le monde était conscient de la situation financière de la métropole d’Aix-Marseille », estime Martine Vassal auprès du Figaro",
-      "dek": "ENTRETIEN - La présidente du département des Bouches-du-Rhône souhaite rétablir « la vérité » sur la situation de la métropole qu’elle a présidée et dont le budget n’a toujours pas été adopté. L’élue appelle à une réforme de la collectivité.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/marseille/tout-le-monde-etait-conscient-de-la-situation-financiere-de-la-metropole-d-aix-marseille-estime-martine-vassal-aupres-du-figaro-20260924"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T10:04:04+00:00",
-      "titre": "« Une atteinte grave à une liberté fondamentale » : la maire LR de Villeneuve Saint-Georges interdit la distribution de tracts dans sa commune",
-      "dek": "En croisade contre la gauche qu’elle entend diaboliser pour mieux la bâillonner, Kristell Niasme, la maire de Villeneuve-Saint-Georges (Val-de-Marne) et porte-parole de Bruno Retailleau, candidat LR pour 2027, vient d’interdire la distribution de tracts dans sa ville. Pour le Par…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/les-republicains/une-atteinte-grave-a-une-liberte-fondamentale-la-maire-lr-de-villeneuve-saint-georges-interdit-la-distribution-de-tracts-dans-sa-commune"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T10:00:46+00:00",
-      "titre": "Des députés RN contestent à leur tour la nomination d’Amélie de Montchalin à la tête de la Cour des comptes",
-      "dek": "Le Conseil d’Etat a examiné, jeudi 24 septembre, le recours déposé par des députés du Rassemblement national contre la nomination de l’ancienne ministre à la tête de l’institution de la rue Cambon. Leur action en justice pourrait toutefois rapidement tourner court, le rapporteur …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/des-deputes-rn-contestent-a-leur-tour-la-nomination-d-amelie-de-montchalin-a-la-tete-de-la-cour-des-comptes_6781500_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T10:00:00+00:00",
-      "titre": "Étudiants serbes : « Nous n’aurions jamais imaginé un tel engagement civique »",
-      "dek": "Né après l’effondrement meurtrier de la gare de Novi Sad en novembre 2024, le mouvement étudiant de Serbie a transformé une demande de justice en mobilisation nationale contre la corruption. À quelques semaines des élections législatives anticipées du 25 octobre, trois étudiant·e…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=508991"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T09:48:26+00:00",
-      "titre": "Une \"primaire sauvage\" au centre et à droite ?",
-      "dek": "Édouard Philippe, Gabriel Attal et Bruno Retailleau sont lancés dans ce qu’on pourrait appeler une \"primaire sauvage\"... L'édito de Jean-Rémi Baudot.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/une-primaire-sauvage-au-centre-et-a-droite_8207807.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T09:42:51+00:00",
-      "titre": "Primaire du pôle socialiste : \"Aller dialoguer avec la Macronie est aujourd'hui un tabou pour la quasi-totalité des candidats\", pointe le politologue Benjamin Morel",
-      "dek": "Invité de \"La Matinale\" de franceinfo jeudi 24 septembre, le politologue, constitutionnaliste et maître de conférences à Paris II analyse les prises de position des candidats à la primaire PS-Place publique lors du débat de mercredi soir. \"Deux lignes\" s'affirment, note-t-il, aut…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/primaire-du-pole-socialiste-aller-dialoguer-avec-la-macronie-est-aujourd-hui-un-tabou-pour-la-quasi-totalite-des-candidats-pointe-le-politologue-benjamin-morel_8207759.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T09:31:58+00:00",
-      "titre": "L’ancien ministre Olivier Becht candidat à l’élection présidentielle",
-      "dek": "Ancien maire d’une ville du Haut-Rhin, il est député depuis 2017 et assure qu’il n’a pas « de camp politique », même s’il se revendique à « l’extrême centre ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/l-ancien-ministre-olivier-becht-candidat-a-l-election-presidentielle_6781497_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T09:31:57+00:00",
-      "titre": "Olivier Becht, ancien ministre du commerce extérieur, candidat à l’élection présidentielle",
-      "dek": "Ancien maire d’une ville du Haut-Rhin, il est député depuis 2017 et assure qu’il n’a pas « de camp politique », même s’il se revendique à « l’extrême centre ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/l-ancien-ministre-olivier-becht-candidat-a-l-election-presidentielle_6781497_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T09:21:29+00:00",
-      "titre": "«On ne va pas parler politique à table !» : un luxe qu’on ne peut pas tous se permettre",
-      "dek": "A un an d’une élection qui fait peur à tout le monde, où la haine a déjà foutu sa botte en travers de la porte, ne pas parler de politique est un privilège de salauds, démontre l’avocat Romain Ruiz.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/on-ne-va-pas-parler-politique-a-table-un-luxe-quon-ne-peut-pas-tous-se-permettre-20260924_HGJZQCLPWBFAZMGUPCQAVQUJZA/"
     }
   ]
 }
