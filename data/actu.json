@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-23T22:36:30+00:00",
+  "generated_at": "2026-09-24T02:36:26+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Sep 2026",
+      "date_iso": "2026-09-23T22:49:24+00:00",
+      "titre": "«Ce n’est pas quelqu’un à l’extérieur du PS qui va définir la refondation de la gauche» : Glucksmann endure les attaques de Royal lors du premier débat de la primaire socialiste",
+      "dek": "Réunis en plateau sur LCI, les cinq candidats à la primaire, outre quelques accrochages sur l’international, se sont surtout opposés sur la question stratégique du rapport à La France insoumise. Attendu au tournant, l’eurodéputé Place publique a tenté de donner des gages à gauche…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/ce-nest-pas-quelquun-a-lexterieur-du-ps-qui-va-definir-la-refondation-de-la-gauche-glucksmann-endure-les-attaques-de-royal-lors-du-premier-debat-de-la-primaire-socialiste-20260924_JIY2E2WYJBF7TK5BZ4WGY4XPII/"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -18,7 +29,7 @@
       "source": "Libération – Politique",
       "date": "23 Sep 2026",
       "date_iso": "2026-09-23T22:10:38+00:00",
-      "titre": "Royal, Gaza, Ukraine, LFI… Les 4 moments marquants du premier débat de la primaire sociale-démocrate",
+      "titre": "Royal, Gaza, Ukraine, LFI… Les 4 moments marquants du premier débat de la primaire socialiste",
       "dek": "Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel ont échangé avec des Français, mercredi 23 septembre au soir, en direct sur LCI. «Libé» revient sur cette première confrontation.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/royal-gaza-lfi-ukraine-les-4-moments-marquants-du-premier-debat-de-la-primaire-sociale-democrate-20260924_EWOLMO3W4ZBXDD7BJMNR4YVWWY/"
@@ -539,17 +550,6 @@
       "dek": "Son exclusion à titre provisoire du Parti socialiste confirmée, Philippe Brun a estimé, mercredi 23&nbsp;septembre, que la décision «&nbsp;est caduque&nbsp;». Il avait déposé, un jour plus tôt, un référé pour réintégrer le PS et la primaire pour désigner le candidat socialiste à …",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-toujours-accuse-de-violences-philippe-brun-depose-un-refere-pour-reintegrer-le-ps-et-la-primaire-de-la-gauche"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Sep 2026",
-      "date_iso": "2026-09-23T10:01:00+00:00",
-      "titre": "Revues, think tanks, soirées… Les réseaux qui inspirent les libéraux conservateurs, de David Lisnard à Sarah Knafo",
-      "dek": "Du livre à succès de l’eurodéputée Reconquête ! au lancement de la revue «Civilisation» en passant par la Journée de la liberté, les chapelles ultralibérales, inspirées des idées de Javier Milei, tentent d’infléchir le débat public sur fond d’offensive antifiscale. Avec, en ligne…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/revues-think-tanks-soirees-les-reseaux-qui-inspirent-les-liberaux-conservateurs-de-david-lisnard-a-sarah-knafo-20260923_6WP2MNYOSJD35MKHLGYRXAASS4/"
     }
   ]
 }
