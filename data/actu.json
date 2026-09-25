@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-09-25T09:57:13+00:00",
+  "generated_at": "2026-09-25T14:59:45+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T14:51:29+00:00",
+      "titre": "Les syndicats de journalistes de plus en plus pris pour cible",
+      "dek": "Depuis plusieurs semaines, ces organisations sont accusées d’être des ennemies du pluralisme, d’entretenir des biais idéologiques. Des attaques en provenance de politiques de droite et d’extrême droite mais également d’éditorialistes, de journalistes présentateur·trices. Un virag…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=509452"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T14:18:44+00:00",
+      "titre": "Ségolène Royal et Raphaël Glucksmann, suivez l’exemple de Pedro Sánchez",
+      "dek": "Que ce soit sur la question du «génocide» à Gaza ou celle de «la paix» en Ukraine, les deux prétendants à l’investiture socialiste pour la présidentielle devraient rééquilibrer leurs positions respectives.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/segolene-royal-et-raphael-glucksmann-suivez-lexemple-de-pedro-sanchez-20260925_SWGFISDOMVHJ5J5TOFVMXFISGU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T14:13:46+00:00",
+      "titre": "DIRECT. Flambée du prix des carburants : les camions qui livrent les stations-service pourront circuler le dimanche jusqu'au 12 octobre",
+      "dek": "Les habituelles interdictions de circulation pour ces poids lourds de plus de 7,5 tonnes sont levées, selon un arrêté publié vendredi au Journal officiel.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-du-prix-des-carburants-le-chef-de-l-etat-se-revele-impuissant-reagit-le-depute-lfi-eric-coquerel-apres-l-interview-d-emmanuel-macron_8209022.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T14:09:18+00:00",
+      "titre": "Emmanuel Macron, un président au travail jusqu'à la fin",
+      "dek": "Malgré un bilan empêtré dans les crises, Emmanuel Macron a voulu se montrer, jeudi à la télévision, au travail et en action jusqu'aux derniers moments de son mandat. L'édito de Jean-Rémi Baudot.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-un-president-au-travail-jusqu-a-la-fin_8209448.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T14:00:39+00:00",
+      "titre": "Budget : Sébastien Lecornu continue d’attaquer les arrêts maladie et braque la gauche",
+      "dek": "Le gouvernement multiplie les annonces sur le dossier brûlant des arrêts de travail. Il compte trouver deux milliards d’euros. Un objectif difficilement acceptable pour la gauche. Les socialistes ont d’ailleurs annulé les réunions prévues cette semaine avec les ministres concerné…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=509401"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T13:52:41+00:00",
+      "titre": "À la métropole de Lyon, la droite enterre la politique d’hospitalité de ses prédécesseurs",
+      "dek": "Fermeture des lieux accueillant des mineurs isolés, expulsion de 280 femmes et enfants place de Milan, fin du revenu solidarité jeunes… Après six mois aux manettes, le nouvel exécutif de Véronique Sarselli déroule une politique antisociale marquée par le détricotage de plusieurs …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/250926/la-metropole-de-lyon-la-droite-enterre-la-politique-d-hospitalite-de-ses-predecesseurs"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T13:52:08+00:00",
+      "titre": "Soupçons de corruption dans l’attribution de Légion d’honneur: le général Puga entendu en garde à vue",
+      "dek": "Le général Benoît Puga, soupçonné d’être intervenu dans la remise de décorations à des proches d’un homme d’affaires avec des contreparties, a été entendu par les enquêteurs, mais relâché sans poursuite à ce stade.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/250926/soupcons-de-corruption-dans-l-attribution-de-legion-d-honneur-le-general-puga-entendu-en-garde-vue"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T13:00:06+00:00",
+      "titre": "Derrière les élections sénatoriales 2026, l’ombre de la présidentielle 2027",
+      "dek": "Scrutin discret, les sénatoriales se déterminent avant tout sur des considérations locales. Mais, à travers ces élections, il s’agit de définir la composition d’une institution, le Sénat, qui pourrait jouer un rôle-clé après l’élection présidentielle de 2027.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/25/derriere-les-elections-senatoriales-2026-l-ombre-de-la-presidentielle-2027_6782479_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T12:27:02+00:00",
+      "titre": "Édition: la position de Thélyson Orélien de moins en moins tenable",
+      "dek": "Thélyson Orélien, la sensation de la rentrée littéraire, soupçonné d’avoir utilisé l’IA pour fabriquer son roman, est accusé de plusieurs plagiats. L’académie Goncourt vient de le retirer de sa sélection. Son premier accusateur, Samuel Fitoussi, semble quant à lui s’être arrangé …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/250926/edition-la-position-de-thelyson-orelien-de-moins-en-moins-tenable"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T12:00:09+00:00",
+      "titre": "Sénatoriales 2026 : qui sont les grands électeurs qui vont voter dimanche ?",
+      "dek": "Le collège électoral des 93 469 personnes appelées à élire les sénateurs est plutôt masculin, âgé et vient surtout des petites communes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/25/senatoriales-2026-qui-sont-les-grands-electeurs-qui-vont-voter-dimanche_6782469_4355770.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +121,72 @@
       "dek": "L’Atrato en Colombie, le Saint-Laurent au Québec, la Seine, la Creuse, la cascade du Végay dans les Alpes Maritimes… Les initiatives locales pour reconnaître des droits à la nature se multiplient. Ce 25 septembre, élu·es, parlementaires et représentant·es de fleuves français et i…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=509373"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T11:28:20+00:00",
+      "titre": "VIDEO. La \"laïcité française\" n'est \"nullement la négation de la religion\", assure Emmanuel Macron devant le pape à l'Elysée",
+      "dek": "Le président de la République a reçu Léon XIV au palais présidentiel, vendredi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-la-laicite-francaise-n-est-nullement-la-negation-de-la-religion-assure-emmanuel-macron-devant-le-pape-a-l-elysee_8209529.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T11:23:58+00:00",
+      "titre": "Le pape Léon XIV fait rire l'Élysée lors de son discours",
+      "dek": "\"Je n'oublie pas mes origines\" : le pape Léon XIV fait rire l'Élysée lors de son discours à Paris devant le président français Emmanuel Macron.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/le-pape-leon-xiv-fait-rire-l-elysee-lors-de-son-discours_8209538.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T10:48:21+00:00",
+      "titre": "«Fichez-moi la paix!»: bombardée de questions à son procès, Rachida Dati explose",
+      "dek": "Confrontée aux avocats de Renault lors du cinquième jour de son procès pour corruption, l’ancienne eurodéputée a été incapable de détailler les missions d’avocate qu’elle est supposée avoir effectuées pour la firme. Acculée, elle a violemment attaqué les parties civiles.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/250926/fichez-moi-la-paix-bombardee-de-questions-son-proces-rachida-dati-explose"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T10:22:27+00:00",
+      "titre": "Primaire du PS : entre promesses de renouveau et vieux réflexes de campagne… Ségolène Royal, le désordre juste",
+      "dek": "Elle avait promis le « désir d’avenir ». Vingt ans après sa défaite de 2007, l’ex-candidate socialiste se relance dans la course à la primaire, convaincue d’avoir eu raison avant tout le monde. Ségolène Royale entend bousculer la compétition jusqu’à la dernière minute.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/gauche/primaire-du-ps-entre-promesses-de-renouveau-et-vieux-reflexes-de-campagne-segolene-royal-le-desordre-juste"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T10:19:02+00:00",
+      "titre": "États-Unis: Amnesty International dénonce un «système de détention et d’expulsion de masse» des étrangers",
+      "dek": "Dans un rapport publié jeudi 24 septembre, l’ONG détaille les mécanismes mis en place par l’administration Trump et la police de l’immigration (ICE) lors de quatre opérations visant à arrêter des immigrés en situation dite «irrégulière» ou perçue comme telle.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/250926/etats-unis-amnesty-international-denonce-un-systeme-de-detention-et-d-expulsion-de-masse-des-etrang"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T10:05:22+00:00",
+      "titre": "Réforme des retraites et gilets jaunes : et là, Macron fait le distinguo entre les bons et les mauvais mouvements sociaux",
+      "dek": "Sur TF1 et France 2, jeudi 24 septembre, le chef de l’Etat a fait l’éloge de la contestation de 2023 qu’il n’a pas écoutée et critiqué le possible retour des gilets jaunes en octobre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/reforme-des-retraites-et-gilets-jaunes-et-la-macron-fait-le-distinguo-entre-les-bons-et-les-mauvais-mouvements-sociaux-20260925_FXCGMZT7F5G43F7U566JQ5J2KY/"
     },
     {
       "tag": "Politique",
@@ -51,6 +227,17 @@
       "source": "Le Monde – Politique",
       "date": "25 Sep 2026",
       "date_iso": "2026-09-25T09:20:56+00:00",
+      "titre": "Artificial Intelligence Marseille : retrouvez le débat entre les candidats et leurs représentants sur l’IA",
+      "dek": "Souveraineté numérique, utilisation de l’IA dans le monde du travail, data centers… plusieurs politiques ont détaillé leurs propositions lors d’un débat à l’occasion du salon de l’IA organisé au Stade-Vélodrome.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/25/en-direct-artificial-intelligence-marseille-suivez-le-debat-entre-plusieurs-candidats-a-la-presidentielle-et-chefs-de-partis_6782350_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T09:20:56+00:00",
       "titre": "EN DIRECT, Artificial Intelligence Marseille : suivez le débat entre plusieurs candidats à la présidentielle et chefs de parti",
       "dek": "Raphaël Glucksmann, Manuel Bompard, Jordan Bardella et Xavier Bertrand débattront sur le thème de l’intelligence artificielle, vendredi 25 septembre, à Marseille.",
       "avis": null,
@@ -77,6 +264,17 @@
       "dek": "Le débat télévisé de la «petite primaire» a rassemblé 709 000 téléspectateurs en moyenne.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/les-socialistes-se-felicitent-du-succes-daudience-du-premier-debat-de-leur-primaire-20260925_GE3VDYQ575GLREAFBUNNUSS6ZU/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T08:58:52+00:00",
+      "titre": "« C’est la mort d’un symbole, d’une vision humaniste » : À Elne, le maire d’extrême droite débaptise le cinéma René Vautier, réalisateur emblématique de la lutte anticoloniale",
+      "dek": "Dans les Pyrénées-Orientales, le cinéma d’Elne, baptisé René-Vautier en hommage au cinéaste communiste et anticolonial, va changer de nom. Sous prétexte d’une prétendue neutralité politique, le nouveau maire d’extrême droite tourne le dos à l’histoire et crache sur la mémoire des…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/cinema/a-elne-le-maire-dextreme-droite-steve-fortel-debaptise-le-cinema-rene-vautier-et-efface-la-lutte-anticoloniale-de-lespace-public"
     },
     {
       "tag": "Gauche",
@@ -352,204 +550,6 @@
       "dek": "DÉCRYPTAGE - Sur TF1 et France 2, jeudi soir, le chef de l’État s’est dit « mobilisé » pour tenter de faire baisser les prix des carburants.",
       "avis": null,
       "lien": "https://www.lefigaro.fr/politique/emmanuel-macron-se-pose-en-protecteur-et-defend-son-bilan-20260924"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T20:24:59+00:00",
-      "titre": "Emmanuel Macron : “Ces dernières semaines, les actes hostiles en Europe se sont multipliés.“",
-      "dek": "Le président de la République, Emmanuel Macron, a évoqué la menace russe qui s'amplifie en Europe : il a démenti l'existence d'une alerte de la CIA sur une possible attaque de drones russes visant le sud de la France, tout en estimant possible que la France soit ciblée par une te…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-ces-dernieres-semaines-les-actes-hostiles-en-europe-se-sont-multiplies_8208695.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T20:14:30+00:00",
-      "titre": "\"Vraie menace\" de la Russie, taxes sur les carburants, moyens militaires en Arabie saoudite… Ce qu'il faut retenir de l'interview d'Emmanuel Macron sur France 2",
-      "dek": "Le chef de l'Etat est longuement revenu, jeudi soir, sur le rôle diplomatique de la France pour tenter de faire baisser les prix des carburants, dans un entretien diffusé sur France 2 et TF1.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/vraie-menace-de-la-russie-taxes-sur-les-carburants-moyens-militaires-en-arabie-saoudite-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-sur-france-2_8208521.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T20:06:30+00:00",
-      "titre": "Crise du carburant : Emmanuel Macron annonce l’envoi de « moyens militaires » en Arabie saoudite et n’écarte pas une baisse des taxes",
-      "dek": "Lors d’un entretien au journal de 20 heures de TF1 et France 2, le président de la République a assuré que les autorités faisaient « tout » pour « éviter » des pénuries, et que l’approvisionnement « en diesel, en gaz, en fioul » était garanti « d’ici à la fin de l’année ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/crise-du-carburant-emmanuel-macron-annonce-l-envoie-de-moyens-militaires-en-arabie-saoudite-et-n-ecarte-pas-une-baisse-des-taxes_6781582_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T19:41:54+00:00",
-      "titre": "Au procès en appel du MoDem, François Bayrou se compare au capitaine Dreyfus",
-      "dek": "Le patron du parti centriste a nié toute responsabilité dans l’affaire des assistants parlementaires européens, jeudi devant la cour d’appel de Paris. Il a également commis quelques sorties douteuses.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/240926/au-proces-en-appel-du-modem-francois-bayrou-se-compare-au-capitaine-dreyfus"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T19:29:26+00:00",
-      "titre": "Envoi de militaires en Arabie Saoudite, prix du carburant, réserves énergétiques… Ce qu’il faut retenir de l’interview d’Emmanuel Macron",
-      "dek": "Jeudi soir, le Président a joué au pédagogue, notamment sur les conflits en Ukraine et au Moyen-Orient. Il s’est voulu rassurant sur les risques de pénuries d’essence mais ne s’est pas avancé sur des aides supplémentaires à la pompe.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/envoi-de-militaires-en-arabie-saoudite-prix-du-carburant-reserves-energetiques-ce-quil-faut-retenir-de-linterview-demmanuel-macron-20260924_55HEKNBLK5GB3AYXEICNZ7CDPY/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T19:17:47+00:00",
-      "titre": "Carburants, tensions avec la Russie… Ce qu’il faut retenir de l’interview d’Emmanuel Macron",
-      "dek": "Le président de la République s’est invité jeudi soir sur TF1 et France 2 pour une interview de 40 minutes largement dominée par les questions internationales et les tensions sur le prix de l’énergie.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/carburants/carburants-tensions-avec-la-russie-ce-quil-faut-retenir-de-linterview-demmanuel-macron"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T19:04:29+00:00",
-      "titre": "Interview d’Emmanuel Macron : ce qu’il faut retenir du passage du chef de l’Etat sur TF1 et France 2",
-      "dek": "Emmanuel Macron a notamment annoncé, jeudi, l’envoi de « moyens militaires » pour « protéger » le site de Yanbou, un maillon stratégique du réseau d’installations énergétiques de l’Arabie saoudite.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/09/24/en-direct-interview-d-emmanuel-macron-c-est-normal-qu-il-y-ait-de-la-colere-a-propos-de-la-situation-economique-en-france-reconnait-le-chef-de-l-etat_6781553_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T19:03:40+00:00",
-      "titre": "Une nouvelle dissolution ? «Ce ne serait pas bon pour le pays», assure Emmanuel Macron",
-      "dek": "A sept mois de la fin de son mandat et sur fond de grogne sociale, le président de la République a fait peu d’annonces ce jeudi 24 septembre au soir et beaucoup de pédagogie sur les raisons de la flambée des carburants en France. Il a toutefois évoqué l’envoi de militaires pour s…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-flambee-du-prix-des-carburants-crises-internationales-suivez-linterview-simultanee-demmanuel-macron-sur-tf1-et-france-2-20260924_LUTP5FOZOBAY5FWK5OHDWLZI4E/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T18:45:48+00:00",
-      "titre": "DIRECT. Crise des carburants : Emmanuel Macron n'exclut pas une baisse des taxes si les prix devaient s'envoler",
-      "dek": "De retour de New York, le président de la République évoque sur France 2 et TF1 plusieurs sujets au cœur des préoccupations des Français, dans un contexte international très tendu et à sept mois de l'élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/direct-interview-d-emmanuel-macron-sur-france-2-carburants-guerre-au-moyen-orient-menace-russe-le-chef-de-l-etat-s-exprime-a-20-heures_8207660.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T18:44:33+00:00",
-      "titre": "Justice sociale : les propositions des 5 candidats à la primaire sociale-démocrate",
-      "dek": "Encadrement des prix des loyers et du foncier, indexation des salaires sur l’inflation, « sécurité sociale alimentaire », Smic à 1 700 euros nets, « bouclier logement », réforme de l’héritage, mutuelle publique, taxe sur les superprofits… Les cinq candidats à la primaire sociale-…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/emmanuel-maurel/justice-sociale-les-propositions-des-5-candidats-a-la-primaire-sociale-democrate"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T18:39:49+00:00",
-      "titre": "EN DIRECT - Emmanuel Macron : «Je ne regrette pas du tout le “quoi qu’il en coûte”»",
-      "dek": "A sept mois de la fin de son mandat et sur fond de crise des carburants, le président de la République devrait insister ce jeudi 23 septembre au soir sur la prise de conscience, nécessaire selon lui, de la gravité de la situation internationale et de ses répercussions sur l’écono…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-flambee-du-prix-des-carburants-crises-internationales-suivez-linterview-simultanee-demmanuel-macron-sur-tf1-et-france-2-20260924_LUTP5FOZOBAY5FWK5OHDWLZI4E/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T18:01:38+00:00",
-      "titre": "\"La France ne pèse plus à l'international\", Andréa Kotarac, porte-parole du Rassemblement national, s'en prend au bilan démocratique d'Emmanuel Macron",
-      "dek": "En amont de l'interview d’Emmanuel Macron sur TF1 et France 2, jeudi 24 septembre, Perrine Storme reçoit Andréa Kotarac, porte-parole du Rassemblement national et conseiller régional d'Auvergne-Rhône-Alpes et Sylvain Maillard, député (Ensemble pour la République) de Paris.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-france-ne-pese-plus-a-l-international-andrea-kotarac-porte-parole-du-rassemblement-national-s-en-prend-au-bilan-democratique-d-emmanuel-macron_8208509.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T17:56:10+00:00",
-      "titre": "À Carcassonne, face à de nouveaux éléments accablants, le maire RN musèle ses oppositions",
-      "dek": "Empêtré dans une succession de révélations sur sa police municipale, le maire de Carcassonne, Christophe Barthès, a empêché son opposition de s’exprimer sur l’affaire en conseil municipal. Des mails internes prouvent que l’élu Rassemblement national a menti: il était bien au cour…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/240926/carcassonne-face-de-nouveaux-elements-accablants-le-maire-rn-musele-ses-oppositions"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T17:56:00+00:00",
-      "titre": "Pour le président du Medef, la CGT et la CFDT jettent « une ombre suspecte » sur « la démocratie sociale » en combattant le RN",
-      "dek": "Patrick Martin, le numéro un du principal mouvement patronal, s’est dit, jeudi 24 septembre, « très inquiet » de voir les deux syndicats « se politiser à outrance ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/pour-le-president-du-medef-la-cgt-et-la-cfdt-jettent-une-ombre-suspecte-sur-la-democratie-sociale-en-combattant-le-rn_6781574_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T17:49:16+00:00",
-      "titre": "Budget 2027 : la « taxe au tonnage », la niche fiscale des armateurs, de nouveau sur la sellette",
-      "dek": "Depuis la guerre en Iran, les tarifs du transport maritime s’envolent et les profits de CMA CGM bondissent. De quoi relancer le débat sur le dispositif fiscal dont bénéficient les armateurs et son « coût croissant pour les finances publiques » que souligne un nouveau rapport parl…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/24/budget-2027-la-taxe-au-tonnage-la-niche-fiscale-des-armateurs-de-nouveau-sur-la-sellette_6781573_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T17:39:29+00:00",
-      "titre": "Sénatoriales 2027 : « Empêcher chaque victoire de l’extrême droite est une urgence », martèle Cécile Cukierman",
-      "dek": "À quelques jours des élections de la Chambre haute, la présidente du groupe CRCE-K, Cécile Cukierman, affiche les ambitions des communistes et appelle la gauche à organiser la résistance face à l’avancée du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/cecile-cukierman/senatoriales-2027-empecher-chaque-victoire-de-lextreme-droite-est-une-urgence-martele-cecile-cukierman"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T17:27:02+00:00",
-      "titre": "Présidentielle 2027 : la primaire socialiste et sociale-démocrate devrait dépasser les 90 000 inscrits",
-      "dek": "Patrick Mennucci, président de la Commission d’organisation du scrutin prévu les 9-10 et 16 au 17 octobre, a annoncé ce jeudi 24 septembre que la plateforme dédiée «a enregistré sa plus importante journée» au lendemain du premier débat entre les candidats.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-la-primaire-socialiste-et-sociale-democrate-devrait-depasser-les-90-000-inscrits-20260924_2QHMTPQ6GFACHLH5PTG27NJSPA/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T17:16:59+00:00",
-      "titre": "Mort de Quentin Deranque à Lyon: cinq nouvelles mises en examen",
-      "dek": "Cinq personnes ont été mises en examen jeudi dans le cadre de l’enquête sur la mort du militant d’extrême droite radicale Quentin Deranque à Lyon en février, ce qui porte à quatorze le nombre de suspects poursuivis dans ce dossier.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/240926/mort-de-quentin-deranque-lyon-cinq-nouvelles-mises-en-examen"
     }
   ]
 }
