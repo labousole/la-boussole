@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-24T22:54:47+00:00",
+  "generated_at": "2026-09-25T02:53:43+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T04:17:00+00:00",
+      "titre": "La gauche espagnole réduit la dette",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=508580"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -539,17 +550,6 @@
       "dek": "Un cadre d’un cabinet de conseil britannique, mis en examen en juillet pour « corruption » et « trafic d’influence », est soupçonné par la justice d’avoir rémunéré l’affairiste Jean-Pierre Duthion afin qu’il interfère en faveur d’un ancien premier ministre kazakh. Le nom d’un cél…",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/09/24/le-lobbyiste-le-depute-le-journaliste-et-l-avocat-les-nouvelles-revelations-d-une-affaire-tentaculaire-d-ingerences-etrangeres_6781508_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Sep 2026",
-      "date_iso": "2026-09-24T11:52:30+00:00",
-      "titre": "\"Il n'a plus de ressorts dans l'opinion\" : Emmanuel Macron peut-il calmer la grogne sociale en occupant le terrain médiatique ?",
-      "dek": "Moins d'une semaine après une conférence de presse surprise, le chef de l'Etat va de nouveau s'exprimer jeudi soir lors d'une interview télévisée, dans un contexte géopolitique extrêmement tendu dont les répercussions en France font craindre un automne social.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/il-n-a-plus-de-ressort-dans-l-opinion-emmanuel-macron-peut-il-calmer-la-grogne-sociale-en-occupant-le-terrain-mediatique_8205935.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
