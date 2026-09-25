@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-25T19:11:26+00:00",
+  "generated_at": "2026-09-25T22:59:52+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T22:53:15+00:00",
+      "titre": "Au Brésil, Lula interdit les paris sportifs en ligne à quelques jours de la présidentielle, dénonçant une « maladie » qui gagne les foyers",
+      "dek": "Alors que la campagne entre dans sa dernière ligne droite avant le premier tour du 4 octobre, le sujet des paris en ligne est devenu un enjeu pour le président sortant, qui dénonce une source d’endettement massif pour les familles.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/26/au-bresil-lula-interdit-les-paris-sportifs-en-ligne-a-quelques-jours-de-la-presidentielle-denoncant-une-maladie-qui-gagne-les-foyers_6782740_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T21:33:54+00:00",
+      "titre": "Flambée du prix des carburants : les camions qui livrent les stations-service pourront circuler le dimanche jusqu'au 12 octobre",
+      "dek": "Les habituelles interdictions de circulation pour ces poids lourds de plus de 7,5 tonnes sont levées, selon un arrêté publié vendredi au Journal officiel.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-du-prix-des-carburants-le-chef-de-l-etat-se-revele-impuissant-reagit-le-depute-lfi-eric-coquerel-apres-l-interview-d-emmanuel-macron_8209022.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T20:23:10+00:00",
+      "titre": "Meurtre d’Aramburú: 26 et 19 années de prison pour les tueurs d’extrême droite",
+      "dek": "La cour d’assises a condamné Loïk Le Priol et Romain Bouvier à respectivement 26 et 19 années de réclusion criminelle pour avoir tué le rugbyman argentin Federico Martín Aramburú. La préméditation n’a pas été retenue. Conclusion d’un procès électrique.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/250926/meurtre-d-aramburu-26-et-19-annees-de-prison-pour-les-tueurs-d-extreme-droite"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T20:02:05+00:00",
+      "titre": "Macron candidat en 2032 ? «Nous verrons»",
+      "dek": "Interdit par la Constitution de briguer un troisième mandat d’affilée, le président n’exclut pas de se présenter dans six ans dans une interview au magazine américain «Variety».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/macron-candidat-en-2032-nous-verrons-20260925_P6ABRWLYNBDU7ASJAYD4KD754Y/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -506,50 +550,6 @@
       "dek": "Dans les Pyrénées-Orientales, le cinéma d’Elne, baptisé René-Vautier en hommage au cinéaste communiste et anticolonial, va changer de nom. Sous prétexte d’une prétendue neutralité politique, le nouveau maire d’extrême droite tourne le dos à l’histoire et crache sur la mémoire des…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/cinema/a-elne-le-maire-dextreme-droite-steve-fortel-debaptise-le-cinema-rene-vautier-et-efface-la-lutte-anticoloniale-de-lespace-public"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T08:58:52+00:00",
-      "titre": "À Elne, le maire d’extrême droite Steve Fortel débaptise le cinéma René Vautier et efface la lutte anticoloniale de l’espace public",
-      "dek": "Dans les Pyrénées-Orientales, le cinéma d’Elne, baptisé René Vautier en hommage au cinéaste communiste et anticolonial, va changer de nom. Au nom d’une prétendue neutralité politique, le nouveau maire d’extrême droite tourne le dos à l’Histoire et crache sur la mémoire des résist…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/cinema/a-elne-le-maire-dextreme-droite-steve-fortel-debaptise-le-cinema-rene-vautier-et-efface-la-lutte-anticoloniale-de-lespace-public"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T08:30:14+00:00",
-      "titre": "«L’Assemblée doit voter», «pas la bonne idée»… L’envoi de «moyens militaires» en Arabie Saoudite annoncé par Macron fait réagir les oppositions",
-      "dek": "Plusieurs responsables politiques se sont exprimés sur l’une des principales annonces faites jeudi soir par le Président, lors de son interview sur TF1 et France 2.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/lassemblee-doit-voter-pas-la-bonne-idee-lenvoi-de-moyens-militaires-en-arabie-saoudite-annonce-par-macron-fait-reagir-les-oppositions-20260925_G3CAKAAYRVEHHG4BW7HSXR7IBM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T08:09:50+00:00",
-      "titre": "DIRECT. Flambée du prix des carburants : le RN opposé à l'envoi de \"moyens militaires\" en Arabie saoudite, LFI réclame une discussion au Parlement",
-      "dek": "Emmanuel Macron a annoncé jeudi que l'armée française contribuerait à protéger le port saoudien de Yanbu, sur la mer Rouge, de la menace des houthis. Ce site énergétique est clé pour l'approvisionnement mondial en carburants.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-du-prix-des-carburants-le-chef-de-l-etat-se-revele-impuissant-reagit-le-depute-lfi-eric-coquerel-apres-l-interview-d-emmanuel-macron_8209022.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T07:55:24+00:00",
-      "titre": "Du général de Gaulle à Emmanuel Macron, retour sur les relations entre les présidents français et les papes",
-      "dek": "Depuis 1958, les présidents français ont tous eu une relation particulière avec les papes. Entre diplomatie, tensions et grands rendez-vous symboliques, retour sur les rapports entre l'Élysée et le Vatican.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/vatican/du-general-de-gaulle-a-emmanuel-macron-retour-sur-les-relations-entre-les-presidents-francais-et-les-papes_8209193.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
