@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-09-26T09:39:11+00:00",
+  "generated_at": "2026-09-26T13:59:43+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T12:42:45+00:00",
+      "titre": "Marine Tondelier fait son retour en manifestation, mais pas en campagne \"à plein temps\", quelques jours après la naissance de son fils",
+      "dek": "La candidate à la présidentielle a participé à l'une des marches pour le climat organisées un peu partout en France ce samedi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/marine-tondelier-fait-son-retour-en-manifestation-mais-pas-en-campagne-a-plein-temps-quelques-jours-apres-la-naissance-de-son-fils_8211029.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T12:01:00+00:00",
+      "titre": "“On ne peut pas tirer profit impunément de l’oppression” : comment BDS cible les complices d’Israël",
+      "dek": "Il aura fallu 3 ans d'une campagne de bombardement massif sur la bande de Gaza, une accélération terrible de la colonisation en Cisjordanie pour que le 6 septembre dernier 12 États membres de l'Union européenne fassent une déclaration conjointe appelant à \"des restrictions nation…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/monde/boycott-produits-israeliens/on-ne-peut-pas-tirer-profit-impunement-de-loppression-comment-bds-cible-les-complices-disrael"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T10:26:52+00:00",
+      "titre": "Olivier Roy: «La génération Z est plus ouverte sur la question religieuse»",
+      "dek": "Le pape Léon XIV a conclu vendredi sa première journée de visite apostolique en France par une rencontre avec la jeunesse au stade de France en présence de 80 000 personnes. Pour le politiste Olivier Roy, les 16-25 ans n’ont pas une vision identitaire de la religion et sont en «q…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/260926/olivier-roy-la-generation-z-est-plus-ouverte-sur-la-question-religieuse"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T10:23:19+00:00",
+      "titre": "Le marchandage du ministère de l’enseignement supérieur pour repêcher les naufragés de Parcoursup",
+      "dek": "En Île-de-France, près de deux mille jeunes bacheliers sont toujours sans fac. Selon nos informations, pour enrayer ce bilan, le ministère propose en catimini aux universités une enveloppe de 3 000 euros par étudiant placé. Une méthode inédite, et très «choquante» pour une partie…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/260926/le-marchandage-du-ministere-de-l-enseignement-superieur-pour-repecher-les-naufrages-de-parcoursup"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T10:22:53+00:00",
+      "titre": "En Israël, l’opposition fait campagne sur le rejet de Nétanyahou, faute de projet politique alternatif",
+      "dek": "Cette fois encore, les élections législatives israéliennes ressemblent à un référendum pour ou contre l’actuel premier ministre. Malgré des divergences, notamment en matière de gouvernance, les partis sionistes sont globalement alignés sur la politique étrangère et le traitement …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/260926/en-israel-l-opposition-fait-campagne-sur-le-rejet-de-netanyahou-faute-de-projet-politique-alternati"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T09:45:04+00:00",
+      "titre": "L’Arabie saoudite, le pétrole et la parole de la France",
+      "dek": "La critique de l’annonce, par Emmanuel Macron, de l’envoi de militaires français en Arabie saoudite exigerait davantage que le seul réflexe protestataire fondé sur des considérations idéologiques.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/26/l-arabie-saoudite-le-petrole-et-la-parole-de-la-france_6783118_3232.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -18,10 +84,10 @@
       "source": "Mediapart",
       "date": "26 Sep 2026",
       "date_iso": "2026-09-26T07:19:37+00:00",
-      "titre": "«Personne n’a envie de payer pour travailler»: les précaires de l’éducation subissent les prix du carburant",
+      "titre": "«Personne n’a envie de payer pour travailler»: les précaires de l’Éducation nationale subissent les prix du carburant",
       "dek": "Contractuels, AESH, professeurs en poste loin de chez eux… Une partie du personnel enseignant subit de plein fouet la hausse des prix. Avec des salaires qui décrochent du coût de la vie, le sujet alimente la colère, à la veille de la journée de mobilisation du 29 septembre.",
       "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/260926/personne-n-envie-de-payer-pour-travailler-les-precaires-de-l-education-subissent-les-prix-du-carburant"
+      "lien": "https://www.mediapart.fr/journal/france/260926/personne-n-envie-de-payer-pour-travailler-les-precaires-de-l-education-nationale-subissent-les-prix-du-car"
     },
     {
       "tag": "Politique",
@@ -88,6 +154,17 @@
       "dek": "Il y a des chiffres qui donnent le tournis et révèlent à eux seuls l’injustice sociale d’une politique gouvernementale à bout de souffle. Cinquante-quatre milliards d’économies annoncées par le premier ministre. Cinquante-quatre milliards arrachés, pour l’essentiel, aux retraites…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/budget-2027/budget-2027-les-54-milliards-de-la-honte"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T04:00:21+00:00",
+      "titre": "Au RN, la laïcité un temps mise en avant par Marine Le Pen cède la place à l’exaltation des « racines chrétiennes de la France »",
+      "dek": "Marine Le Pen et Jordan Bardella assisteront, samedi, à la messe du pape. Alors que les conservateurs catholiques ont fait un retour en force dans les cabinets des deux têtes du parti, les maires Rassemblement national n’hésitent plus à s’afficher aux célébrations et processions …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/26/visite-du-pape-a-paris-au-rn-la-laicite-cede-la-place-a-l-exaltation-des-racines-chretiennes-de-la-france_6783010_823448.html"
     },
     {
       "tag": "Politique",
@@ -473,83 +550,6 @@
       "dek": "Le général Benoît Puga, soupçonné d’être intervenu dans la remise de décorations à des proches d’un homme d’affaires avec des contreparties, a été entendu par les enquêteurs, mais relâché sans poursuite à ce stade.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/250926/soupcons-de-corruption-dans-l-attribution-de-legion-d-honneur-le-general-puga-entendu-en-garde-vue"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T13:00:06+00:00",
-      "titre": "Derrière les élections sénatoriales 2026, l’ombre de la présidentielle 2027",
-      "dek": "Scrutin discret, les sénatoriales se déterminent avant tout sur des considérations locales. Mais, à travers ces élections, il s’agit de définir la composition d’une institution, le Sénat, qui pourrait jouer un rôle-clé après l’élection présidentielle de 2027.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/25/derriere-les-elections-senatoriales-2026-l-ombre-de-la-presidentielle-2027_6782479_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T12:27:02+00:00",
-      "titre": "Édition: la position de Thélyson Orélien de moins en moins tenable",
-      "dek": "Thélyson Orélien, la sensation de la rentrée littéraire, soupçonné d’avoir utilisé l’IA pour fabriquer son roman, est accusé de plusieurs plagiats. L’académie Goncourt vient de le retirer de sa sélection. Son premier accusateur, Samuel Fitoussi, semble quant à lui s’être arrangé …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/250926/edition-la-position-de-thelyson-orelien-de-moins-en-moins-tenable"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T12:00:09+00:00",
-      "titre": "Sénatoriales 2026 : qui sont les grands électeurs qui vont voter dimanche ?",
-      "dek": "Le collège électoral des 93 469 personnes appelées à élire les sénateurs est plutôt masculin, âgé et vient surtout des petites communes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/25/senatoriales-2026-qui-sont-les-grands-electeurs-qui-vont-voter-dimanche_6782469_4355770.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T11:38:03+00:00",
-      "titre": "« Défendre les fleuves, les rivières et l’océan, c’est défendre les relations dont nous sommes faits »",
-      "dek": "L’Atrato en Colombie, le Saint-Laurent au Québec, la Seine, la Creuse, la cascade du Végay dans les Alpes Maritimes… Les initiatives locales pour reconnaître des droits à la nature se multiplient. Ce 25 septembre, élu·es, parlementaires et représentant·es de fleuves français et i…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=509373"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T11:28:20+00:00",
-      "titre": "VIDEO. La \"laïcité française\" n'est \"nullement la négation de la religion\", assure Emmanuel Macron devant le pape à l'Elysée",
-      "dek": "Le président de la République a reçu Léon XIV au palais présidentiel, vendredi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/video-la-laicite-francaise-n-est-nullement-la-negation-de-la-religion-assure-emmanuel-macron-devant-le-pape-a-l-elysee_8209529.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T11:23:58+00:00",
-      "titre": "Le pape Léon XIV fait rire l'Élysée lors de son discours",
-      "dek": "\"Je n'oublie pas mes origines\" : le pape Léon XIV fait rire l'Élysée lors de son discours à Paris devant le président français Emmanuel Macron.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/le-pape-leon-xiv-fait-rire-l-elysee-lors-de-son-discours_8209538.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T10:48:21+00:00",
-      "titre": "«Fichez-moi la paix!»: bombardée de questions à son procès, Rachida Dati explose",
-      "dek": "Confrontée aux avocats de Renault lors du cinquième jour de son procès pour corruption, l’ancienne eurodéputée a été incapable de détailler les missions d’avocate qu’elle est supposée avoir effectuées pour la firme. Acculée, elle a violemment attaqué les parties civiles.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/250926/fichez-moi-la-paix-bombardee-de-questions-son-proces-rachida-dati-explose"
     }
   ]
 }
