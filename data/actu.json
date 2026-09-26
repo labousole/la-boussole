@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:59:52+00:00",
+  "generated_at": "2026-09-26T02:57:05+00:00",
   "articles": [
     {
       "tag": "Politique",
@@ -8,6 +8,17 @@
       "date": "25 Sep 2026",
       "date_iso": "2026-09-25T22:53:15+00:00",
       "titre": "Au Brésil, Lula interdit les paris sportifs en ligne à quelques jours de la présidentielle, dénonçant une « maladie » qui gagne les foyers",
+      "dek": "Alors que la campagne entre dans sa dernière ligne droite avant le premier tour du 4 octobre, le sujet des paris en ligne est devenu un enjeu pour le président sortant, qui dénonce une source d’endettement massif pour les familles.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/26/au-bresil-lula-interdit-les-paris-sportifs-en-ligne-a-quelques-jours-de-la-presidentielle-denoncant-une-maladie-qui-gagne-les-foyers_6782740_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Sep 2026",
+      "date_iso": "2026-09-25T22:53:11+00:00",
+      "titre": "Au Brésil, Lula interdit les paris sportifs en ligne à quelques jours de la présidentielle, dénonçant une « maladie » qui gagne les foyers",
       "dek": "Alors que la campagne entre dans sa dernière ligne droite avant le premier tour du 4 octobre, le sujet des paris en ligne est devenu un enjeu pour le président sortant, qui dénonce une source d’endettement massif pour les familles.",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/09/26/au-bresil-lula-interdit-les-paris-sportifs-en-ligne-a-quelques-jours-de-la-presidentielle-denoncant-une-maladie-qui-gagne-les-foyers_6782740_3210.html"
@@ -539,17 +550,6 @@
       "dek": "Le débat télévisé de la «petite primaire» a rassemblé 709 000 téléspectateurs en moyenne.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/les-socialistes-se-felicitent-du-succes-daudience-du-premier-debat-de-leur-primaire-20260925_GE3VDYQ575GLREAFBUNNUSS6ZU/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T08:58:52+00:00",
-      "titre": "« C’est la mort d’un symbole, d’une vision humaniste » : À Elne, le maire d’extrême droite débaptise le cinéma René Vautier, réalisateur emblématique de la lutte anticoloniale",
-      "dek": "Dans les Pyrénées-Orientales, le cinéma d’Elne, baptisé René-Vautier en hommage au cinéaste communiste et anticolonial, va changer de nom. Sous prétexte d’une prétendue neutralité politique, le nouveau maire d’extrême droite tourne le dos à l’histoire et crache sur la mémoire des…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/cinema/a-elne-le-maire-dextreme-droite-steve-fortel-debaptise-le-cinema-rene-vautier-et-efface-la-lutte-anticoloniale-de-lespace-public"
     }
   ]
 }
