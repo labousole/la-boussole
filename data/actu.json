@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-26T13:59:43+00:00",
+  "generated_at": "2026-09-26T18:12:46+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T15:00:04+00:00",
+      "titre": "Jérôme Niel dans \"Paolo\" : \"Je me retrouve dans ce personnage qui cherche sa place quelque part\"",
+      "dek": "Dans \"Paolo\", Jérôme Niel incarne le séduisant et sympathique personnage principal qui cache bien son jeu. Un rôle à contre-emploi dans une série française dérangeante en 7 épisodes.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/jerome-niel-dans-paolo-je-me-retrouve-dans-ce-personnage-qui-cherche-sa-place-quelque-part_8189102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T14:12:46+00:00",
+      "titre": "En Allemagne, l’AfD mène une offensive anti-genre",
+      "dek": "\"\"Après la Saxe-Anhalt, le parti d’extrême droite a enregistré un nouveau succès électoral en Mecklembourg-Poméranie-Occidentale le 20 septembre. Un résultat dû en partie à sa politique familiale ultraconservatrice et une obsession pour la préservation des normes de genre et de l…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/260926/en-allemagne-l-afd-mene-une-offensive-anti-genre"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T14:12:35+00:00",
+      "titre": "Quand l’IA les cible, les patrons de presse attaquent",
+      "dek": "Confrontés au séisme de l’IA générative, les éditeurs de journaux multiplient les procédures afin d’obtenir une rémunération pour l’utilisation de leurs contenus. Et ce même s’ils utilisent aussi ces outils pour supprimer des postes dans leurs rédactions.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/260926/quand-l-ia-les-cible-les-patrons-de-presse-attaquent"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -517,39 +550,6 @@
       "dek": "Malgré un bilan empêtré dans les crises, Emmanuel Macron a voulu se montrer, jeudi à la télévision, au travail et en action jusqu'aux derniers moments de son mandat. L'édito de Jean-Rémi Baudot.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-un-president-au-travail-jusqu-a-la-fin_8209448.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T14:00:39+00:00",
-      "titre": "Budget : Sébastien Lecornu continue d’attaquer les arrêts maladie et braque la gauche",
-      "dek": "Le gouvernement multiplie les annonces sur le dossier brûlant des arrêts de travail. Il compte trouver deux milliards d’euros. Un objectif difficilement acceptable pour la gauche. Les socialistes ont d’ailleurs annulé les réunions prévues cette semaine avec les ministres concerné…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=509401"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T13:52:41+00:00",
-      "titre": "À la métropole de Lyon, la droite enterre la politique d’hospitalité de ses prédécesseurs",
-      "dek": "Fermeture des lieux accueillant des mineurs isolés, expulsion de 280 femmes et enfants place de Milan, fin du revenu solidarité jeunes… Après six mois aux manettes, le nouvel exécutif de Véronique Sarselli déroule une politique antisociale marquée par le détricotage de plusieurs …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/250926/la-metropole-de-lyon-la-droite-enterre-la-politique-d-hospitalite-de-ses-predecesseurs"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T13:52:08+00:00",
-      "titre": "Soupçons de corruption dans l’attribution de Légion d’honneur: le général Puga entendu en garde à vue",
-      "dek": "Le général Benoît Puga, soupçonné d’être intervenu dans la remise de décorations à des proches d’un homme d’affaires avec des contreparties, a été entendu par les enquêteurs, mais relâché sans poursuite à ce stade.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/250926/soupcons-de-corruption-dans-l-attribution-de-legion-d-honneur-le-general-puga-entendu-en-garde-vue"
     }
   ]
 }
