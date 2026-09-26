@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-26T18:12:46+00:00",
+  "generated_at": "2026-09-26T22:17:30+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T18:32:37+00:00",
+      "titre": "Marche pour le climat: «On veut vivre, pas survivre»",
+      "dek": "Après un été éprouvant, rythmé par les vagues de chaleur et les incendies, et à quelques mois de l’échéance présidentielle, les mobilisations pour le climat ont rassemblé 100 000 personnes dans plus de 250 communes en France, selon les organisateurs. Reportage à Lyon et Paris.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/260926/marche-pour-le-climat-veut-vivre-pas-survivre"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -539,17 +550,6 @@
       "dek": "Que ce soit sur la question du «génocide» à Gaza ou celle de «la paix» en Ukraine, les deux prétendants à l’investiture socialiste pour la présidentielle devraient rééquilibrer leurs positions respectives.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/segolene-royal-et-raphael-glucksmann-suivez-lexemple-de-pedro-sanchez-20260925_SWGFISDOMVHJ5J5TOFVMXFISGU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T14:09:18+00:00",
-      "titre": "Emmanuel Macron, un président au travail jusqu'à la fin",
-      "dek": "Malgré un bilan empêtré dans les crises, Emmanuel Macron a voulu se montrer, jeudi à la télévision, au travail et en action jusqu'aux derniers moments de son mandat. L'édito de Jean-Rémi Baudot.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-un-president-au-travail-jusqu-a-la-fin_8209448.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
