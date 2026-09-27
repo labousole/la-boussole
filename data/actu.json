@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-09-27T03:00:12+00:00",
+  "generated_at": "2026-09-27T10:19:02+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T10:14:24+00:00",
+      "titre": "DIRECT. Elections sénatoriales 2026 : les grands électeurs d'une soixantaine de départements sont appelés aux urnes pour le dernier scrutin avant la présidentielle",
+      "dek": "Si l'alliance entre Les Républicains et les centristes doit conserver la majorité, le suspense demeure sur la constitution d'un possible groupe pour le Rassemblement national ou une entrée de La France insoumise dans l'hémicycle du Palais du Luxembourg.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/senatoriales/direct-elections-senatoriales-2026-suivez-le-vote-des-grands-electeurs-et-les-premiers-resultats-du-scrutin_8206589.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T08:56:49+00:00",
+      "titre": "«À gauche, le manque de solidarité avec l’Ukraine est un échec moral»",
+      "dek": "L’écrivaine Francesca Melandri a publié «Les Pieds froids» au printemps 2026. À partir des Mémoires de son père, dont elle a réalisé qu’il avait été sur le front ukrainien pendant la Seconde Guerre mondiale, elle explore ce que produit la guerre de Poutine dans la conscience euro…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/270926/gauche-le-manque-de-solidarite-avec-l-ukraine-est-un-echec-moral"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T08:49:13+00:00",
+      "titre": "CARTE. Résultats des sénatoriales 2026 : découvrez les sénateurs élus département par département",
+      "dek": "Le Sénat renouvelle dimanche la moitié de ses sièges. Franceinfo vous propose de découvrir les résultats électoraux au fil de la journée dans les circonscriptions concernées.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/senatoriales/carte-resultats-des-senatoriales-2026-decouvrez-les-senateurs-elus-departement-par-departement_8102945.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T08:42:07+00:00",
+      "titre": "\"On vient de deux univers différents\" : Maria Carolina de Bourbon des Deux-Siciles se confie pour la première fois sur sa relation avec Jordan Bardella",
+      "dek": "La descendante d'une richissime lignée aristocratique italienne a donné un entretien au \"Figaro Magazine\", dans lequel elle revient sur le retrait de la course à l'Elysée du président du RN.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T08:01:48+00:00",
+      "titre": "En Louisiane, la Cour suprême menace la représentation des minorités pour les «midterms»",
+      "dek": "En annulant la nouvelle carte électorale de cet État du Sud, qui avait été adoptée afin de mieux représenter l’électorat noir, la plus haute juridiction états-unienne rejoint l’offensive de l’administration Trump pour sauver des sièges aux élections de mi-mandat.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/270926/en-louisiane-la-cour-supreme-menace-la-representation-des-minorites-pour-les-midterms"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T07:54:29+00:00",
+      "titre": "Élections de mi-mandat aux États-Unis: la carte électorale comme arme de campagne",
+      "dek": "Les Américains ont déjà commencé à voter pour les élections de mi-mandat du 3 novembre. L’administration Trump a poussé à des redécoupages de circonscriptions pour diluer le vote des minorités raciales, tout en menant une offensive contre le vote par correspondance.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/270926/elections-de-mi-mandat-aux-etats-unis-la-carte-electorale-comme-arme-de-campagne"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T06:30:05+00:00",
+      "titre": "« Une ristourne générale sur le prix des carburants serait très coûteuse et peu efficace »",
+      "dek": "Pour faire face à l’explosion du coût du gazole et de l’essence, l’économiste Patrice Geoffron défend, dans une tribune au « Monde », la logique du gouvernement de privilégier les aides ciblées, mais déplore son manque de visibilité.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/27/une-ristourne-generale-sur-le-prix-des-carburants-serait-tres-couteuse-et-peu-efficace_6783930_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T06:10:15+00:00",
+      "titre": "\"Tout est ouvert\" : en \"n'excluant rien\", Emmanuel Macron se positionne-t-il déjà pour la présidentielle de 2032 ?",
+      "dek": "\"Il est assez inhabituel de revenir, mais nous verrons\", a lâché Emmanuel Macron devant des journalistes américains. Le chef de l'Etat, qui ne peut pas se représenter, pose-t-il déjà le premier jalon d'un retour en politique après le prochain quinquennat ? Dans son camp, certains…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/tout-est-ouvert-en-n-excluant-rien-emmanuel-macron-se-positionne-t-il-deja-pour-la-presidentielle-de-2032_8211044.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T06:00:00+00:00",
+      "titre": "«Il est obsédé par l’avenir de la France» : Maria Carolina de Bourbon des Deux-Siciles, compagne de Jordan Bardella, se confie au Figaro Magazine",
+      "dek": "EXCLUSIF - Pour la première fois, la jeune compagne du président du Rassemblement national s’exprime sur ses liens avec celui qui a dû renoncer à la course présidentielle au profit de Marine Le Pen.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/il-est-obsede-par-l-avenir-de-la-france-maria-carolina-de-bourbon-des-deux-siciles-compagne-de-jordan-bardella-se-confie-au-figaro-magazine-20260927"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T05:30:11+00:00",
+      "titre": "Prix du carburant : « La bonne réponse au renchérissement de l’énergie est une redistribution ciblée vers les plus vulnérables »",
+      "dek": "La difficulté de la réponse que le gouvernement de Sébastien Lecornu peut apporter à la hausse des tarifs de l’essence et du gazole n’est pas d’ordre technique, mais politique, constate l’économiste Christian de Perthuis, dans une tribune au « Monde ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/27/prix-du-carburant-la-bonne-reponse-au-rencherissement-de-l-energie-est-une-redistribution-ciblee-vers-les-plus-vulnerables_6783896_3232.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "26 Sep 2026",
+      "date_iso": "2026-09-26T19:22:59+00:00",
+      "titre": "« Depuis la rentrée, c’est silence radio » : aux marches climat, 120 000 manifestants exigent du concret après un été de tous les records",
+      "dek": "L’appel à manifester samedi pour le climat, la justice sociale, la paix et le vivant, a été entendu dans 157 villes à travers la France. Ce mouvement citoyen qui soutient toutes les mobilisations sociales et environnementales des prochaines semaines attend les annonces de la mini…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/environnement/canicule/depuis-la-rentree-cest-silence-radio-aux-marches-climat-120-000-manifestants-exigent-du-concret-apres-un-ete-de-tous-les-recordsde-linaction-politique"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -429,127 +550,6 @@
       "dek": "Alors que le Sénat travaille à la suppression de plusieurs agences de l’Etat, avec une proposition de loi qui pourrait être examinée début 2027, le gouvernement s’apprête, lui, à lancer une revue des missions des différents opérateurs.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/25/agences-de-l-etat-le-senat-relance-le-chantier-de-la-rationalisation-le-gouvernement-aussi_6782615_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T16:15:06+00:00",
-      "titre": "\"Franc-Jeu\". Avec Jean-Noël Barrot",
-      "dek": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 27 septembre 2026, il reçoit Jean-Noël Barrot, ministre de l'Europ…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-jean-noel-barrot_8184017.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T16:11:28+00:00",
-      "titre": "La France, les femmes et le pouvoir, avec Éliane Viennot",
-      "dek": "L’historienne Éliane Viennot publie le cinquième et dernier volume de son enquête au long cours sur une durable exception française: l’exclusion des femmes du pouvoir. Entretien sous les auspices de la journaliste féministe Marguerite Durand.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/250926/la-france-les-femmes-et-le-pouvoir-avec-eliane-viennot"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T16:01:50+00:00",
-      "titre": "Présidentielle 2027 : à Marseille, un « grand débat » sur l’IA sans grande surprise et avec peu de candidats",
-      "dek": "A part Olivier Faure, aucun candidat n’avait fait le déplacement dans la cité phocéenne pour cette discussion sur un sujet pourtant présenté comme « central » par plusieurs partis",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-a-marseille-un-grand-debat-sur-l-ia-sans-grande-surprise-et-avec-peu-de-candidats_6782611_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T15:55:06+00:00",
-      "titre": "Le personnel politique n’arrive plus à se sortir de la dictature du court terme",
-      "dek": "L’élection présidentielle met en lumière l’une des principales tares de notre époque politique : l’incapacité à penser le long terme sur une planète en ébullition climatique et géopolitique, analyse Matthieu Goar, pour la newsletter « Présidentielle 2027 ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/25/le-personnel-politique-n-arrive-plus-a-se-sortir-de-la-dictature-du-court-terme_6782607_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T15:49:30+00:00",
-      "titre": "L'opposition dénonce une prise de risque d'Emmanuel Macron qui veut envoyer des militaires en Arabie saoudite",
-      "dek": "Emmanuel Macron souhaite envoyer des militaires en Arabie saoudite pour sécuriser un site pétrolier et tenter d'apporter une réponse à la crise des prix des carburants. Cette possibilité a déclenché une levée de boucliers du côté de l'opposition.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-opposition-denonce-une-prise-de-risque-d-emmanuel-macron-qui-veut-envoyer-des-militaires-en-arabie-saoudite_8209859.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T15:48:57+00:00",
-      "titre": "Yannick Jadot suspendu temporairement des Ecologistes après avoir soutenu Raphaël Glucksmann pour la présidentielle",
-      "dek": "Le sénateur écologiste avait estimé à la fin de l'été que le leader de Place publique était \"le mieux placé\", aux dépends de Marine Tondelier, la candidate officielle de son parti.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/yannick-jadot-suspendu-temporairement-des-ecologistes-pour-son-soutien-a-raphael-glucksmann_8209919.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T15:37:55+00:00",
-      "titre": "Yannick Jadot temporairement suspendu des Ecologistes pour son soutien à Raphaël Glucksmann",
-      "dek": "Dans un courrier adressé ce vendredi 25 septembre au sénateur, la direction du parti motive notamment sa décision en raison de la participation du sénateur à un débat prévu en octobre au cours duquel il représentera Place publique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/yannick-jadot-temporairement-suspendu-des-ecologistes-pour-son-soutien-a-raphael-glucksmann-20260925_UV2GF7RQLRFLLMURFATDHLTCBI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T15:23:03+00:00",
-      "titre": "Présidentielle 2027 : Yannick Jadot suspendu à titre conservatoire par Les Ecologistes en raison de son soutien à la candidature de Raphaël Glucksmann",
-      "dek": "Les Verts reprochent au sénateur de Paris son soutien officiel au député européen pour 2027, et sa participation annoncée à un débat, prévu le 10 octobre, sous les couleurs de Place publique, face aux Ecologistes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-yannick-jadot-suspendu-a-titre-conservatoire-par-les-ecologistes-en-raison-de-son-soutien-a-la-candidature-de-raphael-glucksmann_6782601_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T15:17:41+00:00",
-      "titre": "«C’était très français» : à l’Élysée, Emmanuel Macron et la République se pressent autour du pape Léon XIV",
-      "dek": "RÉCIT - Le président a dit vendredi la «grande joie» que représente le voyage en France du pape, qui a fait passer des messages fermes tout en prenant le temps de saluer les représentants de l’État et de la société, loin d’être indifférents à sa présence.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/actualite-france/c-etait-tres-francais-a-l-elysee-emmanuel-macron-et-la-republique-se-pressent-autour-du-pape-leon-xiv-20260925"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T14:51:29+00:00",
-      "titre": "Les syndicats de journalistes de plus en plus pris pour cible",
-      "dek": "Depuis plusieurs semaines, ces organisations sont accusées d’être des ennemies du pluralisme, d’entretenir des biais idéologiques. Des attaques en provenance de politiques de droite et d’extrême droite mais également d’éditorialistes, de journalistes présentateur·trices. Un virag…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=509452"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Sep 2026",
-      "date_iso": "2026-09-25T14:18:44+00:00",
-      "titre": "Ségolène Royal et Raphaël Glucksmann, suivez l’exemple de Pedro Sánchez",
-      "dek": "Que ce soit sur la question du «génocide» à Gaza ou celle de «la paix» en Ukraine, les deux prétendants à l’investiture socialiste pour la présidentielle devraient rééquilibrer leurs positions respectives.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/segolene-royal-et-raphael-glucksmann-suivez-lexemple-de-pedro-sanchez-20260925_SWGFISDOMVHJ5J5TOFVMXFISGU/"
     }
   ]
 }
