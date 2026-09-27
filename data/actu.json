@@ -1,6 +1,193 @@
 {
-  "generated_at": "2026-09-27T18:50:04+00:00",
+  "generated_at": "2026-09-27T22:44:25+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T22:37:10+00:00",
+      "titre": "Elections sénatoriales : Gérard Larcher souhaite que le Sénat reste \"l'assemblée du débat apaisé, de la raison et de la réflexion\"",
+      "dek": "Le président LR de la chambre haute veut \"permettre à chaque groupe d'exercer pleinement ses droits\" au Sénat.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/senatoriales/direct-elections-senatoriales-2026-suivez-le-vote-des-grands-electeurs-et-les-premiers-resultats-du-scrutin_8206589.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T22:15:40+00:00",
+      "titre": "Visite du pape à Metz : Emmanuel Macron assisterait finalement à la messe célébrée à la cathédrale",
+      "dek": "Le chef de l’Etat, qui doit assister lundi matin, avec ses invités, au discours que le pape consacre à l’Europe et à la paix, ne devait initialement pas prendre part à la cérémonie religieuse prévue ensuite.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/28/visite-du-pape-a-metz-emmanuel-macron-assisterait-finalement-a-la-messe-celebree-a-la-cathedrale_6784630_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T22:07:29+00:00",
+      "titre": "Sénatoriales 2026 : les Républicains limitent les dégâts et minimisent l’arrivée historique d’un groupe d’extrême droite",
+      "dek": "Sans surprise, Les Républicains restent la première force du Sénat mais enregistrent une baisse de leur effectif estimée entre cinq et sept sièges selon l’affiliation dans les groupes. Le parti perd deux sénateurs dans les Alpes-Maritimes au profit du RN et de son alliée de l’UDR…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-les-republicains-limitent-les-degats-et-minimisent-l-arrivee-historique-d-un-groupe-d-extreme-droite_6784629_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T21:46:27+00:00",
+      "titre": "Sénatoriales 2026 : la nouvelle composition du Sénat, en graphiques",
+      "dek": "Le Sénat est souvent décrit comme la chambre des territoires, mais que révèle réellement sa composition ? Après le renouvellement de ce 27 septembre 2026, âge, sexe ou encore profession permettent de dresser un portrait de cette assemblée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/27/senatoriales-2026-la-nouvelle-composition-du-senat-en-graphiques_6784562_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T20:41:04+00:00",
+      "titre": "Sénatoriales 2026 : ce qu’il faut retenir du scrutin dans 13 départements à enjeux",
+      "dek": "Porté par ses récents succès locaux, le Rassemblement national confirme sa montée en puissance en obtenant des sièges au Palais du Luxembourg dans plusieurs des 64 départements qui élisaient des sénateurs, dimanche 27 septembre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/27/senatoriales-2026-ce-qu-il-faut-retenir-du-scrutin-dans-13-departements-a-enjeux_6784559_823448.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T20:15:36+00:00",
+      "titre": "Sénatoriales 2026 : le RN s’offre un groupe et rêve de percer son plafond de verre en 2027",
+      "dek": "Jordan Bardella et Marine Le Pen se sont tous les deux félicités d’un résultat « historique » pour le parti à la flamme.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/senatoriales-2026-le-rn-s-offre-un-groupe-et-reve-de-percer-son-plafond-de-verre-en-2027-20260927"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T20:15:33+00:00",
+      "titre": "Sénatoriales 2026 : la droite et le centre résistent et restent majoritaires",
+      "dek": "DÉCRYPTAGE - Ce dimanche, 178 des 348 sièges du Sénat ont été remis en jeu. Le RN enregistre la plus forte progression alors que Les Républicains perdent quelques sièges.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/senatoriales-2026-la-droite-et-le-centre-resistent-et-restent-majoritaires-20260927"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T20:12:18+00:00",
+      "titre": "Résultats des élections sénatoriales 2026 : dix ans après sa création, La France insoumise fait son entrée au Sénat",
+      "dek": "Gabriel Amard, gendre de Jean-Luc Mélenchon, n'a pas pâti des divisions de la gauche dans le Rhône. \"Heureux augure pour 2027\", a salué le candidat LFI à l'élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-la-france-insoumise-fait-son-entree-au-senat-dix-ans-apres-sa-creation_8212526.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T20:09:59+00:00",
+      "titre": "La droite conserve sa majorité, le RN obtient un groupe, un premier élu LFI… Ce qu'il faut retenir des résultats des élections sénatoriales 2026",
+      "dek": "Environ la moitié des sièges étaient renouvelés dimanche. Les équilibres politiques n'ont pas été bouleversés, mais le RN dépasse la barre des dix sénateurs, tandis que LFI parvient à faire élire l'un de ses candidats.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/senatoriales/la-droite-conserve-sa-majorite-le-rn-obtient-un-groupe-un-premier-elu-lfi-ce-qu-il-faut-retenir-des-resultats-des-elections-senatoriales-2026_8212337.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T19:56:25+00:00",
+      "titre": "Élections sénatoriales : le RN constitue un groupe, LFI fait son entrée",
+      "dek": "Constitution d'un groupe RN, majorité des Républicains et des centristes, arrivée de LFI... Voici ce qu'il faut retenir des premiers résultats des élections sénatoriales de dimanche 27 septembre. A cette occasion, la moitié de la chambre haute a été renouvelée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/senatoriales/elections-senatoriales-le-rn-constitue-un-groupe-lfi-fait-son-entree_8212547.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T19:46:18+00:00",
+      "titre": "Sénatoriales : pour la première fois, le Rassemblement national aura un groupe parlementaire à la Chambre haute",
+      "dek": "Le scrutin de dimanche a vu le RN réaliser une percée suffisante pour constituer un groupe d’au moins 14 sénateurs, avec ses alliés de l’UDR d’Eric Ciotti, au sein de l’assemblée qui reste dominée par la droite traditionnelle. Les insoumis font aussi leur entrée dans l’hémicycle …",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/senatoriales-pour-la-premiere-fois-le-rn-aura-un-groupe-parlementaire-dans-la-chambre-haute-20260927_IQHZYDMMTVAZFJ7ODX477QKLYE/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T19:31:38+00:00",
+      "titre": "Le RN en mesure de constituer un groupe au Sénat pour la première fois",
+      "dek": "À l’issue des sénatoriales du 26 septembre, le Rassemblement national est en mesure de former un groupe parlementaire au Sénat en remportant au moins quatorze sièges, ce qui est inédit dans son histoire.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/270926/le-rn-en-mesure-de-constituer-un-groupe-au-senat-pour-la-premiere-fois"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T19:27:05+00:00",
+      "titre": "EN DIRECT, sénatoriales 2026 : l’extrême droite obtient un groupe, LFI fait son entrée au Sénat, le reflux des macronistes se confirme… Retrouvez les enseignements du scrutin",
+      "dek": "Avec au moins quatorze élus, le Rassemblement national et son alliée, l’Union des droites pour la République, affirment pouvoir constituer un groupe au Sénat. C’est une première pour l’extrême droite. Les Républicains restent la première force politique et devraient conserver la …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/09/27/en-direct-senatoriales-2026-le-senat-doit-rester-cette-assemblee-du-debat-apaisee-affirme-gerard-larcher-apres-l-obtention-d-un-groupe-par-le-rn-et-son-allie-de-l-udr_6784204_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T19:14:55+00:00",
+      "titre": "Sénatoriales 2026 : la droite conserve la majorité, l’extrême droite en mesure de constituer un groupe",
+      "dek": "Si les grands équilibres partisans devraient être conservés à l’issue de l’élection du dimanche 27 septembre, le Rassemblement national, avec son allié de l’UDR, le parti d’Eric Ciotti, pourra former, pour la première fois, un groupe au Palais du Luxembourg. LFI obtient son premi…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/27/senatoriales-2026-la-droite-conserve-la-majorite-l-extreme-droite-en-capacite-de-constituer-un-groupe_6784553_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T18:51:12+00:00",
+      "titre": "12 nouveaux élus pour le RN, la droite conserve sa majorité, le PS se maintient… Ce qu’il faut retenir des sénatoriales 2026",
+      "dek": "Dimanche soir, 178 des 348 sièges du Sénat ont été renouvelés à l’issue des élections. La droite conserve la majorité devant la gauche, qui résiste. L’extrême droite obtient pour la toute première fois un groupe dans la Chambre haute.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/senat/12-nouveaux-elus-pour-le-rn-la-droite-conserve-sa-majorite-le-ps-se-maintient-ce-quil-faut-retenir-des-senatoriales-2026"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T18:50:44+00:00",
+      "titre": "La gauche sauve les meubles au Sénat",
+      "dek": "Les forces progressistes avaient pour objectif de ne pas perdre de plumes dans ces élections et de maintenir leurs groupes politiques respectifs en l’état.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/elections-senatoriales/la-gauche-sauve-les-meubles-au-senat"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T18:50:28+00:00",
+      "titre": "CARTE. Résultats des sénatoriales 2026 : découvrez les sénateurs élus ou réélus département par département",
+      "dek": "Le Sénat a renouvelé ce dimanche la moitié de ses sièges. Franceinfo vous propose de découvrir les sénateurs élus ou réélus dans les circonscriptions concernées par le scrutin.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/senatoriales/carte-resultats-des-senatoriales-2026-decouvrez-les-senateurs-elus-departement-par-departement_8102945.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -39,11 +226,11 @@
       "color": "#C81E3A",
       "source": "Libération – Politique",
       "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T18:33:56+00:00",
-      "titre": "Sénatoriales : pour la première fois, le Rassemblement national aura un groupe parlementaire à la Chambre haute",
-      "dek": "Le parti a d’ores et déjà rempli son objectif de réunir les dix sièges nécessaires. Jordan Bardella et Marine Le Pen saluent une «victoire historique».",
+      "date_iso": "2026-09-27T18:22:15+00:00",
+      "titre": "Les insoumis entrent au Sénat… mais continuent d’en vouloir aux écolos",
+      "dek": "S’ils obtiennent deux sénateurs, l’un dans le Rhône et l’autre en Haute-Garonne, les dirigeants de La France insoumise accusent les verts de les avoir privés d’une place chez les Français de l’étranger.",
       "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/senatoriales-pour-la-premiere-fois-le-rn-aura-un-groupe-parlementaire-dans-la-chambre-haute-20260927_IQHZYDMMTVAZFJ7ODX477QKLYE/"
+      "lien": "https://www.liberation.fr/politique/elections/senatoriales-si-les-insoumis-echouent-a-avoir-des-elus-cest-la-faute-des-ecolos-20260927_2RJD4JZQ75F4HMJQ3ULZ2BDEWE/"
     },
     {
       "tag": "Politique",
@@ -66,28 +253,6 @@
       "dek": "Marine Le Pen s'est félicitée d'une \"victoire historique\" à l'issue du scrutin, avec au moins dix élus à la chambre haute du Parlement.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-le-rn-reussit-a-constituer-un-groupe-au-senat-pour-la-premiere-fois-de-son-histoire_8212448.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T17:50:31+00:00",
-      "titre": "Sénatoriales 2026 : le RN s’offre un groupe et rêve de percer son plafond de verre en 2027",
-      "dek": "Jordan Bardella et Marine Le Pen se sont tous les deux félicités d’un résultat « historique » pour le parti à la flamme.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/senatoriales-2026-le-rn-s-offre-un-groupe-et-reve-de-percer-son-plafond-de-verre-en-2027-20260927"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T17:37:20+00:00",
-      "titre": "Sénatoriales 2026 : la droite et le centre résistent et restent majoritaires",
-      "dek": "DÉCRYPTAGE - Ce dimanche, 178 des 348 sièges du Sénat ont été remis en jeu. Le RN enregistre la plus forte progression alors que Les Républicains perdent quelques sièges.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/senatoriales-2026-la-droite-et-le-centre-resistent-et-restent-majoritaires-20260927"
     },
     {
       "tag": "Politique",
@@ -121,17 +286,6 @@
       "dek": "«Mediapart» révèle que Jean-Emmanuel Casalta, patron de la chaîne parlementaire, utilise ses notes de frais professionnels pour régler des dépenses personnelles, dont des billets d’avion vers sa résidence principale à Ajaccio et des séjours en hôtel grand luxe à Lausanne ou à La …",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/culture-et-idees/270926/le-president-de-public-senat-paie-ses-allers-retours-en-corse-avec-de-l-argent-public"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T16:43:03+00:00",
-      "titre": "CARTE. Résultats des sénatoriales 2026 : découvrez les sénateurs élus ou réélus département par département",
-      "dek": "Le Sénat renouvelle dimanche la moitié de ses sièges. Franceinfo vous propose de découvrir les résultats électoraux au fil de la journée dans les circonscriptions concernées.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/senatoriales/carte-resultats-des-senatoriales-2026-decouvrez-les-senateurs-elus-departement-par-departement_8102945.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -396,160 +550,6 @@
       "dek": "L’appel à manifester samedi pour le climat, la justice sociale, la paix et le vivant, a été entendu dans 157 villes à travers la France. Ce mouvement citoyen qui soutient toutes les mobilisations sociales et environnementales des prochaines semaines attend les annonces de la mini…",
       "avis": null,
       "lien": "https://www.humanite.fr/environnement/canicule/depuis-la-rentree-cest-silence-radio-aux-marches-climat-120-000-manifestants-exigent-du-concret-apres-un-ete-de-tous-les-recordsde-linaction-politique"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T18:32:37+00:00",
-      "titre": "Marche pour le climat: «On veut vivre, pas survivre»",
-      "dek": "Après un été éprouvant, rythmé par les vagues de chaleur et les incendies, et à quelques mois de l’échéance présidentielle, les mobilisations pour le climat ont rassemblé 100 000 personnes dans plus de 250 communes en France, selon les organisateurs. Reportage à Lyon et Paris.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/260926/marche-pour-le-climat-veut-vivre-pas-survivre"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T15:00:04+00:00",
-      "titre": "Jérôme Niel dans \"Paolo\" : \"Je me retrouve dans ce personnage qui cherche sa place quelque part\"",
-      "dek": "Dans \"Paolo\", Jérôme Niel incarne le séduisant et sympathique personnage principal qui cache bien son jeu. Un rôle à contre-emploi dans une série française dérangeante en 7 épisodes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/jerome-niel-dans-paolo-je-me-retrouve-dans-ce-personnage-qui-cherche-sa-place-quelque-part_8189102.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T14:12:46+00:00",
-      "titre": "En Allemagne, l’AfD mène une offensive anti-genre",
-      "dek": "\"\"Après la Saxe-Anhalt, le parti d’extrême droite a enregistré un nouveau succès électoral en Mecklembourg-Poméranie-Occidentale le 20 septembre. Un résultat dû en partie à sa politique familiale ultraconservatrice et une obsession pour la préservation des normes de genre et de l…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/260926/en-allemagne-l-afd-mene-une-offensive-anti-genre"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T14:12:35+00:00",
-      "titre": "Quand l’IA les cible, les patrons de presse attaquent",
-      "dek": "Confrontés au séisme de l’IA générative, les éditeurs de journaux multiplient les procédures afin d’obtenir une rémunération pour l’utilisation de leurs contenus. Et ce même s’ils utilisent aussi ces outils pour supprimer des postes dans leurs rédactions.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/260926/quand-l-ia-les-cible-les-patrons-de-presse-attaquent"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T12:42:45+00:00",
-      "titre": "Marine Tondelier fait son retour en manifestation, mais pas en campagne \"à plein temps\", quelques jours après la naissance de son fils",
-      "dek": "La candidate à la présidentielle a participé à l'une des marches pour le climat organisées un peu partout en France ce samedi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/marine-tondelier-fait-son-retour-en-manifestation-mais-pas-en-campagne-a-plein-temps-quelques-jours-apres-la-naissance-de-son-fils_8211029.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T12:01:00+00:00",
-      "titre": "“On ne peut pas tirer profit impunément de l’oppression” : comment BDS cible les complices d’Israël",
-      "dek": "Il aura fallu 3 ans d'une campagne de bombardement massif sur la bande de Gaza, une accélération terrible de la colonisation en Cisjordanie pour que le 6 septembre dernier 12 États membres de l'Union européenne fassent une déclaration conjointe appelant à \"des restrictions nation…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/monde/boycott-produits-israeliens/on-ne-peut-pas-tirer-profit-impunement-de-loppression-comment-bds-cible-les-complices-disrael"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T10:26:52+00:00",
-      "titre": "Olivier Roy: «La génération Z est plus ouverte sur la question religieuse»",
-      "dek": "Le pape Léon XIV a conclu vendredi sa première journée de visite apostolique en France par une rencontre avec la jeunesse au stade de France en présence de 80 000 personnes. Pour le politiste Olivier Roy, les 16-25 ans n’ont pas une vision identitaire de la religion et sont en «q…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/260926/olivier-roy-la-generation-z-est-plus-ouverte-sur-la-question-religieuse"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T10:23:19+00:00",
-      "titre": "Le marchandage du ministère de l’enseignement supérieur pour repêcher les naufragés de Parcoursup",
-      "dek": "En Île-de-France, près de deux mille jeunes bacheliers sont toujours sans fac. Selon nos informations, pour enrayer ce bilan, le ministère propose en catimini aux universités une enveloppe de 3 000 euros par étudiant placé. Une méthode inédite, et très «choquante» pour une partie…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/260926/le-marchandage-du-ministere-de-l-enseignement-superieur-pour-repecher-les-naufrages-de-parcoursup"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T10:22:53+00:00",
-      "titre": "En Israël, l’opposition fait campagne sur le rejet de Nétanyahou, faute de projet politique alternatif",
-      "dek": "Cette fois encore, les élections législatives israéliennes ressemblent à un référendum pour ou contre l’actuel premier ministre. Malgré des divergences, notamment en matière de gouvernance, les partis sionistes sont globalement alignés sur la politique étrangère et le traitement …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/260926/en-israel-l-opposition-fait-campagne-sur-le-rejet-de-netanyahou-faute-de-projet-politique-alternati"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T09:45:04+00:00",
-      "titre": "L’Arabie saoudite, le pétrole et la parole de la France",
-      "dek": "La critique de l’annonce, par Emmanuel Macron, de l’envoi de militaires français en Arabie saoudite exigerait davantage que le seul réflexe protestataire fondé sur des considérations idéologiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/26/l-arabie-saoudite-le-petrole-et-la-parole-de-la-france_6783118_3232.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T09:01:00+00:00",
-      "titre": "La France est-elle devenue une société d’héritiers ?",
-      "dek": "La France est-elle redevenue une société d’héritiers où la naissance compte davantage que le travail ? Alors que 9 000 milliards d’euros s’apprêtent à être transmis d’ici 2040, les inégalités de patrimoine atteignent des sommets inédits depuis le 19ᵉ siècle.Débat avec :Cécile Duf…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/cecile-duflot/la-france-est-elle-devenue-une-societe-dheritiers"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T07:19:37+00:00",
-      "titre": "«Personne n’a envie de payer pour travailler»: les précaires de l’Éducation nationale subissent les prix du carburant",
-      "dek": "Contractuels, AESH, professeurs en poste loin de chez eux… Une partie du personnel enseignant subit de plein fouet la hausse des prix. Avec des salaires qui décrochent du coût de la vie, le sujet alimente la colère, à la veille de la journée de mobilisation du 29 septembre.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/260926/personne-n-envie-de-payer-pour-travailler-les-precaires-de-l-education-nationale-subissent-les-prix-du-car"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T07:14:46+00:00",
-      "titre": "Présidentielle 2027 : le chemin de crête de Jean-Luc Mélenchon sur l’Ukraine",
-      "dek": "Les propos récents du candidat de La France insoumise sur le conflit ukrainien ont réactivé les suspicions de complaisance avec le régime de Poutine. A L’Assemblée nationale et au Parlement européen, les parlementaires « insoumis » ont régulièrement changé de ligne.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/26/presidentielle-2027-le-chemin-de-crete-de-jean-luc-melenchon-sur-l-ukraine_6783102_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T07:12:29+00:00",
-      "titre": "En Martinique, la collectivité adopte un plan de redressement de près de 69 millions d’euros face à une dette record",
-      "dek": "Porté par Serge Letchimy et étalé sur 2027 et 2028, ce programme mêlant coupes budgétaires, cessions d’actifs et nouvelle taxe patronale est dénoncé par l’opposition comme une cure d’austérité déguisée.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/26/en-martinique-la-collectivite-adopte-un-plan-de-redressement-de-pres-de-69-millions-d-euros-face-a-une-dette-record_6783101_823448.html"
     }
   ]
 }
