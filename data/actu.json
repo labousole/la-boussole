@@ -1,16 +1,49 @@
 {
-  "generated_at": "2026-09-27T22:44:25+00:00",
+  "generated_at": "2026-09-28T02:58:54+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
-      "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T22:37:10+00:00",
+      "date": "28 Sep 2026",
+      "date_iso": "2026-09-28T02:57:28+00:00",
       "titre": "Elections sénatoriales : Gérard Larcher souhaite que le Sénat reste \"l'assemblée du débat apaisé, de la raison et de la réflexion\"",
       "dek": "Le président LR de la chambre haute veut \"permettre à chaque groupe d'exercer pleinement ses droits\" au Sénat.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/senatoriales/direct-elections-senatoriales-2026-suivez-le-vote-des-grands-electeurs-et-les-premiers-resultats-du-scrutin_8206589.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Sep 2026",
+      "date_iso": "2026-09-28T01:33:57+00:00",
+      "titre": "Sénatoriales 2026 : au sein du bloc central, un apparent statu quo et une chasse ouverte aux recrues",
+      "dek": "L’Union centriste devrait rester la troisième force du Sénat, tandis que le groupe RDPI, qui rassemble des élus macronistes et ultramarins perd des plumes, et que Les Indépendants, où siègent la plupart des sénateurs Horizons, progressent légèrement.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-au-sein-du-bloc-central-un-apparent-statu-quo-et-une-chasse-ouverte-aux-recrues_6784697_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T23:36:22+00:00",
+      "titre": "Sénatoriales 2026 : la gauche résiste, LFI fait son entrée mais les divisions persistent",
+      "dek": "Entre le maintien à flot des groupes socialiste et écologiste et l’entrée inédite des « insoumis » au Palais du Luxembourg, ce scrutin a démontré l’incapacité de la gauche à conclure des accords, quitte à perdre des sièges.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-la-gauche-resiste-lfi-fait-son-entree-mais-les-divisions-persistent_6784664_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Sep 2026",
+      "date_iso": "2026-09-27T23:34:00+00:00",
+      "titre": "Sénatoriales 2026 : en formant un groupe pour la première fois, le Rassemblement national conforte son récit de « marche vers le pouvoir »",
+      "dek": "En ajoutant neuf sénateurs à ses trois élus, et avec l’appoint de trois sénateurs UDR, le RN va obtenir des moyens supplémentaires. Ses scores témoignent de sa popularité auprès des maires ruraux. Jordan Bardella appelle les élus de droite à rejoindre le parti d’extrême droite.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-en-formant-un-groupe-pour-la-premiere-fois-le-rassemblement-national-conforte-son-recit-de-marche-vers-le-pouvoir_6784663_823448.html"
     },
     {
       "tag": "Politique",
@@ -29,7 +62,7 @@
       "source": "Le Monde – Politique",
       "date": "27 Sep 2026",
       "date_iso": "2026-09-27T22:07:29+00:00",
-      "titre": "Sénatoriales 2026 : les Républicains limitent les dégâts et minimisent l’arrivée historique d’un groupe d’extrême droite",
+      "titre": "Sénatoriales 2026 : Les Républicains limitent les dégâts et minimisent l’arrivée historique d’un groupe d’extrême droite",
       "dek": "Sans surprise, Les Républicains restent la première force du Sénat mais enregistrent une baisse de leur effectif estimée entre cinq et sept sièges selon l’affiliation dans les groupes. Le parti perd deux sénateurs dans les Alpes-Maritimes au profit du RN et de son alliée de l’UDR…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/28/senatoriales-2026-les-republicains-limitent-les-degats-et-minimisent-l-arrivee-historique-d-un-groupe-d-extreme-droite_6784629_823448.html"
@@ -39,7 +72,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T21:46:27+00:00",
+      "date_iso": "2026-09-27T21:46:25+00:00",
       "titre": "Sénatoriales 2026 : la nouvelle composition du Sénat, en graphiques",
       "dek": "Le Sénat est souvent décrit comme la chambre des territoires, mais que révèle réellement sa composition ? Après le renouvellement de ce 27 septembre 2026, âge, sexe ou encore profession permettent de dresser un portrait de cette assemblée.",
       "avis": null,
@@ -517,39 +550,6 @@
       "dek": "\"Il est assez inhabituel de revenir, mais nous verrons\", a lâché Emmanuel Macron devant des journalistes américains. Le chef de l'Etat, qui ne peut pas se représenter, pose-t-il déjà le premier jalon d'un retour en politique après le prochain quinquennat ? Dans son camp, certains…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/tout-est-ouvert-en-n-excluant-rien-emmanuel-macron-se-positionne-t-il-deja-pour-la-presidentielle-de-2032_8211044.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T06:00:00+00:00",
-      "titre": "«Il est obsédé par l’avenir de la France» : Maria Carolina de Bourbon des Deux-Siciles, compagne de Jordan Bardella, se confie au Figaro Magazine",
-      "dek": "EXCLUSIF - Pour la première fois, la jeune compagne du président du Rassemblement national s’exprime sur ses liens avec celui qui a dû renoncer à la course présidentielle au profit de Marine Le Pen.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/il-est-obsede-par-l-avenir-de-la-france-maria-carolina-de-bourbon-des-deux-siciles-compagne-de-jordan-bardella-se-confie-au-figaro-magazine-20260927"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Sep 2026",
-      "date_iso": "2026-09-27T05:30:11+00:00",
-      "titre": "Prix du carburant : « La bonne réponse au renchérissement de l’énergie est une redistribution ciblée vers les plus vulnérables »",
-      "dek": "La difficulté de la réponse que le gouvernement de Sébastien Lecornu peut apporter à la hausse des tarifs de l’essence et du gazole n’est pas d’ordre technique, mais politique, constate l’économiste Christian de Perthuis, dans une tribune au « Monde ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/27/prix-du-carburant-la-bonne-reponse-au-rencherissement-de-l-energie-est-une-redistribution-ciblee-vers-les-plus-vulnerables_6783896_3232.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "26 Sep 2026",
-      "date_iso": "2026-09-26T19:22:59+00:00",
-      "titre": "« Depuis la rentrée, c’est silence radio » : aux marches climat, 120 000 manifestants exigent du concret après un été de tous les records",
-      "dek": "L’appel à manifester samedi pour le climat, la justice sociale, la paix et le vivant, a été entendu dans 157 villes à travers la France. Ce mouvement citoyen qui soutient toutes les mobilisations sociales et environnementales des prochaines semaines attend les annonces de la mini…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/environnement/canicule/depuis-la-rentree-cest-silence-radio-aux-marches-climat-120-000-manifestants-exigent-du-concret-apres-un-ete-de-tous-les-recordsde-linaction-politique"
     }
   ]
 }
