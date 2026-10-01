@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-30T23:22:25+00:00",
+  "generated_at": "2026-10-01T03:31:20+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "01 Oct 2026",
+      "date_iso": "2026-10-01T03:17:00+00:00",
+      "titre": "Présidentielle 2027 : Bruno Retailleau a-t-il les moyens de financer sa campagne ?",
+      "dek": "Si le parti Les Républicains est toujours endetté à hauteur de 6 millions d’euros, l’équipe du Vendéen assure qu’il dispose de moyens suffisants pour faire campagne. Même s’il n’a toujours pas souscrit de prêt.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-bruno-retailleau-a-t-il-les-moyens-de-financer-sa-campagne-20261001_2A6XKCNSNZG3ZFKFDMR57U6GFI/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -539,17 +550,6 @@
       "dek": "Derrière l’unité affichée autour de Jordan Bardella, accusé d'écrits antisémites par Mediapart, la guerre des clans entre bardellistes et proches de Marine Le Pen fait rage. L'édito de Renaud Dély.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/front-national/le-rn-fait-il-vraiment-front-autour-de-jordan-bardella_8216033.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "30 Sep 2026",
-      "date_iso": "2026-09-30T08:43:03+00:00",
-      "titre": "Retraites : Édouard Philippe veut ressusciter la réforme Borne… en pire",
-      "dek": "Allongement progressif à 65&nbsp;ans de l’âge de départ et 45 annuités de cotisation&nbsp;: Édouard Philippe a dévoilé sa réforme des retraites, une étape importante de sa campagne présidentielle, qui entend ressusciter l’essentiel de la réforme Borne, suspendue en 2025 devant so…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/reforme-des-retraites/retraites-edouard-philippe-veut-ressusciter-la-reforme-borne-en-pire"
     }
   ]
 }
