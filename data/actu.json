@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-10-02T19:42:21+00:00",
+  "generated_at": "2026-10-02T23:29:09+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Oct 2026",
+      "date_iso": "2026-10-02T22:57:28+00:00",
+      "titre": "Laurent Nuñez promet aux pompiers 1 milliard d’euros d’aide supplémentaire sur cinq ans pour renforcer leurs moyens",
+      "dek": "Selon le ministre de l’intérieur, un « relèvement exceptionnel » de la taxe sur les conventions d’assurances, prévu dans le projet de loi de finances, permettra de dégager annuellement 200 millions d’euros sur cinq ans. « C’est une orientation politique intéressante », a jugé le …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/03/laurent-nunez-promet-aux-pompiers-un-milliard-d-euros-d-aide-supplementaire-sur-cinq-ans-pour-renforcer-leurs-moyens_6787258_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Oct 2026",
+      "date_iso": "2026-10-02T21:44:13+00:00",
+      "titre": "En réponse à la mobilisation des lycéens, Edouard Geffray annonce un \"plan d'action\" pour accélérer les remplacements des professeurs",
+      "dek": "L'Union syndicale lycéenne appelle à continuer le mouvement et donne rendez-vous mardi pour une nouvelle grande journée de mobilisation.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-annonce-un-plan-d-action-pour-accelerer-les-remplacements-des-professeurs_8220190.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Oct 2026",
+      "date_iso": "2026-10-02T20:49:39+00:00",
+      "titre": "Votants, dates… Les chiffres de la primaire PS-Place publique une semaine avant le premier tour",
+      "dek": "Qui représentera la gauche sociale-démocrate lors de l'élection présidentielle ? Les cinq candidats ont débattu jeudi soir sur France 2. À une semaine du premier tour, près de 90 000 votants sont déjà inscrits. Retour sur les dessous du scrutin.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/votants-dates-les-chiffres-de-la-primaire-ps-place-publique-une-semaine-avant-le-premier-tour_8220427.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Oct 2026",
+      "date_iso": "2026-10-02T20:37:27+00:00",
+      "titre": "Pour \"faire baisser les prix\" des carburants, les pays du G7 vont libérer \"jusqu'à 100 millions de barils\" sous quatre mois, annonce Emmanuel Macron",
+      "dek": "Donald Trump a salué cette initiative estimant que l'Europe \"avait très bien fait\" de puiser dans ses réserves",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/automobile/essence/pour-faire-baisser-les-prix-des-carburants-les-pays-du-g7-vont-liberer-jusqu-a-100-millions-de-barils-sous-quatre-mois-annonce-emmanuel-macron_8219965.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Oct 2026",
+      "date_iso": "2026-10-02T20:22:06+00:00",
+      "titre": "Mobilisation des lycéens : \"Que le gouvernement renonce à ce plan d'économies, le pire de l'histoire de la Ve République\", dit FO enseignement",
+      "dek": "\"En annonçant, en pleine mobilisation, 1 588 nouvelles suppressions de postes d'enseignants pour la rentrée prochaine, le gouvernement porte la responsabilité de la situation\", juge Clément Poullet, secrétaire général du syndicat.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-que-le-gouvernement-renonce-a-ce-plan-d-economies-le-pire-de-l-histoire-de-la-ve-republique-dit-fo-enseignement_8220403.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Oct 2026",
+      "date_iso": "2026-10-02T20:15:44+00:00",
+      "titre": "Après les dégâts engendrés par le blocage des lycées, Gérald Darmanin milite pour que les parents des casseurs paient",
+      "dek": "Les débordements qui accompagnent le blocage des lycées ont provoqué des dégâts dans plusieurs établissements. Pour payer les réparations qui s'annoncent importantes, le ministre de la Justice souhaite que les parents des lycéens incriminés soient impliqués.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/apres-les-degats-engendres-par-le-blocage-des-lycees-gerald-darmanin-milite-pour-que-les-parents-des-casseurs-paient_8220388.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Oct 2026",
+      "date_iso": "2026-10-02T19:52:48+00:00",
+      "titre": "Au Sénat, tensions autour du groupe de Claude Malhuret",
+      "dek": "Au lendemain du renouvellement du Sénat, le président du groupe des Indépendants a dû faire face à une fronde d’une partie de ses troupes, avant d’être réélu.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/02/au-senat-tensions-autour-du-groupe-de-claude-malhuret_6787219_823448.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -55,17 +132,6 @@
       "dek": "Les cinq candidats à l’investiture pour la présidentielle se retrouvent dimanche soir sur BFM, en partenariat avec «Libé». Avec une question, derrière les propositions et les divisions : qui pourra concurrencer Mélenchon ?",
       "avis": null,
       "lien": "https://www.liberation.fr/idees-et-debats/editorial/dernier-debat-pour-la-primaire-socialiste-quelle-vie-en-rose-20261002_PDXTOL4ZVRCCHGDLPZ54EFW2PE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T18:40:50+00:00",
-      "titre": "En réponse à la mobilisation des lycéens, Edouard Geffray annonce un \"plan d'action\" pour accélérer les remplacements des professeurs",
-      "dek": "Le ministre de l'Education nationale s'est adressé aux lycéens vendredi soir, en assurant qu'ils étaient \"entendus et écoutés\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-annonce-un-plan-d-action-pour-accelerer-les-remplacements-des-professeurs_8220190.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -484,72 +550,6 @@
       "dek": "Après avoir publié lundi 28&nbsp;septembre une enquête démontrant l’antisémitisme de Jordan Bardella, les journalistes de Mediapart ont rendu public les documents attestant de la véracité de leurs informations. Pour le RN et son président, rien n’y fait&nbsp;: il s’agit toujours …",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/antisemitisme/antisemitisme-de-bardella-apres-la-publication-des-preuves-de-mediapart-le-rn-persiste-dans-son-deni-complotiste"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T08:11:36+00:00",
-      "titre": "Affaire Bardella: Marine Le Pen silencieuse, le RN dans le déni, le reste du monde politique a compris",
-      "dek": "Après la révélation des documents appuyant notre enquête sur les écrits antisémites de l’actuel président du Rassemblement national, le parti d’extrême droite maintient ses dénégations jusqu’à l’absurde. De la droite à la gauche, en revanche, les derniers doutes sont levés.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/021026/affaire-bardella-marine-le-pen-silencieuse-le-rn-dans-le-deni-le-reste-du-monde-politique-compris"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T08:00:00+00:00",
-      "titre": "«Nationalisons TotalEnergies pour reprendre en main notre destin énergétique», par Fabien Roussel",
-      "dek": "Alors que la guerre au Moyen-Orient fait les affaires de TotalEnergies, le candidat communiste à la présidentielle propose de nationaliser le groupe pour faire baisser les prix à la pompe et bâtir un Etat stratège.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/nationalisons-totalenergies-pour-reprendre-en-main-notre-destin-energetique-par-fabien-roussel-20261002_45AMIWLZLBHLTOAZEEGEDRE4BY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T07:53:40+00:00",
-      "titre": "\"C'est un mauvais procès fait\" à LFI \"par des gens qui ne comprennent pas\" le mouvement lycéen, réagit le député Eric Coquerel face aux accusations",
-      "dek": "Plusieurs élus ainsi que le gouvernement accusent le parti de Jean-Luc Mélenchon d'être à l'origine des débordements.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-aux-blocages-des-lycees-l-insoumis-eric-coquerel-appelle-les-parents-d-eleves-les-enseignants-a-soutenir-ces-mobilisations_8219350.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T07:52:44+00:00",
-      "titre": "Enquête sur Jordan Bardella : Gérald Darmanin accuse le président du RN de mentir « éhontément »",
-      "dek": "« Mediapart » a révélé avoir pu authentifier, par le biais de Meta et d’un huissier, les messages antisémites datant de 2013 attribués au président du Rassemblement national, lequel dément en être l’auteur.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/02/enquete-sur-jordan-bardella-gerald-darmanin-accuse-le-president-du-rn-de-mentir-ehontement_6787109_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T07:32:32+00:00",
-      "titre": "Bardella «ment éhontément» : Faure comme Darmanin taillent en pièces les dénégations du président du RN",
-      "dek": "Pour le ministre de la Justice comme le Premier secrétaire du PS, les révélations de «Mediapart» et la stratégie de défense du numéro 1 du parti d’extrême droite, qui nie et menace nos confrères, ne sont pas compatibles avec l’exercice du pouvoir en cas de victoire de l’extrême d…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/il-ment-ehontement-faure-comme-darmanin-taillent-en-pieces-les-denegations-de-bardella-20261002_7SQ5MR6GENAYHPOIQHFKAPQDUE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T07:26:40+00:00",
-      "titre": "Loi contre les violences faites aux femmes et aux enfants : l’extrême droite, timide jusque-là, sort ses refrains xénophobes et masculinistes",
-      "dek": "Au premier jour de l’examen de la proposition de loi à l’Assemblée nationale jeudi 1er octobre, le RN et l’UDR ont joué leur partition habituelle, après avoir été absents de la commission spéciale, sans assumer une opposition franche au texte.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/droits-des-femmes/loi-contre-les-violences-faites-aux-femmes-et-aux-enfants-lextreme-droite-timide-jusque-la-sort-ses-refrains-xenophobes-et-masculinistes-20261002_BHE7WQCNWBEOJKV6SOBGO4A6F4/"
     }
   ]
 }
