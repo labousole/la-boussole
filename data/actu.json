@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-10-03T18:28:36+00:00",
+  "generated_at": "2026-10-03T22:35:23+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Oct 2026",
+      "date_iso": "2026-10-03T21:00:37+00:00",
+      "titre": "Jordan Bardella : \"Le problème n'est plus les propos en eux-mêmes, mais le potentiel mensonge\", estime l'éditorialiste Jean-Sébastien Ferjou",
+      "dek": "Invités du Duel d'Avant le 20 Heures du samedi 3 octobre, Jean-Sébastien Ferjou, directeur et fondateur du site Atlantico et Laurent Joffrin, directeur du quotidien Le Libre journal, ont tous deux débattu de la place de Jordan Bardella au sein du RN après les accusations d'antisé…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-le-probleme-n-est-plus-les-propos-en-eux-memes-mais-le-potentiel-mensonge-estime-l-editorialiste-jean-sebastien-ferjou_8221483.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Oct 2026",
+      "date_iso": "2026-10-03T20:19:51+00:00",
+      "titre": "Présidentielle 2027 : Gabriel Attal propose une « grande coalition » de la gauche à la droite pour battre Marine Le Pen",
+      "dek": "Tirant le constat que « personne », dans l’espace politique entre LFI et le RN, « n’est favori ou en situation de battre Marine Le Pen » au second tour à l’heure actuelle, M. Attal a appelé à un « vrai et large rassemblement ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-gabriel-attal-propose-une-grande-coalition-de-la-gauche-a-la-droite-pour-battre-marine-le-pen_6787893_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Oct 2026",
+      "date_iso": "2026-10-03T19:41:57+00:00",
+      "titre": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
+      "dek": "La candidate du RN à la présidentielle réagit pour la première fois depuis la publication par « Mediapart » de nouveaux éléments visant à authentifier les messages antisémites attribués à Jordan Bardella, qui nie toujours en être l’auteur.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-marine-le-pen-reaffirme-sa-confiance-en-jordan-bardella-malgre-les-accusations-d-antisemitisme-revelees-par-mediapart_6787860_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Oct 2026",
+      "date_iso": "2026-10-03T19:09:12+00:00",
+      "titre": "Face aux dégradations liées à la mobilisation des lycéens, le gouvernement avance l'examen du projet de loi \"casseur-payeur\"",
+      "dek": "Le texte est désormais inscrit à l'ordre du jour du Sénat en octobre, même si le Conseil d'Etat a déjà émis des réserves, estimant qu'un individu ne peut être tenu responsable de faits qu'il n'a pas lui-même commit.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-aux-degradations-liees-a-la-mobilisation-des-lyceens-le-gouvernement-avance-l-examen-du-projet-de-loi-casseur-payeur_8221528.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "03 Oct 2026",
+      "date_iso": "2026-10-03T18:45:34+00:00",
+      "titre": "«Qui répand la mort, récolte la colère»: une mobilisation historique contre les pesticides",
+      "dek": "Plus de 15 000 personnes, selon les organisateurs, se sont rassemblées samedi dans l’Eure, près du site de Syngenta, pour dénoncer l’usage des pesticides et leurs conséquences sanitaires désastreuses. Une mobilisation inédite réunissant malades du cancer et agriculteurs.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/031026/qui-repand-la-mort-recolte-la-colere-une-mobilisation-historique-contre-les-pesticides"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -11,17 +66,6 @@
       "dek": "Le candidat insoumis à la présidentielle a lancé cet appel en vue de la journée de mobilisation lycéenne prévue mardi 6 octobre, estimant que lorsque des adultes «se sont interposés, ça se passe bien».",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/jean-luc-melenchon-appelle-les-parents-a-porter-des-brassards-blancs-pour-proteger-les-manifestants-lyceens-20261003_C4ZDXRRYNBFG5PHPAXRTBOAIME/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T17:53:14+00:00",
-      "titre": "Jordan Bardella : \"Le problème n'est plus les propos en eux-mêmes, mais le potentiel mensonge\", estime l'éditorialiste Jean-Sébastien Ferjou",
-      "dek": "Invités du \"Duel\" d'\"Avant le 20H\" ce samedi 3 octobre, Jean-Sébastien Ferjou, directeur et fondateur du site \"Atlantico\", et Laurent Joffrin, directeur du quotidien \"Le Libre journal\", ont tous deux débattu de la place de Jordan Bardella au sein du RN après les accusations d'ant…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-le-probleme-n-est-plus-les-propos-en-eux-memes-mais-le-potentiel-mensonge-estime-l-editorialiste-jean-sebastien-ferjou_8221483.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -41,7 +85,7 @@
       "date": "03 Oct 2026",
       "date_iso": "2026-10-03T17:11:34+00:00",
       "titre": "Jean-Luc Mélenchon et Ségolène Royal s'insurgent des propos de Raphaël Glucksmann tenus dans une conversation diffusée par \"Le Media\"",
-      "dek": "Dans cette vidéo diffusée vendredi, Raphaël Glucksmann, déclare notamment que Ségolène Royal, son adversaire pour la primaire socialiste, a fait \"la danse du ventre à Macron\".",
+      "dek": "Dans ces échanges destinés à rester privés, Raphaël Glucksmann, déclare notamment que Ségolène Royal, son adversaire pour la primaire socialiste, a fait \"la danse du ventre à Macron\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html#xtor=RSS-3-%5Bgeneral%5D"
     },
@@ -506,50 +550,6 @@
       "dek": "Donald Trump a salué cette initiative estimant que l'Europe \"avait très bien fait\" de puiser dans ses réserves",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/automobile/essence/pour-faire-baisser-les-prix-des-carburants-les-pays-du-g7-vont-liberer-jusqu-a-100-millions-de-barils-sous-quatre-mois-annonce-emmanuel-macron_8219965.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T20:22:06+00:00",
-      "titre": "Mobilisation des lycéens : \"Que le gouvernement renonce à ce plan d'économies, le pire de l'histoire de la Ve République\", dit FO enseignement",
-      "dek": "\"En annonçant, en pleine mobilisation, 1 588 nouvelles suppressions de postes d'enseignants pour la rentrée prochaine, le gouvernement porte la responsabilité de la situation\", juge Clément Poullet, secrétaire général du syndicat.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-que-le-gouvernement-renonce-a-ce-plan-d-economies-le-pire-de-l-histoire-de-la-ve-republique-dit-fo-enseignement_8220403.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T20:15:44+00:00",
-      "titre": "Après les dégâts engendrés par le blocage des lycées, Gérald Darmanin milite pour que les parents des casseurs paient",
-      "dek": "Les débordements qui accompagnent le blocage des lycées ont provoqué des dégâts dans plusieurs établissements. Pour payer les réparations qui s'annoncent importantes, le ministre de la Justice souhaite que les parents des lycéens incriminés soient impliqués.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/apres-les-degats-engendres-par-le-blocage-des-lycees-gerald-darmanin-milite-pour-que-les-parents-des-casseurs-paient_8220388.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T19:52:46+00:00",
-      "titre": "Au Sénat, tensions autour du groupe de Claude Malhuret",
-      "dek": "Au lendemain du renouvellement du Sénat, le président du groupe des Indépendants a dû faire face à une fronde d’une partie de ses troupes, avant d’être réélu.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/02/au-senat-tensions-autour-du-groupe-de-claude-malhuret_6787219_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T19:08:21+00:00",
-      "titre": "« Pour que travailler, vivre et s’intégrer ne devienne pas un piège »",
-      "dek": "Dans une lettre ouverte, les collectifs mobilisés dans le Briançonnais en soutien aux personnes exilées dénoncent l’arrestation de 6 personnes étrangères sur leur lieu de travail, le 16 septembre dernier.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=511281"
     }
   ]
 }
