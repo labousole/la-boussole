@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-10-04T03:43:58+00:00",
+  "generated_at": "2026-10-04T10:50:20+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T10:35:05+00:00",
+      "titre": "Budget 2027 : Laurent Wauquiez affirme que LR ne pratiquera pas « le petit jeu de la censure », mais refuse de « ponctionner les retraités »",
+      "dek": "Le chef de file des députés du parti Les Républicains plaide aussi pour 20 milliards d’euros d’économies supplémentaires à l’effort déjà proposé par le gouvernement.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/04/budget-2027-laurent-wauquiez-affirme-que-lr-ne-pratiquera-pas-le-petit-jeu-de-la-censure-mais-refuse-de-ponctionner-les-retraites_6788223_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T10:26:43+00:00",
+      "titre": "Turquie: la communauté LGBTI+ subit une vague historique de persécutions",
+      "dek": "Le président islamo-nationaliste de Turquie, Recep Tayyip Erdoğan, a choisi de lancer la campagne pour sa réélection avec une offensive contre les minorités sexuelles. Son ampleur, inédite, correspond à l’exacerbation globale de son autoritarisme.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/041026/turquie-la-communaute-lgbti-subit-une-vague-historique-de-persecutions"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T10:15:36+00:00",
+      "titre": "Antisémitisme : Marine Le Pen renouvelle sa « confiance » à Jordan Bardella… non sans ambiguïtés",
+      "dek": "La candidate du RN à la présidentielle est sortie du silence samedi 3 octobre pour apporter à nouveau son soutien à son poulain, mis à mal par les révélations de Mediapart. Sans lever pour autant toutes les ambiguïtés.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/antisemitisme/antisemitisme-marine-le-pen-renouvelle-sa-confiance-a-jordan-bardella-non-sans-ambiguites"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T09:02:57+00:00",
+      "titre": "\"J'ai totalement confiance en Jordan\" : Marine Le Pen fait front avec Jordan Bardella, à qui Mediapart attribue des écrits antisémites",
+      "dek": "La candidate du RN à la présidentielle Marine Le Pen a assuré, samedi 3 octobre, dans La Tribune Dimanche, maintenir \"totalement\" sa \"confiance\" au président du RN Jordan Bardella. Il s'agit de la première réaction publique de la cheffe de file du Rassemblement national.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/j-ai-totalement-confiance-en-jordan-marine-le-pen-fait-front-avec-jordan-bardella-a-qui-mediapart-attribue-des-ecrits-antisemites_8222050.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T08:48:50+00:00",
+      "titre": "Présidentielle 2027 : de « nouvelles règles » pour encadrer les podcasts politiques envisagées par l’Arcom",
+      "dek": "Le régulateur de l’audiovisuel envisage de « nouvelles règles » pour encadrer les podcasts dans lesquels sont invitées des personnalités politiques. Ces contenus échappent pour l’instant à son contrôle direct.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/04/presidentielle-2027-l-arcom-engage-une-concertation-sur-l-encadrement-des-podcasts-politiques_6788180_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T08:43:31+00:00",
+      "titre": "Les entreprises de jeu vidéo «entretiennent une forme de précarité permanente»",
+      "dek": "La chercheuse Flavie Falais signe un livre sur les conditions de travail dans l’industrie du jeu vidéo. Dans un entretien avec «Mediapart», elle décompose les dérives de ce milieu qui jouit encore d’une image enjôleuse, malgré des milliers de licenciements dans le monde ces derni…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/041026/les-entreprises-de-jeu-video-entretiennent-une-forme-de-precarite-permanente"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T08:16:48+00:00",
+      "titre": "Sceptique sur l’offre proposée par Philippe, Attal appelle à rassembler «de la gauche sociale-démocrate à la droite républicaine»",
+      "dek": "«Le retour de l’UMP paverait la voie à l’arrivée du RN» en 2027, a averti le candidat Renaissance dans une interview au «Parisien», samedi 3 octobre, tandis que son rival Horizons, mieux placé dans les sondages, voudrait emmener derrière lui le centre et la droite jusqu’à Bruno R…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/sceptique-sur-loffre-proposee-par-philippe-attal-appelle-a-rassembler-de-la-gauche-sociale-democrate-a-la-droite-republicaine-20261004_6KGXRJX7FNDL5FWILSSHZVPU7Y/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T08:00:08+00:00",
+      "titre": "Présidentielle 2027 : pourquoi la CSG divise autant les candidats",
+      "dek": "La contribution sociale généralisée revient souvent dans le débat politique et budgétaire. Et pour cause : de petites variations dans son calcul sont susceptibles de coûter ou de rapporter des milliards d’euros à la Sécurité sociale.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/10/04/presidentielle-2027-pourquoi-la-csg-divise-autant-les-candidats_6788112_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T06:49:12+00:00",
+      "titre": "«On leur pisse dessus», «danse du ventre» : des propos de Glucksmann révélés à son insu font bondir Mélenchon et Royal",
+      "dek": "Des extraits vidéo diffusés par «le Média», proche de la gauche radicale, montrent le candidat de Place publique à la primaire socialiste et sociale-démocrate en roue libre sur ses adversaires à la présidentielle. Son équipe n’a pour l’heure pas fait de commentaire.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/on-leur-pisse-dessus-danse-du-ventre-des-propos-de-glucksmann-reveles-a-son-insu-font-bondir-melenchon-et-royal-20261004_247T5GIURFBOVFGZFSBYYCGHFU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T04:57:25+00:00",
+      "titre": "\"Une base d'extrême droite, avec aussi des gens racisés\" : qu'est-ce que la \"génération Alain Soral\", à laquelle Jordan Bardella est accusé d'avoir appartenu ?",
+      "dek": "Le nom de l'idéologue franco-suisse est réapparu dans la foulée de l'enquête de Mediapart sur les propos antisémites que le patron du RN est accusé d'avoir tenus. Avec sa chaîne YouTube et son site Egalité et Réconciliation, Alain Soral a été un influenceur d'extrême droite de pr…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/une-base-d-extreme-droite-avec-aussi-des-gens-racises-qu-est-ce-que-la-generation-alain-soral-a-laquelle-jordan-bardella-est-accuse-d-avoir-appartenu_8219485.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T04:49:00+00:00",
+      "titre": "A un mois des élections de mi-mandat aux Etats-Unis, le spectre tragique d’une crise de régime inédite",
+      "dek": "Alors que Trump transforme ces midterms en affaire personnelle, l’essayiste Romuald Sciora s’interroge sur le scénario le plus probable à ses yeux : en cas de défaite des républicains, Trump conteste frontalement les résultats. Sera-t-il prêt à aller plus loin encore que le 6 jan…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/a-un-mois-des-elections-de-mi-mandat-aux-etats-unis-le-spectre-tragique-dune-crise-de-regime-inedite-20261004_DCXNJDI3ZZENLLA6RWKJ3E77HI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T04:20:07+00:00",
+      "titre": "Présidentielle 2027 : dans l’audiovisuel, les rédactions en ébullition sur la question du pluralisme",
+      "dek": "Les remous à Radio France et à France Télévisions, ainsi que les protestations à RTL, provoqués par la présence de représentants de la presse proche de l’extrême droite au nom du respect du pluralisme, s’exacerbent.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/04/presidentielle-2027-dans-l-audiovisuel-les-redactions-en-ebullition-sur-la-question-du-pluralisme_6788007_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T04:01:52+00:00",
+      "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen au risque d’être entraînée dans la défense jusqu’au-boutiste du président du RN",
+      "dek": "Malgré les éléments de preuve livrés par « Mediapart », le RN fait bloc derrière son président dans l’espoir que l’orage passe, au risque de voir le discrédit de Jordan Bardella contaminer la candidate à la présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/04/ecrits-antisemites-de-jordan-bardella-marine-le-pen-au-risque-d-etre-entrainee-dans-la-defense-jusqu-au-boutiste-du-president-du-rn_6788005_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T04:00:10+00:00",
+      "titre": "« Le vote obligatoire peut envoyer le signal fort que nous appartenons à une même communauté de destin »",
+      "dek": "Alors que l’abstention a profondément transformé la démocratie en polarisant les campagnes électorales pour mobiliser les électeurs les plus convaincus, seule une responsabilité partagée peut nous permettre d’affronter les défis du XXIᵉ siècle, affirme l’élu socialiste Stéphane D…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/10/04/le-vote-obligatoire-peut-envoyer-le-signal-fort-que-nous-appartenons-a-une-meme-communaute-de-destin_6788003_3232.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -17,9 +171,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T20:19:51+00:00",
+      "date_iso": "2026-10-03T20:19:48+00:00",
       "titre": "Présidentielle 2027 : Gabriel Attal propose une « grande coalition » de la gauche à la droite pour battre Marine Le Pen",
-      "dek": "Tirant le constat que « personne », dans l’espace politique entre LFI et le RN, « n’est favori ou en situation de battre Marine Le Pen » au second tour à l’heure actuelle, M. Attal a appelé à un « vrai et large rassemblement ».",
+      "dek": "Tirant le constat que « personne », dans l’espace politique entre LFI et le RN, « n’est favori ou en situation de battre Marine Le Pen » au second tour à l’heure actuelle, M. Attal a appelé à un « vrai et large rassemblement ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-gabriel-attal-propose-une-grande-coalition-de-la-gauche-a-la-droite-pour-battre-marine-le-pen_6787893_6205049.html"
     },
@@ -28,9 +182,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T19:41:57+00:00",
+      "date_iso": "2026-10-03T19:41:51+00:00",
       "titre": "Présidentielle 2027 : Marine Le Pen réaffirme sa confiance en Jordan Bardella malgré les accusations d’antisémitisme révélées par « Mediapart »",
-      "dek": "La candidate du RN à la présidentielle réagit pour la première fois depuis la publication par « Mediapart » de nouveaux éléments visant à authentifier les messages antisémites attribués à Jordan Bardella, qui nie toujours en être l’auteur.",
+      "dek": "La candidate du RN à la présidentielle réagit pour la première fois depuis la publication par « Mediapart » de nouveaux éléments visant à authentifier les messages antisémites attribués à Jordan Bardella, lequel nie toujours en être l’auteur.",
       "avis": null,
       "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/03/presidentielle-2027-marine-le-pen-reaffirme-sa-confiance-en-jordan-bardella-malgre-les-accusations-d-antisemitisme-revelees-par-mediapart_6787860_6205049.html"
     },
@@ -41,7 +195,7 @@
       "date": "03 Oct 2026",
       "date_iso": "2026-10-03T19:09:12+00:00",
       "titre": "Face aux dégradations liées à la mobilisation des lycéens, le gouvernement avance l'examen du projet de loi \"casseur-payeur\"",
-      "dek": "Le texte est désormais inscrit à l'ordre du jour du Sénat en octobre, même si le Conseil d'Etat a déjà émis des réserves, estimant qu'un individu ne peut être tenu responsable de faits qu'il n'a pas lui-même commit.",
+      "dek": "Le texte est désormais inscrit à l'ordre du jour du Sénat en octobre, même si le Conseil d'Etat a déjà émis des réserves, estimant qu'un individu ne peut être tenu responsable de faits qu'il n'a pas lui-même commis.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-aux-degradations-liees-a-la-mobilisation-des-lyceens-le-gouvernement-avance-l-examen-du-projet-de-loi-casseur-payeur_8221528.html#xtor=RSS-3-%5Bgeneral%5D"
     },
@@ -79,12 +233,23 @@
       "lien": "https://www.mediapart.fr/journal/international/031026/en-espagne-de-grandes-manifestations-pour-le-logement-apres-le-rejet-par-les-deputes-d-une-serie-de"
     },
     {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "03 Oct 2026",
+      "date_iso": "2026-10-03T17:28:55+00:00",
+      "titre": "Annie Ernaux, Judith Godrèche: «On n’a envie que d’une chose: lutter»",
+      "dek": "La comédienne, devenue figure de #MeToo en France, a adapté au cinéma l’œuvre de l’écrivaine, Nobel de littérature en 2022, «Mémoire de fille», sorti mercredi en salles. Violences sexuelles, féminisme, création et résistance: entretien croisé entre Annie Ernaux et Judith Godrèche…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/031026/annie-ernaux-judith-godreche-n-envie-que-d-une-chose-lutter"
+    },
+    {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "03 Oct 2026",
       "date_iso": "2026-10-03T17:11:34+00:00",
-      "titre": "Jean-Luc Mélenchon et Ségolène Royal s'insurgent des propos de Raphaël Glucksmann tenus dans une conversation diffusée par \"Le Media\"",
+      "titre": "Jean-Luc Mélenchon et Ségolène Royal s'insurgent des propos de Raphaël Glucksmann tenus lors d'une conversation privée, diffusée par \"Le Media\"",
       "dek": "Dans ces échanges destinés à rester privés, Raphaël Glucksmann, déclare notamment que Ségolène Royal, son adversaire pour la primaire socialiste, a fait \"la danse du ventre à Macron\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html#xtor=RSS-3-%5Bgeneral%5D"
@@ -385,171 +550,6 @@
       "dek": "Alors que Mediapart vient de dévoiler les preuves de l'authenticité des messages révélés, le président du RN garde la même ligne. Jordan Bardella continue de nier en bloc les accusations d'antisémitisme qui le visent.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/jordan-bardella/apres-la-transparence-de-mediapart-la-defense-insoutenable-de-jordan-bardella_8220844.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T07:01:00+00:00",
-      "titre": "Faut-il SUPPRIMER le Sénat ? La carte rouge de  @RiboDansLaSauceVOD ​",
-      "dek": "Pourquoi le Sénat reste-t-il ancré à droite depuis des décennies ? Quel rôle jouent le mode de scrutin indirect et la surreprésentation des petites communes face aux grandes villes ? Le prétendu « garde-fou » institutionnel ne sert-il pas plutôt à freiner et bloquer les lois prog…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/communes/faut-il-supprimer-le-senat-la-carte-rouge-de-ribodanslasaucevod"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T06:36:35+00:00",
-      "titre": "Une Marche des fiertés LGBTQ+ 2026 pour se « dresser contre l’extrême droite » et « se mobiliser pour un avenir basé sur la solidarité »",
-      "dek": "« Nous sommes à quelques mois de l’élection présidentielle », rappelle  le coprésident de l’Inter-LGBT. La manifestation partira à 13 heures de la place d’Italie, dans le sud de Paris, avec une arrivée prévue place de la Bastille, où se tiendra un concert.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/03/marche-des-fiertes-lgbtq-a-paris-des-milliers-de-personnes-attendues-samedi_6787669_3224.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T06:18:21+00:00",
-      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon cherche à attiser la fureur lycéenne",
-      "dek": "DÉCRYPTAGE - Le quadruple candidat, jusque-là soucieux de se montrer plus fédérateur, renoue avec sa stratégie de conflictualisation et assume de mener une campagne « à coups de marteau ».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-jean-luc-melenchon-cherche-a-attiser-la-fureur-lyceenne-20261002"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T05:41:33+00:00",
-      "titre": "Face aux révélations de Mediapart sur Jordan Bardella, le RN en communication de crise",
-      "dek": "Depuis les premières révélations de Mediapart sur les anciens écrits antisémites attribués à Jordan Bardella, les relations entre les membres du Rassemblement national et les médias se sont sensiblement rafraîchies.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/face-aux-revelations-de-mediapart-sur-jordan-bardella-le-rn-en-communication-de-crise_8200109.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T05:00:00+00:00",
-      "titre": "«C’est Dallas chez vous !» : après une égalité parfaite aux municipales et une série de drames, ce village breton doit retourner aux urnes",
-      "dek": "REPORTAGE – De nouvelles élections ont lieu dimanche à Plouasne (Côtes-d’Armor). Réélu en mars grâce à la moyenne d’âge plus élevée de sa liste, Michel Daugan a depuis démissionné après avoir été mis en examen pour violences en réunion. Le scrutin a ensuite été annulé en raison d…",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/c-est-dallas-chez-vous-apres-une-egalite-parfaite-aux-municipales-et-une-serie-de-drames-ce-village-breton-doit-retourner-aux-urnes-20261003"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T04:30:00+00:00",
-      "titre": "Violence et haine, l’ADN de l’extrême droite",
-      "dek": "La mise en scène par Marine Le&#160;Pen et Jordan Bardella d’une «&#160;normalisation&#160;» du Rassemblement national (RN) sur la scène politique n’a en rien fait refluer la violence consubstantielle à l’extrême droite, à son projet, à ses pratiques. Au contraire&#160;: la certi…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/violence-et-haine-ladn-de-lextreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T04:05:00+00:00",
-      "titre": "Emmanuel Maurel, candidat à la primaire sociale-démocrate : «Mon pari, c’est que cette primaire va marcher»",
-      "dek": "En lice sous la bannière de son parti Gauche républicaine et socialiste, le député du Val-d’Oise propose un grand emprunt citoyen pour financer la réindustrialisation et la transition écologique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/emmanuel-maurel-candidat-a-la-primaire-sociale-democrate-mon-pari-cest-que-cette-primaire-va-marcher-20261003_L2JY4YJROREMVFSI7HIG2MFPVU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T03:30:04+00:00",
-      "titre": "Blocage des lycées : pour LFI, un appui au mouvement à double tranchant",
-      "dek": "Soutiens actifs des mobilisations lycéennes tout en en dénonçant les violences, Jean-Luc Mélenchon et son parti consolident un électorat, mais se retrouvent aussi associés aux dérives du mouvement.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/03/blocage-des-lycees-pour-la-france-insoumise-un-appui-au-mouvement-a-double-tranchant_6787492_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T03:30:00+00:00",
-      "titre": "Jérôme Guedj, candidat à la primaire sociale-démocrate : «Le PS crève de ses ambiguïtés»",
-      "dek": "Candidat à la primaire socialiste et sociale-démocrate, le député de l’Essonne défend une rupture franche avec La France insoumise au profit du «compromis républicain» et une réforme de la Sécurité sociale.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/jerome-guedj-candidat-a-la-primaire-sociale-democrate-le-ps-creve-de-ses-ambiguites-20261003_HNVYH3XILJECVIJUXZNV4FGCCI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Oct 2026",
-      "date_iso": "2026-10-03T03:17:36+00:00",
-      "titre": "En Guinée, la grâce présidentielle accordée à l’opposant Aliou Bah, condamné pour « offense et diffamation »",
-      "dek": "Le président du Mouvement démocratique libéral est incarcéré depuis décembre 2024. Sa grâce, ainsi que celle de 216 autres détenus, a été décidée par le chef de l’Etat, Mamadi Doumbouya, à l’occasion de la fête de l’indépendance du pays, selon un décret présidentiel.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/afrique/article/2026/10/03/en-guinee-la-grace-presidentielle-accordee-a-l-opposant-aliou-bah-condamne-pour-offense-et-diffamation_6787489_3212.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T22:57:28+00:00",
-      "titre": "Laurent Nuñez promet 1 milliard d’euros d’aide supplémentaire sur cinq ans aux pompiers",
-      "dek": "Selon le ministre de l’intérieur, un « relèvement exceptionnel » de la taxe sur les conventions d’assurance, prévu dans le projet de loi de finances, permettra de dégager annuellement 200 millions d’euros sur cinq ans. « C’est une orientation politique intéressante », a jugé le s…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/03/laurent-nunez-promet-aux-pompiers-un-milliard-d-euros-d-aide-supplementaire-sur-cinq-ans-pour-renforcer-leurs-moyens_6787258_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T22:57:28+00:00",
-      "titre": "Laurent Nuñez promet aux pompiers 1 milliard d’euros d’aide supplémentaire sur cinq ans pour renforcer leurs moyens",
-      "dek": "Selon le ministre de l’intérieur, un « relèvement exceptionnel » de la taxe sur les conventions d’assurances, prévu dans le projet de loi de finances, permettra de dégager annuellement 200 millions d’euros sur cinq ans. « C’est une orientation politique intéressante », a jugé le …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/03/laurent-nunez-promet-aux-pompiers-un-milliard-d-euros-d-aide-supplementaire-sur-cinq-ans-pour-renforcer-leurs-moyens_6787258_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T21:44:13+00:00",
-      "titre": "En réponse à la mobilisation des lycéens, Edouard Geffray annonce un \"plan d'action\" pour accélérer les remplacements des professeurs",
-      "dek": "L'Union syndicale lycéenne appelle à continuer le mouvement et donne rendez-vous mardi pour une nouvelle grande journée de mobilisation.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-annonce-un-plan-d-action-pour-accelerer-les-remplacements-des-professeurs_8220190.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T20:49:39+00:00",
-      "titre": "Votants, dates… Les chiffres de la primaire PS-Place publique une semaine avant le premier tour",
-      "dek": "Qui représentera la gauche sociale-démocrate lors de l'élection présidentielle ? Les cinq candidats ont débattu jeudi soir sur France 2. À une semaine du premier tour, près de 90 000 votants sont déjà inscrits. Retour sur les dessous du scrutin.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/votants-dates-les-chiffres-de-la-primaire-ps-place-publique-une-semaine-avant-le-premier-tour_8220427.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Oct 2026",
-      "date_iso": "2026-10-02T20:37:27+00:00",
-      "titre": "Pour \"faire baisser les prix\" des carburants, les pays du G7 vont libérer \"jusqu'à 100 millions de barils\" sous quatre mois, annonce Emmanuel Macron",
-      "dek": "Donald Trump a salué cette initiative estimant que l'Europe \"avait très bien fait\" de puiser dans ses réserves",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/pour-faire-baisser-les-prix-des-carburants-les-pays-du-g7-vont-liberer-jusqu-a-100-millions-de-barils-sous-quatre-mois-annonce-emmanuel-macron_8219965.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
