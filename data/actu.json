@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T22:39:08+00:00",
+  "generated_at": "2026-10-05T03:27:39+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
-      "date": "04 Oct 2026",
-      "date_iso": "2026-10-04T22:31:59+00:00",
+      "date": "05 Oct 2026",
+      "date_iso": "2026-10-05T03:17:37+00:00",
       "titre": "Présidentielle 2027 : les cinq candidats de la primaire socialiste se sont affrontés à l'occasion d'un dernier débat télévisé avant le scrutin",
       "dek": "L'eurodéputé Place publique Raphaël Glucksmann, le patron du PS Olivier Faure, l'ex-candidate à la présidentielle de 2007 Ségolène Royal, les députés PS Jérôme Guedj et de la gauche républicaine et socialiste (GRS) Emmanuel Maurel, espèrent représenter la social-démocratie lors d…",
       "avis": null,
@@ -15,9 +15,31 @@
     {
       "tag": "Politique",
       "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Oct 2026",
+      "date_iso": "2026-10-05T03:00:18+00:00",
+      "titre": "Avant la primaire à gauche, un dernier débat télévisé sous tension : « Le spectacle qu’on a donné pendant vingt minutes était honteux »",
+      "dek": "Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal, les cinq candidats à la primaire sociale-démocrate, dont le premier tour aura lieu les 9 et 10 octobre, se sont affrontés pendant plus de trois heures, dimanche, sur BFM-TV.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/05/avant-la-primaire-a-gauche-un-dernier-debat-televise-sous-tension-le-spectacle-qu-on-a-donne-pendant-vingt-minutes-etait-honteux_6788468_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
       "source": "Libération – Politique",
       "date": "04 Oct 2026",
-      "date_iso": "2026-10-04T22:28:21+00:00",
+      "date_iso": "2026-10-04T23:00:00+00:00",
+      "titre": "La Palestine, un an après le «cessez-le-feu» : pourquoi aucune action de l’UE ? par 500 anciens ministres, ambassadeurs et hauts fonctionnaires européens",
+      "dek": "Après une nouvelle année de violences et de nettoyage ethnique perpétrés par le gouvernement israélien contre la population palestinienne à Gaza et en Cisjordanie, 500 hauts responsables européens dont quatre ex-Premiers ministres – dont Dominique de Villepin pour la France – lan…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/la-palestine-un-an-apres-le-cessez-le-feu-pourquoi-aucune-action-de-lue-par-500-anciens-ministres-ambassadeurs-et-hauts-fonctionnaires-europeens-20261005_3OOT4YIHB5F5HMYKYQYH52TJLM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "04 Oct 2026",
+      "date_iso": "2026-10-04T22:43:47+00:00",
       "titre": "Présidentielle 2027 : revivez le troisième débat de la primaire de la gauche",
       "dek": "Trois jours après leur deuxième rencontre, Raphaël Glucksmann, Olivier Faure, Ségolène Royal, Jérôme Guedj et Emmanuel Maurel se sont fait face sur BFM TV ce dimanche soir, en partenariat avec «Libération».",
       "avis": null,
@@ -528,28 +550,6 @@
       "dek": "Alors que Trump transforme ces midterms en affaire personnelle, l’essayiste Romuald Sciora s’interroge sur le scénario le plus probable à ses yeux : en cas de défaite des républicains, Trump conteste frontalement les résultats. Sera-t-il prêt à aller plus loin encore que le 6 jan…",
       "avis": null,
       "lien": "https://www.liberation.fr/idees-et-debats/tribunes/a-un-mois-des-elections-de-mi-mandat-aux-etats-unis-le-spectre-tragique-dune-crise-de-regime-inedite-20261004_DCXNJDI3ZZENLLA6RWKJ3E77HI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Oct 2026",
-      "date_iso": "2026-10-04T04:20:07+00:00",
-      "titre": "Présidentielle 2027 : dans l’audiovisuel, les rédactions en ébullition sur la question du pluralisme",
-      "dek": "Les remous à Radio France et à France Télévisions, ainsi que les protestations à RTL, provoqués par la présence de représentants de la presse proche de l’extrême droite au nom du respect du pluralisme, s’exacerbent.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/04/presidentielle-2027-dans-l-audiovisuel-les-redactions-en-ebullition-sur-la-question-du-pluralisme_6788007_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Oct 2026",
-      "date_iso": "2026-10-04T04:01:52+00:00",
-      "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen au risque d’être entraînée dans la défense jusqu’au-boutiste du président du RN",
-      "dek": "Malgré les éléments de preuve livrés par « Mediapart », le RN fait bloc derrière son président dans l’espoir que l’orage passe, au risque de voir le discrédit de Jordan Bardella contaminer la candidate à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/04/ecrits-antisemites-de-jordan-bardella-marine-le-pen-au-risque-d-etre-entrainee-dans-la-defense-jusqu-au-boutiste-du-president-du-rn_6788005_823448.html"
     }
   ]
 }
