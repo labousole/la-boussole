@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-05T21:45:43+00:00",
+  "generated_at": "2026-10-06T04:15:11+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Oct 2026",
+      "date_iso": "2026-10-06T03:05:11+00:00",
+      "titre": "Présidentielle 2027 : les candidats face à la menace d’une crise financière et budgétaire",
+      "dek": "Matignon prévient qu’une aggravation du déficit pourrait entraver le prochain chef de l’Etat alors que les prétendants à l’Elysée s’opposent sur les solutions à apporter. Ils sont tous confrontés au défi de mener une campagne dans une ambiance de crise.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/06/presidentielle-2027-les-candidats-face-a-la-menace-d-une-crise-financiere-et-budgetaire_6788825_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Oct 2026",
+      "date_iso": "2026-10-06T03:00:14+00:00",
+      "titre": "« RN et LFI restent très fragiles, car ils sont confrontés à des contradictions difficilement surmontables »",
+      "dek": "Capables de dicter l’agenda politique mieux que tous les autres partis, le Rassemblement national et La France insoumise manifestent leur fragilité dès lors qu’on leur demande des comptes, remarque, dans sa chronique, Françoise Fressoz, éditorialiste au « Monde ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/10/06/rn-et-lfi-restent-tres-fragiles-car-ils-sont-confrontes-a-des-contradictions-difficilement-surmontables_6788822_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Oct 2026",
+      "date_iso": "2026-10-06T00:12:51+00:00",
+      "titre": "Loi intégrale contre les violences sexuelles : les députés adoptent la création d’unités spécialisées au sein de la police",
+      "dek": "Cette mesure phare de la proposition de loi, que le ministre de l’intérieur Laurent Nuñez a échoué à écarter, jugeant le dispositif pas « opérationnel », a néanmoins été partiellement vidée de sa substance.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/06/loi-integrale-contre-les-violences-sexuelles-les-deputes-adoptent-la-creation-d-unites-speciales-au-sein-de-la-police_6788655_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Oct 2026",
+      "date_iso": "2026-10-06T00:01:47+00:00",
+      "titre": "Primaire à gauche : plus de 140 000 inscrits appelés à désigner leur candidat à la présidentielle",
+      "dek": "Le premier tour de la primaire sociale-démocrate, qui oppose Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal, se déroulera vendredi et samedi, après une campagne marquée par de nombreuses passes d’armes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/06/primaire-a-gauche-plus-de-140-000-inscrits-appeles-a-designer-leur-candidat-a-la-presidentielle_6788654_823448.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "05 Oct 2026",
+      "date_iso": "2026-10-05T22:16:54+00:00",
+      "titre": "Contestation lycéenne, dette, carburants : le gouvernement Lecornu dans la tempête",
+      "dek": "Le premier ministre, déjà accaparé par son projet de budget pour 2027 et par la flambée des prix à la pompe, cherche à éteindre la protestation lycéenne, en baisse lundi, et à éviter de nouvelles violences lors de la journée nationale de mobilisation prévue mardi.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/contestation-lyceenne-dette-carburants-le-gouvernement-lecornu-dans-la-tempete-20261005"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Oct 2026",
+      "date_iso": "2026-10-05T21:56:37+00:00",
+      "titre": "Au Sénat, les centristes deviennent la deuxième force politique au détriment des socialistes, fragilisés",
+      "dek": "Une semaine après le renouvellement de la moitié de son hémicycle, le Sénat a officialisé, lundi, la composition des groupes politiques. Le groupe Union centriste et indépendants (UCI) est ressorti gagnant des tractations à huis clos.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/05/au-senat-les-centristes-deviennent-la-deuxieme-force-politique-au-detriment-des-socialistes-fragilises_6788588_823448.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -79,17 +145,6 @@
       "lien": "https://www.humanite.fr/politique/dominique-de-villepin/mouvement-lyceen-francois-ruffin-et-dominique-de-villepin-se-mettent-daccord-sur-cinq-propositions"
     },
     {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "05 Oct 2026",
-      "date_iso": "2026-10-05T18:36:10+00:00",
-      "titre": "Contestation lycéenne, dette, carburants : le gouvernement Lecornu dans la tempête",
-      "dek": "L’équipe de Sébastien Lecornu, déjà accaparée par son projet de budget pour 2027 et par la flambée des prix à la pompe, cherche à éteindre la protestation lycéenne, en baisse lundi, et à éviter de nouvelles violences.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/contestation-lyceenne-dette-carburants-le-gouvernement-lecornu-dans-la-tempete-20261005"
-    },
-    {
       "tag": "Gauche",
       "color": "#1F5C4A",
       "source": "Mediapart",
@@ -130,6 +185,17 @@
       "date_iso": "2026-10-05T18:15:29+00:00",
       "titre": "Blocage de lycée à Lens : ce que l’on sait du jeune homme qui a eu la main arrachée par une grenade",
       "dek": "Plusieurs vidéos montrent le jeune homme mutilé, et une enquête a été confiée à l’IGPN. « Le Monde » a pu contacter un témoin, qui décrit une explosion compatible avec une GM2L, grenade particulièrement dangereuse qu’emploient les forces de l’ordre françaises.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/video/2026/10/05/blocage-de-lycee-a-lens-ce-que-l-on-sait-du-jeune-homme-qui-a-eu-la-main-arrachee-par-une-grenade_6788576_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Oct 2026",
+      "date_iso": "2026-10-05T18:15:28+00:00",
+      "titre": "Blocage de lycée à Lens : ce que l’on sait de l’adolescent qui a eu la main arrachée par une grenade",
+      "dek": "Plusieurs vidéos montrent le garçon de 15 ans mutilé, et une enquête a été confiée à l’IGPN. « Le Monde » a pu contacter un témoin, qui décrit une explosion compatible avec une GM2L, grenade particulièrement dangereuse qu’emploient les forces de l’ordre françaises.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/video/2026/10/05/blocage-de-lycee-a-lens-ce-que-l-on-sait-du-jeune-homme-qui-a-eu-la-main-arrachee-par-une-grenade_6788576_3224.html"
     },
@@ -484,72 +550,6 @@
       "dek": "A la suite des révélations de « Mediapart » sur les écrits antisémites du président du RN, la philosophe Perrine Simon-Nahum analyse, dans une tribune au « Monde », comment cette haine singulière structure des imaginaires radicaux et menace les fondements du débat politique.",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/10/05/jordan-bardella-appartient-a-cette-generation-soral-entree-en-politique-dans-les-annees-2010_6788518_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Oct 2026",
-      "date_iso": "2026-10-05T09:52:20+00:00",
-      "titre": "Le gouvernement va « prélever » les 2,1 milliards d’euros d’excédent du régime de l’assurance-chômage en 2027",
-      "dek": "En trois ans, l’Etat a déjà prélevé 12 milliards d’euros de l’Unédic qui comptait sur ces nouvelles recettes pour réduire son lourd endettement, prévu pour atteindre 61,5 milliards d’euros à la fin de 2026.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/05/le-gouvernement-va-prelever-les-2-1-milliards-d-euros-d-excedent-du-regime-de-l-assurance-chomage-en-2027-selon-le-ministre-du-travail-jean-pierre-farandou_6788516_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "05 Oct 2026",
-      "date_iso": "2026-10-05T09:23:30+00:00",
-      "titre": "Ecrits antisémites de Bardella : le RN s’enfonce dans une défense toute moisie",
-      "dek": "Après les révélations de «Mediapart» sur le président du parti, de nombreux élus d’extrême droite prennent sa défense coûte que coûte, même quand la crédibilité de leurs arguments laisse à désirer.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/ecrits-antisemites-de-bardella-le-rn-senfonce-dans-une-defense-toute-moisie-20261005_OWBWW7QSNNEIXKCNH7X2ILA25U/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "05 Oct 2026",
-      "date_iso": "2026-10-05T09:22:13+00:00",
-      "titre": "Présidentielle 2027 : Edouard Philippe et Gabriel Attal jouent à rassemble-moi si tu peux",
-      "dek": "Les deux candidats de la droite et du centre tentent de ratisser large, s’estimant chacun être le mieux placé pour unir des camps politiques très différents.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-edouard-philippe-et-gabriel-attal-jouent-a-rassemble-moi-si-tu-peux-20261005_RIBLAXBATZFE3GCI5FVM224GGQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Oct 2026",
-      "date_iso": "2026-10-05T09:00:22+00:00",
-      "titre": "Face au plan d’électrification du gouvernement français, le blues de la filière gazière",
-      "dek": "Les acteurs de la filière gazière déplorent le durcissement de la réglementation sur les dispositifs de chauffage au gaz au profit des pompes à chaleur. Certains dénoncent une politique « tout EDF ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/05/face-au-plan-d-electrification-du-gouvernement-francais-le-blues-de-la-filiere-gaziere_6788510_3234.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "05 Oct 2026",
-      "date_iso": "2026-10-05T08:31:56+00:00",
-      "titre": "Espagne: Pedro Sánchez convoque des élections anticipées le 29 novembre",
-      "dek": "Après le rejet des mesures que son gouvernement avait présentées pour tenter de sortir le pays de la crise du logement, le premier ministre espagnol a annoncé, lundi 5 octobre, la dissolution des chambres du Parlement et un nouveau scrutin.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/051026/espagne-pedro-sanchez-convoque-des-elections-anticipees-le-29-novembre"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Oct 2026",
-      "date_iso": "2026-10-05T08:30:08+00:00",
-      "titre": "Blocage des lycées et mobilisation du 6 octobre : les risques d’une coalition des colères",
-      "dek": "Avec le soutien des organisations professionnelles qui se joindront aux lycées et étudiants lors d’une manifestation mardi, le mouvement passe un cap. Mais le déficit public et la dette de la France privent le gouvernement de marges de manœuvre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/10/05/blocage-des-lycees-et-mobilisation-du-6-octobre-les-risques-d-une-coalition-des-coleres_6788505_3232.html"
     }
   ]
 }
