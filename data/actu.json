@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-06T19:56:15+00:00",
+  "generated_at": "2026-10-06T23:31:56+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "06 Oct 2026",
+      "date_iso": "2026-10-06T22:32:23+00:00",
+      "titre": "Le prêtre Jean-Bernard Plessy, ancien directeur des Chartreux à Lyon, mis en examen pour viol aggravé",
+      "dek": "Selon l’avocate de la plaignante, une jeune étudiante, les « violences dénoncées ont persisté durant plusieurs mois, jusqu’en juillet ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/07/le-pretre-jean-bernard-plessy-ancien-directeur-des-chartreux-a-lyon-mis-en-examen-pour-viol-aggrave_6789198_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "06 Oct 2026",
+      "date_iso": "2026-10-06T20:38:44+00:00",
+      "titre": "Élections de mi-mandat aux États-unis : comment les républicains tentent de l'emporter en redessinant la carte électorale",
+      "dek": "Les Américains s'apprêtent à renouveler tous leurs députés et une partie de leurs sénateurs, mais la bataille se joue aussi sur les cartes électorales. Dans le Tennessee, les républicains ont redessiné les circonscriptions pour tenter de gagner un siège supplémentaire. En réparti…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/elections-de-mi-mandat-aux-etats-unis-comment-les-republicains-tentent-de-l-emporter-en-redessinant-la-carte-electorale_8225797.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -528,28 +550,6 @@
       "dek": "Le site se vante de concentrer 11 milliards d’informations volées – RIB, numéros de Sécu, adresses – à des particuliers mais aussi à des personnalités publiques en France, Suisse et Belgique. La ministre déléguée au Numérique, Anne Le Hénanff, a saisi le procureur de Paris.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/publication-de-donnees-piratees-la-plateforme-brixhub-poursuivie-par-le-ministere-du-numerique-20261006_2TBIA5HBFFGE7D3HMARHVSEPAY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Oct 2026",
-      "date_iso": "2026-10-06T07:30:30+00:00",
-      "titre": "\"L’Heure de vérité\". Avec Édouard Philippe",
-      "dek": "\"L’Heure de vérité\", l’émission qui a marqué l'histoire politique et l’histoire de la télévision, est de retour sur France 2, présentée par Caroline Roux. Jeudi 8 octobre à 20h40, elle reçoit Édouard Philippe, candidat Horizons à l’élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/l-heure-de-verite-avec-edouard-philippe_8205563.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Oct 2026",
-      "date_iso": "2026-10-06T07:26:32+00:00",
-      "titre": "La France insoumise s'est servie des lycéens \"comme de la chair à canon\", accuse Maud Bregeon, porte-parole du gouvernement",
-      "dek": "Invitée des \"4 Vérités\" sur France 2, Maud Bregeon est revenue sur la mobilisation lycéenne et sur l'idée de Jean-Luc Mélenchon de faire porter aux adultes un brassard blanc pour protéger les jeunes manifestants. La porte-parole du gouvernement la juge \"profondément hypocrite de …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-lfi-s-en-est-servie-comme-de-la-chair-a-canon-estime-maud-bregeon-porte-parole-du-gouvernement_8224615.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
