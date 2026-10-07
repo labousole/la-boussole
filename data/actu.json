@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-06T23:31:56+00:00",
+  "generated_at": "2026-10-07T03:42:05+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Oct 2026",
+      "date_iso": "2026-10-07T03:31:57+00:00",
+      "titre": "Mouvement lycéen : Sébastien Lecornu sous la pression de la rue, des oppositions et d’Emmanuel Macron",
+      "dek": "Alors que des milliers de manifestants défilaient dans toute la France, mardi, en soutien à la mobilisation des lycéens, le premier ministre s’est exprimé pour la première fois depuis le début de cette crise sociale. Face aux députés, il a défendu le déploiement d’un important di…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/07/mouvement-lyceen-sebastien-lecornu-sous-la-pression-de-la-rue-des-oppositions-et-d-emmanuel-macron_6789500_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Oct 2026",
+      "date_iso": "2026-10-07T03:00:13+00:00",
+      "titre": "Ecrits antisémites de Jordan Bardella : quelles turbulences au RN ?",
+      "dek": "L’actuel président du Rassemblement national aurait, selon « Mediapart », tenu des propos antisémites au début de sa carrière de militant. Une polémique dont se serait bien passé le parti, dont les divergences internes s’étalent au grand jour depuis plusieurs mois. Dans ce podcas…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/podcasts/article/2026/10/07/ecrits-antisemites-de-jordan-bardella-quelles-turbulences-au-rn_6789432_5463015.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -528,28 +550,6 @@
       "dek": "Cette trajectoire budgétaire « sera confortée par l’adoption d’une règle d’or budgétaire constitutionnelle adoptée par référendum », a précisé la cheffe de file du parti d’extrême droite.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/06/presidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-economies-d-ici-2032_6788959_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "06 Oct 2026",
-      "date_iso": "2026-10-06T08:20:19+00:00",
-      "titre": "Affaire Alstom : l’ancien procureur américain Daniel Kahn invité en «grand témoin» à l’Assemblée nationale",
-      "dek": "Le juriste américain qui a instruit le dossier Alstom sera invité à l’hôtel de Lassay, résidence officielle des présidents de l’Assemblée, le 20 octobre. Il y sera question du «nouvel équilibre des relations franco-américaines», «10 ans après la loi Sapin II».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/affaire-alstom-l-ancien-procureur-americain-daniel-kahn-invite-en-grand-temoin-a-l-assemblee-nationale-20261005"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Oct 2026",
-      "date_iso": "2026-10-06T07:40:42+00:00",
-      "titre": "Publication de données piratées : la plateforme Brixhub poursuivie par le ministère du numérique",
-      "dek": "Le site se vante de concentrer 11 milliards d’informations volées – RIB, numéros de Sécu, adresses – à des particuliers mais aussi à des personnalités publiques en France, Suisse et Belgique. La ministre déléguée au Numérique, Anne Le Hénanff, a saisi le procureur de Paris.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/publication-de-donnees-piratees-la-plateforme-brixhub-poursuivie-par-le-ministere-du-numerique-20261006_2TBIA5HBFFGE7D3HMARHVSEPAY/"
     }
   ]
 }
