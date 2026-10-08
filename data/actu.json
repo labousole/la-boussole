@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-10-07T20:22:34+00:00",
+  "generated_at": "2026-10-08T03:56:25+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "08 Oct 2026",
+      "date_iso": "2026-10-08T04:03:00+00:00",
+      "titre": "Antisémitisme au RN : un cas d’école",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=512645"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Oct 2026",
+      "date_iso": "2026-10-08T03:30:09+00:00",
+      "titre": "Budget : comment Marine Le Pen veut instaurer la préférence nationale dans le secteur privé",
+      "dek": "Dans son « contre-budget », le Rassemblement national envisage notamment de créer une taxe de 1 000 euros pour l’embauche d’un travailleur extra-européen. Une proposition jugée déconnectée des réalités du marché du travail par de nombreux chefs d’entreprise.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/08/budget-comment-marine-le-pen-veut-instaurer-la-preference-nationale-dans-le-secteur-prive_6789892_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Oct 2026",
+      "date_iso": "2026-10-08T03:29:44+00:00",
+      "titre": "Sébastien Lecornu accablé par « la superposition des crises », du mouvement lycéen à la baisse du pouvoir d’achat",
+      "dek": "Dans une allocution télévisée, mercredi soir, le premier ministre a corrigé sa posture vis-à-vis du mouvement des lycéens, manifestant une forme de compréhension. Mais il a prévenu qu’il ne pourrait pas répondre à leurs principales revendications.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/08/sebastien-lecornu-accable-par-la-superposition-des-crises-du-mouvement-lyceen-a-la-baisse-du-pouvoir-d-achat_6789890_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Oct 2026",
+      "date_iso": "2026-10-08T03:27:00+00:00",
+      "titre": "Non, le RN ne descend pas du gaullisme, par Julian Jackson",
+      "dek": "Que les élus lepénistes se revendiquent de l’héritage de De Gaulle est un contresens, qui ne peut tenir face à l’examen des origines maurrassiennes du parti à la flamme.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/non-le-rn-ne-descend-pas-du-gaullisme-20261008_M6VZBJDAIRFLDMTEYBAMJXMLNE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Oct 2026",
+      "date_iso": "2026-10-08T00:35:30+00:00",
+      "titre": "Fabien Roussel accuse le gouvernement israélien de « terrorisme d’Etat »",
+      "dek": "Le candidat communiste à la présidentielle a également condamné, sur LCI, les attaques du Hamas du 7 octobre 2023. Il renvoie dos à dos le gouvernement de Benyamin Nétanyahou et le mouvement islamiste palestinien en dénonçant « des forces extrémistes qui s’affrontent et qui sèmen…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/08/fabien-roussel-accuse-le-gouvernement-israelien-de-terrorisme-d-etat_6789756_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Oct 2026",
+      "date_iso": "2026-10-07T21:56:03+00:00",
+      "titre": "Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier",
+      "dek": "Dans une de prise de parole depuis Matignon mercredi soir, le chef du gouvernement a fait plusieurs annonces, concernant les lycéens, mais aussi les carburants, la crise agricole ou encore, les débats sur le budget.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Oct 2026",
+      "date_iso": "2026-10-07T20:56:46+00:00",
+      "titre": "Mobilisation des lycéens : le Snes-FSU dénonce la \"copie blanche\" de Sébastien Lecornu, qui joue la \"stratégie du pourrissement\"",
+      "dek": "\"Sébastien Lecornu essaye clairement de gagner du temps\", regrette Sophie Vénétitay, secrétaire générale du Snes-FSU, premier syndicat d'enseignants du secondaire, mercredi sur franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-snes-fsu-denonce-la-copie-blanche-de-sebastien-lecornu-qui-joue-la-strategie-du-pourrissement_8227486.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Oct 2026",
+      "date_iso": "2026-10-07T20:23:20+00:00",
+      "titre": "Sébastien Lecornu \"n'a pas pris l'ampleur des attentes de la jeunesse\", souligne le député PS Arthur Delaporte, après l'allocution du Premier ministre",
+      "dek": "\"C'était une intervention assez froide et assez sidérante\", déplore le député socialiste du Calvados, mercredi sur franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-n-a-pas-pris-l-ampleur-des-attentes-de-la-jeunesse-souligne-le-depute-ps-arthur-delaporte-apres-l-allocution-du-premier-ministre_8227459.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Oct 2026",
+      "date_iso": "2026-10-07T20:16:45+00:00",
+      "titre": "\"Je vois l'intelligence artificielle comme une aide\" : des députés assument d'utiliser l'IA pour rédiger leurs questions et leurs amendements",
+      "dek": "Qui écrit les textes de nos députés dans l'Hémicycle ? \"L'Œil du 20 Heures\" a enquêté sur la place de l'intelligence artificielle à l'Assemblée nationale. Questions au gouvernement, ou même amendements, son utilisation explose. Confrontés à nos découvertes, les élus interrogés as…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/je-vois-l-intelligence-artificielle-comme-une-aide-des-deputes-assument-d-utiliser-l-ia-pour-rediger-leurs-questions-et-leurs-amendements_8227393.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -173,7 +272,7 @@
       "date": "07 Oct 2026",
       "date_iso": "2026-10-07T17:31:36+00:00",
       "titre": "«Frogs», dernière invention de la finance pour soumettre la France à la pression des marchés",
-      "dek": "Un institut patronal a popularisé l’acronyme «Frogs» pour stigmatiser la situation financière de la France et accroître la pression des marchés sur le pays. Une stratégie des élites économiques pour conserver le pouvoir, malgré leur bilan désastreux.",
+      "dek": "Un institut patronal a popularisé l’acronyme pour stigmatiser la situation financière de la France et accroître la pression des marchés sur le pays. Une stratégie des élites économiques pour conserver le pouvoir, malgré leur bilan désastreux.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/economie-et-social/071026/frogs-derniere-invention-de-la-finance-pour-soumettre-la-france-la-pression-des-marches"
     },
@@ -451,105 +550,6 @@
       "dek": "Cette suppression est loin d’être définitive, puisque les députés repartiront de la copie initiale le 13 octobre dans l’Hémicycle. Les discussions en commission donnent toutefois un aperçu des rapports de force à l’Assemblée nationale.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/07/budget-2027-les-deputes-rejettent-en-commission-la-reforme-de-l-abattement-fiscal-de-10-sur-les-retraites-jugee-antisociale_6789580_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T09:21:20+00:00",
-      "titre": "Une pétition pour \"interdire des armes mutilantes dans les manifestations lycéennes\" dépasse les 50 000 signatures sur le site de l'Assemblée nationale",
-      "dek": "Lancée le 5 octobre par un parent professeur, elle dénonce une réponse sécuritaire au mouvement lycéen \"totalement disproportionnée\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-petition-pour-interdire-des-armes-mutilantes-dans-les-manifestations-lyceennes-depasse-les-50-000-signatures-sur-le-site-de-l-assemblee-nationale_8226547.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T09:20:58+00:00",
-      "titre": "Au Québec, la victoire des indépendantistes s’inscrit dans la droitisation du débat public",
-      "dek": "Lundi 5 octobre, le Parti québécois a remporté les élections législatives provinciales avec 28% des suffrages exprimés. Son chef, Paul St-Pierre Plamondon, s’apprête à diriger un gouvernement minoritaire. Il incarne une ligne durcie sur l’immigration et l’identité.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/071026/au-quebec-la-victoire-des-independantistes-s-inscrit-dans-la-droitisation-du-debat-public"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T09:09:14+00:00",
-      "titre": "Slip français, électroménager, opticien... 25 ministres ont été victimes de fuites de données en ligne",
-      "dek": "De Sébastien Lecornu à Jean-Didier Berger, plus des deux tiers des membres du gouvernement ont vu certaines de leurs données personnelles être exploitées, selon les calculs du «Canard enchaîné».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/slip-francais-electromenager-opticien-25-ministres-ont-ete-victimes-de-fuites-de-donnees-en-ligne-20261007_Q4J3MFQJFRALFEPWXBAH7LFMGE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T08:43:35+00:00",
-      "titre": "Pour le président du Crif, l'eurodéputée LFI Rima Hassan a \"symboliquement pris le parti du Hamas\" en \"renversant un drapeau israélien\" au Parlement européen",
-      "dek": "Yonathan Arfi estime ce comportement indigne d'une élue. Cela revient, selon lui, à \"piétiner les valeurs fondamentales de démocratie qu'elle est censée incarner\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/israel/pour-le-president-du-crif-l-eurodeputee-lfi-rima-hassan-a-symboliquement-pris-le-parti-du-hamas-en-renversant-un-drapeau-israelien-au-parlement-europeen_8226502.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T08:35:18+00:00",
-      "titre": "Amélie Cadier-Loriaud : « Le mythe de la responsabilité individuelle est le moteur du capitalisme sanitaire »",
-      "dek": "Dans Nos Corps politiques, la médecin-philosophe détricote les injonctions permanentes « pour notre bonne santé », et défend une médecine plus collective, empathique et consciente que nous vivons toutes et tous dans un monde contaminé.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=512002"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T08:32:51+00:00",
-      "titre": "L’angoisse d’une victoire du RN en 2027, cet autre carburant de la mobilisation des lycéens",
-      "dek": "Même si ceux qui manifestent n’auront majoritairement pas le droit de vote lors du prochain scrutin présidentiel, ils se sentent concernés par le résultat des urnes. Inscrite sur nombre de pancartes, l’inquiétude de voir Marine Le Pen entrer à l’Elysée illustre la fracture généra…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/langoisse-dune-victoire-du-rn-en-2027-cet-autre-carburant-de-la-mobilisation-des-lyceens-20261007_RGXZK7JJTBDEZMY6AVSEW4QIWA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T08:30:01+00:00",
-      "titre": "Mobilisations lycéennes : l’affirmation d’un mouvement social",
-      "dek": "Après trois semaines de revendications des élèves, le bilan humain demeure terrible. La gestion ultra-sécuritaire du gouvernement, traumatisé depuis le mouvement « gilets jaunes », a abîmé le droit de manifester.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/10/07/mobilisations-lyceennes-l-affirmation-d-un-mouvement-social_6789570_3232.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T07:51:14+00:00",
-      "titre": "«Frappée avec un câble»: au procès pour violences conjugales d’un homme qui finira par tuer ses enfants",
-      "dek": "Devant le tribunal correctionnel de Versailles, mardi 6 octobre, Daouda K. a reconnu les coups et humiliations régulièrement infligés à son ex-compagne. Mais le double infanticide qu’il a commis le jour où elle l’a quitté, toujours en cours d’instruction, n’a pu être évoqué.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/071026/frappee-avec-un-cable-au-proces-pour-violences-conjugales-d-un-homme-qui-finira-par-tuer-ses-enfants"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Oct 2026",
-      "date_iso": "2026-10-07T07:31:09+00:00",
-      "titre": "Mouvement lycéen : le silence de Macron",
-      "dek": "La jeunesse souffre et l’Élysée regarde ailleurs. Depuis le début du mouvement lycéen, Emmanuel Macron se tait. Ses seuls mots, il les a prononcés depuis l’étranger, pour fustiger les jeunes sous prétexte qu’«&#160;aucun de ces débats, aucune de ces craintes ne légitime la violen…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/mouvement-lyceen/mouvement-lyceen-le-silence-de-macron"
     }
   ]
 }
