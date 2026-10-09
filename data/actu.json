@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-10-09T19:57:44+00:00",
+  "generated_at": "2026-10-09T23:50:02+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T21:53:16+00:00",
+      "titre": "Au dernier jour d'examen de la loi \"intégrale\", le Rassemblement national fait tomber plusieurs mesures",
+      "dek": "Ces votes ont suscité les critiques de la coalition féministe et enfantiste à l'origine du texte, celle-ci dénonçant un \"recul\" sur \"les droits au travail et la protection des femmes étrangères\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/au-dernier-jour-d-examen-de-la-loi-integrale-le-rassemblement-national-fait-tomber-plusieurs-mesures_8230735.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T21:28:21+00:00",
+      "titre": "\"Le récit du gouvernement\" pointant du doigt une \"manipulation politique\" du mouvement lycéen \"a servi LFI\", estime Alexis Corbière",
+      "dek": "Alors que le mouvement lycéen continue, Alexis Corbière, député Écologiste et social de Seine-Saint-Denis assène que le \"mouvement n'est pas organisé par un parti politique\". De son côté, Andréa Kotarac, Conseiller régional d'Auvergne-Rhône-Alpes et porte-parole du RN, défend les…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-recit-du-gouvernement-pointant-du-doigt-une-manipulation-politique-du-mouvement-lyceen-a-servi-lfi-estime-alexis-corbiere_8230651.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T21:06:05+00:00",
+      "titre": "Primaire de la gauche : la plateforme piratée, le vote prolongé",
+      "dek": "La plateforme de vote pour la primaire de la gauche a été “victime d’une cyberattaque“, annonce la commission d’organisation. Le scrutin qui devait prendre fin samedi sera prolongé jusqu'à dimanche 11 octobre à 18 heures.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-gauche-la-plateforme-piratee-le-vote-prolonge_8230804.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T20:49:41+00:00",
+      "titre": "Budget 2027 : les députés rejettent largement la partie « recettes » en commission, le texte débattu à partir de mardi dans l’Hémicycle",
+      "dek": "La mise à contribution des retraités et des collectivités a cristallisé les tensions lors des débats en commission sur le budget 2027. Les députés repartiront de la copie initiale dans l’Hémicycle, dès mardi.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/09/budget-2027-les-deputes-rejettent-la-partie-recettes-en-commission_6790637_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T20:42:35+00:00",
+      "titre": "\"C'est le Moyen-Âge\" : outrage aux États-Unis après l'annonce d'une exécution publique et diffusée en direct",
+      "dek": "Les États-Unis vont-ils rejoindre l'Iran et l'Afghanistan en rétablissant la peine de mort publique ? Le ministre de la défense Pete Hegseth a annoncé que la mise à mort par peloton d'exécution de l'auteur d'une tuerie de masse sera diffusée en direct.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/usa/c-est-le-moyen-age-outrage-aux-etats-unis-apres-l-annonce-d-une-execution-publique-et-diffusee-en-direct_8230690.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T20:15:10+00:00",
+      "titre": "L'extrême droite allemande lorgne l'Alsace et la Lorraine",
+      "dek": "L'AfD rêve de reprendre l'Alsace et la Lorraine.  Dans un tweet, un membre du parti d'extrême droite, l'Afd a publié une carte de l'Allemagne incluant l'Alsace et la Moselle. Un rêve de \"Grande Allemagne\" qui a déchainé les réactions indignées de part et d'autre de la frontière.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-lorgne-sur-l-alsace-et-la-lorraine_8230633.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T20:01:47+00:00",
+      "titre": "Présidentielle 2027 : le très droitier Gilles Platret présente sa candidature et embouteille son espace politique",
+      "dek": "Le maire de Châlon-sur-Saône, ancien vice-président de LR, a annoncé dans sa ville son intention de concourir à la magistrature suprême, jeudi soir. Ajoutant son nom à la longue, longue liste de prétendants de droite et d’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-tres-droitier-gilles-platret-presente-sa-candidature-et-embouteille-son-espace-politique-20261009_AKT3J6HRJJFFBJK6I7QQ6TSJ4Q/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "09 Oct 2026",
+      "date_iso": "2026-10-09T19:57:05+00:00",
+      "titre": "REPLAY. \"Lycéens en colère : anatomie d'une lutte\" : regardez le documentaire de franceinfo qui revient sur trois semaines de mobilisation de la jeunesse",
+      "dek": "Franceinfo raconte la montée en puissance de la mobilisation et décrypte le bras de fer, parfois violent, qui s'est installé entre la jeunesse et le gouvernement.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-lyceens-en-colere-anatomie-d-une-lutte-regardez-le-documentaire-de-franceinfo-qui-revient-sur-trois-semaines-de-mobilisation-de-la-jeunesse_8230564.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -17,44 +105,11 @@
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T19:53:40+00:00",
-      "titre": "REPLAY. \"Lycéens en colère : anatomie d'une lutte\" : regardez le documentaire de franceinfo qui revient sur trois semaines de mobilisation de la jeunesse",
-      "dek": "Franceinfo raconte la montée en puissance de la mobilisation et décrypte le bras de fer, parfois violent, qui s'est installé entre la jeunesse et le gouvernement.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-lyceens-en-colere-anatomie-d-une-lutte-regardez-le-documentaire-de-franceinfo-qui-revient-sur-trois-semaines-de-mobilisation-de-la-jeunesse_8230564.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T19:08:34+00:00",
-      "titre": "\"Le récit du gouvernement\" pointant du doigt une \"manipulation politique\" du mouvement lycéen \"a servi LFI\", estime Alexis Corbière",
-      "dek": "Alors que le mouvement lycéen continue, Alexis Corbière, député Écologiste et social de Seine-Saint-Denis assène que le \"mouvement n'est pas organisé par un parti politique\". De son côté, Andréa Kotarac, Conseiller régional d'Auvergne-Rhône-Alpes et porte-parole du RN, défend les…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-recit-du-gouvernement-pointant-du-doigt-une-manipulation-politique-du-mouvement-lyceen-a-servi-lfi-estime-alexis-corbiere_8230651.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Oct 2026",
       "date_iso": "2026-10-09T19:00:02+00:00",
       "titre": "L'extrême droite allemande lorgne sur l'Alsace et la Lorraine",
       "dek": "L'AfD rêve de reprendre l'Alsace et la Lorraine.  Dans un tweet, un membre du parti d'extrême droite, l'Afd a publié une carte de l'Allemagne incluant l'Alsace et la Moselle. Un rêve de \"Grande Allemagne\" qui a déchainé les réactions indignées de part et d'autre de la frontière.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-lorgne-sur-l-alsace-et-la-lorraine_8230633.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T18:45:45+00:00",
-      "titre": "\"C'est le Moyen-Âge\" : outrage aux États-Unis après l'annonce d'une exécution publique et diffusée en direct",
-      "dek": "Les États-Unis vont-ils rejoindre l'Iran et l'Afghanistan en rétablissant la peine de mort publique ? Le ministre de la défense Pete Hegseth a annoncé que la mise à mort par peloton d'exécution de l'auteur d'une tuerie de masse sera diffusée en direct.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/usa/c-est-le-moyen-age-outrage-aux-etats-unis-apres-l-annonce-d-une-execution-publique-et-diffusee-en-direct_8230690.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -495,61 +550,6 @@
       "dek": "Nos confrères ont révélé que ce collaborateur avait multiplié les propos outranciers, complotistes, racistes, antisémites ou masculinistes.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/le-depute-rn-franck-allisio-se-separe-d-un-assistant-mis-en-cause-par-liberation-pour-des-posts-sur-facebook_8229739.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T09:03:42+00:00",
-      "titre": "Pour les meetings de Mélenchon, LFI veut coller aux basques de ses adversaires",
-      "dek": "Le coordinateur du mouvement Manuel Bompard a explicité la stratégie de campagne insoumise : organiser des meetings proches de ceux des autres candidats comme démonstration de force.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/pour-les-meetings-de-melenchon-lfi-veut-coller-aux-basques-de-ses-adversaires-20261009_YDXFFQMF3VCYPAI64WBUPZK62A/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T09:03:18+00:00",
-      "titre": "Menacée, Rima Hassan délivre une leçon d’empathie",
-      "dek": "L’eurodéputée s’est entretenue au téléphone avec Adrien J., l’homme armé qui l’a menacée sur les réseaux sociaux, et contre lequel elle porte plainte. Ce dernier regretterait son geste.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/menacee-rima-hassan-delivre-une-lecon-dempathie-20261009_Y5COAD2U6BGVNLOFKKQPOOHBJ4/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T09:00:00+00:00",
-      "titre": "Soupçons de fraude électorale à Clichy : le préfet, la « ligne directe » et ses zones d’ombre",
-      "dek": "Les élections municipales à Clichy (Hauts-de-Seine) ont été particulièrement serrées. Alertés sur des soupçons de fraudes avant le scrutin, les services de la préfecture ont d’abord ouvert une «&nbsp;ligne directe&nbsp;» avec les équipes de la candidate socialiste, avant de la fe…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/alexandre-brugere/soupcons-de-fraude-electorale-a-clichy-le-prefet-la-ligne-directe-et-ses-zones-dombre"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T09:00:00+00:00",
-      "titre": "Quand le sort des femmes iraniennes sert d’alibi à l’islamophobie",
-      "dek": "Toutes celles et ceux qui n’évoquent le courage des femmes iraniennes que pour légiférer sur le corps des femmes musulmanes en France et en Europe se foutent royalement de leur sort.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=511968"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T08:13:32+00:00",
-      "titre": "Niche parlementaire du RN : zéro pointé pour le parti",
-      "dek": "Les députés lepénistes ne sont pas parvenus, cette fois-ci, à faire adopter un seul texte, jeudi 8 octobre lors de leur niche parlementaire.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/niche-parlementaire-du-rn-zero-pointe-pour-le-parti-20261009_JBAMN7WPNNFCBFUTJCAYHUBEDQ/"
     }
   ]
 }
