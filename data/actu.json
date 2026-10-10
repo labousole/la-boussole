@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-10T19:05:04+00:00",
+  "generated_at": "2026-10-10T23:07:31+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Oct 2026",
+      "date_iso": "2026-10-10T22:15:33+00:00",
+      "titre": "Primaire à gauche : dans les sections locales, les militants mobilisés pour offrir un cadre rassurant",
+      "dek": "Après une première journée chaotique, à la suite d’une cyberattaque perturbant l’accès à la plateforme, les votes se sont déroulés plus posément, samedi 10 octobre. A 20 heures, plus de 105 000 personnes sur les 140 000 inscrits avaient exprimé leur choix entre les cinq candidats…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Oct 2026",
+      "date_iso": "2026-10-10T21:34:46+00:00",
+      "titre": "Primaire de la gauche sociale-démocrate : plus de 100 000 personnes ont déjà voté, selon la commission d’organisation",
+      "dek": "Ce chiffre, qui correspond à plus de trois quarts des inscrits, est nettement supérieur aux 20 000 personnes qui avaient pu voter jusqu’à vendredi 19 heures.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-de-la-gauche-sociale-democrate-plus-de-100-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823449.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Oct 2026",
+      "date_iso": "2026-10-10T21:12:12+00:00",
+      "titre": "Présidentielle 2027 : la primaire de la gauche franchit la barre des 100 000 votants à la veille de la fin du vote",
+      "dek": "Les 140 000 inscrits à la plateforme du scrutin ont jusqu'à dimanche 18 heures pour choisir entre cinq candidats.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-gabriel-attal-jean-luc-melenchon-la-mobilisation-lyceenne-et-la-jeunesse-au-programme-des-grands-meetings-politiques-du-week-end_8231161.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Oct 2026",
+      "date_iso": "2026-10-10T20:15:40+00:00",
+      "titre": "Octobre rose : Mathilde Panot refuse de porter le ruban, tollé au gouvernement et au RN",
+      "dek": "La députée LFI dénonce le « cynisme » d’une campagne qu’elle relie à l’industrie chimique et à Israël, des propos que la ministre de la santé juge « approximatifs » et où Marine Le Pen voit de l’antisémitisme.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/10/octobre-rose-mathilde-panot-refuse-de-porter-le-ruban-tolle-au-gouvernement-et-au-rn_6791027_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -503,50 +547,6 @@
       "date": "09 Oct 2026",
       "date_iso": "2026-10-09T20:15:10+00:00",
       "titre": "L'extrême droite allemande lorgne l'Alsace et la Lorraine",
-      "dek": "L'AfD rêve de reprendre l'Alsace et la Lorraine.  Dans un tweet, un membre du parti d'extrême droite, l'Afd a publié une carte de l'Allemagne incluant l'Alsace et la Moselle. Un rêve de \"Grande Allemagne\" qui a déchainé les réactions indignées de part et d'autre de la frontière.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-lorgne-sur-l-alsace-et-la-lorraine_8230633.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T20:01:47+00:00",
-      "titre": "Présidentielle 2027 : le très droitier Gilles Platret présente sa candidature et embouteille son espace politique",
-      "dek": "Le maire de Châlon-sur-Saône, ancien vice-président de LR, a annoncé dans sa ville son intention de concourir à la magistrature suprême, jeudi soir. Ajoutant son nom à la longue, longue liste de prétendants de droite et d’extrême droite.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-tres-droitier-gilles-platret-presente-sa-candidature-et-embouteille-son-espace-politique-20261009_AKT3J6HRJJFFBJK6I7QQ6TSJ4Q/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T19:57:05+00:00",
-      "titre": "REPLAY. \"Lycéens en colère : anatomie d'une lutte\" : regardez le documentaire de franceinfo qui revient sur trois semaines de mobilisation de la jeunesse",
-      "dek": "Franceinfo raconte la montée en puissance de la mobilisation et décrypte le bras de fer, parfois violent, qui s'est installé entre la jeunesse et le gouvernement.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-lyceens-en-colere-anatomie-d-une-lutte-regardez-le-documentaire-de-franceinfo-qui-revient-sur-trois-semaines-de-mobilisation-de-la-jeunesse_8230564.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T19:55:06+00:00",
-      "titre": "DIRECT. Mobilisation des lycéens : \"Non\", le mouvement ne s'essouffle pas, estime le représentant fédéral de l'Union syndicale lycéenne à Paris",
-      "dek": "Des propos tenus alors qu'une source gouvernementale a évoqué une \"nette décélération\" de la mobilisation un peu plus tôt dans la journée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-3-000-professeurs-remplacants-vont-etre-affectes-dans-les-heures-qui-viennent-l-association-les-lyceens-salue-une-premiere-annonce-concrete_8229388.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T19:00:02+00:00",
-      "titre": "L'extrême droite allemande lorgne sur l'Alsace et la Lorraine",
       "dek": "L'AfD rêve de reprendre l'Alsace et la Lorraine.  Dans un tweet, un membre du parti d'extrême droite, l'Afd a publié une carte de l'Allemagne incluant l'Alsace et la Moselle. Un rêve de \"Grande Allemagne\" qui a déchainé les réactions indignées de part et d'autre de la frontière.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-lorgne-sur-l-alsace-et-la-lorraine_8230633.html#xtor=RSS-3-%5Bgeneral%5D"
