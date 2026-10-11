@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-11T19:17:13+00:00",
+  "generated_at": "2026-10-11T23:21:13+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Oct 2026",
+      "date_iso": "2026-10-11T23:10:23+00:00",
+      "titre": "EN DIRECT, primaire à gauche : Raphaël Glucksmann, élu dès le premier tour, promet de « rassembler » la gauche pour « battre l’extrême droite », et réaffirme son refus de s’allier avec LFI",
+      "dek": "L’eurodéputé a été largement désigné candidat de la gauche sociale-démocrate à la présidentielle, dimanche soir, avec 66 % des voix. Il devance de très loin le premier secrétaire du PS, Olivier Faure (14 %). Ségolène Royal, Jérôme Guedj et Emmanuel Maurel obtiennent tous moins de…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-raphael-glucksmann-elu-des-le-premier-tour-promet-de-rassembler-la-gauche-pour-battre-l-extreme-droite-et-reaffirme-son-refus-de-s-allier-avec-lfi_6791926_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Oct 2026",
+      "date_iso": "2026-10-11T21:34:54+00:00",
+      "titre": "Raphaël Glucksmann gagne la primaire de la gauche : \"C'est la victoire de ceux qui croient qu'il faut une gauche démocratique dans notre pays\", déclare le candidat à l'élection présidentielle",
+      "dek": "Le candidat de Place publique, Raphaël Glucksmann, est sorti victorieux de la primaire organisée par le Parti socialiste et son propre parti, dimanche 11 octobre. Il l'a emporté largement dès le premier tour avec plus de 66 % des voix et était l'invité du 20 Heures de France 2 po…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/raphael-glucksmann-gagne-la-primaire-de-la-gauche-c-est-la-victoire-de-ceux-qui-croient-qu-il-faut-une-gauche-democratique-dans-notre-pays-declare-le-candidat-a-l-election-presidentielle_8233051.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "11 Oct 2026",
+      "date_iso": "2026-10-11T19:34:02+00:00",
+      "titre": "«Vous voyez d’autres candidats qui tiennent la mer?»: à Clermont, Jean-Luc Mélenchon fait encore le plein",
+      "dek": "Le candidat insoumis à l’élection présidentielle a réuni dimanche près de 10 000 personnes, venues de la campagne auvergnate comme des quartiers populaires de Clermont-Ferrand. Une manière de montrer que sa ligne, axée sur la défense des services publics, peut mobiliser largement…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/111026/vous-voyez-d-autres-candidats-qui-tiennent-la-mer-clermont-jean-luc-melenchon-fait-encore-le-plein"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Oct 2026",
+      "date_iso": "2026-10-11T19:29:51+00:00",
+      "titre": "REPORTAGE. À Clermont-Ferrand, Jean-Luc Mélenchon fait salle comble et déroule ses propositions sur la jeunesse et l'éducation",
+      "dek": "Suppression de Parcoursup, droit de vote à 16 ans... Le quadruple candidat à la présidentielle a réaffirmé plusieurs de ses propositions concernant ces deux thèmes brûlants sur fond de colère lycéenne.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/a-clermont-ferrand-jean-luc-melenchon-fait-salle-comble-et-deroule-ses-propositions-sur-la-jeunesse-et-l-education_8232880.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -19,7 +63,7 @@
       "date": "11 Oct 2026",
       "date_iso": "2026-10-11T19:12:33+00:00",
       "titre": "Pendant ce temps-là, à Clermont-Ferrand, Mélenchon ignore le PS et attaque d’abord Philippe et Attal",
-      "dek": "En meeting au Zénith d’Auvergne ce dimanche 11 octobre, le candidat de La France insoumise a ostensiblement snobé la primaire à gauche, laissant entendre que la partie se joue déjà contre les autres concurrents politiques.",
+      "dek": "En meeting au Zénith d’Auvergne ce dimanche 11 octobre, le candidat de La France insoumise a ostensiblement snobé la primaire des socialistes, laissant entendre que la partie se joue déjà ailleurs.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/pendant-ce-temps-la-a-clermont-ferrand-melenchon-ignore-le-ps-et-attaque-dabord-philippe-et-attal-20261011_4VN57SIFK5CFNCWQVHEHBCHKPI/"
     },
@@ -165,17 +209,6 @@
       "dek": "Pas de panique si vous avez décroché de l’actu ce week-end, « l’Humanité » vous fait un récap' de ce qu’il ne fallait pas manquer ces 10 et 11 octobre 2026",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/meeting-melenchon/glucksmann-designe-candidat-social-democrate-au-premier-tour-le-gouvernement-menace-davoir-recours-aux-ordonnances-sur-le-budget-2027-ce-quil-ne-fallait-pas-manquer-ce-week-end"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Oct 2026",
-      "date_iso": "2026-10-11T16:44:20+00:00",
-      "titre": "REPORTAGE. À Clermont-Ferrand, Jean-Luc Mélenchon fait salle comble et déroule ses propositions sur la jeunesse et l'éducation",
-      "dek": "Suppression de Parcoursup, droit de vote à 16 ans... Le quadruple candidat à la présidentielle a réaffirmé plusieurs de ses propositions concernant ces deux thèmes brûlants sur fond de colère lycéenne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/a-clermont-ferrand-jean-luc-melenchon-fait-salle-comble-et-deroule-ses-propositions-sur-la-jeunesse-et-l-education_8232880.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -517,39 +550,6 @@
       "dek": "A Lyon, samedi 10 octobre, où il donnait le coup d’envoi à sa tournée de meetings régionaux, le candidat Renaissance, devancé par Jean-Luc Mélenchon chez les 18-24 ans, a tenté de reprendre la main en mettant en avant ses mesures éducatives.",
       "avis": null,
       "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Oct 2026",
-      "date_iso": "2026-10-10T22:15:33+00:00",
-      "titre": "Primaire à gauche : dans les sections locales, les militants mobilisés pour rassurer les votants après la cyberattaque",
-      "dek": "Après une première journée chaotique, à la suite d’une cyberattaque perturbant l’accès à la plateforme, les votes se sont déroulés plus posément, samedi 10 octobre. A 20 heures, plus de 105 000 personnes, sur 140 000 inscrits, avaient exprimé leur choix entre les cinq candidats.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/11/primaire-a-gauche-dans-les-sections-locales-les-militants-mobilises-pour-offrir-un-cadre-rassurant_6791094_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Oct 2026",
-      "date_iso": "2026-10-10T21:34:46+00:00",
-      "titre": "Primaire de la gauche sociale-démocrate : plus de 100 000 personnes ont déjà voté, selon la commission d’organisation",
-      "dek": "Ce chiffre, qui correspond à plus de trois quarts des inscrits, est nettement supérieur aux 20 000 personnes qui avaient pu voter jusqu’à vendredi 19 heures.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/10/primaire-de-la-gauche-sociale-democrate-plus-de-100-000-personnes-ont-deja-vote-selon-la-commission-d-organisation_6790987_823449.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Oct 2026",
-      "date_iso": "2026-10-10T21:12:12+00:00",
-      "titre": "Présidentielle 2027 : la primaire de la gauche franchit la barre des 100 000 votants à la veille de la fin du vote",
-      "dek": "Les 140 000 inscrits à la plateforme du scrutin ont jusqu'à dimanche 18 heures pour choisir entre cinq candidats.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-gabriel-attal-jean-luc-melenchon-la-mobilisation-lyceenne-et-la-jeunesse-au-programme-des-grands-meetings-politiques-du-week-end_8231161.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
