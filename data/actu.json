@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-10T23:07:31+00:00",
+  "generated_at": "2026-10-11T03:19:36+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Oct 2026",
+      "date_iso": "2026-10-10T23:16:22+00:00",
+      "titre": "Présidentielle 2027 : en raison du mouvement lycéen, Gabriel Attal réajuste son programme et défend un « pacte pour la jeunesse »",
+      "dek": "A Lyon, samedi 10 octobre, où il donnait le coup d’envoi à sa tournée de meetings régionaux, le candidat Renaissance, devancé par Jean-Luc Mélenchon chez les 18-24 ans, a tenté de reprendre la main en mettant en avant ses mesures éducatives.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -539,17 +550,6 @@
       "dek": "Les États-Unis vont-ils rejoindre l'Iran et l'Afghanistan en rétablissant la peine de mort publique ? Le ministre de la défense Pete Hegseth a annoncé que la mise à mort par peloton d'exécution de l'auteur d'une tuerie de masse sera diffusée en direct.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/monde/usa/c-est-le-moyen-age-outrage-aux-etats-unis-apres-l-annonce-d-une-execution-publique-et-diffusee-en-direct_8230690.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Oct 2026",
-      "date_iso": "2026-10-09T20:15:10+00:00",
-      "titre": "L'extrême droite allemande lorgne l'Alsace et la Lorraine",
-      "dek": "L'AfD rêve de reprendre l'Alsace et la Lorraine.  Dans un tweet, un membre du parti d'extrême droite, l'Afd a publié une carte de l'Allemagne incluant l'Alsace et la Moselle. Un rêve de \"Grande Allemagne\" qui a déchainé les réactions indignées de part et d'autre de la frontière.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-lorgne-sur-l-alsace-et-la-lorraine_8230633.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
