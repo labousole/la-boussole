@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-11T23:21:13+00:00",
+  "generated_at": "2026-10-12T03:42:30+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Oct 2026",
+      "date_iso": "2026-10-12T03:33:09+00:00",
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann, vainqueur de la primaire à gauche, au défi de mettre la famille sociale-démocrate en ordre de bataille",
+      "dek": "Le coprésident de Place publique, qui l’a emporté dès le premier tour dimanche, a revendiqué la « rupture avec le macronisme » et la fin de « l’hégémonie de Jean-Luc Mélenchon sur la gauche », tout en assurant que le principal adversaire reste « l’extrême droite ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/12/presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-a-gauche-au-defi-de-mettre-la-famille-sociale-democrate-en-ordre-de-bataille_6792381_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Oct 2026",
+      "date_iso": "2026-10-12T03:30:08+00:00",
+      "titre": "Mobilisation lycéenne : à La Réunion, le maire LFI du Tampon, Alexis Chaussalet, dans le rôle du grand frère",
+      "dek": "Ancien responsable local de l’Union nationale lycéenne, l’édile « insoumis » soutient le mouvement qui dénonce des conditions d’études dégradées et les inégalités de Parcoursup. Et se défend de toute instrumentalisation.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/12/mobilisation-lyceenne-a-la-reunion-le-maire-lfi-du-tampon-alexis-chaussalet-dans-le-role-du-grand-frere_6792344_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "12 Oct 2026",
+      "date_iso": "2026-10-12T03:00:00+00:00",
+      "titre": "Primaire PS : pourquoi la victoire de Raphaël Glucksmann est une bonne nouvelle pour Jean-Luc Mélenchon",
+      "dek": "Vainqueur de la primaire organisée par le Parti socialiste, l’eurodéputé pourrait chercher à jouer la concurrence avec le centre et la droite philippiste. Et ouvrirait ainsi un espace encore plus conséquent à gauche pour l’insoumis.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/primaire-ps-pourquoi-la-victoire-de-raphael-glucksmann-est-une-bonne-nouvelle-pour-jean-luc-melenchon-20261012_Y4NJUICFOJG23DKSAZXZLNQ42M/"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -517,39 +550,6 @@
       "dek": "L’entreprise alsacienne a aspiré des milliers de CV sur des plateformes d’emploi pour les trier selon le genre et l’origine supposée des candidats, à leur insu. Des documents internes et des témoignages recueillis par «Rue89 Strasbourg» décrivent ce dispositif utilisé pour recrut…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/111026/chez-plus-que-pro-des-milliers-de-cv-tries-sur-des-criteres-sexistes-et-xenophobes"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Oct 2026",
-      "date_iso": "2026-10-11T04:42:16+00:00",
-      "titre": "\"Sa dynamique inquiète beaucoup\" : pourquoi Jean-Luc Mélenchon est-il \"très haut très tôt\" dans les sondages pour la présidentielle ?",
-      "dek": "Le candidat de La France insoumise mène, à 75 ans, tambour battant sa quatrième candidature à l'élection présidentielle avec le sentiment que celle-ci pourrait bien être la bonne. Les sondages confirment une dynamique qui réjouit les insoumis et inquiète leurs adversaires.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/melenchon/sa-dynamique-inquiete-beaucoup-pourquoi-jean-luc-melenchon-est-il-tres-haut-tres-tot-dans-les-sondages-pour-la-presidentielle_8230090.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "11 Oct 2026",
-      "date_iso": "2026-10-11T04:00:12+00:00",
-      "titre": "« La question environnementale a mis en lumière et banalisé, ces dernières années, l’usage politique du maintien de l’ordre »",
-      "dek": "La gravité des troubles à l’ordre public est jugée à l’aune du positionnement politique de ceux qui les commettent, dénonce, dans sa chronique, Stéphane Foucart, journaliste au service Planète.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/10/11/la-question-environnementale-a-mis-en-lumiere-et-banalise-ces-dernieres-annees-l-usage-politique-du-maintien-de-l-ordre_6791270_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Oct 2026",
-      "date_iso": "2026-10-10T23:16:22+00:00",
-      "titre": "Présidentielle 2027 : en raison du mouvement lycéen, Gabriel Attal réajuste son programme et défend un « pacte pour la jeunesse »",
-      "dek": "A Lyon, samedi 10 octobre, où il donnait le coup d’envoi à sa tournée de meetings régionaux, le candidat Renaissance, devancé par Jean-Luc Mélenchon chez les 18-24 ans, a tenté de reprendre la main en mettant en avant ses mesures éducatives.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/10/11/presidentielle-2027-face-au-mouvement-lyceen-gabriel-attal-reajuste-son-programme-et-defend-un-pacte-pour-la-jeunesse_6791096_6205049.html"
     }
   ]
 }
