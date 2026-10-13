@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-10-12T22:20:46+00:00",
+  "generated_at": "2026-10-13T04:55:11+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T04:35:55+00:00",
+      "titre": "Horizons propose un \"budget alternatif\", avec 10 milliards d'économies supplémentaires",
+      "dek": "Le parti d'Edouard Philippe souhaite \"annuler 10 milliards de hausses d'impôts prévues, contre des économies du même montant\", a détaillé le député Laurent Marcangeli dans une interview au \"Figaro\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/horizons-propose-un-budget-alternatif-avec-10-milliards-d-economies-supplementaires_8234875.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T04:30:00+00:00",
+      "titre": "Pourquoi le déficit public pourrait être le grand sacrifié de la bataille budgétaire",
+      "dek": "DÉCRYPTAGE - Bercy s’accroche à sa cible de 5 % de déficit pour l’an prochain. Mais la tournure des débats ne laisse rien présager de bon pour permettre au gouvernement d’atteindre cet objectif.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/pourquoi-le-deficit-public-pourrait-etre-le-grand-sacrifie-de-la-bataille-budgetaire-20261013"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T04:12:00+00:00",
+      "titre": "Loi contre la sérophobie : «On pense que le VIH c’est fini, or il existe des discriminations en chaîne»",
+      "dek": "Parce qu’elle demeure insuffisamment nommée et combattue, la sénatrice Les Ecologistes Anne Souyris porte une proposition de loi visant à «prévenir, reconnaître et sanctionner» l’hostilité dirigée envers les personnes séropositives.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/sante/loi-contre-la-serophobie-on-pense-que-le-vih-cest-fini-or-il-existe-des-discriminations-en-chaine-20261013_3MTRTL6UI5CGFKVX56MOHABFVA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T04:07:00+00:00",
+      "titre": "Annonce «marketing» ou réelle «flexibilité» : qu’est-ce que le budget «réversible» promis par le gouvernement ?",
+      "dek": "Face à des oppositions peu amènes, Sébastien Lecornu a assuré que ses arbitrages budgétaires pourraient être aisément défaits par le président élu en 2027, sans passer par la case Parlement. Gauche comme droite restent perplexes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/annonce-marketing-ou-reelle-flexibilite-quest-ce-que-le-budget-reversible-promis-par-le-gouvernement-20261013_WHOVK5YRYNCQRFGRT3NGKUKHOU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T03:55:00+00:00",
+      "titre": "Présidentielle : Xavier Bertrand, l’ambition qui ne meurt jamais",
+      "dek": "Battu à la primaire de la droite en 2021, le président des Hauts-de-France veut toujours croire en ses chances en 2027. Actif sur le terrain, il juge que la rupture avec Emmanuel Macron ne pourra venir de ses héritiers.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-xavier-bertrand-lambition-qui-ne-meurt-jamais-20261013_26GT7N4TGBFGFDIDASGOX2R7FM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T03:45:00+00:00",
+      "titre": "Budget 2027 : mission impossible pour Lecornu avant l’arrivée du texte au Parlement",
+      "dek": "Le projet de loi de finances atterrit ce mardi 13 octobre dans l’hémicycle. Le texte, rejeté lors de son examen en commission, arrive devant une Assemblée nationale hostile. Difficile d’entrevoir une voie de passage pour le gouvernement qui veut à tout prix contenir le déficit à …",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/budget-2027-mission-impossible-pour-lecornu-avant-larrivee-du-texte-au-parlement-20261013_X4MBAQZFNBG4DFBENOHGIETRJM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T03:43:42+00:00",
+      "titre": "Infraction sur l'inceste, juridictions spécialisées... Quelles sont les mesures retenues par l'Assemblée nationale dans la proposition de loi intégrale contre les violences sexuelles ?",
+      "dek": "Les députés doivent solennellement voter l'ensemble du texte mardi. A l'issue des débats, la semaine dernière, \"on a réussi à préserver l’intégrité\" de la proposition de loi, affirme la rapporteuse générale, malgré l'abandon de certaines dispositions.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/infraction-sur-l-inceste-juridictions-specialisees-quelles-sont-les-mesures-retenues-par-l-assemblee-nationale-dans-la-proposition-de-loi-integrale-contre-les-violences-sexuelles_8233648.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T03:43:07+00:00",
+      "titre": "\"Les emmerdes commencent\" : les huit défis que Raphaël Glucksmann va devoir relever après sa victoire à la primaire de la gauche",
+      "dek": "Désigné dès le premier tour d'un scrutin qu'il voulait initialement éviter, le candidat de Place publique et, désormais, du Parti socialiste doit maintenant rassembler un camp divisé s'il veut rester dans la course à l'Elysée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T03:30:06+00:00",
+      "titre": "Protection de l’enfance : Marine Le Pen privilégie la préservation de la famille",
+      "dek": "La candidate du Rassemblement national à l’élection présidentielle a présenté, lundi 12 octobre, un changement complet de doctrine dans la prise en charge des enfants vulnérables.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/13/protection-de-l-enfance-marine-le-pen-privilegie-la-preservation-de-la-famille_6793046_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T03:00:17+00:00",
+      "titre": "Budget 2027 : le risque d’une crise de la dette",
+      "dek": "La France aura-t-elle un budget à Noël ? Le projet de loi de finances est discuté à partir de mardi 13 octobre à l’Assemblée nationale, alors que la France a accumulé une dette abyssale. Une équation compliquée par le contexte électoral, à six mois de l’élection présidentielle. D…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/podcasts/article/2026/10/13/budget-2027-le-risque-d-une-crise-de-la-dette_6793043_5463015.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -440,116 +550,6 @@
       "dek": "Après sa victoire dimanche 11 octobre à la primaire sociale-démocrate, le candidat Place publique a reçu de la farine à la sortie d’un restaurant. Le président du RN a parlé de «violence inacceptable».",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/glucksmann-enfarine-bardella-ne-rit-plus-des-attaques-alimentaires-contre-les-hommes-politiques-20261012_YDJHJ2SVMVH43CSZXXKIUNXDW4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T09:24:36+00:00",
-      "titre": "Des inspecteurs généraux de l’Etat s’inquiètent pour leur indépendance à l’aube de la présidentielle",
-      "dek": "La suppression des grands corps d’inspection générale de l’Etat, décidée en 2021, continue de faire des remous. Des syndicats d’inspecteurs, réunis en colloque vendredi 9 octobre, ont appelé à inscrire des « garanties » dans la loi.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/12/des-inspecteurs-generaux-de-l-etat-s-inquietent-pour-leur-independance-a-l-aube-de-la-presidentielle_6792605_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T09:02:55+00:00",
-      "titre": "«Négocier avec Trump sur la CPI, c’est être complices de son démantèlement»",
-      "dek": "L’eurodéputée Aurore Lalucq appelle la Commission européenne à agir pour protéger la Cour pénale internationale contre les sanctions des États-Unis. Des mesures pourraient être activées sans tarder, mais certaines voix appellent au «dialogue» pendant le délai de six mois annoncé …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/121026/negocier-avec-trump-sur-la-cpi-c-est-etre-complices-de-son-demantelement"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T08:59:51+00:00",
-      "titre": "Les soutiens d’Anasse Kazib sur les routes pour envoyer un ouvrier à la présidentielle",
-      "dek": "Les militants de Révolution permanente sillonnent la France depuis plus de quatre mois pour collecter les 500 signatures nécessaires pour présenter Anasse Kazib, leur candidat, en 2027. Après avoir échoué en 2022, le mouvement pourrait cette fois-ci réussir à envoyer le syndicali…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/121026/les-soutiens-d-anasse-kazib-sur-les-routes-pour-envoyer-un-ouvrier-la-presidentielle"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T08:28:24+00:00",
-      "titre": "\"C'est une victoire nette et sans appel de Raphaël Glucksmann\" à la primaire sociale-démocrate, reconnaît Pierre Jouvet, secrétaire général du Parti socialiste",
-      "dek": "Pierre Jouvet salue aussi \"un beau moment démocratique\", alors que la primaire sociale-démocrate a réuni \"plus de 120 000 personnes\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/c-est-une-victoire-nette-et-sans-appel-de-raphael-glucksmann-a-la-primaire-sociale-democrate-reconnait-pierre-jouvet-secretaire-general-du-parti-socialiste_8233462.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T08:06:04+00:00",
-      "titre": "La Plume et le Prince : le guide de survie à l’Élysée d’une ancienne conseillère d’Emmanuel Macron",
-      "dek": "CRITIQUE - Astrid Roucher, qui a contribué à rédiger les discours du chef de l’État, raconte son expérience sous la forme d’un conte. Elle y épingle notamment l’invasion de la «technovlangue» ou l’esprit courtisan en vigueur autour du président.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/la-plume-et-le-prince-le-guide-de-survie-a-l-elysee-d-une-ancienne-conseillere-d-emmanuel-macron-20261007"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T08:03:34+00:00",
-      "titre": "Victoire à la primaire sociale-démocrate : \"Enfin on a une gauche démocratique qui reprend de la vigueur et qui peut gagner l'élection présidentielle\", réagit Raphaël Glucksmann",
-      "dek": "\"On a réveillé une forme de fierté\", assure encore le vainqueur de la primaire sociale-démocrate, Raphaël Glucksmann, invité sur France Inter lundi",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/victoire-a-la-primaire-sociale-democrate-enfin-on-a-une-gauche-democratique-qui-reprend-de-la-vigueur-et-qui-peut-gagner-l-election-presidentielle-reagit-raphael-glucksmann_8233474.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T08:00:05+00:00",
-      "titre": "\"Raphaël Glucksmann part avec un gros socle de légitimité\", analyse Diane Lamotte, cheffe de groupe chez Ipsos-BVA.",
-      "dek": "Invitée de \"La Matinale\" du 12 octobre sur franceinfo, Diane Lamotte, cheffe de groupe chez Ipsos-BVA, est revenue sur la victoire de Raphaël Glucksmann dès le premier tour de la primaire de la gauche sociale-démocrate et les difficultés qui l'attendent pour rassembler son camp. …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/raphael-glucksmann-part-avec-un-gros-socle-de-legitimite-analyse-diane-lamotte-cheffe-de-groupe-chez-ipsos-bva_8233513.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T07:39:46+00:00",
-      "titre": "\"C'est à Mediapart de prouver que ses affirmations reposent sur quelque chose\", affirme Laurent Jacobelli, député de la Moselle et porte-parole de la campagne de Marine Le Pen, à propos des accusations visant Jordan Bardella",
-      "dek": "Invité politique de \"La Matinale\" du 12 octobre sur franceinfo, Laurent Jacobelli, député de la Moselle et porte-parole de la campagne de Marine Le Pen, est revenu sur la victoire de Raphaël Glucksmann à la primaire de la gauche et les accusations visant Jordan Bardella après les…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/c-est-a-mediapart-de-prouver-que-ses-affirmations-reposent-sur-quelque-chose-affirme-laurent-jacobelli-depute-de-la-moselle-et-porte-parole-de-la-campagne-de-marine-le-pen-a-propos-des-accusations-visant-jordan-bardella_8203814.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T07:39:46+00:00",
-      "titre": "Nucléaire: «C’est impossible que des petits réacteurs modulaires fonctionnent en 2035»",
-      "dek": "L’industrie de l’IA compte sur les petits réacteurs nucléaires pour fournir les quantités astronomiques d’électricité nécessaires à ses data centers. Mais pour l’historien Paul R. Josephson, cette idée est irréaliste, tant d’un point de vue matériel qu’économique.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/121026/nucleaire-c-est-impossible-que-des-petits-reacteurs-modulaires-fonctionnent-en-2035"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "12 Oct 2026",
-      "date_iso": "2026-10-12T07:39:40+00:00",
-      "titre": "Nucléaire: une énergie en perte de vitesse dans le monde",
-      "dek": "Alors que le budget 2027 prévoit toujours plus d’argent pour le nucléaire en France, cette source d’énergie est largement distancée dans le reste du monde par le solaire et l’éolien. Quant aux petits réacteurs SMR, leur coût envoie de sérieux signaux d’alerte, selon plusieurs spé…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/121026/nucleaire-une-energie-en-perte-de-vitesse-dans-le-monde"
     }
   ]
 }
