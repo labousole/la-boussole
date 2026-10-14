@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-13T20:28:03+00:00",
+  "generated_at": "2026-10-14T03:01:58+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T23:00:00+00:00",
+      "titre": "RN : derrière la dédiabolisation, le racisme persiste",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=514791"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T21:32:49+00:00",
+      "titre": "Présidentielle 2027 : Marine Tondelier précipite les Écologistes vers une candidature autonome et incertaine",
+      "dek": "DÉCRYPTAGE - Depuis sa victoire à la primaire, Raphaël Glucksmann tend la main aux Verts, moins dans l’espoir d’un ralliement de l’appareil que du suffrage de ses sympathisants.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-tondelier-precipite-les-ecologistes-vers-une-candidature-autonome-et-incertaine-20261013"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -150,6 +172,17 @@
       "source": "Le Monde – Politique",
       "date": "13 Oct 2026",
       "date_iso": "2026-10-13T16:48:14+00:00",
+      "titre": "Budget 2027 : après l’échec de la motion de rejet déposée par le Parti socialiste, les débats reprendront mercredi après-midi",
+      "dek": "Les députés ont commencé, mardi 13 octobre, l’examen en séance publique de la première partie du projet de loi de finances (PLF) 2027, présenté par Sébastien Lecornu en conseil des ministres le 1ᵉʳ octobre et déjà débattu en commission la semaine dernière.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/10/13/en-direct-budget-2027-les-debats-sur-le-projet-de-loi-de-finances-commencent-a-l-assemblee-nationale_6793072_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Oct 2026",
+      "date_iso": "2026-10-13T16:48:14+00:00",
       "titre": "EN DIRECT, budget 2027 : la séance reprend à l’Assemblée sur le projet de loi des finances ; les députés vont se prononcer sur une motion de rejet déposée par le PS",
       "dek": "Les députés commencent, mardi 13 octobre, l’examen en séance publique de la première partie du projet de loi de finances (PLF) 2027, présenté par Sébastien Lecornu en conseil des ministres le 1ᵉʳ octobre et déjà débattu en commission la semaine dernière.",
       "avis": null,
@@ -264,17 +297,6 @@
       "dek": "Après plusieurs mutilations de lycéens, une pétition réclame l’interdiction de plusieurs armes et techniques policières lors des manifestations lycéennes. Une demande loin d’être récente malgré des avertissements répétés, jusqu’aux Nations unies.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=514616"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T14:30:00+00:00",
-      "titre": "Présidentielle 2027 : Marine Tondelier précipite les Écologistes vers une candidature autonome et incertaine",
-      "dek": "DÉCRYPTAGE - Depuis sa victoire à la primaire, Raphaël Glucksmann tend la main aux Verts, moins dans l’espoir d’un ralliement de l’appareil que du suffrage de ses sympathisants.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-tondelier-precipite-les-ecologistes-vers-une-candidature-autonome-et-incertaine-20261013"
     },
     {
       "tag": "Gauche",
@@ -528,28 +550,6 @@
       "dek": "Le candidat LR à l’élection présidentielle a dévoilé, lundi, une trajectoire budgétaire drastique sur cinq ans. Pour ramener le déficit public sous les 3 % d’ici à 2032, l’ancien bras droit de François Fillon table notamment sur le non-remplacement de 400 000 fonctionnaires parti…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/13/bruno-retailleau-presente-un-plan-de-197-milliards-d-euros-d-economies-pour-redresser-une-france-quasiment-en-faillite_6793077_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T08:00:06+00:00",
-      "titre": "Budget 2027 : les tensions de la campagne présidentielle s’immiscent dans les discussions à l’Assemblée nationale",
-      "dek": "Mardi 13 octobre, les députés doivent commencer à examiner en séance publique le projet de loi de finances. Entre une motion de rejet préalable des socialistes, des menaces de censure et la surveillance des marchés, le gouvernement est soumis aux arrière-pensées de tous les group…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/13/budget-2027-les-tensions-de-la-campagne-presidentielle-s-immiscent-dans-les-discussions-a-l-assemblee-nationale_6793074_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T07:22:09+00:00",
-      "titre": "Retraites, taxe Zucman, pouvoir d'achat… Le volet \"recettes\" du projet de budget arrive à l'Assemblée",
-      "dek": "Les députés examinent à partir de mardi la première partie du projet de loi de finances du gouvernement. Le texte a été rejeté en commission.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/retraites-taxe-zucman-pouvoir-d-achat-le-volet-recettes-du-projet-de-budget-arrive-a-l-assemblee_8235067.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
