@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-14T14:48:56+00:00",
+  "generated_at": "2026-10-14T19:06:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T18:58:18+00:00",
+      "titre": "Présidentielle 2027 : Marine Tondelier reprend sa campagne après quatre semaines de congé maternité, et appelle à \"lâcher la grappe aux femmes\"",
+      "dek": "La candidate des Ecologistes, qui a participé à une marche pour le climat quatre jours après avoir accouché, trouve \"incroyable de devoir se justifier sur ce sujet\", mais \"c'est malheureusement encore nécessaire en 2026\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/marine-tondelier-reprend-sa-campagne-apres-quatre-semaines-de-conge-maternite-et-appelle-a-lacher-la-grappe-aux-femmes_8237659.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T18:32:35+00:00",
+      "titre": "Révolte de la jeunesse: la fête comme arme destructrice d’un pouvoir tout gris",
+      "dek": "Depuis le début du mouvement lycéen, la bulle médiatico-politique concentre son discours sur les «violences». Pourtant, cette mobilisation historique est surtout marquée par la fête et la joie comme acte de politisation et de participation d’une jeunesse qui rejette l’horizon qu’…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/141026/revolte-de-la-jeunesse-la-fete-comme-arme-destructrice-d-un-pouvoir-tout-gris"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T18:22:02+00:00",
+      "titre": "En images : « Qui nous protège de la police ? », dans le cortège de la mobilisation lycéenne à Paris",
+      "dek": "Cinquième acte du mouvement lycéen ce mardi 13 octobre 2026 à Paris, avec deux cortèges qui ont défilé dans les rues de la capitale. Le plus jeune et déterminé est parti de l’Hôtel de ville pour rejoindre la place Vauban, près des Invalides. Reportage photo.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=515033"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T17:26:38+00:00",
+      "titre": "Lycéens mutilés: la justice accélère, le ministre ne cède rien",
+      "dek": "Depuis le début de la mobilisation lycéenne, les autorités sont sommées de rendre des comptes sur les blessures les plus graves causées par la police. Certaines enquêtes ont vite avancé mais l’IGPN, aux effectifs réduits, croule sous les saisines.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/141026/lyceens-mutiles-la-justice-accelere-le-ministre-ne-cede-rien"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T17:09:50+00:00",
+      "titre": "Le plan de Jean-Luc Mélenchon pour « remettre de l’ordre » dans les comptes publics",
+      "dek": "Lors d’une conférence de presse ce mercredi 14&nbsp;octobre, Jean-Luc Mélenchon et Éric Coquerel ont détaillé la méthode qu’appliqueront les Insoumis pour «&nbsp;remettre de l’ordre dans les comptes publics&nbsp;» en cas de victoire à la présidentielle. Si LFI reste fidèle à sa p…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/budget-2027/le-plan-de-jean-luc-melenchon-pour-remettre-de-lordre-dans-les-comptes-publics"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T16:39:37+00:00",
+      "titre": "Pierre Coppey, ancien président de Vinci Autoroutes, choisi comme nouveau contrôleur général des lieux de privation de liberté par Emmanuel Macron",
+      "dek": "M. Coppey est aussi le président d’Aurore, une association qui accompagne des personnes en situation de précarité ou d’exclusion. Il succède à Dominique Simonnot.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/14/pierre-coppey-ancien-president-de-vinci-autoroutes-choisi-comme-nouveau-controleur-general-des-lieux-de-privation-de-liberte-par-emmanuel-macron_6793777_3224.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +77,50 @@
       "dek": "Depuis les premiers jours de la mobilisation lycéenne, une date est très attendue : celle du retour annoncé des gilets jaunes le 17 octobre. Une journée d’action lancée début septembre sur les réseaux sociaux pour protester notamment contre l’augmentation du prix de l’essence et …",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=514956"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T16:33:57+00:00",
+      "titre": "Une pétition pour une nouvelle loi anti-concentration des médias",
+      "dek": "À l’initiative des Amis de l’Humanité, une pétition en ligne a été lancée pour contrer la mainmise des milliardaires d’extrême droite sur la presse et les médias. Elle a déjà recueilli de nombreuses signatures de journalistes et d’écrivains.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/culture-et-savoir/amis-de-lhumanite/une-petition-pour-une-nouvelle-loi-anti-concentration-des-medias"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T16:21:08+00:00",
+      "titre": "La justice rejette le recours de François Piquemal (LFI) contre l'élection aux municipales de Jean-Luc Moudenc",
+      "dek": "L'ancien candidat insoumis aux municipales 2026 a déposé un recours en raison d'ingérences numériques étrangères constatées lors du scrutin, visant notamment LFI. Le tribunal a jugé que ces \"attaques\" avaient été \"d'une faible visibilité\" contre François Piquemal, sans preuve d'u…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-justice-rejette-le-recours-de-francois-piquemal-lfi-contre-l-election-aux-municipales-de-jean-luc-moudenc_8237542.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T15:47:24+00:00",
+      "titre": "États-Unis: le campus de Cornell secoué par une affaire de viol collectif",
+      "dek": "Classée par la justice, une enquête sur le viol en réunion dont «Jane Doe» accuse sept autres élèves a été rouverte grâce à une nouvelle plainte et à la mobilisation des étudiants. La question du consentement et des défaillances judiciaires et universitaires revient au centre des…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/141026/etats-unis-le-campus-de-cornell-secoue-par-une-affaire-de-viol-collectif"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T15:00:41+00:00",
+      "titre": "Annulation de scrutins municipaux : «Pour le juge, l’enjeu n’est pas de savoir qui a gagné ou perdu, mais de restituer la volonté des électeurs»",
+      "dek": "Saint-Fons, Vaulx-en-Velin, Poissy… Ces dernières semaines, les tribunaux administratifs ont invalidé des élections municipales dans plusieurs communes, sans que les vainqueurs n’aient rien à se reprocher. Explications avec le juriste Romain Rambaud.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/annulation-de-scrutins-municipaux-pour-le-juge-lenjeu-nest-pas-de-savoir-qui-a-gagne-ou-perdu-mais-de-restituer-la-volonte-des-electeurs-20261014_VSE3LBMYHZFGJIU6KCTLPN4IR4/"
     },
     {
       "tag": "Politique",
@@ -41,7 +151,7 @@
       "date": "14 Oct 2026",
       "date_iso": "2026-10-14T13:20:35+00:00",
       "titre": "En cas de victoire à la présidentielle : LFI prévoit 106 milliards de recettes supplémentaires et 82 milliards de dépenses nouvelles pour 2027",
-      "dek": "Le parti mélenchoniste a présenté ce mercredi 14 octobre les mesures qu’il appliquerait s’il remportait la présidentielle. les principales mesures : un ISF Parmi climatique, la taxe Zucman et le retour de la retraite à 62 puis 60 ans.",
+      "dek": "Le parti mélenchoniste a présenté ce mercredi 14 octobre les mesures qu’il appliquerait s’il remportait la présidentielle. Parmi les principales mesures : un ISF climatique, la taxe Zucman et le retour de la retraite à 62 puis 60 ans.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/presidentielle-lfi-prevoit-106-milliards-de-recettes-supplementaires-et-82-milliards-de-depenses-nouvelles-pour-2027-20261014_7KPGOCH4XZFMHIHJ7HCZ5S57FM/"
     },
@@ -440,116 +550,6 @@
       "dek": "L’ingénieur spécialiste de l’énergie, fondateur du groupe de réflexion The Shift Project, expose les lourds enjeux climatiques qui pèsent sur les prochains gouvernements, à six mois de l’élection présidentielle de 2027.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T04:00:18+00:00",
-      "titre": "Budget 2027 : Sébastien Lecornu s’accroche à son objectif d’un déficit inférieur à 3 % du PIB en 2029",
-      "dek": "Dans les annexes au projet de loi de finances pour 2027, le gouvernement promet de ramener le déficit de 5,4 % du produit intérieur brut en 2026 à 2,8 % en 2029. Un ajustement massif jugé de moins en moins crédible par les économistes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-sebastien-lecornu-s-accroche-a-son-objectif-d-un-deficit-inferieur-a-3-du-pib-en-2029_6793396_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T03:30:15+00:00",
-      "titre": "Présidentielle 2027 : l’Arcom réfléchit à des mécanismes de régulation pour les podcasts politiques les plus influents",
-      "dek": "Gaspard G, Guillaume Pley, Sam Zirah, etc., friands d’interviews de candidats à la présidentielle, sont invités par l’Autorité de régulation de la communication audiovisuelle et numérique à la réflexion pour un code de bonne conduite partagé.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/14/presidentielle-2027-l-arcom-reflechit-a-des-mecanismes-de-regulation-pour-les-podcasts-politiques-les-plus-influents_6793388_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T03:30:00+00:00",
-      "titre": "Pour Jean-Luc Mélenchon, le soutien au mouvement lycéen consacre le pari de LFI sur la jeunesse en vue de la présidentielle",
-      "dek": "Devenu l’« incarnation politique » de la mobilisation, qui a connu son « acte V », mardi 13 octobre, le candidat de LFI espère tirer profit d’un long travail auprès des jeunes générations. Mais la traduction électorale de ce positionnement n’est pas assurée.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/14/presidentielle-2027-pour-jean-luc-melenchon-le-soutien-au-mouvement-lyceen-consacre-le-pari-de-lfi-sur-la-jeunesse_6793352_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T03:00:09+00:00",
-      "titre": "Budget 2027 : le RN en soutien du gouvernement pour repousser la motion de rejet du PS après de vifs débats sur la dette",
-      "dek": "Les débats sur le projet de loi de finances et ses 3 878 amendements sur la partie « recettes » ont débuté mardi 13 octobre. Faute de majorité, le premier ministre, Sébastien Lecornu, est face à deux options, le recours à l’article 49.3 de la Constitution ou la promulgation par o…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T23:00:00+00:00",
-      "titre": "RN : derrière la dédiabolisation, le racisme persiste",
-      "dek": "",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=514791"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T21:32:49+00:00",
-      "titre": "Présidentielle 2027 : Marine Tondelier précipite les Écologistes vers une candidature autonome et incertaine",
-      "dek": "DÉCRYPTAGE - Depuis sa victoire à la primaire, Raphaël Glucksmann tend la main aux Verts, moins dans l’espoir d’un ralliement de l’appareil que du suffrage de ses sympathisants.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-tondelier-precipite-les-ecologistes-vers-une-candidature-autonome-et-incertaine-20261013"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T19:12:34+00:00",
-      "titre": "Adoption à l’Assemblée de la loi intégrale contre les violences sexuelles : les associations féministes saluent « une avancée incroyable »",
-      "dek": "Si la loi marque une étape majeure, les associations pointent l’exclusion des femmes sans papiers et redoutent un manque de moyens pour sa mise en œuvre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/13/adoption-a-l-assemblee-de-la-loi-integrale-contre-les-violences-sexuelles-les-associations-feministes-saluent-une-avancee-incroyable_6793173_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T19:12:33+00:00",
-      "titre": "VSS : après l’adoption de la loi intégrale à l’Assemblée, les associations féministes saluent « une avancée incroyable »",
-      "dek": "Si la loi marque une étape majeure, les associations pointent l’exclusion des femmes sans papiers et redoutent un manque de moyens pour sa mise en œuvre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/13/adoption-a-l-assemblee-de-la-loi-integrale-contre-les-violences-sexuelles-les-associations-feministes-saluent-une-avancee-incroyable_6793173_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T19:11:00+00:00",
-      "titre": "Sanctions contre la CPI : une soixantaine d’eurodéputés lancent un appel «urgent» à Ursula von der Leyen",
-      "dek": "Dans un courrier transpartisan adressé à la présidente de la Commission européenne, les 58 élus demandent «l’activation immédiate» du règlement de blocage face au «danger imminent» des attaques américaines contre la juridiction.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/international/europe/sanctions-contre-la-cpi-une-soixantaine-deurodeputes-lancent-un-appel-urgent-a-ursula-von-der-leyen-20261013_7I562CQRZRBJ3NFSYYDAHVNRL4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Oct 2026",
-      "date_iso": "2026-10-13T18:55:48+00:00",
-      "titre": "Présidentielle 2027 : la conversion partielle de Marine Le Pen aux recettes économiques d’Emmanuel Macron",
-      "dek": "Très critique des propositions du futur président en 2017, la candidate du Rassemblement national endosse en partie sa philosophie. Elle se fait fort de tenir ses promesses à sa place, sur la simplification, la baisse de la dépense publique et celle de la fiscalité des entreprise…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/13/presidentielle-2027-la-conversion-partielle-de-marine-le-pen-aux-recettes-economiques-d-emmanuel-macron_6793170_823448.html"
     }
   ]
 }
