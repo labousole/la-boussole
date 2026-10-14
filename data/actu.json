@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-10-14T19:06:49+00:00",
+  "generated_at": "2026-10-14T22:55:08+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T22:40:48+00:00",
+      "titre": "L’Assemblée nationale valide la contribution française au budget européen, malgré l’opposition de LFI et du RN",
+      "dek": "Les députés ont adopté, mercredi, l’article prévoyant un prélèvement de 30,9 milliards d’euros au bénéfice de l’Union européenne, prévu dans le projet de loi de finances pour 2027.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T21:48:00+00:00",
+      "titre": "Marine Le Pen présentera \"de manière extrêmement précise\" sa réforme des retraites le 17 novembre",
+      "dek": "L'objectif sera \"d'augmenter le taux d'activité\" pour ramener l'âge de départ à 62 voire 60 ans, a annoncé la candidate du Rassemblement national.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/marine-le-pen-presentera-de-maniere-extremement-precise-sa-reforme-des-retraites-le-17-novembre_8237821.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T20:35:34+00:00",
+      "titre": "\"Pouvoir faire avancer un certain nombre de nos propositions\" : Gaëtan Dussausaye détaille la position du RN sur le budget 2027",
+      "dek": "Alors que le RN a refusé de voter la motion de rejet préalable du projet de budget, Gaëtan Dussausaye, député RN des Vosges avance la volonté de son parti de privilégier le débat. De son côté, Richard Ramos, député Modem du Loiret, se dit \"prêt à discuter\" avec les oppositions.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/pouvoir-faire-avancer-un-certain-nombre-de-nos-propositions-gaetan-dussausaye-detaille-la-position-du-rn-sur-le-budget-2027_8237647.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T19:47:02+00:00",
+      "titre": "«Incroyable de devoir se justifier sur ce sujet» : quatre semaines après avoir accouché, Marine Tondelier reprend sa campagne présidentielle",
+      "dek": "La candidate écologiste revient sur les plateaux télé ce mercredi et appelle en ligne à «lâcher la grappe» aux femmes. Elle dénonce les «injonctions contradictoires» reçues depuis la naissance de son fils fin septembre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/incroyable-de-devoir-se-justifier-sur-ce-sujet-quatre-semaines-apres-avoir-accouche-marine-tondelier-reprend-sa-campagne-presidentielle-20261014_DFVY3KWT5NGYBMISCNATOAKCTU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T19:32:33+00:00",
+      "titre": "Retraites complémentaires : 1,4 % de hausse après un an de gel, les syndicats divisés",
+      "dek": "Le compromis conclu par les partenaires sociaux ne fait pas l’unanimité, alors que le gouvernement envisage de nouvelles économies sur les pensions de base.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/14/retraites-complementaires-1-4-de-hausse-apres-un-an-de-gel-les-syndicats-divises_6793795_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Oct 2026",
+      "date_iso": "2026-10-14T19:21:29+00:00",
+      "titre": "Un \"cordon sanitaire\" autour de LFI en vue de 2027 ? Les analyses d'Antoine Oberdoff et Gilles Finchelstein",
+      "dek": "Antoine Oberdoff,  journaliste politique à l'Opinion,\net Gilles Finchelstein, secrétaire général de la Fondation Jean Jaurès, sont les invités de l'émission \"C Ce Soir\" du 14 octobre. Ils s'interrogent sur l'existence d'un possible cordon sanitaire autour de LFI en vue de 2027.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/un-cordon-sanitaire-autour-de-lfi-en-vue-de-2027-les-analyses-d-antoine-oberdoff-et-gilles-finchelstein_8237731.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -484,72 +550,6 @@
       "dek": "Le texte poussé à l’Assemblée par la mobilisation consécutive au meurtre de Lyhanna a été voté à l’unanimité, mais sans les voix de LFI, qui s’est abstenue. Le RN a finalement voté pour, s’offrant ainsi une belle opération de «purple washing».",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/141026/votee-l-assemblee-la-loi-integrale-laisse-la-gauche-et-les-feministes-divisees"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T05:36:14+00:00",
-      "titre": "Des députés RN pris en flagrant délit d’«Assemblée buissonnière»",
-      "dek": "Vendredi 9 octobre, en pleins débats sur la loi intégrale, un nombre inhabituel de députés du groupe de Marine Le Pen a fourni des justificatifs médicaux pour bénéficier de délégations de vote. Certains se sont pourtant montrés le même jour à des rendez-vous publics dans leur cir…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/141026/des-deputes-rn-pris-en-flagrant-delit-d-assemblee-buissonniere"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T05:32:55+00:00",
-      "titre": "À suivre Loïc de la Mornais : qu'est-ce que la loi sur les violences sexistes et sexuelles va changer ?",
-      "dek": "Dans cette troisième partie, Alban Mikoczy se penche sur la loi intégrale sur les violences sexistes et sexuelles votée à la quasi-unanimité à l'Assemblée nationale mardi : que va changer ce texte historique ? Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\"…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-qu-est-ce-que-la-loi-sur-les-violences-sexistes-et-sexuelles-va-changer_8236699.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T05:13:51+00:00",
-      "titre": "Budget 2027 : malgré « la colère qui monte, nourrie par l’injustice fiscale », l’Assemblée repousse la motion de rejet du PS et le marathon commence",
-      "dek": "Les députés n’ont pas encore abordé les premiers articles, mais les rôles de chacun dans ce débat budgétaire, ouvert en séance mardi 13 octobre, sont déjà bien campés.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/assemblee-nationale/budget-2027-malgre-la-colere-qui-monte-nourrie-par-linjustice-fiscale-lassemblee-repousse-la-motion-de-rejet-du-ps-et-le-marathon-commence"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T05:06:00+00:00",
-      "titre": "Julia Cagé et Alain Finkielkraut en débat : «Pour la gauche, éviter l’élection de Marine Le Pen n’est pas un programme politique»",
-      "dek": "Dans l’optique de la présidentielle, «Libération» a réuni le philosophe réac et l’économiste de gauche pour une discussion parfois houleuse sur le pluralisme dans les médias, la montée du Rassemblement national et l’émiettement de la gauche.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/julia-cage-et-alain-finkielkraut-en-debat-pour-la-gauche-eviter-lelection-de-marine-le-pen-nest-pas-un-programme-politique-20261014_D5XVWP2KNFGUJFG7KC3ZAMNUH4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T04:39:07+00:00",
-      "titre": "À suivre Loïc de la Mornais : lycéens et étudiants maintiennent la pression",
-      "dek": "Dans cette première partie, Alban Mikoczy fait le point sur le mouvement lycéen, qui suit son cours, avec de nouvelles manifestations et des tensions avec les forces de l'ordre. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h su…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-lyceens-et-etudiants-maintiennent-la-pression_8236657.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T04:00:18+00:00",
-      "titre": "Jean-Marc Jancovici : « Tant qu’il n’y a pas dans la population une compréhension partagée du climat, le politique ne bougera pas »",
-      "dek": "L’ingénieur spécialiste de l’énergie, fondateur du groupe de réflexion The Shift Project, expose les lourds enjeux climatiques qui pèsent sur les prochains gouvernements, à six mois de l’élection présidentielle de 2027.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/14/jean-marc-jancovici-tant-qu-il-n-y-a-pas-dans-la-population-une-comprehension-partagee-du-climat-le-politique-ne-bougera-pas_6793395_823448.html"
     }
   ]
 }
