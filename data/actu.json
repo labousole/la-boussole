@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-10-15T09:33:10+00:00",
+  "generated_at": "2026-10-15T14:36:01+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T14:12:27+00:00",
+      "titre": "Manifestation du 17 octobre : redoutant des violences, la Préfecture de police de Paris propose un autre parcours",
+      "dek": "Le cortège devait initialement partir de la place de la République pour rejoindre la place de la Concorde. La PP a mis en avant « des risques sérieux de troubles à l’ordre public », et a proposé un autre itinéraire, reliant République à Nation.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/15/manifestation-du-17-octobre-redoutant-des-violences-la-prefecture-de-police-de-paris-propose-un-parcours-alternatif_6794459_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T14:00:02+00:00",
+      "titre": "Le RN a \"toujours défendu les intérêts de la Russie\" Gabriel Attal",
+      "dek": "Le Rassemblement national a \"toujours défendu les intérêts de la Russie\", a lancé Gabriel Attal, secrétaire général de Renaissance et candidat à la présidentielle, ce jeudi sur franceinfo. Mercredi, Marine Le Pen a annoncé qu'elle arrêterait les aides à l'Ukraine au bout de six m…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/le-rn-a-toujours-defendu-les-interets-de-la-russie-gabriel-attal_8238646.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T13:52:02+00:00",
+      "titre": "Avec son référendum sur l’immigration, Marine Le Pen voudrait imposer un coup de force",
+      "dek": "Alors que le président du Conseil constitutionnel a déclaré qu’il était impossible de recourir à l’article 11 pour modifier la Constitution, il est la cible d’un appel à la démission de la part de la candidate d’extrême droite, dans le cadre d’une opération plus vaste de délégiti…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/avec-son-referendum-sur-limmigration-marine-le-pen-voudrait-imposer-un-coup-de-force-20261015_I7275J5F3RAHBFZAKYCQZYMBTA/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T13:47:18+00:00",
+      "titre": "Violences dans le périscolaire : tout comprendre au rapport du Sénat sur l’étendue des dégâts",
+      "dek": "La commission sénatoriale enquêtant sur les dysfonctionnements dans le secteur périscolaire a rendu ses conclusions ce jeudi 15 octobre.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/pedophilie/violences-dans-le-periscolaire-tout-comprendre-au-rapport-du-senat-sur-letendue-des-degats"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T13:38:19+00:00",
+      "titre": "Pourquoi sont-ils si nombreux à vouloir l’Élysée en 2027 ?",
+      "dek": "Une trentaine de candidatures à la présidentielle sont déjà annoncées, dont la dernière en date, celle de la journaliste Natacha Polony. Entre vocation politique, envie de sauver la France et quête de notoriété, comment expliquer cette inflation de prétendants à l'Élysée ?",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/pourquoi-sont-ils-si-nombreux-a-vouloir-l-elysee-en-2027_8238811.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T13:18:52+00:00",
+      "titre": "Ce que révèlent les données inédites sur le poids des retraites des fonctionnaires dans les dépenses budgétaires françaises",
+      "dek": "DÉCRYPTAGE - Pour la première fois, l’exécutif publie, dans les annexes du budget de l’État pour 2027, la part exacte des pensions des anciens agents publics dans les crédits des différents ministères.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/conjoncture/ce-que-revelent-les-donnees-inedites-sur-le-poids-des-retraites-dans-les-depenses-budgetaires-francaises-20261013"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T13:16:05+00:00",
+      "titre": "Après la victoire de Glucksmann, les ralliements à Mélenchon se multiplient",
+      "dek": "1 500 communistes ont annoncé le 14 octobre leur ralliement à la candidature du leader insoumis. En parallèle, la victoire de Raphaël Glucksmann lors de la primaire socialiste provoque des remous chez les militants de gauche et semble acter une bipartition de la campagne.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=515261"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T13:09:34+00:00",
+      "titre": "Budget 2027 : les députés sauvent l’abattement fiscal des retraités, au grand regret du gouvernement",
+      "dek": "L’une des principales mesures du gouvernement pour réaliser 5 milliards d’euros d’économies sur les retraités dans le cadre du budget 2027 a été refusée par les députés ce jeudi 15 octobre.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/assemblee-nationale/budget-2027-les-deputes-sauvent-labattement-fiscal-des-retraites-au-grand-regret-du-gouvernement"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T12:18:28+00:00",
+      "titre": "Comme en 1968, la jeunesse montre la voie",
+      "dek": "Une fois de plus, la jeunesse est à l’initiative d’un mouvement social. Les syndicats doivent soutenir le 17 octobre et proposer un plan pour défaire Macron et son austérité, appellent les signataires d’une tribune collective.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=515291"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T12:15:04+00:00",
+      "titre": "À quoi s'attendre pour le 17 octobre ?",
+      "dek": "Ce samedi 17 octobre, une grosse journée de mobilisation est prévue partout en France contre la vie chère mais aussi pour soutenir les lycéens. A quoi faut-il s'attendre concrètement ? Voici les dernières informations.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/a-quoi-s-attendre-pour-le-17-octobre_8238718.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T12:13:14+00:00",
+      "titre": "Enlèvement d’une enfant de 8 ans, fomentation d’un coup d’État… Le complotiste néonazi Rémy Daillet condamné à six ans de prison",
+      "dek": "Leader d’un groupuscule d’extrême droite responsable de l’enlèvement de la jeune Mia, 8&nbsp;ans, en 2021, Rémy Daillet a été reconnu coupable par la justice. Des peines, pour la plupart aménageables sous bracelet électronique, ont été prononcées contre 13&nbsp;autres prévenus.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/enlevement/enlevement-dune-enfant-de-8-ans-fomentation-dun-coup-detat-le-complotiste-neonazi-remy-daillet-condamne-a-six-ans-de-prison"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T12:02:53+00:00",
+      "titre": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe comprise « entre 500 et 700 millions d’euros »",
+      "dek": "Au début septembre, quelque 1,2 milliard d’euros ont déjà été débloqués pour aider un secteur touché par les canicules à répétition mais aussi l’augmentation du prix des carburants.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/plan-de-relance-agricole-entre-500-et-700-millions-d-euros-annonces-par-sebastien-lecornu_6794441_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T12:00:00+00:00",
+      "titre": "Des attaques « inédites et très préoccupantes » : Youssef Badr, juge de Bobigny, cible du magazine d’extrême droite Frontières",
+      "dek": "Le magazine Frontières, dont le directeur était condamné en juin pour avoir menacé des avocats, consacre sa Une et une pseudo-enquête au magistrat Youssef Badr, président de la chambre qui l’a jugé. Une tentative d’intimidation à laquelle l’intéressé répond sur X. Le premier prés…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/frontieres/des-attaques-inedites-et-tres-preoccupantes-youssef-badr-juge-de-bobigny-cible-du-magazine-dextreme-droite-frontieres"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T11:01:02+00:00",
+      "titre": "\"Les Européens resteront endurants, résilients, dans le soutien à l'Ukraine, c'est notre sécurité qui est en jeu\", affirme Benjamin Haddad",
+      "dek": "Le ministre délégué à l'Europe répond aux propos de Marine Le Pen. Mercredi, elle a estimé que la France \"n'avait plus les moyens\" d'envoyer de l'aide à l'Ukraine et proposait de la couper au bout de six mois si elle était élue présidente.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-europeens-resteront-endurants-resilients-dans-le-soutien-a-l-ukraine-c-est-notre-securite-qui-est-en-jeu-affirme-benjamin-haddad_8238664.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T10:47:48+00:00",
+      "titre": "À Lodève, face à l’extrême droite et à la division des gauches, le fourmillement de la joie militante",
+      "dek": "Dans la petite ville héraultaise, le mouvement associatif et culturel tente de relever la tête, six mois après l’élection d’un maire proche du RN, sur fond de division irréconciliable de la gauche. En s’investissant corps et âme dans un festival antifasciste réjouissant.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/151026/lodeve-face-l-extreme-droite-et-la-division-des-gauches-le-fourmillement-de-la-joie-militante"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -8,9 +173,42 @@
       "date": "15 Oct 2026",
       "date_iso": "2026-10-15T10:43:46+00:00",
       "titre": "La consécration centenaire de Michel Foucault",
-      "dek": "N’en déplaise aux réactionnaires hurlant au « wokisme », l’œuvre du philosophe français est toujours incontournable pour penser des notions aussi centrales que la raison, le pouvoir, la sexualité, la maladie ou le sujet. De nombreuses publications témoignent de son rayonnement mo…",
+      "dek": "N’en déplaise aux réactionnaires hurlant au « wokisme », l’œuvre du philosophe français est toujours incontournable pour penser des notions aussi centrales que la raison, le pouvoir, la sexualité, la maladie ou le sujet. De nombreuses publications témoignent de son rayonnement mo…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=514459"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T10:03:08+00:00",
+      "titre": "Budget 2027 : l’Assemblée nationale rejette le plafonnement d’un abattement fiscal des retraités",
+      "dek": "Cette mesure devait en théorie rapporter 1,4 milliard d’euros à l’Etat. L’Assemblée nationale a adopté, par 116 voix contre 30, des amendements identiques supprimant l’article 3 du texte, malgré l’opposition du gouvernement.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/budget-2027-l-assemblee-nationale-rejette-le-plafonnement-d-un-abattement-fiscal-des-retraites_6794431_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T10:00:06+00:00",
+      "titre": "Les principales idées reçues sur les fonctionnaires, trop nombreux, trop absents… démenties par un rapport",
+      "dek": "L’édition 2026 du « rapport annuel sur l’état de la fonction publique », publié jeudi, établit que, sur plusieurs points, les écarts entre secteur public et secteur privé sont quasiment inexistants, alors même que certaines approximations alimentent les débats à l’approche de la …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/fonction-publique-un-rapport-de-reference-dement-les-principales-idees-recues_6794429_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T09:39:48+00:00",
+      "titre": "Sur l’économie, Mélenchon poursuit son duel avec le «banquier central français» Emmanuel Moulin",
+      "dek": "Depuis la rentrée, le candidat insoumis à la présidentielle fustige les interventions publiques du gouverneur de la Banque de France, proche de Macron. Une manière de rappeler qui est responsable, selon lui, du montant de la dette publique, quand LFI est accusée de proposer une «…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/sur-leconomie-melenchon-poursuit-son-duel-avec-le-banquier-central-francais-emmanuel-moulin-20261015_2UWIQROLHRH6XGDZ3GCPMG3EMU/"
     },
     {
       "tag": "Politique",
@@ -73,6 +271,17 @@
       "source": "franceinfo – Politique",
       "date": "15 Oct 2026",
       "date_iso": "2026-10-15T08:37:25+00:00",
+      "titre": "Les lycéens affichent leurs revendications avant une nouvelle rencontre avec le ministre dans l'après-midi",
+      "dek": "Pour la troisième fois depuis le début de la mobilisation des lycéens, une réunion est prévue ce jeudi 15 octobre entre leurs représentants et le ministre de l'Éducation nationale. Parmi les revendications figurent les problèmes des établissements scolaires délabrés, ou encore la…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sur-parcoursup-nous-qu-est-ce-qu-on-veut-les-lyceens-affichent-leurs-revendications-avant-une-nouvelle-rencontre-avec-le-ministre-dans-l-apres-midi_8238439.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T08:37:25+00:00",
       "titre": "\"Sur Parcoursup, nous, qu'est-ce qu'on veut ?\" : les lycéens affichent leurs revendications avant une nouvelle rencontre avec le ministre dans l'après-midi",
       "dek": "Pour la troisième fois depuis le début de la mobilisation des lycéens, une réunion est prévue ce jeudi 15 octobre entre leurs représentants et le ministre de l'Éducation nationale. Parmi les revendications figurent les problèmes des établissements scolaires délabrés, ou encore la…",
       "avis": null,
@@ -95,6 +304,17 @@
       "source": "Le Monde – Politique",
       "date": "15 Oct 2026",
       "date_iso": "2026-10-15T08:09:30+00:00",
+      "titre": "Retraites complémentaires du privé : les acteurs sociaux trouvent un accord sur la revalorisation malgré leurs tensions",
+      "dek": "Les syndicats et le patronat ont décidé, mercredi 14 octobre, à une large majorité, d’augmenter de 1,4 % les pensions servies par l’Agirc-Arrco, à partir du 1ᵉʳ novembre. La CFE-CGC n’a pas pris part au vote et la CGT s’est exprimée contre la proposition des employeurs.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/retraites-complementaires-du-prive-un-accord-sur-fond-de-tensions-entre-acteurs-sociaux_6794354_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T08:09:30+00:00",
       "titre": "Retraites complémentaires du privé : un accord sur fond de tensions entre acteurs sociaux",
       "dek": "Les syndicats et le patronat ont décidé, mercredi 14 octobre, à une large majorité, de revaloriser les pensions servies par l’Agirc-Arrco de 1,4 %, à partir du 1ᵉʳ novembre.",
       "avis": null,
@@ -110,17 +330,6 @@
       "dek": "La candidate du Rassemblement national a demandé la démission du président du Conseil constitutionnel après que celui-ci a rappelé l’impossibilité de réformer la Constitution par l’article 11. Comme l’avait fait Fabius et Debré avant lui sans susciter de réaction du RN.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/quand-le-sage-ferrand-montre-la-constitution-le-pen-regarde-le-doigt-20261015_C5RHB6XEQBHB5FKU7QWT6FLG64/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "15 Oct 2026",
-      "date_iso": "2026-10-15T07:57:28+00:00",
-      "titre": "Ce que révèlent les données inédites sur le poids des retraites des fonctionnaires dans les dépenses budgétaires françaises",
-      "dek": "DÉCRYPTAGE - Pour la première fois, l’exécutif publie, dans les annexes du budget de l’État pour 2027, la part exacte des pensions des anciens agents publics dans les crédits des différents ministères.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/conjoncture/ce-que-revelent-les-donnees-inedites-sur-le-poids-des-retraites-dans-les-depenses-budgetaires-francaises-20261013"
     },
     {
       "tag": "Politique",
@@ -341,215 +550,6 @@
       "dek": "Les députés ont adopté, mercredi, l’article prévoyant un prélèvement de 30,9 milliards d’euros au bénéfice de l’Union européenne, prévu dans le projet de loi de finances pour 2027.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/15/l-assemblee-nationale-valide-la-contribution-francaise-au-budget-europeen-malgre-l-opposition-de-lfi-et-du-rn_6793864_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T21:48:00+00:00",
-      "titre": "Marine Le Pen présentera \"de manière extrêmement précise\" sa réforme des retraites le 17 novembre",
-      "dek": "L'objectif sera \"d'augmenter le taux d'activité\" pour ramener l'âge de départ à 62 voire 60 ans, a annoncé la candidate du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/marine-le-pen-presentera-de-maniere-extremement-precise-sa-reforme-des-retraites-le-17-novembre_8237821.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T20:35:34+00:00",
-      "titre": "\"Pouvoir faire avancer un certain nombre de nos propositions\" : Gaëtan Dussausaye détaille la position du RN sur le budget 2027",
-      "dek": "Alors que le RN a refusé de voter la motion de rejet préalable du projet de budget, Gaëtan Dussausaye, député RN des Vosges avance la volonté de son parti de privilégier le débat. De son côté, Richard Ramos, député Modem du Loiret, se dit \"prêt à discuter\" avec les oppositions.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/pouvoir-faire-avancer-un-certain-nombre-de-nos-propositions-gaetan-dussausaye-detaille-la-position-du-rn-sur-le-budget-2027_8237647.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T19:47:02+00:00",
-      "titre": "«Incroyable de devoir se justifier sur ce sujet» : quatre semaines après avoir accouché, Marine Tondelier reprend sa campagne présidentielle",
-      "dek": "La candidate écologiste revient sur les plateaux télé ce mercredi et appelle en ligne à «lâcher la grappe» aux femmes. Elle dénonce les «injonctions contradictoires» reçues depuis la naissance de son fils fin septembre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/incroyable-de-devoir-se-justifier-sur-ce-sujet-quatre-semaines-apres-avoir-accouche-marine-tondelier-reprend-sa-campagne-presidentielle-20261014_DFVY3KWT5NGYBMISCNATOAKCTU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T19:32:33+00:00",
-      "titre": "Retraites complémentaires : 1,4 % de hausse après un an de gel, les syndicats divisés",
-      "dek": "Le compromis conclu par les partenaires sociaux ne fait pas l’unanimité, alors que le gouvernement envisage de nouvelles économies sur les pensions de base.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/14/retraites-complementaires-1-4-de-hausse-apres-un-an-de-gel-les-syndicats-divises_6793795_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T19:21:29+00:00",
-      "titre": "Un \"cordon sanitaire\" autour de LFI en vue de 2027 ? Les analyses d'Antoine Oberdoff et Gilles Finchelstein",
-      "dek": "Antoine Oberdoff,  journaliste politique à l'Opinion,\net Gilles Finchelstein, secrétaire général de la Fondation Jean Jaurès, sont les invités de l'émission \"C Ce Soir\" du 14 octobre. Ils s'interrogent sur l'existence d'un possible cordon sanitaire autour de LFI en vue de 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/un-cordon-sanitaire-autour-de-lfi-en-vue-de-2027-les-analyses-d-antoine-oberdoff-et-gilles-finchelstein_8237731.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T18:58:18+00:00",
-      "titre": "Présidentielle 2027 : Marine Tondelier reprend sa campagne après quatre semaines de congé maternité, et appelle à \"lâcher la grappe aux femmes\"",
-      "dek": "La candidate des Ecologistes, qui a participé à une marche pour le climat quatre jours après avoir accouché, trouve \"incroyable de devoir se justifier sur ce sujet\", mais \"c'est malheureusement encore nécessaire en 2026\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/marine-tondelier-reprend-sa-campagne-apres-quatre-semaines-de-conge-maternite-et-appelle-a-lacher-la-grappe-aux-femmes_8237659.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T18:32:35+00:00",
-      "titre": "Révolte de la jeunesse: la fête comme arme destructrice d’un pouvoir tout gris",
-      "dek": "Depuis le début du mouvement lycéen, la bulle médiatico-politique concentre son discours sur les «violences». Pourtant, cette mobilisation historique est surtout marquée par la fête et la joie comme acte de politisation et de participation d’une jeunesse qui rejette l’horizon qu’…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/141026/revolte-de-la-jeunesse-la-fete-comme-arme-destructrice-d-un-pouvoir-tout-gris"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T18:22:02+00:00",
-      "titre": "En images : « Qui nous protège de la police ? », dans le cortège de la mobilisation lycéenne à Paris",
-      "dek": "Cinquième acte du mouvement lycéen ce mardi 13 octobre 2026 à Paris, avec deux cortèges qui ont défilé dans les rues de la capitale. Le plus jeune et déterminé est parti de l’Hôtel de ville pour rejoindre la place Vauban, près des Invalides. Reportage photo.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=515033"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T17:26:38+00:00",
-      "titre": "Lycéens mutilés: la justice accélère, le ministre ne cède rien",
-      "dek": "Depuis le début de la mobilisation lycéenne, les autorités sont sommées de rendre des comptes sur les blessures les plus graves causées par la police. Certaines enquêtes ont vite avancé mais l’IGPN, aux effectifs réduits, croule sous les saisines.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/141026/lyceens-mutiles-la-justice-accelere-le-ministre-ne-cede-rien"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T17:09:50+00:00",
-      "titre": "Le plan de Jean-Luc Mélenchon pour « remettre de l’ordre » dans les comptes publics",
-      "dek": "Lors d’une conférence de presse ce mercredi 14&nbsp;octobre, Jean-Luc Mélenchon et Éric Coquerel ont détaillé la méthode qu’appliqueront les Insoumis pour «&nbsp;remettre de l’ordre dans les comptes publics&nbsp;» en cas de victoire à la présidentielle. Si LFI reste fidèle à sa p…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/budget-2027/le-plan-de-jean-luc-melenchon-pour-remettre-de-lordre-dans-les-comptes-publics"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T16:39:37+00:00",
-      "titre": "Pierre Coppey, ancien président de Vinci Autoroutes, choisi comme nouveau contrôleur général des lieux de privation de liberté par Emmanuel Macron",
-      "dek": "M. Coppey est aussi le président d’Aurore, une association qui accompagne des personnes en situation de précarité ou d’exclusion. Il succède à Dominique Simonnot.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/14/pierre-coppey-ancien-president-de-vinci-autoroutes-choisi-comme-nouveau-controleur-general-des-lieux-de-privation-de-liberte-par-emmanuel-macron_6793777_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T16:38:45+00:00",
-      "titre": "À Saint-Avold, les gilets jaunes reprennent le rond-point",
-      "dek": "Depuis les premiers jours de la mobilisation lycéenne, une date est très attendue : celle du retour annoncé des gilets jaunes le 17 octobre. Une journée d’action lancée début septembre sur les réseaux sociaux pour protester notamment contre l’augmentation du prix de l’essence et …",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=514956"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T16:33:57+00:00",
-      "titre": "Une pétition pour une nouvelle loi anti-concentration des médias",
-      "dek": "À l’initiative des Amis de l’Humanité, une pétition en ligne a été lancée pour contrer la mainmise des milliardaires d’extrême droite sur la presse et les médias. Elle a déjà recueilli de nombreuses signatures de journalistes et d’écrivains.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/culture-et-savoir/amis-de-lhumanite/une-petition-pour-une-nouvelle-loi-anti-concentration-des-medias"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T16:21:08+00:00",
-      "titre": "La justice rejette le recours de François Piquemal (LFI) contre l'élection aux municipales de Jean-Luc Moudenc",
-      "dek": "L'ancien candidat insoumis aux municipales 2026 a déposé un recours en raison d'ingérences numériques étrangères constatées lors du scrutin, visant notamment LFI. Le tribunal a jugé que ces \"attaques\" avaient été \"d'une faible visibilité\" contre François Piquemal, sans preuve d'u…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-justice-rejette-le-recours-de-francois-piquemal-lfi-contre-l-election-aux-municipales-de-jean-luc-moudenc_8237542.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T15:47:24+00:00",
-      "titre": "États-Unis: le campus de Cornell secoué par une affaire de viol collectif",
-      "dek": "Classée par la justice, une enquête sur le viol en réunion dont «Jane Doe» accuse sept autres élèves a été rouverte grâce à une nouvelle plainte et à la mobilisation des étudiants. La question du consentement et des défaillances judiciaires et universitaires revient au centre des…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/141026/etats-unis-le-campus-de-cornell-secoue-par-une-affaire-de-viol-collectif"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T15:00:41+00:00",
-      "titre": "Annulation de scrutins municipaux : «Pour le juge, l’enjeu n’est pas de savoir qui a gagné ou perdu, mais de restituer la volonté des électeurs»",
-      "dek": "Saint-Fons, Vaulx-en-Velin, Poissy… Ces dernières semaines, les tribunaux administratifs ont invalidé des élections municipales dans plusieurs communes, sans que les vainqueurs n’aient rien à se reprocher. Explications avec le juriste Romain Rambaud.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/annulation-de-scrutins-municipaux-pour-le-juge-lenjeu-nest-pas-de-savoir-qui-a-gagne-ou-perdu-mais-de-restituer-la-volonte-des-electeurs-20261014_VSE3LBMYHZFGJIU6KCTLPN4IR4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T14:26:00+00:00",
-      "titre": "Budget du RN : on ne discute pas croissance avec ceux qui rétrécissent la République",
-      "dek": "Débattre de la crédibilité des mesures économiques proposées par le RN, c’est contribuer à concéder à ce parti qu’il serait devenu respectable, prévient l’économiste, qui appelle à refuser un programme discriminatoire fondé sur la préférence nationale.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/budget-du-rn-on-ne-discute-pas-croissance-avec-ceux-qui-retrecissent-la-republique-20261014_E7XGTNH5Z5BQXHFZBB2PJSDRDI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T13:58:33+00:00",
-      "titre": "Les pompiers professionnels reconduisent leur grève jusqu’au 4 décembre",
-      "dek": "L’intersyndicale estime que le gouvernement n’a toujours pas répondu à leurs revendications, notamment à celle portant sur l’augmentation des moyens humains et financiers.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/14/les-pompiers-professionnels-reconduisent-leur-greve-jusqu-au-4-decembre_6793751_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Oct 2026",
-      "date_iso": "2026-10-14T13:20:35+00:00",
-      "titre": "En cas de victoire à la présidentielle : LFI prévoit 106 milliards de recettes supplémentaires et 82 milliards de dépenses nouvelles pour 2027",
-      "dek": "Le parti mélenchoniste a présenté ce mercredi 14 octobre les mesures qu’il appliquerait s’il remportait la présidentielle. Parmi les principales mesures : un ISF climatique, la taxe Zucman et le retour de la retraite à 62 puis 60 ans.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-lfi-prevoit-106-milliards-de-recettes-supplementaires-et-82-milliards-de-depenses-nouvelles-pour-2027-20261014_7KPGOCH4XZFMHIHJ7HCZ5S57FM/"
     }
   ]
 }
