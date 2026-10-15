@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-15T18:49:07+00:00",
+  "generated_at": "2026-10-15T22:49:20+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T21:14:38+00:00",
+      "titre": "Présidentielle 2027 : Glucksmann boudé par la gauche, le duel Le Pen-Bardella sous tension et l'entrée en piste de David Lisnard",
+      "dek": "À six mois et trois jours de la présidentielle, les candidats se bousculent. Le service politique de France Télévisions dévoile les coulisses de la campagne, et les questions qui dérangent. Ce jeudi 15 octobre, il se penche sur les divisions de la gauche, Marine Le Pen face à l’a…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-glucksmann-boude-par-la-gauche-le-duel-le-pen-bardella-sous-tension-et-l-entree-en-piste-de-david-lisnard_8239339.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T20:55:30+00:00",
+      "titre": "«Une question assez explosive» : Edouard Philippe évoque des vacances plus courtes et un apprentissage concentré le matin",
+      "dek": "Lors d’une réunion d’appartements connectée ce jeudi sur les rythmes scolaires, le candidat Horizons à la présidentielle a suggéré de raccourcir les congés de la Toussaint et de Pâques pour réduire le nombre d’heures de cours par jour.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/une-question-assez-explosive-edouard-philippe-evoque-des-vacances-plus-courtes-et-un-apprentissage-concentre-le-matin-20261015_6OL2IPY2CVC3TL23TJOXZZKAZ4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T19:55:47+00:00",
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann dénonce la « capitulation » de Marine Le Pen sur l’aide à l’Ukraine",
+      "dek": "La promesse de la candidate RN de cesser l’aide financière de la France à l’Ukraine après six mois de pouvoir si elle était élue en 2027 reviendrait à « soumet[tre] l’ensemble de l’Europe à Vladimir Poutine », a estimé le candidat-social-démocrate.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/presidentielle-2027-raphael-glucksmann-denonce-la-capitulation-de-marine-le-pen-sur-l-aide-a-l-ukraine_6794796_823448.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -517,39 +550,6 @@
       "dek": "Après sa victoire dès le premier tour de la primaire socialiste, Raphaël Glucksmann doit maintenant inverser le rapport de force à gauche pour doubler Jean-Luc Mélenchon et tenter d’accéder au second tour de l’élection présidentielle. En est-il capable ? On en discute avec Lilian…",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/glucksmann-melenchon-lheure-du-face-a-face-on-en-parle-dans-chez-pol-lemission-20261015_BYWRPXXZQFDMHC2VGFYUCMZTUM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Oct 2026",
-      "date_iso": "2026-10-15T08:09:30+00:00",
-      "titre": "Retraites complémentaires du privé : les acteurs sociaux trouvent un accord sur la revalorisation malgré leurs tensions",
-      "dek": "Les syndicats et le patronat ont décidé, mercredi 14 octobre, à une large majorité, d’augmenter de 1,4 % les pensions servies par l’Agirc-Arrco, à partir du 1ᵉʳ novembre. La CFE-CGC n’a pas pris part au vote et la CGT s’est exprimée contre la proposition des employeurs.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/retraites-complementaires-du-prive-un-accord-sur-fond-de-tensions-entre-acteurs-sociaux_6794354_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "15 Oct 2026",
-      "date_iso": "2026-10-15T08:09:30+00:00",
-      "titre": "Retraites complémentaires du privé : un accord sur fond de tensions entre acteurs sociaux",
-      "dek": "Les syndicats et le patronat ont décidé, mercredi 14 octobre, à une large majorité, de revaloriser les pensions servies par l’Agirc-Arrco de 1,4 %, à partir du 1ᵉʳ novembre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/15/retraites-complementaires-du-prive-un-accord-sur-fond-de-tensions-entre-acteurs-sociaux_6794354_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "15 Oct 2026",
-      "date_iso": "2026-10-15T07:58:33+00:00",
-      "titre": "Quand le sage Ferrand montre la Constitution, Le Pen regarde le doigt",
-      "dek": "La candidate du Rassemblement national a demandé la démission du président du Conseil constitutionnel après que celui-ci a rappelé l’impossibilité de réformer la Constitution par l’article 11. Comme l’avait fait Fabius et Debré avant lui sans susciter de réaction du RN.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/quand-le-sage-ferrand-montre-la-constitution-le-pen-regarde-le-doigt-20261015_C5RHB6XEQBHB5FKU7QWT6FLG64/"
     }
   ]
 }
