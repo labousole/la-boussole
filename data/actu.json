@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-15T22:49:20+00:00",
+  "generated_at": "2026-10-16T02:38:10+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "16 Oct 2026",
+      "date_iso": "2026-10-16T04:00:00+00:00",
+      "titre": "À lire : « Le Temps des salauds » d’Hugues Jallon et Franck Bourgeron",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=515101"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Oct 2026",
+      "date_iso": "2026-10-15T23:59:03+00:00",
+      "titre": "Le meurtrier d’Alicia Faye, tuée en Guyane en 2021 sur fond de trafic de drogue, a été arrêté au Guyana",
+      "dek": "Dane Langhorne, un Français de 29 ans interpellé le 11 octobre dans la banlieue de Georgetown, a été condamné en son absence, en juin, à trente ans de réclusion criminelle pour le meurtre d’Alicia Faye, une petite main du trafic de cocaïne entre la Guyane et l’Hexagone.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/10/16/le-meurtrier-presume-d-alicia-faye-tuee-en-guyane-en-2021-sur-fond-de-trafic-de-drogue-a-ete-arrete-au-guyana_6794931_3210.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -528,28 +550,6 @@
       "dek": "Pour la troisième fois depuis le début de la mobilisation des lycéens, une réunion est prévue ce jeudi 15 octobre entre leurs représentants et le ministre de l'Éducation nationale. Parmi les revendications figurent les problèmes des établissements scolaires délabrés, ou encore la…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sur-parcoursup-nous-qu-est-ce-qu-on-veut-les-lyceens-affichent-leurs-revendications-avant-une-nouvelle-rencontre-avec-le-ministre-dans-l-apres-midi_8238439.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "15 Oct 2026",
-      "date_iso": "2026-10-15T08:37:25+00:00",
-      "titre": "\"Sur Parcoursup, nous, qu'est-ce qu'on veut ?\" : les lycéens affichent leurs revendications avant une nouvelle rencontre avec le ministre dans l'après-midi",
-      "dek": "Pour la troisième fois depuis le début de la mobilisation des lycéens, une réunion est prévue ce jeudi 15 octobre entre leurs représentants et le ministre de l'Éducation nationale. Parmi les revendications figurent les problèmes des établissements scolaires délabrés, ou encore la…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sur-parcoursup-nous-qu-est-ce-qu-on-veut-les-lyceens-affichent-leurs-revendications-avant-une-nouvelle-rencontre-avec-le-ministre-dans-l-apres-midi_8238439.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "15 Oct 2026",
-      "date_iso": "2026-10-15T08:27:32+00:00",
-      "titre": "Glucksmann-Mélenchon, l’heure du face-à-face : on en parle dans «Chez Pol, l’émission»",
-      "dek": "Après sa victoire dès le premier tour de la primaire socialiste, Raphaël Glucksmann doit maintenant inverser le rapport de force à gauche pour doubler Jean-Luc Mélenchon et tenter d’accéder au second tour de l’élection présidentielle. En est-il capable ? On en discute avec Lilian…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/glucksmann-melenchon-lheure-du-face-a-face-on-en-parle-dans-chez-pol-lemission-20261015_BYWRPXXZQFDMHC2VGFYUCMZTUM/"
     }
   ]
 }
