@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:33:43+00:00",
+  "generated_at": "2026-10-16T22:23:05+00:00",
   "articles": [
     {
       "tag": "Politique",
@@ -40,6 +40,17 @@
       "source": "Le Monde – Politique",
       "date": "16 Oct 2026",
       "date_iso": "2026-10-16T17:54:29+00:00",
+      "titre": "L’UE « ne lâchera pas l’Ukraine », assure Emmanuel Macron, dénonçant les « ambiguïtés » de certains, en allusion à Donald Trump",
+      "dek": "La présidente de la Commission européenne, Ursula von der Leyen, a confirmé de son côté que l’Ukraine aurait besoin de 70 milliards d’euros supplémentaires en 2027 – un déficit qui « devra être comblé ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/16/aide-a-l-ukraine-emmanuel-macron-temporise-apres-la-demande-de-kiev-d-une-rallonge-de-70-milliards-d-euros_6795632_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "16 Oct 2026",
+      "date_iso": "2026-10-16T17:54:29+00:00",
       "titre": "Aide à l’Ukraine : Emmanuel Macron temporise après la demande de Kiev d’une rallonge de 70 milliards d’euros",
       "dek": "La présidente de la Commission européenne, Ursula von der Leyen, a confirmé de son côté que l’Ukraine aurait besoin de 70 milliards d’euros supplémentaires en 2027 − un déficit qui « devra être comblé ».",
       "avis": null,
@@ -50,9 +61,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T17:45:15+00:00",
+      "date_iso": "2026-10-16T17:45:11+00:00",
       "titre": "Le collectif Alerte appelle à revoir le projet de budget 2027, qui va « appauvrir les plus pauvres »",
-      "dek": "Les associations de lutte contre la pauvreté déplorent que le projet de loi de finances 2027 et celui de la Sécurité sociale « n’apportent aucune réponse structurelle », prévoyant au contraire « des économies qui appauvrissent les plus pauvres ».",
+      "dek": "Les associations de lutte contre la pauvreté déplorent que le projet de loi de finances et le projet de loi de finances de la Sécurité sociale pour 2027 « n’apportent aucune réponse structurelle » mais prévoient « des économies qui appauvrissent les plus pauvres ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/10/16/le-collectif-alerte-appelle-a-revoir-le-projet-de-budget-2027-qui-va-appauvrir-les-plus-pauvres_6795629_3224.html"
     },
@@ -539,17 +550,6 @@
       "dek": "Le ministre de la Justice et les magistrats s'indignent et s'inquiètent après les attaques de \"Frontières\" contre le juge Youssef Badr. Le parquet de Paris dit examiner \"la publication\" et les \"commentaires auxquels elle donne lieu\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/un-juge-insulte-et-menace-apres-un-numero-du-magazine-d-extreme-droite-frontieres_8239711.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T09:09:22+00:00",
-      "titre": "Plan de relance agricole : \"Rien n'est fait pour protéger le marché, rien n'est fait sur des prix minimums garantis\", déplore la Confédération paysanne",
-      "dek": "Après un été caniculaire et une sécheresse historique, les agriculteurs subissent de plein fouet la hausse des carburants. Jeudi 15 octobre, Sébastien Lecornu a annoncé un plan de relance pour 2027, avec entre 500 et 700 millions d'euros sur la table. Ces annonces sont-elles suff…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/crise/blocus-des-agriculteurs/plan-de-relance-agricole-rien-n-est-fait-pour-proteger-le-marche-rien-n-est-fait-sur-des-prix-minimums-garantis-deplore-la-confederation-paysanne_8239939.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
