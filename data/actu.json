@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-10-17T02:29:47+00:00",
+  "generated_at": "2026-10-17T08:57:57+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T08:01:07+00:00",
+      "titre": "«Hacker la tech»: ce que les géants du numérique font au monde et comment les vaincre",
+      "dek": "«Mediapart» organise un grand événement public à Paris avec celles et ceux qui, partout dans le monde, se mobilisent pour dénoncer l’emprise des géants du numérique. En partenariat avec «The Guardian», avec notamment la participation de Naomi Klein et d’Alain Damasio. À suivre en…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/171026/hacker-la-tech-ce-que-les-geants-du-numerique-font-au-monde-et-comment-les-vaincre"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T08:00:00+00:00",
+      "titre": "Rima Hassan : adulée ou détestée, l’ascension controversée d’une figure de LFI",
+      "dek": "L’eurodéputée insoumise, devenue depuis trois ans un symbole de la cause palestinienne, sera jugée pour apologie du terrorisme à partir de ce lundi 19 octobre à Paris. Retour sur la trajectoire hors du commun de l’activiste intranquille et clivante.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/rima-hassan-adulee-ou-detestee-lascension-controversee-dune-figure-de-lfi-20261017_BXILHYF5HBHEXDUTNWMMSNFKRI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T07:47:44+00:00",
+      "titre": "Mouvement des lycéens, retour des gilets jaunes, succès de LFI auprès des jeunes... Le \"8h30 franceinfo\" de Jérôme Fourquet",
+      "dek": "Le directeur du département Opinion et stratégies d’entreprise de l'Ifop répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-des-lyceens-retour-des-gilets-jaunes-succes-de-lfi-aupres-des-jeunes-le-8h30-franceinfo-de-jerome-fourquet_8220640.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T06:30:00+00:00",
+      "titre": "Quand la jeunesse défie la fatalité de l’austérité et du RN",
+      "dek": "Par Youlie Yamamoto, porte-parole d’Attac et cofondatrice des Rosies.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/chronique/quand-la-jeunesse-defie-la-fatalite-de-lausterite-et-du-rn"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T05:21:00+00:00",
+      "titre": "Présidentielle : à quoi joue David Lisnard, le candidat fan de Milei qui veut forcer la porte de la campagne ?",
+      "dek": "Testé pour la première fois devant Bruno Retailleau dans un sondage Ifop, le maire ultralibéral de Cannes surfe sur une campagne en ligne largement dopée par ses fans et par la promotion des médias Bolloré. Les proches du candidat LR espèrent qu’il se ralliera le moment venu.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-a-quoi-joue-david-lisnard-le-candidat-fan-de-milei-qui-veut-forcer-la-porte-de-la-campagne-20261017_K24KPTP45VETTKW7ESTWKGOKEM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T05:00:08+00:00",
+      "titre": "VRAI OU FAUX. N'y a-t-il eu que 38 bacheliers qui \"n'ont pas eu de solution\" sur Parcoursup en 2025, comme l'affirme le gouvernement ?",
+      "dek": "Si le chiffre avancé en réponse à la colère des lycéens par le ministre de l'Enseignement supérieur, Philippe Baptiste, ne sort pas de nulle part, il occulte la majeure partie des bacheliers restés sans affectation, ne retenant que ceux qui avaient saisi une commission de recours…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-n-y-a-t-il-eu-que-38-bacheliers-qui-n-ont-pas-eu-de-solution-sur-parcoursup-en-2025-comme-l-affirme-le-gouvernement_8239924.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T04:30:00+00:00",
+      "titre": "Mouvement lycéen : Macron et le désaveu de la jeunesse",
+      "dek": "Ils sont nés sous Sarkozy, ont grandi avec les espoirs déçus de la gauche socialiste au pouvoir, connu les attentats de 2015 et les militaires armés jusqu’aux dents devant leur école. Ils ont appris les exercices d’« alerte intrusion », observé plusieurs minutes de silence, dont …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/mouvement-lyceen/mouvement-lyceen-macron-et-le-desaveu-de-la-jeunesse"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T03:30:19+00:00",
+      "titre": "Entre Emmanuel Macron et la jeunesse, un divorce consommé",
+      "dek": "Porteur d’un message d’émancipation sociale lors de son arrivée au pouvoir, le chef de l’Etat n’a cessé de creuser le fossé avec la jeune génération, qui se mobilisera samedi 17 octobre. Lors de cette nouvelle journée de manifestations, les lycéens ambitionnent une convergence av…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/17/entre-emmanuel-macron-et-la-jeunesse-un-divorce-consomme_6795811_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -182,7 +270,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:45:09+00:00",
+      "date_iso": "2026-10-16T15:45:08+00:00",
       "titre": "L’élection présidentielle de 2027, moment démocratique ou combat algorithmique ?",
       "dek": "En ce début d’automne, les postulants à l’Elysée s’échauffent sur des rings séparés, à l’image de l’évolution d’une société de plus en plus fragmentée et polarisée, où chacun peut se réfugier dans une bulle créée par les algorithmes des réseaux sociaux, analyse Matthieu Goar, dan…",
       "avis": null,
@@ -462,94 +550,6 @@
       "dek": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/budget-2027-mission-impossible-pour-le-gouvernement-on-off-episode-4_8239819.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T10:08:43+00:00",
-      "titre": "Le RN critique la \"condescendance\" de Volodymyr Zelensky après des échanges avec Marine Le Pen sur les aides à l'Ukraine",
-      "dek": "\"Madame Le Pen ne maîtrise pas bien certains détails\", a déclaré le président ukrainien, en réponse à la candidate d'extrême droite à la présidentielle, qui entend mettre fin à l'aide financière de la France si elle est élue.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-rn-critique-la-condescendance-de-volodymyr-zelensky-apres-les-echanges-sur-le-financement-de-l-ukraine_8239885.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T10:00:06+00:00",
-      "titre": "Contre-budget de LFI : le pari incertain de la relance",
-      "dek": "Avec 106 milliards d’euros de recettes supplémentaires et 82 milliards de dépenses nouvelles, Jean-Luc Mélenchon entend prouver que son programme budgétaire, présenté mercredi, est aussi ambitieux que rigoureux. Mais il n’a pas démontré que ses hypothèses résisteront aux réaction…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/10/16/contre-budget-de-lfi-le-pari-incertain-de-la-relance_6795474_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T09:51:13+00:00",
-      "titre": "Les policiers \"n'échappent pas\" à la convergence des crises, \"ils sont dans une logique de revendications\", explique Driss Aït Youssef, spécialiste des questions de sécurité",
-      "dek": "Invité de \"La Matinale\" ce 16 octobre, la veille d'une mobilisation nationale, Driss Aït Youssef, docteur en droit public et spécialiste des questions de sécurité, revient sur la plainte du syndicat policier Alliance pour \"mise en danger de la vie d'autrui\" lors des manifestation…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/les-policiers-n-echappent-pas-a-la-convergence-des-crises-ils-sont-dans-une-logique-de-revendications-explique-driss-ait-youssef-specialiste-des-questions-de-securite_8240005.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T09:41:42+00:00",
-      "titre": "Campagne 2027 : les podcasts vidéo sont une bonne chose, aux politiques de ne pas s’en servir pour zapper les journalistes !",
-      "dek": "Il y a de la place pour tous les formats, d’autant plus durant une campagne présidentielle dont les enjeux doivent être largement abordés. Mais le dispositif souvent bienveillant de ces nouveaux médias ne se substitue pas à l’exercice de l’interview.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/campagne-2027-les-podcasts-video-sont-une-bonne-chose-aux-politiques-de-ne-pas-sen-servir-pour-zapper-les-journalistes-20261016_JJ4JBK2LQJCBXGBEG2OAI4ZSP4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T09:26:59+00:00",
-      "titre": "Prime grands rouleurs : qui est désormais concerné par le versement de l'aide aux carburants, versée dès ce vendredi ?",
-      "dek": "La prime grands rouleurs est lancée ce vendredi 16 octobre pour plus d'un million de Français. D'une valeur de 100 euros, elle est mise en place par le gouvernement pour faire face à la flambée des prix à pompe.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/prime-grands-rouleurs-qui-est-desormais-concerne-par-le-versement-de-l-aide-aux-carburants-versee-des-ce-vendredi_8239975.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T09:20:33+00:00",
-      "titre": "Laurent Nuñez reconnaît une «censure» de certaines pancartes des lycéens mobilisés",
-      "dek": "Si le ministre de l’Intérieur assure ne pas avoir «donné ces instructions», il défend «une mesure de police administrative»… malgré des abus qu’il est forcé d’admettre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/laurent-nunez-reconnait-une-censure-de-certaines-pancartes-des-lyceens-mobilises-20261016_DRQMF72PINH4XFY2NV3CIJZKHM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T09:20:02+00:00",
-      "titre": "Retailleau-Lisnard-Ménard : le déjeuner de conservateurs",
-      "dek": "Le candidat LR et son concurrent ultralibéral se retrouveront la semaine prochaine pour des agapes organisées par le maire de Béziers, alors qu’ils sont plus concurrents que jamais pour la présidentielle.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/retailleau-lisnard-menard-le-dejeuner-de-conservateurs-20261016_OBWP5FYF55CLVHWSB4FIZQGYO4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T09:13:57+00:00",
-      "titre": "Un juge insulté et menacé après un numéro du magazine d'extrême droite \"Frontières\"",
-      "dek": "Le ministre de la Justice et les magistrats s'indignent et s'inquiètent après les attaques de \"Frontières\" contre le juge Youssef Badr. Le parquet de Paris dit examiner \"la publication\" et les \"commentaires auxquels elle donne lieu\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/un-juge-insulte-et-menace-apres-un-numero-du-magazine-d-extreme-droite-frontieres_8239711.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
