@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-10-17T08:57:57+00:00",
+  "generated_at": "2026-10-17T13:24:06+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T13:05:35+00:00",
+      "titre": "Retour à la case départ: en 2027, le chômage remontera au niveau du début du macronisme",
+      "dek": "Le chômage pourrait atteindre 8,8% fin 2027, contre 8,4% fin 2026, selon les prévisions de l’Institut français d’économie. Une hausse qui s’expliquerait par la faiblesse de la croissance, le recul de l’emploi salarié et les limites des politiques de l’emploi menées sous Emmanuel …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/171026/retour-la-case-depart-en-2027-le-chomage-remontera-au-niveau-du-debut-du-macronisme"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T12:59:50+00:00",
+      "titre": "Présidentielle 2027 : pour François Fillon, Bruno Retailleau «est le seul candidat crédible qui soit clairement à droite»",
+      "dek": "Dans un discours à Avignon samedi 17 octobre, l’ancien Premier ministre, exclu de la vie politique après sa déroute à la présidentielle 2017, a dit son soutien à Bruno Retailleau, dont il fut le mentor.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-pour-francois-fillon-bruno-retailleau-est-le-seul-candidat-credible-qui-soit-clairement-a-droite-20261017_DPUZ24SCY5GHJGX5STVGNJRV5U/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T12:53:29+00:00",
+      "titre": "Davet et Lhomme remontent le fil de la bollorisation, un crime de masse contre le journalisme",
+      "dek": "Dans un livre-enquête paru chez Flammarion, les deux journalistes racontent la brutale construction d’un écosystème médiatique réactionnaire, à la botte du magnat et de son projet politique.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/davet-et-lhomme-remontent-le-fil-de-la-bollorisation-un-crime-de-masse-contre-le-journalisme-20261017_RH4PADOHSJECRP4SMLOGAEL35M/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T12:50:33+00:00",
+      "titre": "Après le choc du premier tour, le camp Lula tente une difficile «remontada»",
+      "dek": "Sonnés par des résultats qui ont placé Flávio Bolsonaro en tête de l’élection présidentielle, les soutiens du président brésilien rêvent d’un retournement de situation inédit au second tour, le 25 octobre. Leur entrain pourrait toutefois se révéler trop tardif.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/171026/apres-le-choc-du-premier-tour-le-camp-lula-tente-une-difficile-remontada"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T12:31:21+00:00",
+      "titre": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
+      "dek": "« Je ne vois qu’une candidature capable d’engager le sursaut national, c’est celle de Bruno Retailleau », a déclaré l’ex-candidat en 2017, dont la campagne avait vacillé avec les révélations sur les emplois fictifs de sa femme, Penelope.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-francois-fillon-apporte-son-soutien-a-bruno-retailleau-seul-candidat-credible-qui-soit-clairement-a-droite_6796341_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T12:00:15+00:00",
+      "titre": "Présidentielle 2027 : autour de la candidature de David Lisnard, « il se passe quelque chose », mais quoi ?",
+      "dek": "Déclaré depuis fin mars, le candidat de la droite libérale a vu sa notoriété décoller à l’automne sur les réseaux sociaux. Simple bulle spéculative et numérique ou début d’une percée politique ? Cette séquence permet au président de Nouvelle Energie de commencer à combler son déf…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-autour-de-la-candidature-de-david-lisnard-il-se-passe-quelque-chose-mais-quoi_6796307_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T10:31:12+00:00",
+      "titre": "Richard Ferrand attaqué par le RN: la rançon d’un régime laissé vulnérable aux assauts de l’extrême droite",
+      "dek": "Marine Le Pen et son parti réclament la démission du président du Conseil constitutionnel. Celui-ci a eu le malheur de rappeler que la Constitution ne pourrait pas être révisée par la voie juridique envisagée par l’extrême droite. L’épisode en dit long sur la violence du projet d…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/171026/richard-ferrand-attaque-par-le-rn-la-rancon-d-un-regime-laisse-vulnerable-aux-assauts-de-l-extreme-droi"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T09:33:39+00:00",
+      "titre": "À la recherche de notre ancêtre microbien",
+      "dek": "Alors que les découvertes sur nos lointains parents unicellulaires s’accumulent, une évidence s’impose: nous sommes issus d’un collectif cellulaire. Reste à trouver quels étaient les partenaires en jeu.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/171026/la-recherche-de-notre-ancetre-microbien"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T09:30:00+00:00",
+      "titre": "Hier c’était mieux demain, par Guénaëlle Gault",
+      "dek": "Si, aujourd’hui, la promesse d’un avenir meilleur est mise à mal, peut-être existe-t-il une place pour l’action individuelle et collective. Encore faut-il que les élus, notamment le futur locataire de l’Elysée, acceptent de partager une partie de leur pouvoir.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/opinions/hier-cetait-mieux-demain-par-guenaelle-gault-20261017_VX7D2S7Z45GKBJDESK3O2AMGOA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T09:00:11+00:00",
+      "titre": "« La gestion du mouvement lycéen et le projet de budget 2027 montrent que le pouvoir ne prend pas la mesure des bouleversements que traverse notre pays »",
+      "dek": "Les représentants des organisations membres du Pacte du pouvoir de vivre fustigent, dans une tribune au « Monde », la déconnexion de l’exécutif, qu’ils jugent incapable de répondre aux difficultés sociales et aux préoccupations environnementales des Français.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/10/17/la-gestion-du-mouvement-lyceen-et-le-projet-de-budget-2027-montrent-que-le-pouvoir-ne-prend-pas-la-mesure-des-bouleversements-que-traverse-notre-pays_6796165_3232.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -440,116 +550,6 @@
       "dek": "Le mouvement lycéen, que personne ou presque n’avait vu venir, a embrasé le pays en l’espace de quelques semaines. À la veille du samedi 17 octobre, la perspective d’une convergence des colères n’a jamais été aussi réaliste. En face, le gouvernement n’est pas impuissant: il est p…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/161026/des-lycees-au-17-octobre-ces-semaines-ou-les-luttes-ont-converge"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T12:34:37+00:00",
-      "titre": "Le site du parti Les Républicains a été piraté pour afficher un appel à manifester le 17 octobre, l'entourage de Bruno Retailleau annonce porter plainte",
-      "dek": "\"Nous avons volé toutes les données de votre site et de vos membres ainsi que tous vos échanges internes et messages privés\", déclarent les pirates dans un communiqué.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/les-republicains/le-site-des-republicains-a-ete-pirate-le-parti-politique-annonce-porter-plainte_8240143.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T12:27:39+00:00",
-      "titre": "65 ans après le massacre du 17 octobre 1961, la même police",
-      "dek": "Ces dernières semaines, les mobilisations lycéennes ont été marquées par de fortes répressions. 65 ans après le massacre du 17 octobre 1961, les pratiques de la police continuent de porter les traces de son histoire coloniale.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=515695"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T12:16:26+00:00",
-      "titre": "Le site du parti Les Républicains brièvement détourné pour appeler à manifester ce 17 octobre",
-      "dek": "Le site était en cours de rétablissement, vendredi à la mi-journée.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/16/le-site-des-republicains-brievement-detourne-pour-appeler-a-manifester-ce-17-octobre_6795547_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T11:36:42+00:00",
-      "titre": "«Vive le 17 octobre» : le site des Républicains brièvement transformé en appel à la mobilisation",
-      "dek": "Des hackers ont pris le contrôle du site du parti de droite ce vendredi 16 octobre pendant quelques minutes pour y afficher des messages politiques et des montages à la gloire de Jean-Luc Mélenchon ou Bally Bagayoko.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/vive-le-17-octobre-le-site-des-republicains-brievement-transforme-en-appel-a-la-mobilisation-20261016_YVYRHCJ4RBHQLKUBIVRJSADODY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T11:22:45+00:00",
-      "titre": "\"Nous ne pouvons plus financièrement aider l'Ukraine\", affirme Laure Lavalette, porte-parole du Rassemblement national",
-      "dek": "Laure Lavalette, députée RN du Var et porte-parole du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/nous-ne-pouvons-plus-financierement-aider-l-ukraine-affirme-laure-lavalette-porte-parole-du-rassemblement-national_8240248.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T10:59:19+00:00",
-      "titre": "Pesticides dans l’eau: le décret qui enterre la prévention",
-      "dek": "La concertation menée au sein du groupe national captages s’est achevée, lundi 12 octobre, sur un passage en force du gouvernement. Le projet de décret limite le nombre de captages prioritaires et exclut les pesticides interdits des critères de classement. «Mediapart» en a obtenu…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/161026/pesticides-dans-l-eau-le-decret-qui-enterre-la-prevention"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T10:57:56+00:00",
-      "titre": "«Un combat noble perverti» : Bally Bagayoko s’insurge après la polémique liée à l’excision et dénonce un «piège politique»",
-      "dek": "Critiqué pour son abstention lors d’un vote sur les mutilations sexuelles, le maire LFI de Saint-Denis rappelle son rejet de ces violences mais dénonce une tentative de déstabilisation de la part de l’opposition municipale.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/droits-des-femmes/un-combat-noble-perverti-bally-bagayoko-sinsurge-apres-la-polemique-liee-a-lexcision-et-denonce-un-piege-politique-20261016_FPJV5H4LZFG7VK2FVOHYZPDTGI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T10:56:30+00:00",
-      "titre": "Rémi Boussemart, président des Jeunes Socialistes : «Dans dix ans, j’espère que la gauche aura gagné»",
-      "dek": "Ils font partie des visages montants de la politique française et demeurent pourtant méconnus du grand public. «Chez Pol» part à leur rencontre. Aujourd’hui, le président des Jeunes socialistes Rémi Boussemart, qui était un partisan d’Olivier Faure à la primaire.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/remi-boussemart-president-des-jeunes-socialistes-dans-dix-ans-jespere-que-la-gauche-aura-gagne-20261016_36ZKUSFXPJA3VJCBMNRT7MK2YU/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T10:45:13+00:00",
-      "titre": "L’« hyperpolitique », les grains et la colère",
-      "dek": "Dans son essai Hyperpolitique, salué à l’international, Anton Jäger décrit une société politisée mais incapable de pérenniser son énergie. Un examen singulier et percutant du présent, dont les pistes de dépassement sont encore à dessiner.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=515415"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T10:36:24+00:00",
-      "titre": "Budget 2027, mission impossible pour le gouvernement ? \"On/Off\", épisode 4",
-      "dek": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/budget-2027-mission-impossible-pour-le-gouvernement-on-off-episode-4_8239819.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
