@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-17T17:41:00+00:00",
+  "generated_at": "2026-10-17T21:55:52+00:00",
   "articles": [
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T21:14:17+00:00",
+      "titre": "«Chaos», «casseurs déterminés», «pourrissement»… La classe politique condamne la violence des manifestations mais ne s’accorde pas sur les causes",
+      "dek": "Pour une partie de la gauche, le pourrissement de la mobilisation qui a rassemblé entre 550.000 et 800.000 personnes en France est surtout le fruit d’une «doctrine de maintien de l’ordre» violente.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/chaos-casseurs-determines-pourrissement-la-classe-politique-condamne-la-violence-des-manifestations-mais-ne-s-accorde-pas-sur-les-causes-20261017"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T18:59:35+00:00",
+      "titre": "Mobilisation du 17 octobre: foule massive, colère débordante, gouvernement débordé",
+      "dek": "La journée de mobilisation massive - entre 550 000 et 800 000 manifestants - samedi 17 octobre, marquée par des débordements inédits, a mis au pied du mur le gouvernement, impuissant à répondre à une colère qui se répand, lui qui assurait pourtant depuis plusieurs jours que le mo…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/171026/mobilisation-du-17-octobre-foule-massive-colere-debordante-gouvernement-deborde"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T18:55:32+00:00",
+      "titre": "Mouvement du 17 octobre : «violences anti-flic» ou «violences policières», les politiques réagissent",
+      "dek": "Droite, gauche et gouvernement ont polémiqué sur l’interprétation des débordements survenus ce samedi. Le Premier ministre a dénoncé un «tour de chauffe» de la gauche radicale avant la présidentielle.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/mouvement-du-17-octobre-violences-anti-flic-ou-violences-policieres-les-politiques-reagissent-20261017_ASWMKRDUJBCCDOOUZFWXYZJG6I/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T18:47:44+00:00",
+      "titre": "Mobilisation du 17 octobre : Emmanuel Macron dénonce les « semeurs de chaos qui ne cherchent qu’à abattre nos institutions », après des scènes de saccage dans plusieurs villes",
+      "dek": "« A peu près 400 interpellations » ont eu lieu, a annoncé le ministre de l’intérieur, Laurent Nuñez, samedi soir, alors que la gauche a critiqué le gouvernement pour sa doctrine du maintien de l’ordre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/17/mobilisation-du-17-octobre-emmanuel-macron-denonce-les-semeurs-de-chaos-qui-ne-cherchent-qu-a-abattre-nos-institutions-apres-des-scenes-de-saccage-dans-plusieurs-villes_6796686_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -506,50 +550,6 @@
       "dek": "Depuis la crise des « gilets jaunes », l’extrême droite saisit chaque occasion de se poser en défenseur des automobilistes et de leur pouvoir d’achat. Les constructeurs français, dont le Rassemblement national relaie les combats contre les normes européennes, se pressent à sa ren…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T14:43:41+00:00",
-      "titre": "Les parlementaires RN et UDR saisissent le Conseil constitutionnel pour réclamer \"la démission d'office\" de son président, Richard Ferrand",
-      "dek": "Dans une interview, le président du Conseil constitutionnel a estimé que Marine Le Pen ne pourrait pas organiser de référendums en utilisant l'article 11 de la Constitution. Le RN a vertement réagi à ces propos.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/les-parlementaires-rn-et-udr-saisissent-le-conseil-constitutionnel-pour-reclamer-la-demission-d-office-de-son-president-richard-ferrand_8240230.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T14:35:26+00:00",
-      "titre": "Brésil : Flávio Bolsonaro, le portrait c(r)aché du père",
-      "dek": "Après la douche froide du premier tour, remporté par l’extrême droite avec Flávio Bolsonaro en position de favori, le pays sort de la torpeur. D’aucuns s’adonnent à une expérience de pensée : à quoi ressemblerait un retour du bolsonarisme incarné par le fils de l’ex-président ? E…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=515750"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T14:19:14+00:00",
-      "titre": "Budget 2027 : des associations appellent le gouvernement à renoncer aux « économies qui appauvrissent les plus pauvres »",
-      "dek": "Face à une précarité record, les associations alertent sur l’augmentation des demandes d’aide et la baisse de leurs ressources, en raison d’une réduction des subventions publiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/16/budget-2027-des-associations-appellent-le-gouvernement-a-renoncer-aux-economies-qui-appauvrissent-les-plus-pauvres_6795554_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T13:59:01+00:00",
-      "titre": "Entre Mélenchon et Glucksmann : l’heure du choix chez les Écolos ?",
-      "dek": "Marine Tondelier fait son retour dans une gauche recomposée. Entre la victoire de Raphaël Glucksmann à la primaire social-démocrate, la dynamique de Jean-Luc Mélenchon et les défections internes comme le ralliement de Yannick Jadot, les Écologistes se retrouvent face à un choix.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/jean-luc-melenchon/entre-melenchon-et-glucksmann-lheure-du-choix-chez-les-ecolos"
     }
   ]
 }
