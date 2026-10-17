@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-17T13:24:06+00:00",
+  "generated_at": "2026-10-17T17:41:00+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T17:37:53+00:00",
+      "titre": "\"Nous ne nous laisserons pas intimider\", prévient Sébastien Lecornu, dénonçant les violences en marge des manifestations du 17 octobre",
+      "dek": "Le Premier ministre a apporté \"tout\" son soutien aux forces de l'ordre \"qui ont affronté une violence d'une extrême intensité\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T16:37:28+00:00",
+      "titre": "Jean-Luc Mélenchon salue \"des dizaines de milliers de gens calmement mobilisés\" pour les manifestations du 17 octobre, Jordan Bardella dénonce \"les professionnels du chaos\"",
+      "dek": "La patronne des Ecologistes et candidate à la présidentielle Marine Tondelier a, de son côté, appelé le gouvernement à \"revoir\" sa doctrine du maintien de l'ordre, qui met en danger \"manifestants et policiers\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T16:24:24+00:00",
+      "titre": "500 000 manifestants le 17 octobre : débrief de la journée de mobilisation",
+      "dek": "Chiffres clés, mobilisations partout en France, violences… Anthony Cortes et Raphaël Godechot débriefent la journée du 17 octobre qui a vu la convergence des lycéens et des Gilets Jaunes.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/emmanuel-macron/500-000-manifestants-le-17-octobre-debrief-de-la-journee-de-mobilisation"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T13:30:00+00:00",
+      "titre": "Louis Boyard : “Dès que la jeunesse s’engage dans la conflictualité, …",
+      "dek": "Où va le mouvement lycéen ? Pour en parler en cette journée du 17 octobre, nous recevons Louis Boyard, député LFI.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/gilets-jaunes/video-louis-boyard-des-que-la-jeunesse-sengage-dans-la-conflictualite"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -506,50 +550,6 @@
       "dek": "Marine Tondelier fait son retour dans une gauche recomposée. Entre la victoire de Raphaël Glucksmann à la primaire social-démocrate, la dynamique de Jean-Luc Mélenchon et les défections internes comme le ralliement de Yannick Jadot, les Écologistes se retrouvent face à un choix.",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/jean-luc-melenchon/entre-melenchon-et-glucksmann-lheure-du-choix-chez-les-ecolos"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T13:55:44+00:00",
-      "titre": "Benoît Hamon, hôte considération",
-      "dek": "L’ex-candidat à la présidentielle, vainqueur de la primaire PS en 2017, dirige désormais une ONG d’insertion de migrants mais n’exclut pas un retour en politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/portraits/benoit-hamon-hote-consideration-20261016_BM55YG5I2FCHJBHSZPELOIAHJY/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T13:53:29+00:00",
-      "titre": "Le Rassemblement national réclame la démission de Richard Ferrand, président du Conseil constitutionnel",
-      "dek": "Des députés d'extrême droite ont déposé une requête pour demander la démission d'office de Richard Ferrand, président du Conseil constitutionnel. Celui-ci a déclaré que le RN ne pourrait utiliser l'article 11 de la Constitution, qui sert à soumettre à réferendum uniquement des pr…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/conseil-constitutionnel/le-rassemblement-national-reclame-la-demission-de-richard-ferrand-president-du-conseil-constitutionnel"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T13:36:08+00:00",
-      "titre": "Des blocages lycéens au 17 octobre, ces semaines où les luttes ont convergé",
-      "dek": "Le mouvement lycéen, que personne ou presque n’avait vu venir, a embrasé le pays en l’espace de quelques semaines. À la veille du samedi 17 octobre, la perspective d’une convergence des colères n’a jamais été aussi réaliste. En face, le gouvernement n’est pas impuissant: il est p…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/161026/des-blocages-lyceens-au-17-octobre-ces-semaines-ou-les-luttes-ont-converge"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T13:36:08+00:00",
-      "titre": "Des lycées au 17 octobre, ces semaines où les luttes ont convergé",
-      "dek": "Le mouvement lycéen, que personne ou presque n’avait vu venir, a embrasé le pays en l’espace de quelques semaines. À la veille du samedi 17 octobre, la perspective d’une convergence des colères n’a jamais été aussi réaliste. En face, le gouvernement n’est pas impuissant: il est p…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/161026/des-lycees-au-17-octobre-ces-semaines-ou-les-luttes-ont-converge"
     }
   ]
 }
