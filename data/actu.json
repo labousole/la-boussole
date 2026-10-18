@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-10-18T02:30:30+00:00",
+  "generated_at": "2026-10-18T09:16:17+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T09:10:51+00:00",
+      "titre": "EN DIRECT – Au lendemain du 17 octobre : 855 interpellations à Paris, un manifestant mort après un «arrêt cardio-respiratoire»",
+      "dek": "Après une journée émaillée d’épisodes particulièrement chaotiques à Paris, samedi 17 octobre, droite et extrême droite pointent la responsabilité de «l’extrême gauche radicale», tandis que la gauche critique un maintien de l’ordre qui a misé sur le «pourrissement».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/social/en-direct-mobilisation-du-17-octobre-gerald-darmanin-demande-aux-parquets-une-reponse-extremement-ferme-20261018_OXTKJ7XVGFBXXNVJP34RG2BQCI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T08:53:37+00:00",
+      "titre": "A Paris, place de la République, les premières images des dégâts après le 17 octobre",
+      "dek": "Notre journaliste Marc Bettinelli a filmé les dégâts place de la République, à Paris, après les violences, les pillages et le chaos qui ont éclipsé la mobilisation « contre la vie chère ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/video/2026/10/18/a-paris-place-de-la-republique-les-premieres-images-des-degats-apres-le-17-octobre_6797052_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T08:46:45+00:00",
+      "titre": "Le gouvernement est \"principalement responsable de ce qui est en train d’arriver\", dénonce Éric Coquerel au lendemain des violences du 17 octobre",
+      "dek": "Le député LFI de Seine-Saint-Denis souligne que les insoumis n'étaient samedi que \"dans les rassemblements pacifiques\" et considère que le gouvernement \"ne comprend pas la situation qu'il a lui-même déclenchée.\"",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-est-principalement-responsable-de-ce-qui-est-en-train-d-arriver-denonce-eric-coquerel-au-lendemain-des-violences-du-17-octobre_8242570.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T08:07:52+00:00",
+      "titre": "Avec « Référendum citoyen », le projet très politique de la famille Jardin",
+      "dek": "Après le mouvement Les Gueux, la nouvelle application lancée par l’écrivain et son fils veut imposer de la démocratie directe dans la politique, et engrange surtout des soutiens à droite.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/18/avec-referendum-citoyen-le-projet-tres-politique-de-la-famille-jardin_6797050_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T06:39:11+00:00",
+      "titre": "EN DIRECT, mobilisation du 17 octobre : Benoit Payan annonce la venue de Laurent Nuñez lundi à Marseille et réclame des « explications » sur les moyens policiers",
+      "dek": "Alors que les violences et les actes de vandalisme se sont prolongés jusque tard dans la soirée, samedi, notamment à Paris, le bilan financier des dégradations « va être lourd, partout dans le pays », a prévenu le premier ministre, Sébastien Lecornu",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-au-lendemain-des-manifestations-le-chaos-a-la-une-de-la-presse-regionale_6795855_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T04:56:23+00:00",
+      "titre": "A Paris, des commerces en lambeaux après les violences et les pillages du 17 octobre : « Les gens se filmaient, c’était le grand défouloir »",
+      "dek": "La place de la République et ses avenues afférentes ont été l’épicentre parisien de saccages violents de magasins, samedi soir, après le passage du cortège de la manifestation.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/18/a-paris-place-de-la-republique-des-commerces-en-lambeaux-apres-les-violences-et-les-pillages-les-gens-se-filmaient-c-etait-le-grand-defouloir_6797039_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T04:35:27+00:00",
+      "titre": "Les forces de l’ordre dépassées par une mobilisation imprévisible le 17 octobre : « Quelque chose a foiré, ce n’est pas concevable que des groupes puissent arriver si près de l’Elysée »",
+      "dek": "La journée de samedi a été émaillée d’affrontements intenses à Paris, à Marseille, à Lyon ou à Bordeaux. Policiers et gendarmes s’y sont parfois trouvés en sous-effectifs, débordés par des groupes épars et multiples de personnes prêtes à en découdre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/18/lors-des-manifestations-du-17-octobre-les-forces-de-l-ordre-depassees-par-une-mobilisation-imprevisible-quelque-chose-a-foire-ce-n-est-pas-concevable-que-des-groupes-puissent-arriver-si-pres-de-l-elysee_6797038_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T04:30:13+00:00",
+      "titre": "« Si nous n’étions pas aveuglés par le marché, nous pourrions tout de suite proposer un autre horizon à la jeunesse »",
+      "dek": "Etranglé par la pression des marchés financiers et de l’énergie, le gouvernement cherche à canaliser la colère de la jeunesse par la violence, signe avant-coureur de l’effondrement démocratique, analyse l’économiste Nicolas Postel dans une tribune au « Monde ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/10/18/si-nous-n-etions-pas-aveugles-par-le-marche-nous-pourrions-tout-de-suite-proposer-un-autre-horizon-a-la-jeunesse_6797037_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T04:20:45+00:00",
+      "titre": "Mobilisation du 17 octobre : une foule de manifestants, des violences et des pillages, récit d’une longue journée en France qui a viré au chaos",
+      "dek": "Samedi, 800 000 personnes ont défilé selon les organisateurs, 550 000 selon le ministre de l’intérieur, Laurent Nuñez. Dans plusieurs villes, le même schéma s’est répété : d’un côté une foule de manifestants, de l’autre des groupes indépendants décidés à en découdre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/18/mobilisation-du-17-octobre-des-manifestations-d-ampleur-conclues-dans-le-chaos_6797034_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T03:56:15+00:00",
+      "titre": "Mobilisation du 17 octobre : à six mois de l’élection présidentielle, l’agitation sociale et les violences encerclent un exécutif à bout de souffle",
+      "dek": "Le premier ministre, Sébastien Lecornu, est sorti de son silence, samedi en fin de soirée, pour appeler à « choisir son camp » entre la République et les casseurs. Il a visé le candidat de La France insoumise (LFI) à l’élection présidentielle, Jean-Luc Mélenchon, alors que son go…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/18/mobilisation-du-17-octobre-apres-une-journee-de-violences-et-de-saccages-le-gouvernement-sous-pression-cible-lfi_6796957_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T03:00:12+00:00",
+      "titre": "En Californie, la tournée au pas de course de Gabriel Zucman pour taxer les milliardaires",
+      "dek": "L’économiste franco-américain de 39 ans est parti livrer bataille en Californie, alors que les élections de mi-mandat approchent. Son objectif : faire voter, le 3 novembre, lors d’un référendum, une mesure qui permettrait d’imposer ponctuellement 5 % du patrimoine des milliardair…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/m-le-mag/article/2026/10/18/en-californie-la-tournee-au-pas-de-course-de-gabriel-zucman-pour-taxer-les-milliardaires_6796856_4500055.html"
+    },
     {
       "tag": "Droite",
       "color": "#3A5A8C",
@@ -13,13 +134,35 @@
       "lien": "https://www.lefigaro.fr/politique/chaos-casseurs-determines-pourrissement-la-classe-politique-condamne-la-violence-des-manifestations-mais-ne-s-accorde-pas-sur-les-causes-20261017"
     },
     {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T19:51:02+00:00",
+      "titre": "Mobilisation du 17 octobre : à Lyon, l’office du tourisme incendié au cours d’une journée chaotique",
+      "dek": "Plus de 20 000 personnes ont participé à de multiples défilés et affrontements, avant de se répandre sur les ponts et dans la Presqu’île, débordant les forces de l’ordre. De nombreuses boutiques ont été pillées.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/17/mobilisation-du-17-octobre-a-lyon-l-office-du-tourisme-incendie-au-cours-d-une-journee-chaotique_6796690_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Oct 2026",
+      "date_iso": "2026-10-17T19:48:04+00:00",
+      "titre": "Les images fortes des manifestations du 17 octobre",
+      "dek": "Entre 550 000 et 800 000 personnes ont manifesté en France ce 17 octobre. Dans de nombreuses villes de fortes tensions ont été signalées et des destructions ont été observées par nos journalistes sur le terrain.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/video/2026/10/17/les-images-fortes-des-manifestations-du-17-octobre_6796689_3224.html"
+    },
+    {
       "tag": "Gauche",
       "color": "#1F5C4A",
       "source": "Mediapart",
       "date": "17 Oct 2026",
       "date_iso": "2026-10-17T18:59:35+00:00",
       "titre": "Mobilisation du 17 octobre: foule massive, colère débordante, gouvernement débordé",
-      "dek": "La journée de mobilisation massive - entre 550 000 et 800 000 manifestants - samedi 17 octobre, marquée par des débordements inédits, a mis au pied du mur le gouvernement, impuissant à répondre à une colère qui se répand, lui qui assurait pourtant depuis plusieurs jours que le mo…",
+      "dek": "La journée de mobilisation massive – entre 550 000 et 800 000 manifestants – samedi 17 octobre, marquée par des débordements inédits, a mis au pied du mur le gouvernement, impuissant à répondre à une colère qui se répand, lui qui assurait pourtant depuis plusieurs jours que le mo…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/171026/mobilisation-du-17-octobre-foule-massive-colere-debordante-gouvernement-deborde"
     },
@@ -407,149 +550,6 @@
       "dek": "Les troupes de Marine Le Pen ont saisi vendredi les Sages pour leur demander de \"constater la démission d'office\" de leur président, l'accusant d'avoir enfreint son devoir de réserve en jugeant inconstitutionnel un point clé du programme présidentiel du RN. Les constitutionnalist…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/front-national/le-recours-du-rn-contre-richard-ferrand-appelant-a-le-debarquer-de-la-presidence-du-conseil-constitutionnel-est-il-fonde-juridiquement_8240527.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T16:24:19+00:00",
-      "titre": "Après le budget de l’Etat, les députés rejettent en commission celui de la Sécu",
-      "dek": "Le vote intervenu ce vendredi n’a pas de conséquence directe sur le débat à l’Assemblée nationale, mais émet un avertissement pour le gouvernement.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/apres-le-budget-de-letat-les-deputes-rejettent-en-commission-celui-de-la-secu-20261016_HXG5I5TETZEXNDNJS7KHF2FESY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T16:10:38+00:00",
-      "titre": "Budget 2027 : le RN et le bloc central votent ensemble pour baisser la fiscalité des donations",
-      "dek": "La coalition a voté, ce vendredi 16 octobre à l’Assemblée, une exonération temporaire sur les transmissions encore plus généreuse que ce que voulait le gouvernement. La gauche y voit la preuve de «la ligne très néolibérale» du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/budget-2027-le-rn-et-le-bloc-central-votent-ensemble-pour-baisser-la-fiscalite-des-donations-20261016_RHCL64UNT5GXVLELK2L5RV4W74/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T16:00:00+00:00",
-      "titre": "PLFSS : les députés rejettent en commission la première partie du budget de la Sécu",
-      "dek": "Sur fond de contexte social explosif et à six mois de l’élection présidentielle, les députés ont rejeté en commission le projet de budget de la Sécurité sociale. L’examen de la copie initiale est prévu dans l’hémicycle, à partir de mardi 20 octobre,",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/assemblee-nationale/plfss-les-deputes-rejettent-en-commission-la-premiere-partie-du-budget-de-la-secu"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:59:37+00:00",
-      "titre": "«Ils sont obscurantistes et ignares» : le RN s’attaque à deux institutions des sciences humaines et sociales, puis se ravise",
-      "dek": "Par amendement au projet de loi de finances, le parti d’extrême droite a tenté de faire disparaître deux fleurons universitaires. Avant de discrètement retirer son texte face à la levée de boucliers.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/ils-sont-obscurantistes-et-ignares-le-rn-sattaque-a-deux-institutions-des-sciences-humaines-et-sociales-puis-se-ravise-20261016_3GEF5UZQFZEIBKAEDNCJGXQVD4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:58:50+00:00",
-      "titre": "Après le budget de l’Etat, les députés rejettent en commission celui de la Sécurité sociale",
-      "dek": "Il s’agit d’un mauvais signal pour le gouvernement mais sans conséquence directe, puisque le texte sera débattu dans l’hémicycle dans sa version initiale à partir de mardi.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/16/apres-le-budget-de-l-etat-les-deputes-rejettent-en-commission-celui-de-la-securite-sociale_6795575_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:45:08+00:00",
-      "titre": "L’élection présidentielle de 2027, moment démocratique ou combat algorithmique ?",
-      "dek": "En ce début d’automne, les postulants à l’Elysée s’échauffent sur des rings séparés, à l’image de l’évolution d’une société de plus en plus fragmentée et polarisée, où chacun peut se réfugier dans une bulle créée par les algorithmes des réseaux sociaux, analyse Matthieu Goar, dan…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/16/l-election-presidentielle-de-2027-moment-democratique-ou-combat-algorithmique_6795573_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:35:52+00:00",
-      "titre": "Naomi Klein: «Remplacer l’amitié, l’amour et l’art par l’IA est le plus grand vol de tous les temps»",
-      "dek": "\"\"Dans un livre événement, la journaliste et essayiste canadienne retrace la généalogie du «fascisme de la fin des temps» observé ces dernières années. Dans ce contexte, l’IA devient un outil de domination sans pareil, qu’avec sa coautrice, Astra Taylor, elle appelle à combattre.…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/161026/naomi-klein-remplacer-l-amitie-l-amour-et-l-art-par-l-ia-est-le-plus-grand-vol-de-tous-les-temps"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:27:05+00:00",
-      "titre": "Remontés contre le projet de budget 2027, les présidents des départements vivent comme \"un mépris\" l'absence de Sébastien Lecornu pour leur congrès",
-      "dek": "Réclamant sa venue jeudi, le président de l'Assemblée des départements de France, le centriste François Sauvadet, n'a pas apprécié la réponse du Premier ministre, un courrier envoyé quelques heures plus tard les conviant à Matignon mi-novembre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/remontes-contre-le-budget-les-presidents-des-departements-reunis-en-congres-vivent-l-absence-de-sebastien-lecornu-comme-un-mepris_8240467.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:16:14+00:00",
-      "titre": "«Tant que nos institutions ne renforceront pas leur dimension participative, la colère s’exprimera dans la rue»",
-      "dek": "Le sociologue Nicolas Duvoux publie un ouvrage qui interroge la place des personnes minorisées dans la société et la capacité de celle-ci à leur donner la parole puis à les entendre. Pour lui, intégrer ces personnes dans le processus décisionnaire démocratique relève de l’urgence…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/161026/tant-que-nos-institutions-ne-renforceront-pas-leur-dimension-participative-la-colere-s-exprimera-dans-la-r"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:15:08+00:00",
-      "titre": "Écoles d’ingénieurs, conservatoire… à Lyon, des soutiens inattendus au mouvement lycéen",
-      "dek": "Centrale, Mines, École nationale des travaux publics: la mobilisation lycéenne a réussi à faire bouger plusieurs établissements d’enseignement supérieur de la région lyonnaise d’ordinaire peu mobilisés. L’occasion aussi de protester contre les baisses de budget dans la culture.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/161026/ecoles-d-ingenieurs-conservatoire-lyon-des-soutiens-inattendus-au-mouvement-lyceen"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T15:00:07+00:00",
-      "titre": "Gilets jaunes, armement des policiers, craintes des commerçants… Quelle ampleur pour la grande mobilisation du 17 octobre ?",
-      "dek": "Plus de 200 actions et des violences : c'est ce que redoute le gouvernement pour la journée de mobilisation contre la vie chère du samedi 17 octobre. Les appels se multiplient sur les réseaux sociaux, avec, pour certains, l'idée de relancer le mouvement des Gilets jaunes. Les gre…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/greve/gilets-jaunes-armement-des-policiers-craintes-des-commercants-quelle-ampleur-pour-la-grande-mobilisation-du-17-octobre_8240269.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T14:53:20+00:00",
-      "titre": "« Foutage de gueule »… les présidents de départements chahutent le gouvernement à leur congrès",
-      "dek": "Échaudés par les coupes budgétaires qui les concernent dans le projet de budget 2027, les présidents de départements ont carrément quitté la salle quand est montée sur scène la ministre des Collectivités en lieu et place du Premier ministre",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/budget-2027/foutage-de-gueule-les-presidents-de-departements-chahutent-le-gouvernement-a-leur-congres"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Oct 2026",
-      "date_iso": "2026-10-16T14:45:17+00:00",
-      "titre": "Comment le RN a fait de la voiture un outil électoral et de notabilisation",
-      "dek": "Depuis la crise des « gilets jaunes », l’extrême droite saisit chaque occasion de se poser en défenseur des automobilistes et de leur pouvoir d’achat. Les constructeurs français, dont le Rassemblement national relaie les combats contre les normes européennes, se pressent à sa ren…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html"
     }
   ]
 }
