@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-10-18T22:09:03+00:00",
+  "generated_at": "2026-10-19T02:44:35+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
-      "date": "18 Oct 2026",
-      "date_iso": "2026-10-18T22:04:18+00:00",
+      "date": "19 Oct 2026",
+      "date_iso": "2026-10-19T02:43:30+00:00",
       "titre": "Mobilisation du 17 octobre : le Premier ministre réunira \"dans les prochains jours\" partis politiques, syndicats et représentants de lycéens et étudiants, annonce Emmanuel Macron",
       "dek": "\"Comment des Français peuvent faire cela à la France ?\", a affirmé le président de la République, après les violences qui ont émaillé les manifestations, samedi.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Oct 2026",
+      "date_iso": "2026-10-18T22:48:41+00:00",
+      "titre": "En Albanie, le premier ministre exclut toute démission au sixième jour de violentes manifestations",
+      "dek": "Dans une vidéo publiée dimanche, Edi Rama a dénoncé des manifestations qu’il juge « l’œuvre d’une main extérieure », alors que le mouvement de contestation, marqué par des affrontements avec les forces de l’ordre et des dégradations urbaines, a déjà fait 272 blessés, dont 169 pol…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/10/19/en-albanie-le-premier-ministre-exclut-toute-demission-au-sixieme-jour-de-violentes-manifestations_6797333_3210.html"
     },
     {
       "tag": "Politique",
@@ -29,7 +40,7 @@
       "source": "Le Monde – Politique",
       "date": "18 Oct 2026",
       "date_iso": "2026-10-18T20:29:29+00:00",
-      "titre": "EN DIRECT, mobilisation du 17 octobre : l’allocution d’Emmanuel Macron critiquée ; situation toujours tendue à Paris ; Sébastien Lecornu chargé de réunir partis politiques et syndicats",
+      "titre": "EN DIRECT, mobilisation du 17 octobre : l’allocution d’Emmanuel Macron critiquée ; Sébastien Lecornu chargé de réunir partis politiques et syndicats",
       "dek": "Sous pression, Emmanuel Macron s’est adressé aux Français à 20 heures. Le chef de l’Etat a promis que l’exécutif sera « intraitable » face aux casseurs, ajoutant que les préfets « prendront les décisions » qui s’imposent pour protéger les villes, allant jusqu’à « interdire » si n…",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-l-allocution-d-emmanuel-macron-critiquee-situation-toujours-tendue-a-paris-sebastien-lecornu-charge-de-reunir-partis-politiques-et-syndicats_6795855_3224.html"
@@ -539,17 +550,6 @@
       "dek": "La situation «l’oblige», déclare l’essayiste souverainiste pour motiver sa candidature à la présidentielle. Comment, avec qui et pour quel programme ? On ne sait, mais l’ensemble dégage une impression étrange d’audace qui tourne à vide.",
       "avis": null,
       "lien": "https://www.liberation.fr/idees-et-debats/opinions/natacha-polony-candidate-des-medias-et-de-lia-par-daniel-schneidermann-20261018_M677SPSKK5CCRJYXAEQ4QYMA4Q/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "18 Oct 2026",
-      "date_iso": "2026-10-18T10:52:25+00:00",
-      "titre": "Robert Guédiguian: «C’est positif d’appeler à voter contre le RN, mais il faut que la bataille culturelle se passe aussi dans les œuvres»",
-      "dek": "Robert Guédiguian sort mercredi son nouveau film, «Une femme aujourd’hui», qui tisse à l’écran combats féministes et mémoires de la colonisation algérienne. Dans un entretien à «Mediapart», le cinéaste revient sur son combat contre l’extrême droite par le cinéma: «Nous avons perd…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/181026/robert-guediguian-c-est-positif-d-appeler-voter-contre-le-rn-mais-il-faut-que-la-bataille-cultur"
     }
   ]
 }
