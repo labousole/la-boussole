@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-19T20:18:46+00:00",
+  "generated_at": "2026-10-20T02:56:00+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Oct 2026",
+      "date_iso": "2026-10-20T00:02:45+00:00",
+      "titre": "EN DIRECT, manifestations du 17 octobre : Laurent Nuñez, venu lundi soir à Marseille, promet au maire davantage de forces de l’ordre pour encadrer la prochaine manifestation prévue samedi",
+      "dek": "Benoît Payan, qui avait réclamé la venue à Marseille du ministre de l’intérieur, a salué, lundi soir, une discussion « franche » et « salutaire ». L’édile avait vivement critiqué, depuis samedi, un sous-effectif des forces de l’ordre mobilisées dans sa ville, demandant « des comp…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/live/2026/10/20/en-direct-manifestations-du-17-octobre-laurent-nunez-venu-lundi-soir-a-marseille-promet-au-maire-davantage-de-forces-de-l-ordre-pour-encadrer-la-prochaine-manifestation-prevue-samedi_6795855_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Oct 2026",
+      "date_iso": "2026-10-20T00:00:40+00:00",
+      "titre": "Soixante-dix ans après leur arrivée en France, les rapatriés d’Indochine obtiennent reconnaissance et réparation",
+      "dek": "Après les députés en 2025, ce sont les sénateurs, lundi, qui ont adopté un texte ouvrant la voie à des « réparations de préjudices » pour le traitement réservé aux milliers de personnes placées dans des camps aux conditions indignes, après leur rapatriement à l’issue de la guerre…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/20/les-rapatries-d-indochine-obtiennent-reconnaissance-et-reparation-de-la-france-soixante-dix-ans-apres_6797718_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "19 Oct 2026",
+      "date_iso": "2026-10-19T21:09:23+00:00",
+      "titre": "VIDEO. \"Il voudra dire quelques mots\" : l'un des chefs présumés de la DZ Mafia souhaite s'adresser à Amine Kessaci lors du procès de l'assassinat du frère du militant",
+      "dek": "C'était une journée attendue depuis six ans par Amine Kessaci : le procès de l’assassinat de son demi-frère Brahim s’est ouvert ce lundi 19 octobre matin à Aix-en-Provence, en sa présence. Son frère était l’une des trois victimes retrouvées carbonisées en 2020, dans une affaire l…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/il-voudra-dire-quelques-mots-l-un-des-chefs-presumes-de-la-dz-mafia-pourrait-s-adresser-a-amine-kessaci-lors-du-proces-de-l-assassinat-du-frere-du-militant_8244661.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -517,39 +550,6 @@
       "dek": "Invité des \"4 Vérités\" de France 2, lundi 19 octobre, le ministre de la Justice Gérald Darmanin est revenu sur les violences qui ont éclaté lors de la mobilisation du 17 octobre. Sur les 2 331 personnes placées en garde à vue ce week-end, 70 % sont majeures, a-t-il indiqué.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/gerald-darmanin/nous-avons-failli-incontestablement-ce-week-end-reconnait-gerald-darmanin-apres-les-heurts-et-pillages-lors-de-la-mobilisation-du-17-octobre_8243581.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Oct 2026",
-      "date_iso": "2026-10-19T07:09:26+00:00",
-      "titre": "Qu’est-ce que la CRS 8, cette unité de police créée pour être capable d’intervenir en 15 minutes lors de violences urbaines ?",
-      "dek": "Les manifestations de samedi et dimanche contre la vie chère et l'état des lycées ont tourné aux violences un peu partout en France. Face à cette situation, le gouvernement a déployé des unités de CRS 8. Créée en 2021, cette unité d’intervention rapide a aussi été mise en cause p…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/qu-est-ce-que-la-crs-8-cette-unite-de-police-creee-pour-etre-capable-d-intervenir-en-15-minutes-lors-de-violences-urbaines_8222719.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "19 Oct 2026",
-      "date_iso": "2026-10-19T07:08:39+00:00",
-      "titre": "Violences du 17 octobre : critiqué de toutes parts, Emmanuel Macron promet d’être « intraitable »",
-      "dek": "RÉCIT - De la mobilisation lycéenne jusqu’au chaos du 17 octobre, la réponse du pouvoir exécutif, pris au dépourvu, s’est révélée fluctuante. Évoquant la «honte» et la «colère» face aux violences, Emmanuel Macron a promis la «transparence», lors d’une allocution dimanche soir.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/violences-du-17-octobre-febrile-le-gouvernement-voit-sa-strategie-de-maintien-de-l-ordre-contestee-20261018"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Oct 2026",
-      "date_iso": "2026-10-19T07:00:00+00:00",
-      "titre": "«Le 17 octobre, des pans entiers de nos villes ont été laissés sans protection», par Emmanuel Grégoire, Benoît Payan et Grégory Doucet",
-      "dek": "Les maires de Paris, Marseille et Lyon demandent des comptes au gouvernement sur la stratégie de maintien de l’ordre à la suite de la mobilisation. Ils sollicitent la création d’un fonds de solidarité pour réparer les dégâts matériels et des mesures pour répondre à la crise lycée…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-17-octobre-des-pans-entiers-de-nos-villes-ont-ete-laisses-sans-protection-par-emmanuel-gregoire-benoit-payan-et-gregory-doucet-20261019_JMSGE2DLYZCU3JK5DMPA4UDI3Y/"
     }
   ]
 }
