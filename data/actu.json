@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-20T22:52:35+00:00",
+  "generated_at": "2026-10-21T02:50:17+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
+      "date": "21 Oct 2026",
+      "date_iso": "2026-10-21T01:10:08+00:00",
+      "titre": "Violences sexuelles : le Sénat adopte la proposition de loi obligeant à informer les victimes lors de la libération de leur agresseur",
+      "dek": "Le texte soutenu par le gouvernement et les associations de défense des victimes a été modifié par les sénateurs. Il devra faire l’objet d’un accord entre les deux chambres lors d’une commission mixte paritaire avant d’entrer en vigueur.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/21/violences-sexuelles-le-senat-adopte-la-proposition-de-loi-obligeant-a-informer-les-victimes-lors-de-la-liberation-de-leur-agresseur_6798083_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
       "date": "20 Oct 2026",
-      "date_iso": "2026-10-20T22:09:03+00:00",
-      "titre": "EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; les partis se positionnent avant la réunion de jeudi à Matignon",
+      "date_iso": "2026-10-20T23:32:07+00:00",
+      "titre": "Au procès de Rima Hassan pour apologie du terrorisme, la défense très politique de l’eurodéputée LFI",
+      "dek": "Dix mois de prison avec sursis et deux années d’inéligibilité ont été requis contre l’élue européenne, pour avoir publié un post sur X citant un militant propalestinien de l’Armée rouge japonaise, auteur de l’attentat de l’aéroport de Lod-Tel-Aviv en 1972.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/21/au-proces-de-rima-hassan-pour-apologie-du-terrorisme-la-defense-tres-politique-de-l-eurodeputee-lfi_6798050_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Oct 2026",
+      "date_iso": "2026-10-20T22:09:01+00:00",
+      "titre": "EN DIRECT, manifestations du 17 octobre : nouveaux couvre-feux mardi soir ; les partis politiques se positionnent avant la réunion de jeudi à Matignon",
       "dek": "À Paris, Lyon, Bordeaux et Nice, des couvre-feux ont été annoncés dans certains quartiers. Six communes martiniquaises sont également concernées. Dans la capitale, l’interdiction de manifester dans certains secteurs a également été reconduite jusqu’à 6 heures mercredi.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-nouveaux-couvre-feux-mardi-soir-les-partis-se-positionnent-avant-la-reunion-de-jeudi-a-matignon_6795855_3224.html"
@@ -528,28 +550,6 @@
       "dek": "Plusieurs sources au sein des renseignements territoriaux et de la police affirment, auprès de Mediapart, que le ministère de l’Intérieur « demande d’écrire que c’est LFI qui est derrière » le mouvement du 17 octobre, malgré l’absence de preuves. La France insoumise a annoncé, ma…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/la-france-insoumise/le-gouvernement-fait-pression-pour-imputer-les-violences-du-17-a-lfi-les-revelations-de-mediapart"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Oct 2026",
-      "date_iso": "2026-10-20T13:45:29+00:00",
-      "titre": "Une France « en pleine régression », vraiment ?",
-      "dek": "La France, pour l’éditorialiste des Échos et de France Inter Dominique Seux, est «&#160;en pleine régression&#160;». Évoquant les 800&#160;000 manifestantes et manifestants du samedi 17&#160;octobre contre la vie chère, pour de meilleures&#160;conditions d’études (le rejet du RN …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/le-billet-de-maurice-ulrich/une-france-en-pleine-regression-vraiment"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Oct 2026",
-      "date_iso": "2026-10-20T13:41:50+00:00",
-      "titre": "\"On n'aura pas le temps de se rajouter des papiers à gérer\" : les commerçants pillés s'interrogent sur l'efficacité de la réponse de l'État aux saccages du 17 octobre",
-      "dek": "Les commerçants figurent parmi les premières victimes des violences urbaines du 17 octobre : au moins 3 000 boutiques ont été saccagées. Le gouvernement promet des aides d’urgence, mais seront-elles suffisantes face aux pertes parfois considérables. Reportage à Lyon (Rhône).",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/commerce/on-n-aura-pas-le-temps-de-se-rajouter-des-papiers-a-gerer-les-commercants-pilles-s-interrogent-sur-l-efficacite-de-la-reponse-de-l-etat-aux-saccages-du-17-octobre_8245666.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
