@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-21T22:57:31+00:00",
+  "generated_at": "2026-10-22T02:49:00+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Oct 2026",
+      "date_iso": "2026-10-22T02:00:01+00:00",
+      "titre": "Encadrement des loyers : le Sénat adopte la prolongation du dispositif dans une version minimaliste",
+      "dek": "Les sénateurs ont adopté par 325 voix contre 17 une proposition de loi socialiste reconduisant pour deux ans le dispositif dans les 71 villes qui l’expérimentent déjà. Mais il ne sera pas étendu ni renforcé. Le texte devrait revenir à l’Assemblée nationale avant la date butoir du…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/22/encadrement-des-loyers-le-senat-adopte-la-prolongation-du-dispositif-dans-une-version-minimaliste_6798480_3224.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -539,17 +550,6 @@
       "dek": "La CGT a appelé à la grève générale à partir du 5 novembre. Gérald Darmanin fait état de 2 500 gardes à vues et de 174 incarcérations.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/live/2026/10/21/en-direct-manifestations-du-17-octobre-la-cgt-appelle-a-la-greve-generale-a-partir-du-5-novembre-gerald-darmanin-fait-etat-de-2-500-gardes-a-vues-et-de-174-incarcerations_6795855_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Oct 2026",
-      "date_iso": "2026-10-21T11:21:23+00:00",
-      "titre": "VIDEO. Emmanuel Macron dénonce \"des dirigeants qui font campagne sur le dos de la France\" en visant Trump et Nétanyahou",
-      "dek": "\"Il y a eu une manipulation étrangère de l'information qui a donné lieu à des commentaires inacceptables autant que stupides de la part de beaucoup, y compris de dirigeants étrangers\", a déclaré le président français, mercredi, depuis le Qatar.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/video-emmanuel-macron-denonce-des-dirigeants-qui-font-campagne-sur-le-dos-de-la-france-en-visant-trump-et-netanyahou_8247223.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
