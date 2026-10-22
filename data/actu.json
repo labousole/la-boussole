@@ -1,16 +1,71 @@
 {
-  "generated_at": "2026-10-22T18:59:54+00:00",
+  "generated_at": "2026-10-22T22:54:27+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Oct 2026",
+      "date_iso": "2026-10-22T21:59:00+00:00",
+      "titre": "Video 24 octobre : Macron interdit toute manifestation en dehors de celles organisées par les syndicats",
+      "dek": "À l’issue d’un conseil de sécurité avec les services de renseignement et le gouvernement, Emmanuel Macron s’est exprimé en direct du palais de l’Élysée sur les mobilisations à venir. « La doctrine est très claire : partout où il y a une volonté de manifester ou de se regrouper, l…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/emmanuel-macron/video-24-octobre-macron-interdit-toute-manifestation-en-dehors-de-celles-organisees-par-les-syndicats"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T18:43:08+00:00",
+      "date_iso": "2026-10-22T20:16:24+00:00",
+      "titre": "INFO FRANCEINFO. Un recours déposé devant le Conseil d'Etat après les déclarations d'Emmanuel Macron sur l'interdiction de certaines manifestations",
+      "dek": "L'association de défense des libertés constitutionnelles et le Syndicat de la magistrature qui déposent ce recours reprochent au président de la République ses propos, jeudi, demandant que seules les manifestations organisées par des syndicats soient autorisées dans les prochains…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/info-franceinfo-un-recours-depose-devant-le-conseil-d-etat-apres-les-declarations-d-emmanuel-macron-sur-l-interdiction-de-certaines-manifestations_8249314.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Oct 2026",
+      "date_iso": "2026-10-22T20:15:11+00:00",
+      "titre": "En région Auvergne-Rhône-Alpes, la réponse sécuritaire de la majorité régionale au malaise lycéen",
+      "dek": "Lors de la session plénière, jeudi 22 octobre, l’opposition socialiste et écologiste a dénoncé la baisse de l’investissement régional depuis dix ans, dans un débat polarisé et peu constructif.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/22/en-region-auvergne-rhone-alpes-la-reponse-securitaire-de-la-majorite-regionale-au-malaise-lyceen_6798666_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Oct 2026",
+      "date_iso": "2026-10-22T19:37:00+00:00",
+      "titre": "Absent des mobilisations, Raphaël Glucksmann joue la distance au risque de se faire distancer",
+      "dek": "Discret dans le mouvement social, le candidat du PS et de Place publique pour 2027 préfère peaufiner son programme et sa stratégie «ni-LFI, ni-macronie, ni-RN». Quitte à s’effacer et laisser «sceptiques» certains de ses militants.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/absent-des-mobilisations-raphael-glucksmann-joue-la-distance-au-risque-de-se-faire-distancer-20261022_TTSQIFHLJFA53JK2XXVH7TUK6Y/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Oct 2026",
+      "date_iso": "2026-10-22T19:30:17+00:00",
       "titre": "\"Pour que le calme soit là\" : Emmanuel Macron annonce l'interdiction des manifestations non syndicales pour samedi, une décision critiquée",
       "dek": "À deux jours des manifestations de samedi, Emmanuel Macron a annoncé, jeudi 22 octobre, un durcissement des règles. Après les violences et les pillages du week-end dernier, seuls les cortèges déclarés et organisés par des syndicats pourront être autorisés. Leurs parcours pourront…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Oct 2026",
+      "date_iso": "2026-10-22T19:08:19+00:00",
+      "titre": "Connu des services de police, 66 ans… Le profil du second suspect interpellé dans l'enquête sur l'incendie de la mairie de Limoges",
+      "dek": "Une deuxième interpellation a eu lieu dans l'enquête sur l'incendie criminel de la mairie de Limoges samedi dernier. Un homme de 66 ans a été arrêté ce jeudi 22 octobre au matin dans la Creuse. Pour le premier suspect, les faits sont désormais requalifiés en \"tentative de meurtre…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/connu-des-services-de-police-66-ans-le-profil-du-second-suspect-interpelle-dans-l-enquete-sur-l-incendie-de-la-mairie-de-limoges_8249575.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -61,7 +116,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T18:00:08+00:00",
+      "date_iso": "2026-10-22T18:00:06+00:00",
       "titre": "La montée des extrêmes droites dans les Etats membres de l’UE suscite une forte inquiétude au sein des institutions européennes",
       "dek": "Sous le couvert de l’anonymat, diplomates et commissaires se disent soucieux de la possible arrivée au pouvoir du RN en France en 2027 et de la montée de l’AfD en Allemagne. Les extrêmes pourraient, comme l’Italienne Georgia Meloni, tirer parti des institutions communautaires ou,…",
       "avis": null,
@@ -495,61 +550,6 @@
       "dek": "Le sénateur LR Pascal Coste a cité l’ancien Président qui, en Mai 68, disait à son ministre de l’Intérieur que l’Etat a le devoir «d’abattre ceux qui veulent l’abattre». Mais il oublie la fin de la citation et tout le contexte de celle-ci.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/invoquant-de-gaulle-en-mai-68-un-senateur-lr-demande-a-laurent-nunez-dabattre-les-casseurs-20261022_47JR6X3QLRFH7AAKKNGFSQQ55A/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T10:24:16+00:00",
-      "titre": "Edouard Philippe snobe un débat entre présidentiables pour cause de conseil municipal au Havre",
-      "dek": "Les proches du candidat Horizons arguent que sa présence est incontournable pour discuter du budget de la ville portuaire, et s’offusquent que LCI n’ait pas daigné les consulter pour fixer la date de la confrontation, le 16 novembre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/edouard-philippe-snobe-un-debat-entre-presidentiables-pour-cause-de-conseil-municipal-au-havre-20261022_E7EJPIBGLND6FDVSSP4E4IWI3Q/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T10:21:54+00:00",
-      "titre": "Vexé comme un pou, le RN boycotte la commission d’enquête sur le 17 octobre",
-      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/vexe-comme-un-pou-le-rn-boycotte-la-commission-denquete-sur-le-17-octobre-20261022_QJVCVYICXBBXJMRKBOFVB5LFYI/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T10:00:00+00:00",
-      "titre": "« Les professeurs ont besoin de se sentir respectés par leur hiérarchie »",
-      "dek": "Alors que les lycéens se mobilisent aujourd’hui pour leur avenir, Patrice, prof de mathématiques à la retraite, nous livre son analyse sur les conséquences de la réforme Blanquer. Annoncée comme une modernisation du lycée, elle a créé des dysfonctionnements que les enseignants av…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=517404"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T09:44:41+00:00",
-      "titre": "CARTE. Couvre-feux en France : suivez les mesures de restriction dans les villes concernées en temps réel",
-      "dek": "Retrouvez sur notre carte les mesures de restriction annoncées partout en France par les préfectures et les mairies après les violences des 17 et 18 octobre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/10/22/la-carte-des-couvre-feux-et-des-interdictions-de-manifester-le-24-octobre-en-france-suivez-les-mesures-de-restriction-dans-les-villes-concernees-en-temps-reel_6798285_4355771.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T09:36:56+00:00",
-      "titre": "Ponction dans les comptes de l’Unédic : l’Etat « se sert dans le frigo » comme un squatteur, selon les acteurs sociaux",
-      "dek": "Les syndicats et le patronat ont critiqué, mercredi, l’intention du gouvernement de prélever 2 milliards d’euros en 2027 dans les caisses de l’Unédic, le régime d’indemnisation des demandeurs d’emploi.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/22/ponction-dans-les-comptes-de-l-unedic-l-etat-se-sert-dans-le-frigo-comme-un-squatteur-selon-les-acteurs-sociaux_6798601_823448.html"
     }
   ]
 }
