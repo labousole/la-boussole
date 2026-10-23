@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-10-22T22:54:27+00:00",
+  "generated_at": "2026-10-23T02:52:13+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Oct 2026",
+      "date_iso": "2026-10-23T02:30:12+00:00",
+      "titre": "« Les tags qui salissent la statue de la République, à Paris, sont injustifiables, mais ils redonnent vie à un monument moche et illisible »",
+      "dek": "La statue imaginée par Léopold Morice, au XIXᵉ siècle, qui a été le point de ralliement des journées de mobilisation des 17 et 18 octobre, a vu progressivement son sens originel s’évanouir pour devenir aujourd’hui un emblème du pouvoir et un défouloir, remarque, dans sa chronique…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/10/23/les-tags-qui-salissent-la-statue-de-la-republique-a-paris-sont-injustifiables-mais-ils-redonnent-vie-a-un-monument-moche-et-illisible_6798833_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Oct 2026",
+      "date_iso": "2026-10-22T23:08:47+00:00",
+      "titre": "Budget 2027 : les députés rejettent la taxe sur les produits sucrés proposée par le gouvernement",
+      "dek": "Le vote sur cette taxe censée inciter les industriels à réduire le taux de sucre dans leurs recettes, est loin d’être définitif. L’adoption du budget de la Sécurité sociale par l’Assemblée nationale lors de cette première lecture paraît hautement improbable et le texte devra auss…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/sante/article/2026/10/23/budget-2027-les-deputes-rejettent-la-taxe-sur-les-produits-sucres-proposee-par-le-gouvernement_6798700_1651302.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -528,28 +550,6 @@
       "dek": "Cette enveloppe financera un bail de six ans pour ces locaux et leur sécurisation. Il s’agit d’un des avantages accordés aux anciens présidents de la République.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/dans-le-budget-2027-le-gouvernement-provisionne-23-millions-deuros-pour-le-futur-bureau-demmanuel-macron-20261022_IGCOOYYQPRESVMMOA4Q2TRTXGQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T10:26:27+00:00",
-      "titre": "\"Le gouvernement ne peut pas traiter uniquement d'un manière sécuritaire un sujet qui est d'abord politique\", dénonce Olivier Faure",
-      "dek": "Alors qu'une deuxième journée de mobilisation contre la vie chère est prévue ce samedi, Olivier Faure appelle à une \"réponse politique\" du gouvernement. \"On ne peut pas traiter uniquement un sujet de manière sécuritaire quand c'est un sujet d'abord politique\", lance-t-il, ce jeud…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-ne-peut-pas-traiter-uniquement-d-un-maniere-securitaire-un-sujet-qui-est-d-abord-politique-denonce-olivier-faure_8248861.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Oct 2026",
-      "date_iso": "2026-10-22T10:26:23+00:00",
-      "titre": "Invoquant de Gaulle en Mai 68, un sénateur LR demande à Laurent Nuñez d’«abattre» les casseurs",
-      "dek": "Le sénateur LR Pascal Coste a cité l’ancien Président qui, en Mai 68, disait à son ministre de l’Intérieur que l’Etat a le devoir «d’abattre ceux qui veulent l’abattre». Mais il oublie la fin de la citation et tout le contexte de celle-ci.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/invoquant-de-gaulle-en-mai-68-un-senateur-lr-demande-a-laurent-nunez-dabattre-les-casseurs-20261022_47JR6X3QLRFH7AAKKNGFSQQ55A/"
     }
   ]
 }
