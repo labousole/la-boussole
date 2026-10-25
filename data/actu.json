@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-10-25T18:00:58+00:00",
+  "generated_at": "2026-10-25T22:13:26+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T22:03:56+00:00",
+      "titre": "Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville",
+      "dek": "\"C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans\", s'est réjoui le maire divers droite de la ville, Serge Grouard.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T20:12:00+00:00",
+      "titre": "Derrière la mobilisation du 24 octobre, un soulagement en trompe-l’œil",
+      "dek": "Malgré l’ambiance bon enfant et le recul de la violence observée samedi à Paris, de nombreux manifestants étaient venus pour afficher leur attachement à l’état de droit, après la pente dangereuse prise par l’exécutif ces derniers jours.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/opinions/derriere-la-mobilisation-du-24-octobre-un-soulagement-en-trompe-loeil-20261025_OCVGZAZQUJAIFH5L5CPC2PLS54/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T20:00:33+00:00",
+      "titre": "Prochaines mobilisations, annonces du gouvernement… Quel avenir pour le mouvement après les manifestations du 24 octobre ?",
+      "dek": "Après un 17 octobre électrique, la mobilisation de samedi 24 octobre s’est révélée plus calme que la précédente. Alors que de nouvelles actions s’organisent déjà, le gouvernement pourrait livrer une première série de mesures ce lundi pour répondre aux lycéens.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/prochaines-mobilisations-annonces-du-gouvernement-quel-avenir-pour-le-mouvement-apres-les-manifestations-du-24-octobre-20261025_D6HA7R4VGZG4DHHZUZQQREN47E/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T19:53:25+00:00",
+      "titre": "BFMTV dénonce \"une campagne de dénigrement\" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes",
+      "dek": "\"Vous, BFM, commencez à vous calmer sur les remarques racistes de toute sorte, parce que ça commence à bien faire\", a déclaré Jean-Luc Mélenchon alors qu'il était interrogé par une journaliste de la chaîne, samedi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T19:48:07+00:00",
+      "titre": "\"On est libre, entre guillemets\" : le Brésil, un pays coupé en deux",
+      "dek": "Le Brésil retient son souffle, dimanche 25 octobre : 160 millions d’électeurs étaient appelés aux urnes pour le second tour de la présidentielle, qui oppose le président sortant Lula à Flavio Bolsonaro, de fils de l'ancien président d’extrême droite condamné pour tentative de cou…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T19:20:58+00:00",
+      "titre": "A Orléans, Marine Le Pen sort la carte «optimisme» pour relancer sa campagne présidentielle",
+      "dek": "Au lendemain de la réélection de Jordan Bardella à la tête du Rassemblement national, la candidate a tenté, devant plusieurs milliers de personnes, de casser l’image d’une famille politique pourtant rongée par les peurs identitaires. Au programme, «paix civile», «renaissance» et …",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-orleans-marine-le-pen-sort-la-carte-optimisme-pour-relancer-sa-campagne-presidentielle-20261025_NS2ZHVO2KZHHJOIRM464LR3VGU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T19:01:59+00:00",
+      "titre": "Présidentielle 2027 : à Orléans, Marine Le Pen lance sa campagne entre radicalité et « optimisme », dans une ville en état de siège",
+      "dek": "La candidate du Rassemblement national a réuni plus de 8 000 soutiens, dimanche 25 octobre, en périphérie de la préfecture du Loiret, mise sous cloche.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T18:41:24+00:00",
+      "titre": "Congrès du RN : des militants expulsés pour avoir brandi une banderole contre l’antisémitisme pendant le discours de Bardella",
+      "dek": "Des militants de l’Union des étudiants juifs de France (UEJF) sont venus perturber le meeting à Orléans ce dimanche afin de «rappeler l’antisémitisme et le racisme» du parti d’extrême droite, qui a dénoncé en retour «la violence» de «l’ultragauche».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/congres-du-rn-des-militants-expulses-pour-avoir-brandi-une-banderole-contre-lantisemitisme-pendant-le-discours-de-bardella-20261025_QF2H4GV3LNE6VCQ54HPXYCAFGE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T18:34:21+00:00",
+      "titre": "REPORTAGE. \"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+      "dek": "Pour sa quatrième candidature, la patronne du Rassemblement national a lancé sa campagne dimanche lors d'un meeting à Orléans, accompagnée par Jordan Bardella et Eric Ciotti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T18:28:18+00:00",
+      "titre": "800 000 manifestants dans la rue, des milices d’extrême droite en embuscade, marche blanche à Trappes après l’attentat raciste, congrès du RN… Ce qu’il ne fallait pas manquer ce week-end",
+      "dek": "Pas de panique si vous avez décroché de l’actualité ce week-end, « l’Humanité » vous fait un récap' de ce qu’il ne fallait pas manquer ces 24 et 25 octobre 2026.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/monde/cisjordanie/800-000-manifestants-dans-la-rue-des-milices-dextreme-droite-en-embuscade-marche-blanche-a-trappes-apres-lattentat-raciste-congres-du-rn-ce-quil-ne-fallait"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T18:13:37+00:00",
+      "titre": "« Ils ont voulu embarquer les sans-papiers » : 200 militants bloqués par la gendarmerie alors qu’ils tentaient de rejoindre la manifestation contre le RN",
+      "dek": "Trois des cinq cars affrétés par le collectif de la Marche des solidarités, venu de Paris, ont été empêchés d’atteindre Orléans pour défiler contre la présence du Rassemblement national qui organisait son congrès annuel.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/immigration-sans-papiers/ils-ont-voulu-embarquer-les-sans-papiers-200-militants-bloques-par-la-gendarmerie-alors-quils-tentaient-de-rejoindre-la-manifestation-contre-le-rn"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T18:10:40+00:00",
+      "titre": "Mobilisations du 24 octobre: l’extrême droite a provoqué les manifestants sous le regard de policiers",
+      "dek": "Dans plus d’une dizaine de villes, des groupuscules ont organisé des opérations visant les manifestants contre la vie chère. Auprès de «Mediapart», des maires interrogent la passivité de la police. Le ministre de l’intérieur Laurent Nuñez demande aux préfets concernés de saisir l…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/251026/mobilisations-du-24-octobre-l-extreme-droite-provoque-les-manifestants-sous-le-regard-de-policiers"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -33,6 +165,17 @@
       "dek": "Favorite des sondages, la candidate du Rassemblement national prononce un discours sur le thème de la \"renaissance\", après une première journée de congrès lors de laquelle Jordan Bardella a été reconduit à la tête du parti d'extrême droite.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T17:49:30+00:00",
+      "titre": "«On se croirait en temps de guerre» : autour du congrès RN à Orléans, un week-end dystopique dans une ville sous cloche",
+      "dek": "Par crainte d’échauffourées entre les partisans du Rassemblement national et les militants antifascistes venus en nombre, la municipalité a mis en place un dispositif sécuritaire XXL, donnant à l’agglomération du Loiret des airs d’état de siège.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/on-se-croirait-en-temps-de-guerre-au-congres-du-rn-a-orleans-un-week-end-dystopique-dans-une-ville-sous-cloche-20261025_QKC4SWDKZJBSNA6F2LTQ3BFRTM/"
     },
     {
       "tag": "Politique",
@@ -73,6 +216,17 @@
       "source": "Le Monde – Politique",
       "date": "25 Oct 2026",
       "date_iso": "2026-10-25T17:10:16+00:00",
+      "titre": "Congrès du RN : pour son premier discours de campagne, Marine Le Pen dit vouloir présider à la « renaissance » de la France",
+      "dek": "Des opposants au parti d’extrême droite ont été soigneusement tenus à distance du meeting par les 3 000 policiers et gendarmes déployés tout le week-end dans une ville qui s’était barricadée par crainte des débordements.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-pour-son-premier-discours-de-campagne-marine-le-pen-dit-vouloir-presider-a-la-renaissance-de-la-france_6800086_823449.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T17:10:16+00:00",
       "titre": "Congrès du RN : pour son premier discours de campagne, Marine Le Pen dit vouloir présider à la « renaissance » de la France",
       "dek": "La candidate d’extrême droite à la présidentielle a annoncé dimanche, à Orléans, son intention d’inscrire le principe de « communauté nationale » dans la Constitution et promis un gouvernement « d’union nationale » dirigé par Jordan Bardella.",
       "avis": null,
@@ -94,7 +248,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "25 Oct 2026",
-      "date_iso": "2026-10-25T16:00:10+00:00",
+      "date_iso": "2026-10-25T16:00:09+00:00",
       "titre": "« La social-démocratie en France n’a pas pris la mesure du rejet qu’elle suscite ni de sa responsabilité dans la droitisation des valeurs »",
       "dek": "L’absence d’un socialisme réformateur dans le paysage politique français alimente un désir de rupture, de repli et de radicalisation à droite, analyse, dans une tribune au « Monde », l’économiste Olivier Passet.",
       "avis": null,
@@ -396,160 +550,6 @@
       "dek": "Dans sa chronique, Stéphane Foucart, journaliste au « Monde » se penche sur une « note scientifique » faisant état de fortes préoccupations quant aux effets sanitaires et environnementaux de l’acétamipride. Celle-ci n’a pas été publiée et donc jamais portée à la connaissance des …",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/10/25/le-desir-de-dissimuler-la-science-indesirable-en-dit-long-sur-la-pente-trumpiste-que-devale-la-vie-politique-francaise_6800036_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Oct 2026",
-      "date_iso": "2026-10-25T04:00:09+00:00",
-      "titre": "A Orléans, une manifestation antifasciste empreinte de gravité et marquée par la division des gauches",
-      "dek": "L’attentat raciste de Trappes et l’urgence de s’unir contre l’extrême droite étaient dans tous les esprits à la manifestation de samedi contre le congrès du RN, dans la ville du Loiret. Mais les dissensions restent fortes entre les gauches.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/25/a-orleans-une-manifestation-antifasciste-empreinte-de-gravite-et-marquee-par-la-division-des-gauches_6799962_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Oct 2026",
-      "date_iso": "2026-10-25T03:45:07+00:00",
-      "titre": "Une journée de forte mobilisation sans incidents majeurs : « Le droit de manifester est aussi important que le droit de vote »",
-      "dek": "Malgré des autorisations et des parcours souvent décidés à la dernière minute, près de 410 000 personnes – 800 000 selon la CGT – ont défilé dans le calme, samedi en France, contre la vie chère, en soutien aux lycéens ou pour les libertés publiques. Des heurts ont éclaté à Nantes…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/25/une-journee-de-forte-mobilisation-sans-incidents-majeurs-le-droit-de-manifester-est-aussi-important-que-le-droit-de-vote_6799929_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T21:49:37+00:00",
-      "titre": "\"Franc-Jeu\". Avec Mathilde Panot",
-      "dek": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 25 octobre 2026, il reçoit Mathilde Panot, présidente de La France…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-mathilde-panot_8226022.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T21:05:40+00:00",
-      "titre": "Manifestations du 24 octobre : entre 410 000 et 800 000 manifestants, cortèges sous haute surveillance, tensions en fin de journée… Revivez la journée de mobilisation",
-      "dek": "Des centaines de milliers de personnes ont à nouveau manifesté samedi pour défendre le pouvoir d’achat et réclamer de meilleurs services publics. Le ministre de l’intérieur, Laurent Nuñez, a estimé que « les cortèges se sont bien passés » tout en dénombrant « près de 1 000 » inte…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T21:05:40+00:00",
-      "titre": "EN DIRECT, manifestations du 24 octobre : entre 410 000 et 800 000 manifestants, cortèges sous haute surveillance, tensions en fin de journée… Revivez la journée de mobilisation",
-      "dek": "Des centaines de milliers de personnes ont à nouveau manifesté samedi pour défendre le pouvoir d’achat et réclamer de meilleurs services publics. Le ministre de l’intérieur, Laurent Nuñez, a estimé que « les cortèges se sont bien passés » tout en dénombrant « près de 1 000 » inte…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T20:03:17+00:00",
-      "titre": "«Mediapart» dénonce la brutalité du service d’ordre du RN à l’encontre de ses journalistes",
-      "dek": "Quatre journalistes de «Mediapart» ont été physiquement malmenés par le service d’ordre du Rassemblement national lors de son congrès à Orléans samedi. Avec les menaces proférées après nos révélations sur les écrits antisémites de Jordan Bardella, les leaders du RN ont ouvert la …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/241026/mediapart-denonce-la-brutalite-du-service-d-ordre-du-rn-l-encontre-de-ses-journalistes"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T20:02:36+00:00",
-      "titre": "Réélu à 99%, Jordan Bardella reste un président sous tutelle au RN",
-      "dek": "Fragilisé par la révélation de ses écrits antisémites, isolé au sein du mouvement, le président du RN, seul candidat à sa succession, a été réélu avec un score dictatorial. Celui qui s’imaginait un destin présidentiel n’en reste pas moins ramené à son rôle de simple lieutenant de…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/241026/reelu-99-jordan-bardella-reste-un-president-sous-tutelle-au-rn"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T19:52:42+00:00",
-      "titre": "Mobilisation du 24 octobre : «Les cortèges se sont bien passés» pour le ministre de l’Intérieur, Laurent Nuñez, qui annonce 1 000 interpellations",
-      "dek": "Une semaine après les cortèges du 17 octobre marqués par des violences et des pillages, une foule comparable a repris la rue ce samedi, en dépit de nombreuses interdictions de manifester. Des heurts ont émaillé la fin des défilés à Paris, Lyon ou Marseille.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T19:48:58+00:00",
-      "titre": "A Orléans, le Rassemblement national tient son congrès sous haute tension et sans suspense",
-      "dek": "Sans concurrent, Jordan Bardella a été confirmé président du parti d’extrême droite, samedi 24 octobre, tout en devant adouber des « marinistes », en ouverture d’un lancement de campagne aux allures de camp retranché.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T19:48:58+00:00",
-      "titre": "A Orléans, le Rassemblement national tient son congrès sous haute tension et sans suspense",
-      "dek": "Sans concurrent, Jordan Bardella a été confirmé président du parti d’extrême droite, samedi 24 octobre, tout en devant adouber des « marinistes », en ouverture d’un lancement de campagne aux allures de camp retranché.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T19:17:44+00:00",
-      "titre": "«Les véritables patriotes, c’est nous»: face au congrès du RN, la gauche défile unie à Orléans",
-      "dek": "À Orléans, des milliers de personnes ont défilé dans un cortège antifasciste, à quelques kilomètres du congrès du parti d’extrême droite. Un moment de lutte, de partage, mais aussi d’émotion après l’attentat raciste de Trappes qui a fait un mort.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/241026/les-veritables-patriotes-c-est-nous-face-au-congres-du-rn-la-gauche-defile-unie-orleans"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T19:04:39+00:00",
-      "titre": "\"C'est important qu'on montre qu'il y a encore des gens qui s'opposent\" : une manifestation à Orléans contre le congrès du RN",
-      "dek": "Jordan Bardella a été réélu avec près de 99% des voix à la tête du Rassemblement national, samedi 24 octobre. Les militants et les cadres du parti sont réunis tout le week-end en congrès à Orléans, sous haute protection policière, alors qu'un appel à manifester contre l'extrême d…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/c-est-important-qu-on-montre-qu-il-y-a-encore-des-gens-qui-s-opposent-une-manifestation-a-orleans-contre-le-congres-du-rn_8252512.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T18:53:38+00:00",
-      "titre": "Mobilisation du 24 octobre: les manifestants ne se laissent pas intimider",
-      "dek": "Malgré les très nombreux arrêtés d’interdiction et l’intense déploiement policier, des centaines de milliers de personnes ont défilé samedi 24 octobre. Les participants ont exprimé leur crainte face à l’effacement de l’État de droit. Quelques heurts ont eu lieu en fin de journée …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/241026/mobilisation-du-24-octobre-les-manifestants-ne-se-laissent-pas-intimider"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T18:04:37+00:00",
-      "titre": "A Orléans, Jordan Bardella réélu lors d’un congrès sans surprise mais sous tension",
-      "dek": "Le président du Rassemblement national a été reconduit à la tête du parti avec 98,98 % des voix alors que des milliers de manifestants s’étaient réunis à Orléans.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/a-orleans-jordan-bardella-reelu-lors-dun-congres-sans-surprise-mais-sous-tension-20261024_NJWZPLV77VGYHL4ZZMFRDUW3PI/"
     }
   ]
 }
