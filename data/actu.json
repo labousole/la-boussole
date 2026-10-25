@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-10-25T09:31:26+00:00",
+  "generated_at": "2026-10-25T14:02:51+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T14:17:31+00:00",
+      "titre": "Congrès du RN : un convoi de sans-papiers arrêté avant son arrivée à Orléans",
+      "dek": "Ce 24 octobre, 26 000 manifestants ont défilé dans les rues d’Orléans contre « le racisme, le fascisme et l’impérialisme », au moment où s’y tenait le congrès du RN. Mais un convoi de près de 200 personnes mené par des collectifs de sans-papiers a été empêché d’entrer dans la vil…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=518271"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:55:40+00:00",
+      "titre": "Congrès du RN à Orléans : le service de sécurité vérifie que \"les femmes portent un soutien-gorge\" pour éviter l'intrusion de militantes Femen",
+      "dek": "Jordan Bardella a été réélu à la tête du parti d'extrême droite avant le premier grand meeting de campagne de Marine Le Pen prévu dimanche.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:50:40+00:00",
+      "titre": "DIRECT. Congrès du RN à Orléans : suivez les discours de Jordan Bardella et Marine Le Pen lors du premier grand meeting de la campagne présidentielle",
+      "dek": "Favorite des sondages, la quadruple candidate doit s'exprimer après une première journée de congrès lors de laquelle Jordan Bardella a été reconduit à la tête du parti d'extrême droite.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:50:00+00:00",
+      "titre": "La nouvelle bataille démographique et électorale d’Israël",
+      "dek": "Partir, rester, revenir… Les flux depuis et vers Israël sont la marque d’un combat démographique qui ne se joue plus seulement vis-à-vis des Palestiniens, mais désormais aussi entre Israéliens. Et dont la traduction électorale, lors des législatives du 27 octobre, demeure imprévi…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/251026/la-nouvelle-bataille-demographique-et-electorale-d-israel"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:42:59+00:00",
+      "titre": "Congrès du RN à Orléans : une centaine de militants antifascistes se rassemblent malgré les interdictions",
+      "dek": "La préfecture du Loiret avait interdit tout rassemblement dimanche dans un large périmètre à Orléans, ainsi que dans plusieurs communes aux alentours.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/25/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-rassemblent-malgre-les-interdictions_6800086_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:39:25+00:00",
+      "titre": "Attaques d’extrême droite contre des cortèges du 24 octobre : à Nancy, Rouen ou Montpellier, l’attitude des forces de l’ordre en question",
+      "dek": "«Libération» s’est procuré une vidéo qui confirme l’attitude passive voire complaisante de la police à Nancy où des militants d’extrême droite agressaient le cortège syndical. Selon notre décompte, des descentes violentes ont eu lieu dans plus d’une quinzaine de villes, pendant o…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/attaques-dextreme-droite-contre-des-corteges-du-24-octobre-a-nancy-rouen-ou-montpellier-lattitude-des-forces-de-lordre-en-question-20261025_QL3NN5FSNRD6TKTY2C3ORVWOI4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:14:08+00:00",
+      "titre": "\"Il y a une responsabilité politico-médiatique qui arme aussi le coupable\" de l'attaque terroriste dans les Yvelines, affirme Mathilde Panot",
+      "dek": "La présidente du groupe LFI à l'Assemblée nationale était dimanche l'invitée de l'émission \"Franc-Jeu\" sur France Inter et France 2.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-responsabilite-politico-mediatique-qui-arme-aussi-le-coupable-de-l-attaque-terroriste-dans-les-yvelines-affirme-mathilde-panot_8253142.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:00:04+00:00",
+      "titre": "Attentat de Trappes : du racisme au terrorisme, une responsabilité collective",
+      "dek": "Le périple meurtrier de l’homme soupçonné d’avoir tué une personne et d’en avoir blessé cinq autres, dans les Yvelines, vendredi, survient dans une campagne présidentielle polarisée, où les invectives le disputent à la course à l’échalote derrière l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/10/25/attentat-de-trappes-du-racisme-au-terrorisme-une-responsabilite-collective_6800082_3232.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T13:00:00+00:00",
+      "titre": "24 octobre : quand le JDD ne voit que « la barbarie de la violence » dans des cortèges en quête de justice sociale et de paix",
+      "dek": "«&#160;La France pleure, la France a peur&#160;», écrit Christine Kelly dans le Journal du dimanche. Mais de quelle France parle donc la chroniqueuse du journal de Vincent Bolloré&#160;? Celle des manifestations où elle n’a évidemment pas mis les pieds – pour quoi faire&#160;? –,…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/le-billet-de-maurice-ulrich/24-octobre-quand-le-jdd-ne-voit-que-la-barbarie-de-la-violence-dans-des-corteges-en-quete-de-justice-sociale-et-de-paix"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T12:27:04+00:00",
+      "titre": "Législatives en Serbie : les serbes se déplacent aux urnes en images",
+      "dek": "Ce dimanche 25 octobre, les serbes votent dans le cadre des élections législatives anticipées pour élire leur nouveau premier ministre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/video/2026/10/25/legislatives-en-serbie-les-serbes-se-rendent-dans-les-bureaux-de-vote-en-images_6800081_3210.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T11:35:43+00:00",
+      "titre": "«L’esprit critique» théâtre: trois histoires de la violence",
+      "dek": "Le podcast culturel de «Mediapart» débat du «Mahabharata» adapté par Pauline Bayle; de «L’Hors-Présence» de la metteuse en scène Tiphaine Raffier; et du dernier opus de la trilogie de Carolina Bianchi, «Uma Luz Cordial».",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/251026/l-esprit-critique-theatre-trois-histoires-de-la-violence"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T11:22:01+00:00",
+      "titre": "Le combat victorieux d’une commune de Pennsylvanie contre les data centers",
+      "dek": "La frénésie de construction des centres de données s’est imposée comme l’un des principaux enjeux des élections de mi-mandat aux États-Unis. À Archbald, 7 500 habitants, où six centres sont prévus, la population se mobilise pour leur faire obstacle.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/251026/le-combat-victorieux-d-une-commune-de-pennsylvanie-contre-les-data-centers"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T11:00:00+00:00",
+      "titre": "Le gouvernement avait préparé un black-out des réseaux sociaux le 24 octobre",
+      "dek": "En prévision du week-end de mobilisations, Sébastien Lecornu a demandé le 22&nbsp;octobre aux opérateurs de téléphonie de préparer une coupure totale de l’accès à TikTok, Instagram, Snapchat et X, a révélé le média en ligne Blast.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/conseil-detat/le-gouvernement-avait-prepare-un-black-out-des-reseaux-sociaux-le-24-octobre"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Oct 2026",
+      "date_iso": "2026-10-25T10:53:30+00:00",
+      "titre": "“Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique Sandro Gozi, député européen Renew",
+      "dek": "“Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique ce dimanche Sandro Gozi, député européen Renew et conseiller de Paris dans le 8.30 franceinfo, Interrogé par Camille Girerd et Benjamin Recouvreur sur la promesse d’Emmanuel Macron en 2017 de “tout faire…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,17 +165,6 @@
       "dek": "Favorite des sondages, la quadruple candidate doit s'exprimer après une première journée de congrès, qui a reconduit Jordan Bardella à la tête du parti d'extrême droite.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Oct 2026",
-      "date_iso": "2026-10-25T09:29:09+00:00",
-      "titre": "Congrès du RN à Orléans : le service de sécurité vérifie que \"les femmes portent un soutien-gorge\" pour éviter l'intrusion de militantes Femen",
-      "dek": "Jordan Bardella a été réélu à la tête du parti d'extrême droite avant le premier grand meeting de campagne de Marine Le Pen prévu dimanche.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -176,6 +319,17 @@
       "dek": "Une semaine après les cortèges du 17 octobre marqués par des violences et des pillages, une foule comparable a repris la rue ce samedi, en dépit de nombreuses interdictions de manifester. Des heurts ont émaillé la fin des défilés à Paris, Lyon ou Marseille.",
       "avis": null,
       "lien": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Oct 2026",
+      "date_iso": "2026-10-24T19:48:58+00:00",
+      "titre": "A Orléans, le Rassemblement national tient son congrès sous haute tension et sans suspense",
+      "dek": "Sans concurrent, Jordan Bardella a été confirmé président du parti d’extrême droite, samedi 24 octobre, tout en devant adouber des « marinistes », en ouverture d’un lancement de campagne aux allures de camp retranché.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html"
     },
     {
       "tag": "Politique",
@@ -396,160 +550,6 @@
       "dek": "Les premières images de la mobilisation de samedi, dans la capitale, où le cortège autorisé est parti de la porte d’Italie à 14 heures pour rejoindre la porte de Vincennes en passant par les boulevards des Maréchaux.",
       "avis": null,
       "lien": "https://www.lemonde.fr/videos/video/2026/10/24/manifestations-du-24-octobre-les-premieres-images-du-cortege-parisien_6799710_1669088.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T14:15:40+00:00",
-      "titre": "Des milliers de manifestants réunis à Orléans en marge du congrès du Rassemblement national",
-      "dek": "Le Rassemblement national organise le week-end des 24 et 25 octobre son congrès à Orléans, avec en point d’orgue un meeting de Marine Le Pen. Depuis samedi matin, des milliers de personnes protestent sur place contre l’extrême droite et le racisme. La préfecture dénombre 11 000 m…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/des-milliers-de-manifestants-reunis-a-orleans-en-marge-du-congres-du-rassemblement-national_8252239.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T14:07:35+00:00",
-      "titre": "Un décret a été publié en vue de la libération de stocks stratégiques de gazole pour faire baisser les prix à la pompe",
-      "dek": "Le texte autorise la vente de stocks stratégiques pour un volume maximum de 1,6 million de mètres cubes. Le gouvernement de Sébastien Lecornu espère ainsi diminuer de 12 à 18 centimes par litre le prix du gazole.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T14:06:13+00:00",
-      "titre": "Au congrès du RN à Orléans, Jordan Bardella, seul candidat à sa succession, est réélu président du parti avec 98,98 % des voix",
-      "dek": "L’eurodéputé a été reconduit samedi à la présidence ‌du Rassemblement national lors d’un congrès à Orléans, où des personnalités de gauche ont participé, de leur côté, à une manifestation contre l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/24/au-congres-du-rn-a-orleans-jordan-bardella-seul-candidat-a-sa-succession-est-reelu-president-du-parti-avec-98-98-des-voix_6799707_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T13:59:20+00:00",
-      "titre": "Au Brésil, c’est «le plus compromis du clan» Bolsonaro qui veut reconquérir la présidence",
-      "dek": "Pour le fils de l’ancien président Jair Bolsonaro, une victoire au second tour de la présidentielle brésilienne, dimanche 25 octobre, serait aussi la garantie de son impunité. Car Flávio est le plus concerné par les imbroglios judiciaires de la famille, des bas-fonds de Rio jusqu…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/241026/au-bresil-c-est-le-plus-compromis-du-clan-bolsonaro-qui-veut-reconquerir-la-presidence"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T13:43:57+00:00",
-      "titre": "DIRECT. Congrès du RN Orléans : des journalistes de Mediapart ont été brutalement sortis par le service de sécurité du Rassemblement national",
-      "dek": "L'équipe a finalement pu regagner le meeting, selon les informations de franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T13:36:23+00:00",
-      "titre": "Des journalistes de Mediapart ont été brièvement expulsés du congrès du Rassemblement national à Orléans par le service de sécurité du parti",
-      "dek": "Prise à partie par la foule et violemment évacuée, l'équipe du site d'investigation a finalement pu regagner le meeting, selon les informations de franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/des-journalistes-de-mediapart-ont-ete-brutalement-sortis-du-congres-du-rassemblement-national-a-orleans-par-le-service-de-securite-du-parti_8252275.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T13:36:23+00:00",
-      "titre": "Des journalistes de Mediapart ont été brutalement sortis du congrès du Rassemblement national à Orléans par le service de sécurité du parti",
-      "dek": "Prise à partie par la foule et violemment évacuée, l'équipe du site d'investigation a finalement pu regagner le meeting, selon les informations de franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/des-journalistes-de-mediapart-ont-ete-brutalement-sortis-du-congres-du-rassemblement-national-a-orleans-par-le-service-de-securite-du-parti_8252275.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T13:34:38+00:00",
-      "titre": "EN DIRECT – Manifestation du 24 octobre : 135 interpellations en France, aucun incident majeur à la mi-journée",
-      "dek": "Une semaine après les manifestations du 17 octobre marquées par des violences et des pillages, les préfets ont interdit les cortèges dans des dizaines de villes. A Paris, le cortège s’est élancé à 14 heures et suit l’itinéraire modifié par la préfecture.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T12:33:00+00:00",
-      "titre": "Baisse des budgets culturels et sociaux, prix du carburant… Le coût de la guerre",
-      "dek": "Il est des chiffres que l’on préférerait pouvoir ignorer. Entre 2001 et 2021 (dernière année où les sources sont documentées), ce sont 337&#160;053 bombes et missiles qui sont largués par l’armée états-unienne et ses alliés, soit 46 bombes par jour en moyenne ou une bombe toutes …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/chronique/baisse-des-budgets-culturels-et-sociaux-prix-du-carburant-le-cout-de-la-guerre"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T11:48:56+00:00",
-      "titre": "Les « gilets jaunes » appellent à une nouvelle mobilisation samedi 31 octobre pour « la défense des libertés publiques » et contre « la dérive autoritaire »",
-      "dek": "« Il y a une colère dans ce pays » qui « n’est pas entendue », selon la déclaration des « gilets jaunes », samedi, qui dénoncent « le mépris, le refus d’écouter, le mensonge et la répression » du gouvernement.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/24/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-samedi-31-octobre-pour-la-defense-des-libertes-publiques-et-contre-la-derive-autoritaire_6799698_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T11:45:38+00:00",
-      "titre": "En images. Manifestations du 24 octobre : un dispositif policier important, des premiers rassemblements assez calmes",
-      "dek": "« Gilets jaunes », syndicats, lycéens et étudiants doivent défiler, ce samedi, lors d’une nouvelle journée de mobilisation dans un contexte de très forte tension, à la suite de l’interdiction de nombreux cortèges, et sous très haute sécurité.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/flux-video-immersif/video/2026/10/24/en-images-manifestations-du-24-octobre-un-dispositif-policier-important-des-premiers-rassemblements-assez-calmes_6799697_6717263.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T11:41:32+00:00",
-      "titre": "En Arménie, à l’ombre de la COP biodiversité, l’extraction minière prospère",
-      "dek": "Juste avant le grand rendez-vous mondial consacré au vivant, le premier ministre arménien, Nikol Pachinian, a inauguré la mine d’or d’Amulsar, en dépit des impacts à venir sur le riche écosystème local. «Mediapart» s’est rendu sur place.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/241026/en-armenie-l-ombre-de-la-cop-biodiversite-l-extraction-miniere-prospere"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T11:37:24+00:00",
-      "titre": "«Vous ciblez, ils tuent»: la gauche demande des actions contre les discours de haine après l’attentat de Trappes",
-      "dek": "Visée par un attentat raciste, la ville de Trappes est régulièrement ciblée, depuis des années, par l’extrême droite politique et médiatique. Les élus de gauche réclament des mesures fortes contre la propagation du racisme et de l’islamophobie, et notamment la fermeture de la cha…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/241026/vous-ciblez-ils-tuent-la-gauche-demande-des-actions-contre-les-discours-de-haine-apres-l-attentat-de-trapp"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Oct 2026",
-      "date_iso": "2026-10-24T10:29:10+00:00",
-      "titre": "«On a été submergés»: le récit d’une faillite d’État",
-      "dek": "Une semaine après le fiasco sécuritaire du 17 octobre, «Mediapart» retrace, témoignages et documents à l’appui, comment l’exécutif s’est laissé déborder par la mobilisation. Sous pression, le ministre de l’intérieur a mobilisé tous les moyens pour encadrer celle du 24 octobre. Au…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/241026/ete-submerges-le-recit-d-une-faillite-d-etat"
     }
   ]
 }
