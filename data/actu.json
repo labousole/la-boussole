@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-10-27T19:46:07+00:00",
+  "generated_at": "2026-10-27T23:24:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T22:33:14+00:00",
+      "titre": "\"Il faut que ça s'arrête\" : Raphaël Glucksmann est-il empêché de faire campagne par des militants Insoumis ?",
+      "dek": "Le candidat à la présidentielle du camp socialiste, Raphaël Glucksmann, est-il empêché de faire campagne ? D’un côté, il soutient la mobilisation contre la vie chère, mais de l’autre, il est invisible dans les cortèges. On l’a tout juste aperçu lundi soir, dans un rassemblement c…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/il-faut-que-ca-s-arrete-raphael-glucksmann-est-il-empeche-de-faire-campagne-par-des-militants-insoumis_8256463.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T22:30:06+00:00",
+      "titre": "En Espagne, une nuit d'émeutes en marge de la tournée d'un influenceur d'extrême droite pour les législatives",
+      "dek": "Pourquoi des scènes de chaos ont-elles été observées lundi soir dans les rues de Bilbao, au nord de l’Espagne ? Plusieurs militants antifascistes manifestaient contre la venue annoncée, puis annulée, d’un influenceur d’extrême droite. Des casseurs ont ensuite affronté les forces …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-nuit-d-emeutes-en-marge-de-la-tournee-d-un-influenceur-d-extreme-droite-pour-les-legislatives_8256448.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T21:42:21+00:00",
+      "titre": "Attentat de Trappes : \"On ne peut pas donner tort à M. Lecornu, qui dit qu'il y a instrumentalisation\", estime Éric Michoux, député UDR",
+      "dek": "Éric Michoux, député UDR de Saône-et-Loire, et Guillaume Roubaud-Quashie, porte-parole du PCF, étaient les invités du Duel sur franceinfo ce mardi 27 octobre. Ils sont notamment revenus sur les déclarations du Premier ministre Sébastien Lecornu concernant l’attentat de Trappes à …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/attentat-de-trappes-on-ne-peut-pas-donner-tort-a-m-lecornu-qui-dit-qu-il-y-a-instrumentalisation-estime-eric-michoux-depute-udr_8256346.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T21:24:16+00:00",
+      "titre": "Avec le projet de loi « casseurs-payeurs », le gouvernement veut pouvoir censurer les appels à la violence sur les réseaux sociaux",
+      "dek": "L’exécutif souhaite avoir la possibilité de recourir au blocage administratif des sites et plateformes sur lesquels sont diffusées des invitations à la violence. Depuis sa mise en place, en 2014, cette procédure permettant de bloquer un site sans décision de justice a déjà été ét…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/pixels/article/2026/10/27/avec-le-projet-de-loi-casseurs-payeurs-le-gouvernement-veut-pouvoir-censurer-les-appels-a-la-violence-sur-les-reseaux-sociaux_6801347_4408996.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T20:42:51+00:00",
+      "titre": "Racisme, incitation au terrorisme : une enquête ouverte sur un espace de discussion sur X",
+      "dek": "Des messages vocaux parmi lesquels «ce n’est pas le pays des bougnoules» ou «il va falloir tuer beaucoup de monde» y circulaient, a fait savoir le parquet de Paris, qui s’est saisi du dossier mardi 27 octobre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/police-justice/racisme-incitation-au-terrorisme-une-enquete-ouverte-sur-un-espace-de-discussion-sur-x-20261027_PIEOXSEWDFASXDPG3HQFKMA454/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T19:52:27+00:00",
+      "titre": "Présidentielle 2027 : Yaël Braun-Pivet mentionne Gérard Larcher comme un recours possible, pour « incarner le rassemblement » de la droite et du centre",
+      "dek": "La présidente de l’Assemblée nationale plaide dans le « Figaro » pour une candidature unique « du MoDem à la droite républicaine » pour 2027. Elle appelle aussi le premier ministre, Sébastien Lecornu, à « activer le 49.3 dans les prochains jours ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-yael-braun-pivet-mentionne-gerard-larcher-comme-un-recours-possible-pour-incarner-le-rassemblement-de-la-droite-et-du-centre_6801345_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T19:51:25+00:00",
+      "titre": "A l’Assemblée nationale, la gauche et le gouvernement s’affrontent après l’attentat raciste de Trappes",
+      "dek": "Accusé de contribuer à la montée du racisme, le gouvernement a répliqué en appelant à lutter contre « toute forme de violence », citant notamment l’affrontement qui a causé la mort du militant néonazi Quentin Deranque en février. Avant que les députés de gauche et les familles de…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/27/a-l-assemblee-nationale-la-gauche-et-le-gouvernement-s-affrontent-apres-l-attentat-raciste-de-trappes_6801344_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T19:48:38+00:00",
+      "titre": "A l’audience sur les descentes de l’extrême droite à Nice contre des manifestants : «L’état d’esprit est clair : on va commencer la guerre»",
+      "dek": "Entendues une première fois ce mardi 27 octobre par le tribunal correctionnel, onze personnes, interpellées en marge de rixes qui ont émaillé la fin de la mobilisation de samedi, expliquent avoir voulu «protéger» les commerces. Elles seront jugées en novembre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-laudience-sur-les-descentes-de-lextreme-droite-a-nice-contre-des-manifestants-letat-desprit-est-clair-on-va-commencer-la-guerre-20261027_Z2H5GQMM4BAPVAYHZUY7ZJKMLA/"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -28,9 +116,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T19:24:22+00:00",
+      "date_iso": "2026-10-27T19:24:20+00:00",
       "titre": "Présidentielle 2027 : Edouard Philippe estime que « l’échec de l’intégration » depuis « plusieurs décennies est incontestable »",
-      "dek": "Le candidat Horizons à l’élection présidentielle souhaite « diviser l’immigration légale par deux ». Il propose de réformer l’instruction du droit d’asile et de restreindre le regroupement familial, mais aussi de rétablir un service national obligatoire pour renforcer l’intégrati…",
+      "dek": "Le candidat d’Horizons à l’élection présidentielle souhaite « diviser l’immigration légale par deux ». Il propose de réformer l’instruction du droit d’asile et de restreindre le regroupement familial, ainsi que de rétablir un service national obligatoire pour renforcer l’intégrat…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/27/presidentielle-2027-edouard-philippe-estime-que-l-echec-de-l-integration-depuis-plusieurs-decennies-est-incontestable_6801342_823448.html"
     },
@@ -84,6 +172,17 @@
       "source": "Le Monde – Politique",
       "date": "27 Oct 2026",
       "date_iso": "2026-10-27T19:00:04+00:00",
+      "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+      "dek": "Lancé « sans réflexion suffisante » en 2021 et déployé très vite, le plan d’avenir commence à se heurter à de fortes contraintes financières. De nombreux investissements ont été décidés, mais l’argent public risque de manquer pour les concrétiser.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T19:00:04+00:00",
       "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
       "dek": "Lancé « sans réflexion suffisante » en 2021 et déployé très vite, le plan d’avenir commence à se heurter à de fortes contraintes financières. De nombreux investissements ont été décidés, mais l’argent public risque de manquer pour les concrétiser.",
       "avis": null,
@@ -99,17 +198,6 @@
       "dek": "Le gouvernement et la droite ont multiplié les propositions répressives, avec le soutien du RN. Fabien Gay a dénoncé une volonté de «&nbsp;casser le mouvement social&nbsp;» par la menace financière.",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/libertes-individuelles/une-justice-de-classe-au-service-des-dominants-avec-la-loi-casseurs-payeurs-le-gouvernement-durcit-larsenal-contre-les-mouvements-socia"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T18:56:21+00:00",
-      "titre": "Attentat de Trappes : \"On ne peut pas donner tort à M. Lecornu, qui dit qu'il y a instrumentalisation\", estime Éric Michoux, député UDR",
-      "dek": "Éric Michoux, député UDR de Saône-et-Loire, et Guillaume Roubaud-Quashie, porte-parole du PCF, étaient les invités du Duel sur franceinfo ce mardi 27 octobre. Ils sont notamment revenus sur les déclarations du Premier ministre Sébastien Lecornu concernant l’attentat de Trappes à …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/attentat-de-trappes-on-ne-peut-pas-donner-tort-a-m-lecornu-qui-dit-qu-il-y-a-instrumentalisation-estime-eric-michoux-depute-udr_8256346.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -462,94 +550,6 @@
       "dek": "Alors que Marine Le Pen promet le changement \"en douceur\" si elle est élue présidente en 2027, ses propositions ne cadrent pas vraiment.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-contre-pouvoirs-dans-le-collimateur-du-rassemblement-national_8234668.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T07:01:33+00:00",
-      "titre": "«Pengo, ça aurait pu être moi»: au cœur des rassemblements après l’attaque terroriste raciste, la peur et la colère",
-      "dek": "Lundi soir, des milliers de personnes se sont rassemblées un peu partout en France pour partager leur émoi après l’attentat raciste dans les Yvelines. Tous et toutes dénoncent la banalisation du racisme dans les médias, en particulier sur CNews.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/271026/pengo-ca-aurait-pu-etre-moi-au-coeur-des-rassemblements-apres-l-attaque-terroriste-raciste-la-peur-et-la-c"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T07:00:00+00:00",
-      "titre": "Après l’attentat raciste de Trappes, « il faut dire stop au climat de haine et d’intolérance »",
-      "dek": "Trois jours après l’attentat terroriste de Trappes et La Verrière, des rassemblements en hommage aux victimes se sont tenus ce lundi 26&nbsp;octobre soir dans plusieurs villes. À Paris, les participants ont dénoncé les propos haineux proférés sur les plateaux des médias de droite…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/antiracisme/apres-lattentat-raciste-de-trappes-il-faut-dire-stop-au-climat-de-haine-et-dintolerance"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T06:37:11+00:00",
-      "titre": "Le Sénat rejette la réforme constitutionnelle sur l'autonomie de la Corse, censée aboutir à l'octroi de pouvoirs dérogatoires à l'île",
-      "dek": "Le vote a provoqué la colère du camp autonomiste, qui a annoncé son \"retrait\" du processus de Beauvau, initié en 2022. Un compromis avait pourtant été validé par l'Assemblée de Corse en 2024, puis préservé lors d'un vote favorable de l'Assemblée nationale en juin 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/france/corse/le-senat-rejette-la-reforme-constitutionnelle-sur-l-autonomie-de-la-corse-censee-aboutir-a-l-octroi-de-pouvoirs-derogatoires-le-camp-autonomiste-claque-la-porte_8255089.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T06:30:07+00:00",
-      "titre": "Statut de la Corse : la droite sénatoriale fait capoter la réforme, le camp autonomiste claque la porte",
-      "dek": "Dans des débats chaotiques, la droite majoritaire à la chambre haute a détricoté le texte voté par l’Assemblée, l’accusant notamment de «constitutionnaliser le communautarisme». Un coup d’arrêt au processus lancé par le gouvernement en 2022.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/statut-de-la-corse-la-droite-senatoriale-fait-capoter-la-reforme-le-camp-autonomiste-claque-la-porte-20261027_RPLV5KQRINAFXALXYVKMDKGA7Y/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T05:32:54+00:00",
-      "titre": "INFO RADIO FRANCE. Le député RN José Beaurain visé par une enquête pour détournement de fonds publics",
-      "dek": "Selon une enquête de la cellule investigation de Radio France, le Rassemblement national a investi ce député de l'Aisne pour les législatives de 2024 et les municipales de 2026, malgré plusieurs alertes internes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/info-radio-france-le-depute-rn-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics_8254816.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T05:30:58+00:00",
-      "titre": "Émeutes : «Plus jamais de 17 octobre», promet Emmanuel Macron à Marseille",
-      "dek": "REPORTAGE - S’il voit s’éloigner le « Marseille en grand » dont il rêvait, le président a profité d’un dix-huitième déplacement en neuf ans dans sa « ville de cœur » pour afficher sa détermination à rétablir le calme partout dans le pays et à relancer l’activité économique dans l…",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/marseille/plus-jamais-de-17-octobre-a-marseille-emmanuel-macron-admet-n-avoir-pas-du-tout-anticipe-les-violences-20261026"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T05:00:07+00:00",
-      "titre": "Que changerait la loi « casseurs-payeurs » ?",
-      "dek": "Le projet de loi « casseurs-payeurs », pensé après les débordements qui avaient suivi la victoire du PSG en Ligue des champions fin mai, prévoit de faire peser le coût des dégradations sur des manifestants « non-casseurs », selon le juriste Olivier Cahn.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/videos/video/2026/10/27/que-changerait-la-loi-casseurs-payeurs_6801104_1669088.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T05:00:02+00:00",
-      "titre": "Le débat sur l’imprescriptibilité des crimes sexuels sur les mineurs arrive au Sénat",
-      "dek": "Lors du passage à l’Assemblée nationale du projet de loi relatif à la protection de l’enfance, un amendement étendant l’imprescriptibilité, réservée aux crimes contre l’humanité, aux crimes commis sur les mineurs, avait été adopté. La mesure, supprimée en commission des lois au S…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html"
     }
   ]
 }
