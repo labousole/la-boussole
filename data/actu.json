@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-10-26T20:14:42+00:00",
+  "generated_at": "2026-10-27T03:14:18+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T01:36:44+00:00",
+      "titre": "Avant les midterms, Donald Trump promet un million de dollars pour toute information débouchant sur une condamnation pour fraude électorale",
+      "dek": "La récompense sera versée à « toute personne signalant une fraude électorale lors de scrutins passés ou lors des élections de mi-mandat », qui auront lieu le 3 novembre, a déclaré le président américain, jetant d’ores et déjà le doute sur les résultats du vote.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/10/27/avant-les-midterms-donald-trump-promet-un-million-de-dollars-pour-toute-information-debouchant-sur-une-condamnation-pour-fraude-electorale_6801016_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Oct 2026",
+      "date_iso": "2026-10-27T00:40:29+00:00",
+      "titre": "Corse : le Sénat rejette le projet de loi sur l’autonomie et enterre le processus de Beauvau",
+      "dek": "Malgré des amendements abandonnant la reconnaissance d’une « communauté » et obligeant la Collectivité de Corse à demander au cas par cas l’habilitation à édicter des normes, le Sénat a fini par rejeter le projet d’autonomie de la Corse, ouvrant une crise avec les autonomistes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T23:01:25+00:00",
+      "titre": "\"Il faut que nos élèves retiennent que dès cette année, ils vont voir leur vie changer\", souligne le ministre Édouard Geffray, qui détaille les mesures à plus de \"5-6 milliards\" d'euros pour répondre à la crise lycéenne",
+      "dek": "Invité du \"20 Heures\" de France 2 lundi 26 octobre, le ministre de l'Éducation nationale revient en détail sur les annonces du gouvernement faites aux lycéens pour répondre à leurs revendications.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-que-nos-eleves-retiennent-que-des-cette-annee-ils-vont-voir-leur-vie-changer-souligne-le-ministre-edouard-geffray-qui-detaille-les-mesures-a-plus-de-5-6-milliards-d-euros-pour-repondre-a-la-crise-lyceenne_8254864.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T22:43:02+00:00",
+      "titre": "Emmanuel Macron à Marseille : \"Ce n'est pas normal qu'à six mois d'une élection présidentielle, le pays soit dans cet état d'ébullition\", tance le président",
+      "dek": "\"Il y a des gens qui se réjouissent du désordre, moi non\", a déclaré le chef de l'Etat devant les forces de l'ordre à Marseille.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/direct-emmanuel-macron-a-marseille-le-president-est-arrive-a-la-mairie-degradee-le-17-octobre-accueilli-par-benoit-payan_8254135.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T21:46:34+00:00",
+      "titre": "\"On les a vus passer au milieu des CRS sans problème\" : des militants violents d'ultradroite ont-ils été épargnés par la police lors des manifestations samedi ?",
+      "dek": "Plusieurs vidéos montrent des groupuscules d'ultradroite agresser des manifestants dans plusieurs grandes villes, parfois sous les yeux des forces de l'ordre, qui semblent étonnamment passives. Plusieurs responsables politiques accusent la police d'avoir par endroits protégé les …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/police/on-les-a-vus-passer-au-milieu-des-crs-sans-probleme-la-police-a-t-elle-protege-des-militants-violents-d-ultradroite-lors-des-manifestations-samedi_8254837.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T20:57:55+00:00",
+      "titre": "Mobilisations sociales : à Marseille, Emmanuel Macron fait le mea culpa de l’Etat",
+      "dek": "Le président de la République a reconnu le manque d’anticipation des forces de l’ordre et du gouvernement avant le 17 octobre et a souligné la « légitimité » du mouvement social, sans annoncer de mesures claires.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/26/mobilisations-sociales-a-marseille-emmanuel-macron-fait-le-mea-culpa-de-l-etat_6800843_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T20:27:27+00:00",
+      "titre": "Face aux lycéens et aux étudiants, le gouvernement concède sans convaincre",
+      "dek": "Sébastien Lecornu a présenté des pistes de réformes aux syndicats lycéens et étudiants, en tentant de les diviser et en donnant la primeur à la presse ainsi qu’à des créatrices de contenus. Une méthode qui n’a fait qu’accentuer leur sentiment de mépris et de n’obtenir que des «mi…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/261026/face-aux-lyceens-et-aux-etudiants-le-gouvernement-concede-sans-convaincre"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T20:25:51+00:00",
+      "titre": "Marseille, Paris, Lyon, La Courneuve… des rassemblements dans toute la France après l’attentat raciste de Trappes",
+      "dek": "Lundi 26 octobre, des milliers de personnes se sont réunies dans la soirée dans plusieurs villes de France pour dénoncer le racisme et le rôle de l’extrême droite dans l’attentat qui a frappé Trappes et La Verrière, vendredi 23 octobre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/marseille-paris-lyon-la-courneuve-des-rassemblements-dans-toute-la-france-apres-lattentat-raciste-de-trappes-20261026_FOZCJ4EYPNAGXOFFDL5DEENR3M/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T20:25:46+00:00",
+      "titre": "Lycées, les annonces du gouvernement",
+      "dek": "Après plus d’un mois de colère lycéenne, le gouvernement a dévoilé plusieurs annonces pour tenter de sortir de la crise: La refonte de la plateforme Parcoursup, un prêt de 4 milliards d’euros de l’Etat aux régions pour rénover les collèges et les lycées, 15.000 places de plus dan…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lycees-les-annonces-du-gouvernement_8254840.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T20:16:00+00:00",
+      "titre": "Parcoursup : ce qui pourrait changer dès cette année, selon les propositions du gouvernement",
+      "dek": "Comment le gouvernement compte-t-il réformer la plateforme d'orientation Parcoursup, l'un des symboles de la colère des lycéens, pour qu'elle soit plus juste et moins opaque ?",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-ce-qui-pourrait-changer-des-cette-annee-selon-les-propositions-du-gouvernement_8254804.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -51,6 +161,17 @@
       "source": "Mediapart",
       "date": "26 Oct 2026",
       "date_iso": "2026-10-26T19:26:23+00:00",
+      "titre": "Extrême droite: la bande-annonce fait peur, mais le film n’est pas écrit",
+      "dek": "Attentat raciste de Trappes, milices néofascistes, violences au congrès du Rassemblement national: le week-end est apparu comme un précipité d’une France d’extrême droite, à six mois de la présidentielle. Les mobilisations sociales et des scrutins, du Brésil à la Serbie, rappelle…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/261026/extreme-droite-la-bande-annonce-fait-peur-mais-le-film-n-est-pas-ecrit"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T19:26:23+00:00",
       "titre": "Extrême droite: la bande-annonce fait peur, mais le film n'est pas écrit",
       "dek": "Attentat raciste de Trappes, milices néofascistes, violences au congrès du Rassemblement national: le week-end est apparu comme un précipité d’une France d’extrême droite, à six mois de la présidentielle. Les mobilisations sociales et des scrutins, du Brésil à la Serbie, rappelle…",
       "avis": null,
@@ -77,6 +198,17 @@
       "dek": "Le président de la République, accompagné de plusieurs ministres, a rencontré lundi 26 octobre le maire, Benoît Payan, et des représentants des commerçants du centre-ville, durement touchés par les pillages. Le chef de l’Etat leur a promis de maintenir «le calme» alors que de nou…",
       "avis": null,
       "lien": "https://www.liberation.fr/societe/le-17-octobre-on-navait-pas-du-tout-anticipe-ce-qui-sest-passe-en-visite-express-a-marseille-emmanuel-macron-en-operation-apaisement-20261026_LJWBCVKXOFFEZAXEQ3QCTLZO7E/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T19:06:27+00:00",
+      "titre": "Mouvement lycéen et étudiant : l’intersyndicale jeunesse appelle à poursuivre la mobilisation malgré les annonces du gouvernement. Retrouvez les principales informations de la journée.",
+      "dek": "La FAGE, l’Union étudiante, l’UNEF et l’Union syndicale lycéenne veulent continuer à « se mobiliser » après leur entrevue avec Sébastien Lecornu et l’annonce de mesures pour faire face à la crise lycéenne, comme le remplacement progressif de Parcoursup et la création de places su…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mouvement-lyceen-et-etudiant-edouard-geffray-le-ministre-de-l-education-nationale-annonce-un-plafonnement-des-classes-de-seconde-a-28-eleves-maximum_6800604_823448.html"
     },
     {
       "tag": "Politique",
@@ -143,6 +275,17 @@
       "dek": "Ces vingt-cinq dernières années, les meurtres racistes ont fait 18 victimes dans l’Hexagone. Derrière ces meurtres, l’idéologie d’extrême droite, qui stigmatise les étranger·es et les personnes racisées, inquiète les services de renseignement.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=518697"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Oct 2026",
+      "date_iso": "2026-10-26T18:36:38+00:00",
+      "titre": "Crise lycéenne : après les annonces du gouvernement, l’intersyndicale appelle à la poursuite du mouvement",
+      "dek": "La trajectoire est bonne, mais ils attendent du concret : après un mois de protestations, des représentants de lycéens ont reconnu être partiellement satisfaits après leur entrevue à Matignon ce 26 octobre après-midi.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/education/en-direct-crise-lyceenne-le-gouvernement-sapprete-a-livrer-ses-reponses-tres-concretes-parcoursup-pourrait-etre-remplace-dans-les-deux-ans-20261026_KNWOZ267WZBBDF5ESFKELFHGWM/"
     },
     {
       "tag": "Politique",
@@ -237,7 +380,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T17:00:12+00:00",
+      "date_iso": "2026-10-26T17:00:06+00:00",
       "titre": "« L’attentat de Trappes a été favorisé par un terreau raciste qui s’est installé dans le débat public »",
       "dek": "L’attentat perpétré dans deux villes des Yvelines, le 23 octobre, est le reflet d’une vision du monde raciste, véhiculée par des responsables politiques et des médias d’extrême droite, analyse l’historienne de l’art Anne Lafont, dans un entretien au « Monde ».",
       "avis": null,
@@ -407,149 +550,6 @@
       "dek": "Le président de la République est attendu dans les Bouches-du-Rhône, lundi matin, notamment pour rencontrer des commerçants touchés par des dégradations lors des manifestations et des membres des forces de l’ordre.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/live/2026/10/26/en-direct-mobilisations-sociales-emmanuel-macron-en-deplacement-a-marseille-le-gouvernement-doit-presenter-ses-reponses-au-mouvement-lyceen_6800604_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T09:12:33+00:00",
-      "titre": "Pour rénover les lycées, les régions face aux contradictions de l’Etat : «On nous dit d’investir et on nous coupe les vivres»",
-      "dek": "En pleins débats budgétaires, les conseils régionaux, compétents en la matière, pressent le gouvernement pour qu’il leur donne les moyens de répondre aux revendications des lycéens sur la vétusté de leurs locaux.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/pour-renover-les-lycees-les-regions-face-aux-contradictions-de-letat-on-nous-dit-dinvestir-et-on-nous-coupe-les-vivres-20261026_BKDK7L6EXFGJHF5G35ELYSAP4Q/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T08:46:57+00:00",
-      "titre": "Thomas Ménagé dénonce \"un coup monté\" de Mediapart et de l'UEJF, après l'interruption du meeting du RN par des militants",
-      "dek": "Lors du meeting du Rassemblement national à Orléans, dimanche, le discours de Jordan Bardella a été interrompu par des militants de l'Union des étudiants juifs de France",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/thomas-menage-denonce-un-coup-monte-de-mediapart-et-de-l-uejf-apres-l-interruption-du-meeting-du-rn-par-des-militants_8253949.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T08:36:51+00:00",
-      "titre": "\"Il y a une certaine impunité envers les mouvements d'extrême droite qui ne peut plus durer\", déclare Marine Tondelier",
-      "dek": "Marine Tondelier, secrétaire nationale des Écologistes et candidate à l'élection présidentielle, revient ce lundi 26 octobre dans les \"4 Vérités\" sur la victoire de Lula au Brésil, les mobilisations sociales en France, la suppression de Parcoursup et les violences de l'ultra-droi…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/je-pense-qu-il-y-a-quand-meme-une-certaine-impunite-envers-les-mouvements-d-extreme-droite-qui-ne-peut-plus-durer-declare-marine-tondelier-secretaire-nationale-des-ecologistes-et-candidate-a-l-election-presidentielle_8253919.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T08:35:57+00:00",
-      "titre": "BFMTV accusée par LFI de propager des propos «racistes», la chaîne dénonce «une campagne de dénigrement»",
-      "dek": "Les syndicats de la chaîne d’information ont de leur côté estimé que «le racisme décomplexé, qui a désormais place nette sur notre antenne, a des conséquences directes et irrémédiables sur notre société».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/medias/bfmtv-accusee-par-lfi-de-propager-des-propos-racistes-la-chaine-denonce-une-campagne-de-denigrement-20261026_U4AXHCA4I5F7ZKQAQA6GTV3CVE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T08:34:57+00:00",
-      "titre": "Attentat raciste à Trappes : Thomas Ménagé \"regrette que la gauche saute sur un fait aussi abject pour faire de la politique politicienne\"",
-      "dek": "Après l'attaque terroriste raciste survenue dans les Yvelines vendredi, le Rassemblement national rejette toute responsabilité.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-a-trappes-thomas-menage-regrette-que-la-gauche-saute-sur-un-fait-aussi-abject-pour-faire-de-la-politique-politicienne_8253934.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T08:32:17+00:00",
-      "titre": "Attentat à Trappes, manifestations, congrès du RN...  Le \"8h30 franceinfo\" de Thomas Ménagé",
-      "dek": "Thomas Ménagé, député RN du Loiret, porte-parole du parti, est l'invité du \"8h30 franceinfo\" du 26 octobre 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attentat-a-trappes-manifestations-congres-du-rn-le-8h30-franceinfo-de-thomas-menage_8233141.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T08:16:54+00:00",
-      "titre": "Le maire de Limoges Guillaume Guérin compare l’incendie de sa mairie à celui… du Reichstag",
-      "dek": "Dans une interview à l’hebdomadaire allemand «Die Zeit», le maire LR considère que ce qu’il s’est passé dans sa ville le 17 octobre est comparable à la destruction de la Chambre basse allemande en 1933, qui précède la fin des libertés en Allemagne et la traque des opposants de ga…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-maire-de-limoges-guillaume-guerin-compare-lincendie-de-sa-mairie-a-celui-du-reichstag-20261026_32VC267A3FHJNMTKULAT3ECVI4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T08:08:06+00:00",
-      "titre": "Présidentielle : si le Rassemblement national accède au pouvoir, la CGT n'aura plus de subventions, assure Sébastien Chenu",
-      "dek": "Le vice-président du RN, Sébastien Chenu, estime lundi sur France Inter que le syndicat \"ne défend plus l'intérêt des travailleurs mais cherche à empêcher le Rassemblement national\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/presidentielle-si-le-rassemblement-national-accede-au-pouvoir-la-cgt-n-aura-plus-de-subventions-assure-sebastien-chenu_8253898.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T07:52:29+00:00",
-      "titre": "Attentat raciste à Trappes : Sébastien Chenu rejette toute responsabilité du RN et dénonce une \"récupération politique indigne\" de LFI",
-      "dek": "Invité de France Inter lundi, Sébastien Chenu assure que le parti d'extrême droite n'a aucun lien avec l'attaque terroriste raciste qui a coûté la vie à une personne et blessé cinq autres dans les Yvelines vendredi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/attentat-raciste-dans-les-yvelines-sebastien-chenu-rejette-toute-responsabilite-du-rn-et-denonce-une-recuperation-politique-indigne-de-lfi_8253883.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T07:47:11+00:00",
-      "titre": "Le dernier triomphe de Lula",
-      "dek": "Au Brésil, le président sortant remporte finalement une victoire écrasante, avec 64 millions de voix contre 59,8 millions pour son adversaire d’extrême droite, Flávio Bolsonaro. Il entre ainsi un peu plus dans l’histoire de son pays. Son quatrième et dernier mandat s’annonce cepe…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/261026/le-dernier-triomphe-de-lula"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T07:39:44+00:00",
-      "titre": "Présidentielle 2027 : depuis Orléans, Marine Le Pen lance sa campagne",
-      "dek": "Orléans accueillait un congrès du Rassemblement national et des milliers de manifestants antifascistes. L'occasion pour Marine Le Pen de lancer sa campagne. Aussi, le discours de Jordan Bardella a été perturbé et des journalistes de Mediapart ont été malmenés.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-depuis-orleans-marine-le-pen-lance-sa-campagne_8253877.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T06:59:03+00:00",
-      "titre": "EDITO. Les mots et la violence du débat politique actuel engendrent-ils la violence raciste ?",
-      "dek": "Après l’attentat raciste de Trappes, qui a fait un mort et cinq blessés, la gauche met en cause la responsabilité de l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-mots-et-la-violence-du-debat-politique-actuel-engendrent-ils-la-violence-raciste_8233150.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Oct 2026",
-      "date_iso": "2026-10-26T05:07:00+00:00",
-      "titre": "Au congrès du RN, Jordan Bardella plébiscité mais affaibli dans sa présidence",
-      "dek": "Conseil national, bureau exécutif… Le jeu des allégeances au sein des principales instances du parti a vu un relatif renforcement des marinistes aux dépens des fidèles de son patron, ce week-end à Orléans.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/au-congres-du-rn-jordan-bardella-plebiscite-mais-affaibli-dans-sa-presidence-20261026_57QT3UO73JFI3HXVKSZEIVCGYE/"
     }
   ]
 }
