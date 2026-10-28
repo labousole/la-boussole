@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-27T23:24:49+00:00",
+  "generated_at": "2026-10-28T03:28:02+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T00:26:38+00:00",
+      "titre": "Mobilisations sociales : le projet de loi « casseurs-payeurs » approuvé et élargi par le Sénat après les violences du 17 octobre",
+      "dek": "Le texte, très critiqué à gauche, a été adopté à 229 voix contre 105 et est désormais transmis à l’Assemblée nationale.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -539,17 +550,6 @@
       "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/les-influenceuses-invitees-par-lecornu-lui-meme-font-derailler-le-plan-com-du-gouvernement-sur-les-lycees-20261027_SCJKS5XDBNH77ERPXFEP6D3E4E/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Oct 2026",
-      "date_iso": "2026-10-27T07:02:41+00:00",
-      "titre": "EDITO. Les contre-pouvoirs dans le collimateur du Rassemblement national",
-      "dek": "Alors que Marine Le Pen promet le changement \"en douceur\" si elle est élue présidente en 2027, ses propositions ne cadrent pas vraiment.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-contre-pouvoirs-dans-le-collimateur-du-rassemblement-national_8234668.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
