@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-10-28T20:01:22+00:00",
+  "generated_at": "2026-10-29T03:50:37+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T03:41:51+00:00",
+      "titre": "Mobilisation des lycéens : Emmanuel Macron appelle à une rentrée dans \"le calme\" lundi",
+      "dek": "\"La jeunesse a été entendue\", a estimé le chef de l'Etat, mercredi, dans un entretien accordé au journaliste Hugo Travers.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisations-des-lyceens-les-deputes-seront-invites-mercredi-a-debattre-a-l-assemblee-nationale-sur-l-avenir-de-parcoursup-selon-une-source-ministerielle-a-france-televisions_8256817.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T00:28:55+00:00",
+      "titre": "Emmanuel Macron dénonce une « désinhibition du racisme » et de « l’antisémitisme », visant le RN et LFI",
+      "dek": "Le chef de l’Etat a par ailleurs appelé mercredi, dans un entretien diffusé par la chaîne YouTube HugoDécrypte, à la reprise des cours dans les lycées dans le « calme » à la rentrée, le 2 novembre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-le-rn-et-lfi_6801776_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T23:17:00+00:00",
+      "titre": "Mobilisation lycéenne, Parcoursup, racisme... Ce qu'il faut retenir de l'interview d'Emmanuel Macron à la chaîne HugoDécrypte",
+      "dek": "Emmanuel Macron a appelé, mercredi, à ce que \"le calme revienne\" dans les lycées et à la reprise des cours \"à la rentrée\" de lundi \"après les vacances de la Toussaint\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-parcoursup-racisme-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-a-la-chaine-hugodecrypte_8258006.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T23:09:16+00:00",
+      "titre": "En Espagne, la collision meurtrière entre deux trains fragilise-t-elle la campagne législative de Pedro Sánchez ?",
+      "dek": "L'Espagne est en deuil, après la catastrophe ferroviaire survenue mercredi 28 octobre. À un mois des législatives anticipées, Pedro Sánchez promet une enquête complète. Mais ce drame pourrait compliquer la campagne du chef du gouvernement sortant, déjà fragilisée, notamment par l…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-la-collision-meurtriere-entre-deux-trains-fragilise-t-elle-la-campagne-legislative-de-pedro-sanchez_8258009.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T22:45:44+00:00",
+      "titre": "Paris : la justice suspend le couvre-feu pour les mineurs non accompagnés",
+      "dek": "Cet arrêté, daté de lundi, courait jusqu’à jeudi 6 heures, et concernait certains secteurs situés autour de l’Elysée, de l’Assemblée nationale, du Sénat, de l’avenue des Champs-Elysées ou encore des gares.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T22:11:45+00:00",
+      "titre": "Revaloriser le Smic en avance de 22 euros par mois, une mesure efficace pour calmer la colère ambiante ?",
+      "dek": "Le gouvernement cherche des réponses pour calmer la colère sociale. Parmi les pistes : avancer d’un mois la revalorisation du Smic, prévue le 1er janvier 2027 et y ajouter un coup de pouce. Il pourrait augmenter de 22 euros par mois. Mais pour l'instant, le patronat s’y oppose.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/greve/revaloriser-le-smic-en-avance-de-22-euros-par-mois-une-mesure-suffisante-pour-calmer-la-colere-ambiante_8257934.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T20:55:17+00:00",
+      "titre": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
+      "dek": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T20:52:43+00:00",
+      "titre": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+      "dek": "Le président de Renaissance a proposé plus tôt dans la journée de mercredi l'organisation d'une primaire allant de Bruno Retailleau à Raphaël Glucksmann afin \"d’empêcher un deuxième tour\" entre \"La France insoumise et le Rassemblement national\" lors du scrutin national.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T20:41:09+00:00",
+      "titre": "Gabriel Attal plaide pour l'organisation d'une \"grande primaire des démocrates\" en vue de la présidentielle",
+      "dek": "Le candidat du parti Renaissance a fait un pas, mercredi, vers l'organisation d'une primaire élargie, une perspective pour l'heure rejetée par son rival Horizons Edouard Philippe.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T20:02:59+00:00",
+      "titre": "Parcoursup : à l’Assemblée, la gauche tente d’éviter les procès en opposition stérile",
+      "dek": "Invités par le gouvernement à débattre sur l’avenir de la plateforme d’orientation des bacheliers, ce mercredi 28 octobre, les députés hostiles à son utilisation ont défendu leurs propositions alternatives.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/parcoursup-a-lassemblee-la-gauche-tente-deviter-les-proces-en-opposition-sterile-20261028_TR22CK542ZE3RLTCOPOSK67PNY/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -17,7 +127,18 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T19:46:38+00:00",
+      "date_iso": "2026-10-28T20:00:04+00:00",
+      "titre": "Présidentielle 2027 : Gabriel Attal pour l’organisation d’une « grande primaire des démocrates »",
+      "dek": "La primaire que propose le candidat Renaissance à l’élection présidentielle permettrait, selon lui, « d’empêcher » un second tour entre Jean-Luc Mélenchon et Marine Le Pen.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-gabriel-attal-pour-l-organisation-d-une-grande-primaire-des-democrates_6801640_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Oct 2026",
+      "date_iso": "2026-10-28T19:46:37+00:00",
       "titre": "Manifestation du 17 octobre : une adolescente de 17 ans a déposé plainte après avoir été éborgnée",
       "dek": "L’étudiante en langues étrangères sortait d’un restaurant et « ne participait pas à la manifestation », selon son avocat, qui estime qu’elle a été touchée au visage par « un tir tendu de grenade lacrymogène ». L’IGPN a été saisie.",
       "avis": null,
@@ -429,127 +550,6 @@
       "dek": "Jean-Noël Barrot, ministre de l'Europe et des Affaires étrangères, revient ce mercredi 28 octobre dans les \"4 Vérités\" sur les élections en Israël et la position de la France concernant la solution à deux États. Il évoque également la colonisation en Cisjordanie et les mesures en…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/elections-en-israel-il-n-y-a-pas-d-autre-solution-que-la-solution-a-deux-etats-pour-que-la-paix-et-la-stabilite-puissent-etre-instaurees-dans-cette-region-affirme-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres_8256958.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T08:20:51+00:00",
-      "titre": "Le gouvernement obtient au Sénat l'adoption d'un dispositif permettant le blocage de contenus appelant aux pillages sur les réseaux sociaux",
-      "dek": "Si le texte est adopté à l'Assemblée nationale, les plateformes seraient tenues de procéder au retrait de ces contenus dans un délai de 24 heures, sans quoi elles s'exposeraient à un \"blocage\" ou un \"déréférencement\", selon l'amendement gouvernemental.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-gouvernement-obtient-au-senat-l-adoption-d-un-dispositif-permettant-le-blocage-de-contenus-sur-les-reseaux-sociaux-appelant-aux-pillages_8256943.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T07:36:45+00:00",
-      "titre": "EDITO. Quand l'Assemblée nationale se déchire sur la lutte contre le racisme",
-      "dek": "Après un bref hommage aux victimes de l’attentat de Trappes, la séance de mardi à l’Assemblée a de nouveau viré au pugilat.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-quand-l-assemblee-nationale-se-dechire-sur-la-lutte-contre-le-racisme_8236297.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T07:28:21+00:00",
-      "titre": "Attentat raciste à Trappes : foire d'empoigne à l'Assemblée nationale",
-      "dek": "À peine la minute de silence terminée à l'Assemblée nationale, en hommages aux victimes de l'attentat raciste de Trappes, que la bataille politique a repris. Le RN a accusé la gauche de récupération politique, les députés socialistes et écologistes ont quitté l'hémicycle, et Séba…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/attentat-raciste-a-trappes-foire-d-empoigne-a-l-assemblee-nationale_8256910.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T07:24:46+00:00",
-      "titre": "Législatives en Israël: participation massive et situation bloquée",
-      "dek": "La forte participation, portée par les Palestiniens d’Israël, ne permet pas de départager vraiment la coalition au pouvoir du camp anti-Nétanyahou. Les listes arabes, qui réalisent des scores inédits dans l’histoire du pays, sont en position d’arbitres.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/281026/legislatives-en-israel-participation-massive-et-situation-bloquee"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T07:08:26+00:00",
-      "titre": "\"Ils vont sortir fatigués de cet automne\" : coincés entre les crises et la parole du gouvernement, Gabriel Attal et Edouard Philippe tentent de se faire entendre",
-      "dek": "Dans un climat politique marqué par une succession de crises, Gabriel Attal et Edouard Philippe peinent à faire entendre leur voix. Les deux anciens Premiers ministres cherchent la bonne stratégie pour exister.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/ils-vont-sortir-fatigues-de-cet-automne-coinces-entre-les-crises-et-la-parole-du-gouvernement-gabriel-attal-et-edouard-philippe-tentent-de-se-faire-entendre_8256418.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T07:01:01+00:00",
-      "titre": "Jordan Bardella a-t-il vraiment retiré une montre de luxe de son poignet alors qu'il prenait la parole au congrès du Rassemblement national ?",
-      "dek": "Plusieurs internautes partagent un extrait vidéo dans lequel on voit le président du RN retirer sa montre alors qu'il se trouve à la tribune, en plein discours pour le congrès de son parti. Cet extrait est vrai, mais il ne s'agit pas d'une montre de luxe.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/jordan-bardella-a-t-il-vraiment-retire-une-montre-de-luxe-de-son-poignet-alors-qu-il-prenait-la-parole-au-congres-du-rassemblement-national_8236312.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T07:00:01+00:00",
-      "titre": "Une loi polémique pour faire payer les casseurs",
-      "dek": "Les casseurs vont-ils payer la facture des dégâts du 17 octobre ? Le projet de loi qui arrive au Sénat prévoit même de saisir les allocations sociales. Le texte fait polémique parce qu’il s’applique aussi aux personnes qui n’ont pas participé directement aux violences mais qui ét…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/une-loi-polemique-pour-faire-payer-les-casseurs_8256406.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T06:57:03+00:00",
-      "titre": "Prestations sociales saisies, interdictions de manifester, blocage des réseaux sociaux… Le projet de loi \"casseurs-payeurs\" adopté et élargi au Sénat, en plein cœur de la contestation",
-      "dek": "Laurent Nuñez a annoncé qu'il saisirait le Conseil d'Etat sur ces extensions, pour vérifier si \"l'équilibre entre solidarité et réparation\" était bien respecté.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/prestations-sociales-saisies-nouvelles-interdictions-de-manifester-le-projet-de-loi-casseurs-payeurs-adopte-et-elargi-au-senat-en-plein-c-ur-de-la-contestation_8256748.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T06:42:50+00:00",
-      "titre": "A suivre Loïc de la Mornais : Trappes : l'hommage gâché à l'Assemblée nationale",
-      "dek": "Dans cette première partie, Loïc de la Mornais et ses invités reviennent sur les tensions à l’Assemblée nationale et les difficultés à rassembler la classe politique face à un événement grave. Une séquence à retrouver dans l’émission \"À suivre avec Loïc de la Mornais\", diffusée e…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-trappes-l-hommage-gache-a-l-assemblee-nationale_8256880.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T05:26:15+00:00",
-      "titre": "\"On attend cette discussion depuis longtemps\" : après les annonces du gouvernement, les députés doivent débattre de l'avenir de Parcoursup",
-      "dek": "Si les socialistes se réjouissent enfin de pouvoir discuter de la plateforme, les Insoumis réclament un vote et le Rassemblement national doute que le gouvernement puisse mener sa réforme à bien avant la fin du quinquennat.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/depuis-2018-on-attend-cette-discussion-apres-les-annonces-du-gouvernement-les-deputes-doivent-debattre-de-l-avenir-de-parcoursup_8256361.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Oct 2026",
-      "date_iso": "2026-10-28T04:30:08+00:00",
-      "titre": "La lente infusion de la parole haineuse et raciste, de la droite dure jusqu’au sommet de l’Etat",
-      "dek": "Plusieurs milliers de personnes se sont rassemblées, lundi, contre la banalisation de la parole décomplexée sur la sécurité et l’immigration, trois jours après l’attentat de Trappes. Pour le maire de la ville, la droite conservatrice et le camp macroniste jouent un jeu dangereux …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/28/de-la-droite-dure-au-sommet-de-l-etat-la-lente-infusion-des-mots-de-l-extreme-droite_6801528_823448.html"
     }
   ]
 }
