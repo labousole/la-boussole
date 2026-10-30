@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-30T19:48:16+00:00",
+  "generated_at": "2026-10-30T23:24:55+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Oct 2026",
+      "date_iso": "2026-10-30T23:19:08+00:00",
+      "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+      "dek": "Relevant une détérioration de la situation budgétaire et des taux d’emprunts, l’agence de notation abaisse la perspective de stable à négative. « Cette appréciation confirme l’absolue nécessité d’adopter d’ici la fin de l’année un budget responsable », a réagi vendredi le ministr…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Oct 2026",
+      "date_iso": "2026-10-30T21:05:38+00:00",
+      "titre": "A Trappes, après l’attentat raciste, un rassemblement aux airs de meeting digne et résolu",
+      "dek": "Une foule dense a répondu, ce vendredi 30 octobre, à l’appel de la commune des Yvelines, endeuillée, il y a une semaine par l’attaque planifiée qui a fait un mort et sept blessés. Un rendez-vous éminemment politique, à six mois de l’élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Oct 2026",
+      "date_iso": "2026-10-30T20:39:18+00:00",
+      "titre": "Macronie : et si c’était ça le vrai film d’horreur ? | BANGER 💥 (Yérim Sar)",
+      "dek": "Dans sa chronique pour l'Huma, Yérim Sar décrypte l'actu à coup de plume. Cette semaine, ambiance Halloween : entre flics terrifiés par des street medics, ministres cramponnés à leur siège malgré les casseroles et des médias qui fabriquent des monstres en direct. Quand la réalité…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/attentat-raciste-de-trappes/macronie-et-si-cetait-ca-le-vrai-film-dhorreur-banger-%f0%9f%92%a5-yerim-sar"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Oct 2026",
+      "date_iso": "2026-10-30T20:18:49+00:00",
+      "titre": "Rafael, mineur, frappé à Paris par « des dizaines » de policiers le 17 octobre : une enquête a été confiée à l’IGPN",
+      "dek": "Sur une vidéo devenue virale, on voit Rafael, 17 ans, vêtu de noir et d’un chapeau de paille, pris au milieu d’une charge policière place de la République. Au sol, des dizaines de policiers l’entourent et de nombreux le frappent à coups de matraque, de pied et de bouclier.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/30/rafael-mineur-frappe-a-paris-par-des-dizaines-de-policiers-le-17-octobre-une-enquete-a-ete-confiee-a-l-igpn_6803135_3224.html"
+    },
     {
       "tag": "Droite",
       "color": "#3A5A8C",
@@ -19,7 +63,7 @@
       "date": "30 Oct 2026",
       "date_iso": "2026-10-30T18:58:15+00:00",
       "titre": "Attentat raciste à Trappes : « Que faut-il de plus pour ouvrir les yeux ? », a lancé le maire Ali Rabeh lors du rassemblement en hommage aux victimes, pointant la responsabilité du RN",
-      "dek": "Plusieurs centaines de personnes se sont rassemblées vendredi à 18 heures, à Trappes. Des figures politiques, principalement de gauche, parmi lesquelles Jean-Luc Mélenchon, Raphaël Glucksmann, Olivier Faure ou Ségolène Royal, sont présentes.",
+      "dek": "Près de 12 000 personnes selon la ville de Trappes se sont rassemblées vendredi à 18 heures, dans la ville des Yvelines. Des figures politiques, principalement de gauche, parmi lesquelles Jean-Luc Mélenchon, Raphaël Glucksmann, Olivier Faure ou Ségolène Royal, sont présentes.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/10/30/attentat-raciste-a-trappes-que-faut-il-de-plus-pour-ouvrir-les-yeux-a-lance-le-maire-ali-rabeh-lors-du-rassemblement-en-hommage-aux-victimes-pointant-la-responsabilite-du-rn_6803131_3224.html"
     },
@@ -141,6 +185,17 @@
       "date_iso": "2026-10-30T17:30:04+00:00",
       "titre": "Croissance zéro, pétrole cher et taux d’emprunt record : le budget 2027 jugé de moins en moins crédible",
       "dek": "Le gouvernement tablait sur une croissance de 0,5 % en 2026 puis de 1 % en 2027. Des objectifs jugés peu réalistes par les économistes, après le recul enregistré au troisième trimestre. A la clé, un risque élevé de dérapage du déficit.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Oct 2026",
+      "date_iso": "2026-10-30T17:30:00+00:00",
+      "titre": "Croissance zéro et taux d’emprunt record : Fitch ouvre la voie à un abaissement de la note française",
+      "dek": "Le gouvernement tablait sur une croissance de 0,5 % en 2026 puis de 1 % en 2027. Des objectifs jugés peu réalistes par les économistes, après le recul enregistré au troisième trimestre. L’agence Fitch envisage d’abaisser la note de la France.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html"
     },
@@ -495,61 +550,6 @@
       "dek": "Un appel lancé sur X mardi, un site créé et plusieurs millions de blocages de comptes liés à l'extrême droite déclarés… L'initiative \"On bloque l'extrême droite\" prend une certaine ampleur en ligne et espère peser sur le scrutin présidentiel en France.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/on-bloque-l-extreme-droite-trois-questions-a-un-sociologue-de-la-participation-en-ligne-sur-cette-initiative-de-plus-en-plus-populaire-sur-les-reseaux-sociaux_8257525.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T09:39:38+00:00",
-      "titre": "Quand Attal refusait toute alliance avec Retailleau… qu’il implore désormais de participer à sa primaire",
-      "dek": "Le candidat Renaissance excluait encore récemment tout rapprochement avec son concurrent LR, estimant qu’ils ne partageaient pas les mêmes valeurs. Apparemment, tout est oublié.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/quand-attal-refusait-toute-alliance-avec-retailleau-quil-implore-desormais-de-participer-a-sa-primaire-20261030_OCGMR5PD55AX5PVSLFBLFQPDRY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T09:30:03+00:00",
-      "titre": "Budget 2027 : dans les Bouches-du-Rhône, les maires en colère menacent le gouvernement de ne pas organiser l’élection présidentielle",
-      "dek": "Excédés par les nouvelles baisses de dotation de l’Etat à leurs communes prévues dans le projet de loi de finances pour 2027, 119 élus ont écrit au premier ministre et se disent prêts à « rendre les clés » de leurs mairies.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-dans-les-bouches-du-rhone-les-maires-en-colere-menacent-le-gouvernement-de-ne-pas-organiser-l-election-presidentielle_6802990_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T09:28:47+00:00",
-      "titre": "Face à l’obstruction du RN et des macronistes sur l’accompagnement des jeunes majeurs et la hausse du Smic, LFI dénonce un « scandale » et des textes « rédigés avec ChatGPT »",
-      "dek": "Les députés RN et macronistes ont empêché, dans la nuit du jeudi&nbsp;29 au vendredi 30&nbsp;octobre, les votes dédiés à la prolongation jusqu’à 25&nbsp;ans de l’accompagnement de jeunes majeurs par l’ASE et la hausse du Smic à 1&nbsp;700&nbsp;euros. La France insoumise, dont c’é…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/aide-sociale-a-lenfance/face-a-lobstruction-du-rn-et-des-macronistes-sur-laccompagnement-des-jeunes-majeurs-et-la-hausse-du-smic-lfi-denonce-un-scandale-et-des-textes-re"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T09:12:37+00:00",
-      "titre": "Rémy Goubert, président des Jeunes avec Hollande : «Il n’est pas du tout détesté»",
-      "dek": "Ils font partie des visages montants de la politique française et demeurent pourtant méconnus du grand public. «Chez Pol» part à leur rencontre. Aujourd’hui, le président des Jeunes avec Hollande, Rémy Goubert, soutien de l’ancien président socialiste.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/remy-goubert-president-des-jeunes-avec-hollande-il-nest-pas-du-tout-deteste-20261030_VMUZ3I446NBGREYAFHZLMZNA2E/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T09:00:20+00:00",
-      "titre": "Après la manifestation du 24 octobre, l’identitaire « Gros Lardon » visé par une plainte pour des violences à Rouen",
-      "dek": "Le rassemblement dans la ville normande a été marqué par des bagarres de rue opposant des manifestants antifascistes et des militants d’ultradroite, parmi lesquels une figure locale bien connue de la mouvance identitaire.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/30/apres-la-manifestation-du-24-octobre-l-identitaire-gros-lardon-vise-par-une-plainte-pour-des-violences-a-rouen_6802923_3224.html"
     }
   ]
 }
