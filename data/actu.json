@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-10-29T20:00:29+00:00",
+  "generated_at": "2026-10-30T03:53:45+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T22:36:05+00:00",
+      "titre": "Edouard Philippe placé sous le statut de témoin assisté dans une affaire de détournement de fonds publics, son avocat salue une \"décision favorable\"",
+      "dek": "L'ancien Premier ministre, candidat à la présidentielle, a été entendu toute la journée par deux juges d'instruction financiers, qui l'avaient convoqué pour l'entendre comme témoin assisté, un statut moins incriminant qu'une mise en examen.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T22:15:38+00:00",
+      "titre": "\"Il n'y a rien à reprocher à Édouard Philippe dans cette affaire\" de soupçons de détournement de fonds publics, estime l'avocat du candidat à la présidentielle",
+      "dek": "Le candidat Horizons à la présidentielle a été interrogé jeudi par des juges financiers et placé sous le statut de témoin assisté, un statut moins incriminant qu'une mise en examen.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/il-n-y-a-rien-a-reprocher-a-edouard-philippe-dans-cette-affaire-de-soupcons-de-detournement-de-fonds-publics-estime-l-avocat-du-candidat-a-la-presidentielle_8259545.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T22:03:13+00:00",
+      "titre": "Édouard Philippe placé sous le statut de témoin assisté",
+      "dek": "L'ex Premier ministre et candidat à la présidentielle a été placé sous ce statut, jeudi 29 octobre, dans une affaire de détournement de fonds publics. Son avocat salue une \"décision favorable\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T21:05:35+00:00",
+      "titre": "Législatives en Israël : une alliance pourrait-elle faire chuter Benjamin Netanyahou ?",
+      "dek": "Qui va gouverner en Israël ? C'est la grande question qui se pose avec des élections législatives lors desquelles le parti de Benjamin Netanyahou est arrivé en tête, mais pas assez pour former un gouvernement. L'opposition songe à une alliance pour le faire tomber.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/israel/legislatives-en-israel-une-alliance-pourrait-elle-faire-chuter-benjamin-netanyahou_8259467.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T20:49:56+00:00",
+      "titre": "Présidentielle 2027 : après sa proposition d’une primaire aux contours flous, Gabriel Attal cible le « centre et la droite »",
+      "dek": "Le candidat Renaissance, qui a peu convaincu par son appel à une primaire incluant la gauche sociale-démocrate, a recentré sa proposition. Il aimerait voir d’autres personnalités mettre la pression sur Edouard Philippe qui refuse de se plier à cette idée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T20:48:58+00:00",
+      "titre": "Accusations de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté",
+      "dek": "L’ancien Premier ministre et candidat à la présidentielle a été entendu toute la journée ce jeudi 29 octobre par deux juges d’instruction financiers, dans l’affaire sur la gestion de la Cité numérique du Havre, ville dont il est maire depuis 2020.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Oct 2026",
+      "date_iso": "2026-10-29T20:10:16+00:00",
+      "titre": "L’Arcom adresse une mise en garde à Radio France à la suite de la diffusion sur France Culture d’un montage détournant des propos de Jean-Luc Mélenchon",
+      "dek": "L’extrait sonore tronqué diffusé à la fin du mois de juin laissait entendre que le chef de file de LFI avait tenu des propos antisémites. L’Arcom a appelé la radio publique à ne pas renouveler un tel « manquement aux exigences d’honnêteté et de rigueur ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -63,7 +140,7 @@
       "date": "29 Oct 2026",
       "date_iso": "2026-10-29T18:52:05+00:00",
       "titre": "Mobilisations sociales : dans un contexte tendu, la commission d’enquête sur les violences du 17 octobre démarrera avec l’audition de Laurent Nuñez",
-      "dek": "L’idée d’une commission d’enquête emportait l’adhésion de tous les députés, mais ceux du RN ont décidé de boycotter les travaux, irrités de ne pas avoir de poste de co-rapporteur.",
+      "dek": "L’idée d’une commission d’enquête emportait l’adhésion de tous les députés, mais ceux du RN ont décidé de boycotter les travaux, irrités de ne pas avoir de poste de corapporteur.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-sociales-sur-fond-de-grandes-tensions-la-commission-d-enquete-sur-les-violences-du-17-octobre-va-demarrer-la-semaine-du-2-novembre-avec-l-audition-de-laurent-nunez_6802378_823448.html"
     },
@@ -473,83 +550,6 @@
       "dek": "Après le vote négatif des sénateurs, lundi, les nationalistes ont annoncé se retirer du processus de Beauvau. Face au risque de blocage institutionnel et au réveil des tensions, le conseiller exécutif en charge de l’autonomie, Gilles Simeoni, a proposé la tenue d’un référendum.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/29/autonomie-de-la-corse-le-rejet-du-projet-de-loi-au-senat-ouvre-une-crise-politique-aigue-dans-l-ile_6802293_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Oct 2026",
-      "date_iso": "2026-10-29T08:57:54+00:00",
-      "titre": "TotalEnergies : bénéfice inédit au troisième trimestre, à 8,3 milliards de dollars ; le gouvernement appelle le groupe à répercuter la baisse des prix",
-      "dek": "Le bénéfice du géant pétrogazier a plus que doublé sur un an, porté par la flambée des cours des hydrocarbures liée aux conflits en Ukraine et au Moyen-Orient. En France, le gazole dépasse désormais 2,35 euros le litre à la pompe, alimentant la crise sociale.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/29/totalenergies-benefice-inedit-au-troisieme-trimestre-a-8-3-milliards-de-dollars-le-gouvernement-appelle-le-groupe-a-repercuter-la-baisse-des-prix_6802292_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Oct 2026",
-      "date_iso": "2026-10-29T08:13:07+00:00",
-      "titre": "\"Des propos inacceptables, particulièrement insupportables\", Manuel Bompard \"vise\" l'extrême droite avant l'hommage national aux victimes de l'attentat raciste de Trappes",
-      "dek": "Invité des \"4 Vérités\" sur France 2, Manuel Bompard, député LFI des Bouches-du-Rhône, s'est exprimé sur l'hommage national aux victimes de l'attentat terroriste de Trappes annoncé par Emmanuel Macron. Le coordinateur de La France insoumise estime \"tout le monde est invité\", mais …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/des-propos-inacceptables-particulierement-insupportables-manuel-bompard-vise-l-extreme-droite-avant-l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes_8258471.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Oct 2026",
-      "date_iso": "2026-10-29T07:08:13+00:00",
-      "titre": "Les médias pourrissent-ils la campagne présidentielle ? Posez vos questions à nos journalistes dans «Chez Pol, l’émission»",
-      "dek": "En direct sur Twitch et YouTube avec les journalistes de «Libération», on revient sur le rôle des médias dans la présidentielle.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/les-medias-pourrissent-ils-la-campagne-presidentielle-posez-vos-questions-a-nos-journalistes-dans-chez-pol-lemission-20261029_IXAEDR22AVDE3CWM7Y772S2NHU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Oct 2026",
-      "date_iso": "2026-10-29T07:04:29+00:00",
-      "titre": "Emmanuel Macron dénonce une «désinhibition du racisme» et de «l’antisémitisme», renvoyant RN et LFI dos-à-dos",
-      "dek": "Interrogé sur la chaîne Youtube HugoDécrypte mercredi 28 octobre, le chef de l’Etat s’est exprimé sur les préoccupations de la jeunesse, à commencer par l’attentat raciste dans les Yvelines qui a fait vendredi un mort et sept blessés, dont une fillette de 12 ans.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-lantisemitisme-renvoyant-rn-et-lfi-dos-a-dos-20261029_AT2AKN2LCNCUVI7ZFKR4AN3IIA/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "29 Oct 2026",
-      "date_iso": "2026-10-29T06:10:15+00:00",
-      "titre": "La vie sous terre des écoliers de Kyiv",
-      "dek": "Depuis septembre et la multiplication des attaques de drones russes contre la capitale ukrainienne, quasiment aucune journée ne se passe sans que les élèves descendent dans les abris souterrains. Face à cette vie sous cloche, enfants et adolescents cherchent des manières de s’éva…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/291026/la-vie-sous-terre-des-ecoliers-de-kyiv"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "29 Oct 2026",
-      "date_iso": "2026-10-29T05:15:00+00:00",
-      "titre": "« Il va falloir sortir les gilets pare-balles » : quand les Insoumis dictent l’ordre du jour à l’Assemblée nationale",
-      "dek": "DÉCRYPTAGE - À l’occasion de leur journée d’initiative parlementaire, les mélenchonistes veulent notamment augmenter le smic et réinterdire l’utilisation de l’acétamipride.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/il-va-falloir-sortir-les-gilets-pare-balles-quand-les-insoumis-dictent-l-ordre-du-jour-a-l-assemblee-nationale-20261029"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Oct 2026",
-      "date_iso": "2026-10-29T05:13:07+00:00",
-      "titre": "Présidentielle 2027 : une gigantesque campagne d’influence arrose la France de publicités racistes, révélant une possible ingérence",
-      "dek": "Deux chercheurs publient, jeudi 29 octobre, une nouvelle étude sur cette campagne de déstabilisation qui a débuté il y a trois ans et s’aligne sur le calendrier électoral de pays européens, dont la France. Plusieurs indices situent de manière convaincante son origine dans le sect…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/10/29/presidentielle-2027-une-gigantesque-campagne-d-influence-anti-qatar-arrose-la-france-de-publicites-racistes-revelant-une-possible-ingerence_6802088_4408996.html"
     }
   ]
 }
