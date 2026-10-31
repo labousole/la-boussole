@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-10-31T10:41:20+00:00",
+  "generated_at": "2026-10-31T18:58:44+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T17:54:37+00:00",
+      "titre": "EN DIRECT – Manifestations du 31 octobre : 320 000 personnes ont participé aux défilés selon l’Intérieur, 500 000 selon les organisateurs",
+      "dek": "Un acte III de la mobilisation sociale lancée par les lycéens, rejoints par les étudiants et les gilets jaunes, s’est déroulé ce samedi 31 octobre dans toute la France. Des affrontements avec la police ont lieu dans certaines grandes villes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/social/en-direct-manifestation-du-31-octobre-le-conseil-detat-suit-la-prefecture-les-autorites-sur-le-qui-vive-20261031_GE5NPRRSUFAHFHTTA3Q2LGEOZI/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T15:57:25+00:00",
+      "titre": "Après quatorze ans de jeux vidéo expérimentaux, Deconstructeam frappe encore un grand coup",
+      "dek": "Sorti mardi 27 octobre, «Virtue and a Sledgehammer» est le jeu vidéo le plus ambitieux du trio espagnol Deconstructeam. L’occasion de revenir sur le parcours de ce studio féru d’expérimentation et habitué des coups de massue.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/311026/apres-quatorze-ans-de-jeux-video-experimentaux-deconstructeam-frappe-encore-un-grand-coup"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T15:53:46+00:00",
+      "titre": "EN DIRECT, manifestations du 31 octobre : entre 320 000 et 500 000 personnes ont défilé dans le calme en France, des heurts en fin de cortège dans plusieurs grandes villes",
+      "dek": "Alors que la nuit tombe, la fin des rassemblements organisés par les syndicats et les mouvements de jeunesses croise les appels à manifester dans la rue à l’occasion d’Halloween. Suivez le déroulé des mobilisations avec nos journalistes sur le terrain.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-la-tete-du-cortege-est-a-la-fin-du-parcours-autorise-retrouvez-les-temoignages-par-nos-journalistes-en-france_6803391_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T15:07:28+00:00",
+      "titre": "Des tags « Remigration » découverts à Paris, Emmanuel Grégoire annonce les signaler à la justice",
+      "dek": "Les tags, dont plusieurs ont été identifiés sur les devantures de magasins de luxe rue Saint-Honoré, dans le 1ᵉʳ arrondissement de la capitale, ont été nettoyés. La municipalité a rappelé que ces inscriptions « reprennent le mot d’ordre porté par des mouvements d’extrême droite e…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/31/des-tags-remigration-decouverts-a-paris-emmanuel-gregoire-annonce-les-signaler-a-la-justice_6803712_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T15:06:44+00:00",
+      "titre": "Paris : des tags «remigration» retrouvés dans les rues de la capitale, Emmanuel Grégoire saisit la justice",
+      "dek": "L’édile parisien a annoncé déclencher l’article 40 du code de procédure pénale après avoir découvert, samedi 31 octobre, des tags en référence à ce concept porté haut par l’extrême droite radicale.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/paris-des-tags-remigration-retrouves-dans-les-rues-de-la-capitale-emmanuel-gregoire-saisit-la-justice-20261031_MZUT22YVZZGFXKSEWDBJZODFUM/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T14:14:56+00:00",
+      "titre": "Bulle de l’IA: le troisième avertissement des marchés",
+      "dek": "En deux jours, plus de 1 500 milliards de dollars de capitalisation liés à l’intelligence artificielle se sont évaporés. Au-delà de l’ampleur de la correction boursière, un signal inquiète particulièrement les investisseurs: les géants du numérique ne sont pas épargnés par cette …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/311026/bulle-de-l-ia-le-troisieme-avertissement-des-marches"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T14:10:38+00:00",
+      "titre": "Manifestations du 31 octobre : GIGN, RAID, BRI... quelles sont ces unités qui pourraient participer au maintien de l’ordre ?",
+      "dek": "Ces unités d’élite, qui regroupent policiers ou militaires, ne sont pas ou très peu formées au maintien de l’ordre et à la gestion des foules.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/videos/video/2026/10/31/manifestations-du-31-octobre-gign-raid-bri-quelles-sont-ces-unites-qui-pourraient-participer-au-maintien-de-l-ordre_6799098_1669089.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T13:02:42+00:00",
+      "titre": "Crise politique sans précédent en Pologne",
+      "dek": "Le président polonais reçoit, samedi 31 octobre, les représentants des partis de la majorité et de l'opposition pour tenter de trouver une issue à la crise politique et institutionnelle autour du Tribunal constitutionnel. L'institution est au cœur d'un bras-de-fer entre la droite…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/crise-politique-sans-precedent-en-pologne_8261837.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T12:42:38+00:00",
+      "titre": "«Voir ce que l’on voit» : sur les pillages, Edouard Philippe en perdition idéologique",
+      "dek": "En invoquant Charles Péguy pour associer les saccages des dernières semaines à l’immigration, le candidat Horizons transforme un appel à la lucidité en raccourci identitaire. Une lecture sélective qui occulte les réalités sociales et les causes multiples du désordre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/voir-ce-que-lon-voit-sur-les-pillages-edouard-philippe-en-perdition-ideologique-20261031_BU25K37GIFFWHEOET24N653CYU/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T11:19:20+00:00",
+      "titre": "Le gouvernement utilise les outils de l’antiterrorisme pour assigner à résidence des manifestants",
+      "dek": "Le ministère de l’intérieur prend des arrêtés d’assignation à résidence fondés sur les dispositions de lutte contre le terrorisme à l’encontre de militants n’ayant parfois aucun casier judiciaire. Testée le 24 octobre, cette pratique semble massive une semaine plus tard.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/311026/le-gouvernement-utilise-les-outils-de-l-antiterrorisme-pour-assigner-residence-des-manifestants"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T11:10:00+00:00",
+      "titre": "Marine Le Pen est-elle vraiment inéligible à l'élection présidentielle, comme l'affirme un magistrat honoraire de la Cour de cassation ?",
+      "dek": "Didier Guérin a assuré mardi dans \"Le Monde\" que la candidate du Rassemblement national n’était éligible ni à ce jour ni dans l’hypothèse d’une cassation de l'arrêt de la cour d'appel. Cette interprétation ne fait pas l’unanimité parmi les juristes.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-est-elle-vraiment-ineligible-a-l-election-presidentielle-comme-l-affirme-un-magistrat-honoraire-de-la-cour-de-cassation_8257378.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T10:59:00+00:00",
+      "titre": "Budget 2027 : le gouvernement joue la politique de l’autruche face au dérèglement climatique",
+      "dek": "Malgré les catastrophes climatiques à gogo, le budget pour l’année 2027 rogne les fonds alloués à la transition écologique et diminue encore les postes dans les organismes publics spécialisés dans la gestion de l’eau, la sauvegarde de la biodiversité ou le conseil aux communes.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/environnement/ademe/budget-2027-le-gouvernement-joue-la-politique-de-lautruche-face-au-dereglement-climatique"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T10:58:24+00:00",
+      "titre": "Les manifestations en direct. Entre 320 000 et 500 000 manifestants en France",
+      "dek": "Une nouvelle journée de mobilisation est organisée samedi dans toute la France, à l’appel de collectifs de Gilets jaunes, d’étudiants et de lycéens. Des cortèges placés sous haute surveillance, avec plus de 70 000 membres des forces de l’ordre déployés.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/311026/les-manifestations-en-direct-entre-320-000-et-500-000-manifestants-en-france"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -18,7 +161,7 @@
       "source": "franceinfo – Politique",
       "date": "31 Oct 2026",
       "date_iso": "2026-10-31T10:09:35+00:00",
-      "titre": "Mobilisation du 31 octobre, réponse du gouvernement aux lycéens, rassemblement à Trappes... Le \"8h30 franceinfo\" de Prisca Thévenot",
+      "titre": "Mobilisation du 31 octobre, réponse du gouvernement aux lycéens, rassemblement à Trappes... Le \"8h30 franceinfo\" de Prisca Thevenot",
       "dek": "La députée Renaissance des Hauts-de-Seine, soutien de Gabriel Attal pour 2027, était l'invitée de franceinfo samedi. Elle répondait aux questions de Camille Girerd et Benjamin Fontaine.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-31-octobre-reponse-du-gouvernement-aux-lyceens-rassemblement-a-trappes-le-8h30-franceinfo-de-prisca-thevenot_8241112.html#xtor=RSS-3-%5Bgeneral%5D"
@@ -176,6 +319,17 @@
       "dek": "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération.s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et en a blessé sept autres. L’édile était entouré de responsables de toute la gauche, …",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T04:00:29+00:00",
+      "titre": "Donatella della Porta, politiste : « Les images des manifestations de la jeunesse en France sont si fortes qu’elles influent » sur les autres foyers de contestation en Europe",
+      "dek": "Alors que la répression des manifestations de jeunes a été particulièrement sévère en France, l’universitaire italienne juge, dans un entretien au « Monde », qu’il y a là « une spécificité française ». Elle note toutefois une tendance générale, des Etats-Unis à l’Europe, vers des…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/10/31/donatella-della-porta-politiste-les-images-de-ce-qui-se-passe-en-france-sont-si-fortes-qu-elles-influent-sur-les-autres-foyers-de-contestation-en-europe_6803377_3210.html"
     },
     {
       "tag": "Politique",
@@ -396,160 +550,6 @@
       "dek": "Seize personnes étrangères ont été enfermées au centre de rétention administrative de Vincennes après les dernières manifestations. Parmi elles, Stanislas*, 18 ans, étudiant de Paris 8, interpellé en marge de la mobilisation du 24 octobre. Ses avocats mandatés par la Legal Team A…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=520314"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T17:30:04+00:00",
-      "titre": "Croissance zéro, pétrole cher et taux d’emprunt record : le budget 2027 jugé de moins en moins crédible",
-      "dek": "Le gouvernement tablait sur une croissance de 0,5 % en 2026 puis de 1 % en 2027. Des objectifs jugés peu réalistes par les économistes, après le recul enregistré au troisième trimestre. A la clé, un risque élevé de dérapage du déficit.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T17:30:00+00:00",
-      "titre": "Croissance zéro et taux d’emprunt record : Fitch ouvre la voie à un abaissement de la note française",
-      "dek": "Le gouvernement tablait sur une croissance de 0,5 % en 2026 puis de 1 % en 2027. Des objectifs jugés peu réalistes par les économistes, après le recul enregistré au troisième trimestre. L’agence Fitch envisage d’abaisser la note de la France.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/croissance-zero-petrole-cher-et-taux-d-emprunt-record-le-budget-2027-juge-de-moins-en-moins-credible_6803125_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:51:49+00:00",
-      "titre": "Bloquer des comptes en masse : la stratégie politique brésilienne qui s'invite en France, est-elle efficace ?",
-      "dek": "Sur les réseaux sociaux, de nombreux internautes appellent à bloquer des comptes liés à l'extrême droite en vue de la présidentielle. Une stratégie politique venue de la gauche brésilienne. Mais est-elle réellement efficace ? On a décidé de la décrypter pour vous.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/bloquer-des-comptes-en-masse-la-strategie-politique-bresilienne-qui-s-invite-en-france-est-elle-efficace_8260805.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:35:45+00:00",
-      "titre": "«Pas de volonté de participer à un meeting politique» : Edouard Philippe boude le rassemblement à Trappes après l’attentat raciste",
-      "dek": "Critiqué à gauche pour sa lenteur à reconnaître le caractère raciste de l’attaque de Kevin T., l’ex-Premier ministre s’est rendu ce vendredi après-midi au rendez-vous organisé à La Verrière, ville voisine de Trappes, où le tireur a également frappé vendredi 23 octobre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/attentat-raciste-edouard-philippe-present-a-un-rassemblement-a-la-verriere-mais-pas-a-trappes-20261030_AKET225HIZEGTH4L4YISXZRNJM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:30:18+00:00",
-      "titre": "Mobilisations du 24 octobre : après les violences de groupuscules d’extrême droite, le PS demande des explications au gouvernement",
-      "dek": "A Nice, à Rouen ou encore à Tours, des groupuscules violents d’extrême droite ont provoqué des affrontements avec des manifestants samedi. De nombreux internautes avaient alors dénoncé la réaction passive des forces de l’ordre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/mobilisations-du-24-octobre-apres-les-violences-de-groupuscules-d-extreme-droite-le-ps-demande-des-explications-au-gouvernement_6803118_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:30:13+00:00",
-      "titre": "Comment l’extrême droite contamine la campagne présidentielle",
-      "dek": "Les candidats à l’élection de 2027 semblent plus prompts à chercher à détruire le camp adverse qu’à répondre à la gravité du moment, marqué par les mobilisations sociales et l’attentat raciste de Trappes. Un phénomène influencé par la stratégie trumpiste venue de l’extrême droite…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/comment-l-extreme-droite-contamine-la-campagne-presidentielle_6803117_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:29:44+00:00",
-      "titre": "Le gouvernement sabre dans les programmes de rénovation énergétique des écoles",
-      "dek": "Malgré les vagues de chaleur qui se sont succédé cet été, le gouvernement vient de décider de couper dans des programmes essentiels à la rénovation énergétique du bâti public et de supprimer l’accompagnement des précaires énergétiques. Un non-sens écologique et social.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/301026/le-gouvernement-sabre-dans-les-programmes-de-renovation-energetique-des-ecoles"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:05:11+00:00",
-      "titre": "Le Rassemblement national continue de montrer son vrai visage sur l’antisémitisme",
-      "dek": "Violences envers des militants de l’Union des étudiants juifs de France, hommage du député RN Julien Odoul à un écrivain antisémite, élection de Caroline Parmentier au conseil national du parti… En une semaine, la formation dirigée par Jordan Bardella a montré sa façon toute pers…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/301026/le-rassemblement-national-continue-de-montrer-son-vrai-visage-sur-l-antisemitisme"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:04:36+00:00",
-      "titre": "Mobilisations du 31 octobre : le port d’un masque d’Halloween dans les manifestations fait encourir « une peine d’emprisonnement d’un an », menace Laurent Nuñez",
-      "dek": "Concrètement, le port du masque reste autorisé dans ce cadre festif, à condition de ne pas s’approcher d’une manifestation ou d’une scène de violences. Les autorités redoutent que les masques de déguisements soient utilisés par des manifestants violents pour se dissimuler le visa…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/mobilisations-du-31-octobre-le-port-d-un-masque-d-halloween-dans-les-manifestations-fait-encourir-une-peine-d-emprisonnement-d-un-an-menace-laurent-nunez_6803112_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T16:00:02+00:00",
-      "titre": "Après le Brésil, la France ? Comment les « insoumis » tentent de s’inspirer du « janonisme » en ligne",
-      "dek": "La réélection de Lula, dimanche 25 octobre, a déclenché chez de jeunes militants de Jean-Luc Mélenchon une euphorie inédite. Ils se disent désormais prêts à mener bataille sur les réseaux sociaux, à la manière du député brésilien André Janones.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/10/30/apres-le-bresil-la-france-comment-les-insoumis-tentent-de-s-inspirer-du-janonisme-en-ligne_6803110_4408996.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T15:54:32+00:00",
-      "titre": "Franceinfo révèle que la police a coopéré avec des militants d’extrême droite à Montpellier le 24 octobre",
-      "dek": "Une enquête publiée par Franceinfo vendredi 30&nbsp;octobre, qui s’inscrit dans la lignée de celle publiée la veille par l’Humanité, montre que la police a bel et bien coopéré avec des militants d’ultradroite à Montpellier lors de la manifestation du samedi 24&nbsp;octobre.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/enquete/franceinfo-revele-que-la-police-a-coopere-avec-des-militants-dextreme-droite-a-montpellier-le-24-octobre"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T15:48:58+00:00",
-      "titre": "Que change pour Edouard Philippe son placement sous statut de témoin assisté dans l'enquête pour détournement de fonds publics ?",
-      "dek": "Si la situation du candidat Horizons à la présidentielle peut encore évoluer au cours de l'information judiciaire, cette décision éloigne, à ce stade, la perspective de poursuites à son encontre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/que-change-pour-edouard-philippe-son-placement-sous-statut-de-temoin-assiste-dans-l-enquete-pour-detournement-de-fonds-publics_8260295.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T15:36:39+00:00",
-      "titre": "Les maires communistes demandent le retrait de David Lisnard à la présidence de l’AMF : la pression s’accentue sur le candidat à l’élection présidentielle",
-      "dek": "Quelques semaines après avoir fait l’objet d’une lettre ouverte demandant sa démission après ses propos indignent concernant le massacre des Algériens le 17&nbsp;octobre 1961, David Lisnard est de nouveau la cible d’une demande de retrait. Cette fois, les maires communistes dénon…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/amf/les-maires-communistes-demandent-le-retrait-de-david-lisnard-a-la-presidence-de-lamf-la-pression-saccentue-sur-le-candidat-a-lelection-presidentielle"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T15:16:42+00:00",
-      "titre": "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »",
-      "dek": "Les députés ont adopté plusieurs amendements de la gauche taxant les grandes entreprises, contre l’avis du gouvernement. Des mesures adoptées qui sont à relativiser, car le budget final pour l’an prochain sera largement réécrit au gré de la navette parlementaire et d’un probable …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-les-deputes-votent-de-nouvelles-taxes-sur-les-grandes-entreprises-et-adoptent-le-pacte-papin_6803105_823448.html"
     }
   ]
 }
