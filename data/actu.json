@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-31T18:58:44+00:00",
+  "generated_at": "2026-10-31T22:57:41+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T21:01:37+00:00",
+      "titre": "EN DIRECT, manifestations du 31 octobre : plusieurs centaines de milliers de personnes ont défilé contre la vie chère en France, des couvre-feux partiels prévus cette nuit dans certaines grandes villes",
+      "dek": "Les manifestations de samedi se sont « bien déroulées », a estimé Laurent Nuñez en début de soirée. Plus de 40 000 contrôles ont été menés par les forces de l’ordre samedi, et plus de 500 personnes ont été interpellées. Le ministre de l’intérieur a dénoncé la « violence inouïe » …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T20:44:54+00:00",
+      "titre": "Cinq Britanniques d’ultradroite interpellés près de Dunkerque pour des « actions d’intimidation » contre des migrants",
+      "dek": "A l’issue de leurs gardes à vue, ces militants, qui étaient notamment en possession de quatre bombes lacrymogènes, devraient être placés en rétention dans la perspective de leur expulsion du territoire français, selon la préfecture.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T20:16:17+00:00",
+      "titre": "Manifestations du 31 octobre : les mobilisations en images et en vidéos partout en France",
+      "dek": "320 000 personnes ont manifesté selon le ministère de l’intérieur, 500 000 selon les organisateurs. Les cortèges ont défilé dans le calme au cours de l’après-midi. En fin de journée, des heurts ont éclaté dans plusieurs villes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/flux-video-immersif/video/2026/10/31/manifestations-du-31-octobre-les-mobilisations-en-images-et-en-videos-partout-en-france_6803733_6717263.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T19:21:50+00:00",
+      "titre": "«Même manifester, cela devient difficile»: partout en France, des cortèges inquiets pour les libertés",
+      "dek": "Contrairement aux espoirs du gouvernement, la mobilisation n’a pas faibli pour cette troisième journée de manifestations. Les revendications contre la vie chère et pour la défense de l’éducation nationale demeurent, mais une sourde colère monte contre le pouvoir qui se barricade …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/311026/meme-manifester-cela-devient-difficile-partout-en-france-des-corteges-inquiets-pour-les-libertes"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -99,6 +143,17 @@
       "dek": "En invoquant Charles Péguy pour associer les saccages des dernières semaines à l’immigration, le candidat Horizons transforme un appel à la lucidité en raccourci identitaire. Une lecture sélective qui occulte les réalités sociales et les causes multiples du désordre.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/voir-ce-que-lon-voit-sur-les-pillages-edouard-philippe-en-perdition-ideologique-20261031_BU25K37GIFFWHEOET24N653CYU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T12:03:17+00:00",
+      "titre": "En Allemagne, des tensions ont émaillé des manifestations pacifiques rassemblant des dizaines de milliers de jeunes contre le coût de la vie et l’état des établissements scolaires",
+      "dek": "Plusieurs manifestations, majoritairement pacifiques, se sont terminées avec quelques heurts, samedi, dans les grandes villes allemandes. Malgré un nombre moindre de participants que d’inscrits, le mouvement de jeunesse a exprimé sa colère contre les élites politiques, et le manq…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/10/31/en-allemagne-des-dizaines-de-milliers-de-jeunes-attendus-dans-les-rues-samedi-pour-manifester-contre-le-cout-de-la-vie-et-l-etat-des-etablissements-scolaires_6803597_3210.html"
     },
     {
       "tag": "Gauche",
@@ -495,61 +550,6 @@
       "dek": "Bienveillance policière, ramifications politiques étonnantes, infiltrations des commerçants rouennais, figures nationales de l’extrême droite… sur la base de nouveaux éléments, notre partenaire «Le Poulpe» revient en détail sur les événements survenus dans le centre-ville de Roue…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/301026/milice-d-extreme-droite-dans-les-rues-de-rouen-retour-sur-une-journee-de-violences-aux-etranges-ramificati"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:19:40+00:00",
-      "titre": "La stagnation économique, illustration de la faillite du macronisme",
-      "dek": "Le PIB français a reculé de 0,1% au troisième trimestre, confirmant la stagnation dans laquelle la France se trouve désormais. L’échec de la politique économique du président de la République est complet.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/301026/la-stagnation-economique-illustration-de-la-faillite-du-macronisme"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:17:54+00:00",
-      "titre": "La coopération entre la Guyane et le Brésil reste fragile malgré la victoire de Lula",
-      "dek": "La victoire de Lula à l’élection présidentielle a éloigné le spectre du bolsonarisme au niveau national. Mais la dynamique de coopération entre la Guyane et les États du nord du Brésil reste menacée par la montée de l’extrême droite brésilienne aux élections locales.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/301026/la-cooperation-entre-la-guyane-et-le-bresil-reste-fragile-malgre-la-victoire-de-lula"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:17:06+00:00",
-      "titre": "Livre : François Ruffin, eh oh, eh oh, le chantre du «boulot»",
-      "dek": "Travail, écologie, démographie… Dans un livre à paraître mercredi, François Ruffin, en peine dans la course à l’Elysée, expose ses «chantiers» prioritaires pour 2027 et convoque, comme il en a l’habitude, la parole de gens ordinaires.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/francois-ruffin-eh-oh-eh-oh-le-chantre-du-boulot-20261030_JLHT3SGIVFAM3JPAANIGYE7DNA/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:12:04+00:00",
-      "titre": "À Gaza, personne n’a veillé pour le résultat des élections en Israël",
-      "dek": "La famille de Nour Elassy, déplacée à Deir al-Balah, dans la bande de Gaza, après trois ans d’un génocide en cours, n’attend rien des résultats désormais définitifs des élections en Israël. Leur sort en dépend, mais leur voix ne compte pas, écrit la chroniqueuse réfugiée en Franc…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/301026/gaza-personne-n-veille-pour-le-resultat-des-elections-en-israel"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T17:36:00+00:00",
-      "titre": "Un étudiant enfermé au CRA de Vincennes après son interpellation en marge d’une manifestation",
-      "dek": "Seize personnes étrangères ont été enfermées au centre de rétention administrative de Vincennes après les dernières manifestations. Parmi elles, Stanislas*, 18 ans, étudiant de Paris 8, interpellé en marge de la mobilisation du 24 octobre. Ses avocats mandatés par la Legal Team A…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=520314"
     }
   ]
 }
