@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-01T19:18:19+00:00",
+  "generated_at": "2026-11-01T23:16:34+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T22:16:52+00:00",
+      "titre": "Semaine à hauts risques pour le gouvernement",
+      "dek": "Après trois semaines de mobilisation, les manifestations pourraient reprendre de l'ampleur dès lundi 2 novembre en raison de la rentrée scolaire. En face, le gouvernement planche sur de potentielles sorties de crise.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/greve/semaine-a-hauts-risques-pour-le-gouvernement_8263184.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T20:24:01+00:00",
+      "titre": "Edouard Philippe dit (encore) non à une primaire de la droite et du centre",
+      "dek": "Le candidat Horizons a de nouveau fermé la porte à cette éventualité sur le plateau du 20 heures de TF1, ce dimanche 1er novembre. De nombreuses voix au sein du bloc central et de la droite, dont celle de son concurrent Gabriel Attal, plaident pourtant en faveur du scrutin.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/edouard-philippe-dit-encore-non-a-une-primaire-de-la-droite-et-du-centre-20261101_7GXIKX5P3ZGXRGN74DOPZ6KKGM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T20:04:44+00:00",
+      "titre": "Edouard Philippe juge la primaire à droite et au centre synonyme de « division » et de « confusion »",
+      "dek": "Le maire du Havre a estimé, dimanche, au journal de 20 heures de TF1, que la primaire envisagée à droite et au centre en vue de la présidentielle de 2027 « n’aura[it] pas lieu » et « n’a pas beaucoup de sens ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/01/edouard-philippe-juge-la-primaire-a-droite-et-au-centre-synonyme-de-division-et-de-confusion_6804637_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T19:47:51+00:00",
+      "titre": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
+      "dek": "Celle-ci rassemblerait des \"gens qui ne sont pas d'accord\", a argué le maire du Havre (Seine-Maritime) dimanche soir sur TF1.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Droite",
       "color": "#3A5A8C",
@@ -41,7 +85,7 @@
       "date": "01 Nov 2026",
       "date_iso": "2026-11-01T17:56:39+00:00",
       "titre": "Mouvement lycéen : les incertitudes de la rentrée scolaire alors que la jeunesse mobilisée veut « maintenir la pression »",
-      "dek": "Malgré les engagements pris par le le gouvernement, les organisations lycéennes et étudiantes ont appelé à bloquer les établissements à partir de lundi, ou de mardi. Mais, alors que la pression du baccalauréat et de Parcoursup grandit, une partie des élèves s’interroge.",
+      "dek": "Malgré les engagements pris par le gouvernement, les organisations lycéennes et étudiantes ont appelé à bloquer les établissements à partir de lundi, ou de mardi. Mais, alors que la pression du baccalauréat et de Parcoursup grandit, une partie des élèves s’interroge.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html"
     },
@@ -506,50 +550,6 @@
       "dek": "Une nouvelle journée de mobilisation est organisée samedi dans toute la France, à l’appel de collectifs de Gilets jaunes, d’étudiants et de lycéens. Des cortèges placés sous haute surveillance, avec plus de 70 000 membres des forces de l’ordre déployés.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/311026/les-manifestations-en-direct-entre-320-000-et-500-000-manifestants-en-france"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T10:35:38+00:00",
-      "titre": "Ahmed Benmezroua, grièvement blessé par une grenade le 17 octobre: «L’utilisation de ces armes doit être abolie»",
-      "dek": "Le jeune photographe indépendant de 25 ans participait à sa première manifestation le 17 octobre. Son artère fémorale a été sectionnée par une grenade place de la République. Après avoir frôlé la mort, il est sorti des soins intensifs il y a quelques jours. Il témoigne pour que s…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/311026/ahmed-benmezroua-grievement-blesse-par-une-grenade-le-17-octobre-l-utilisation-de-ces-armes-doit-etre-abol"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T10:09:35+00:00",
-      "titre": "Mobilisation du 31 octobre, réponse du gouvernement aux lycéens, rassemblement à Trappes... Le \"8h30 franceinfo\" de Prisca Thevenot",
-      "dek": "La députée Renaissance des Hauts-de-Seine, soutien de Gabriel Attal pour 2027, était l'invitée de franceinfo samedi. Elle répondait aux questions de Camille Girerd et Benjamin Fontaine.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-31-octobre-reponse-du-gouvernement-aux-lyceens-rassemblement-a-trappes-le-8h30-franceinfo-de-prisca-thevenot_8241112.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T10:00:16+00:00",
-      "titre": "Mobilisations sociales : Emmanuel Macron et Sébastien Lecornu cherchent des leviers face à la sédimentation des colères",
-      "dek": "A l’aube d’une nouvelle journée de contestation, samedi 31 octobre, l’exécutif redoute une explosion de violence dans l’espace public, alors qu’il ne dispose d’aucune marge de manœuvre pour faire autorité ou même se rendre audible.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisations-sociales-macron-et-lecornu-cherchent-des-leviers-face-a-la-sedimentation-des-coleres_6803494_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T09:41:54+00:00",
-      "titre": "«Ouvrez les yeux!»: à Trappes, une foule compacte est venue faire corps contre le racisme",
-      "dek": "Dans une ambiance calme et grave, plusieurs milliers de personnes se sont retrouvées vendredi soir au rassemblement organisé par la mairie de Trappes, une semaine après l’attentat raciste perpétré par Kevin Tessier, qui a blessé plusieurs personnes et tué un habitant noir, Pengo …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/311026/ouvrez-les-yeux-trappes-une-foule-compacte-est-venue-faire-corps-contre-le-racisme"
     }
   ]
 }
