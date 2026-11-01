@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-11-01T11:36:29+00:00",
+  "generated_at": "2026-11-01T19:18:19+00:00",
   "articles": [
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T18:35:30+00:00",
+      "titre": "« Ça a tourné au vinaigre très tôt » : deux semaines après, Emmanuel Grégoire raconte son 17 octobre",
+      "dek": "Invité dimanche du « Grand Oral BFMTV-Le Figaro », le maire socialiste de Paris a mis en cause la stratégie de maintien de l’ordre.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/ca-a-tourne-au-vinaigre-tres-tot-deux-semaines-apres-emmanuel-gregoire-raconte-son-17-octobre-20261101"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T18:17:00+00:00",
+      "titre": "« Ils ont essayé de nous diviser, ça ne marche pas » : les lycéens et étudiants préparent leur rentrée sociale",
+      "dek": "Présents en masse dans les cortèges du samedi 31&nbsp;octobre, les lycéens et étudiants comptent faire repartir leur mouvement social de plus belle, sûrs que leur pression contraindra l’exécutif à mieux satisfaire leurs revendications.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/budget-2027/ils-ont-essaye-de-nous-diviser-ca-ne-marche-pas-les-lyceens-et-etudiants-preparent-leur-rentree-sociale"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T18:09:26+00:00",
+      "titre": "Mouvement des lycéens : \"Un blocage, c'est illégal\", rappelle Jean-Michel Blanquer après un nouvel appel à la mobilisation cette semaine",
+      "dek": "Jean-Michel Blanquer était l'invité du Grand Enjeu sur franceinfo ce dimanche 1er novembre. L'ancien ministre de l'Éducation nationale est revenu sur la mobilisation lycéenne et l'appel à bloquer les lycées dès lundi. Il a aussi évoqué le sort de Parcoursup qu'il avait mis en pla…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/mouvement-des-lyceens-un-blocage-c-est-illegal-rappelle-jean-michel-blanquer-apres-un-nouvel-appel-a-la-mobilisation-cette-semaine_8263067.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T17:56:39+00:00",
+      "titre": "Mouvement lycéen : les incertitudes de la rentrée scolaire alors que la jeunesse mobilisée veut « maintenir la pression »",
+      "dek": "Malgré les engagements pris par le le gouvernement, les organisations lycéennes et étudiantes ont appelé à bloquer les établissements à partir de lundi, ou de mardi. Mais, alors que la pression du baccalauréat et de Parcoursup grandit, une partie des élèves s’interroge.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/01/mouvement-lyceen-les-incertitudes-de-la-rentree-scolaire-alors-que-la-jeunesse-mobilisee-veut-maintenir-la-pression_6804533_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T17:52:27+00:00",
+      "titre": "31 octobre : comment les autorités ont détourné des outils antiterroristes pour assigner des militants à domicile",
+      "dek": "Des assignations à résidence ont été prononcées par les autorités pour empêcher certains militants présumés de manifester samedi 31&nbsp;octobre, une mesure généralement réservée à des cas extrêmes. Ce dimanche 1er&nbsp;novembre, des avocats et ONG dénoncent «&nbsp;une assimilati…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/laurent-nunez/31-octobre-comment-les-autorites-ont-detourne-des-outils-antiterroristes-pour-assigner-des-militants-a-domicile"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T17:37:47+00:00",
+      "titre": "Une semaine sous le signe de la haine raciste en France",
+      "dek": "Plusieurs faits à caractère raciste et islamophobe ont marqué l’actualité des derniers jours. De l’attentat des Yvelines aux menaces visant une mosquée dans l’Hérault, en passant par un courrier haineux adressé au maire de Trappes ou des tags «remigration» à Paris, les pressions …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/011126/une-semaine-sous-le-signe-de-la-haine-raciste-en-france"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T16:59:54+00:00",
+      "titre": "À Lyon, les liaisons dangereuses des ultras de l’OL avec l’extrême droite",
+      "dek": "Dans les tribunes du stade de Décines, une minorité active attise la haine et les violences sans que l’Olympique lyonnais ne fasse preuve d’une volonté forte pour endiguer le phénomène. La conséquence de plusieurs décennies de porosité entre les groupes de supporteurs et l’extrêm…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/011126/lyon-les-liaisons-dangereuses-des-ultras-de-l-ol-avec-l-extreme-droite"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T16:58:02+00:00",
+      "titre": "Midterms: une campagne républicaine alimentée par l’islamophobie",
+      "dek": "Les dirigeants républicains, Donald Trump en tête, multiplient les attaques islamophobes pendant la campagne pour les élections de mi-mandat. C’est au Texas que cette offensive visant la communauté musulmane a débuté il y a plus d’un an.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/011126/midterms-une-campagne-republicaine-alimentee-par-l-islamophobie"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T16:55:40+00:00",
+      "titre": "Lina Attalah, journaliste ciblée par le pouvoir égyptien: «Nous allons continuer à faire notre travail»",
+      "dek": "Cent trente organisations de défense des droits humains et de la liberté d’informer dénoncent le harcèlement judiciaire contre «Mada Masr», un média indépendant que le pouvoir égyptien veut fermer. Sa rédactrice en cheffe, Lina Atallah, sous la menace d’une possible peine d’un an…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/311026/dimanche-attente-validation-citations-lina-attalah-journaliste-ciblee-par-le-pouvoir-egyptien-nous"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T16:00:22+00:00",
+      "titre": "De l’archive au théâtre, quand l’administration française se confronte à son passé antisémite",
+      "dek": "Depuis 2021, une pièce de théâtre immersive restitue le verbatim d’une réunion interministérielle de 1940 consacrée à l’application de la loi prise par le régime de Vichy pour exclure les juifs de la fonction publique. Une rencontre du théâtre et de l’histoire pour aider la haute…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/01/de-l-archive-au-theatre-quand-l-administration-francaise-se-confronte-a-son-passe-antisemite_6804517_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T14:00:08+00:00",
+      "titre": "Présidentielle 2027 : Rémy Goubert, fondateur des Jeunes avec Hollande, veut se « tenir prêt » à un retour",
+      "dek": "L’étudiant en droit, originaire du Cantal, voue, depuis son enfance, une admiration profonde à l’ancien président socialiste. Alors que François Hollande se tient toujours en embuscade, le jeune homme a créé, en mai, un collectif de soutien afin d’« être utile, s’il faut l’être »…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/01/presidentielle-2027-remy-goubert-fondateur-des-jeunes-avec-hollande-veut-se-tenir-pret-a-un-retour_6804375_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T13:48:30+00:00",
+      "titre": "Après le 31 octobre, le mouvement est plus que jamais debout",
+      "dek": "Il eût été commode de croire que le peuple pouvait donc manifester à condition de ne déranger personne. Exprimer sa colère, mais loin des centres-villes, des lieux de pouvoir et des symboles. Crier sa souffrance, mais à voix basse, sur des itinéraires balisés par ceux qui refusen…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/convergence-des-luttes/apres-le-31-octobre-le-mouvement-est-plus-que-jamais-debout"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T13:00:10+00:00",
+      "titre": "Le mensonge en politique: dernière conversation avec Gaël Perdriau avant la prison",
+      "dek": "«Mediapart» a longuement rencontré Gaël Perdriau avant son incarcération début septembre. Comme Jérôme Cahuzac hier ou Jordan Bardella aujourd’hui, l’ancien maire de Saint-Étienne a choisi de nier jusqu’à l’évidence pour essayer de se sortir de l’affaire du «chantage à la sextape…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/011126/le-mensonge-en-politique-derniere-conversation-avec-gael-perdriau-avant-la-prison"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T13:00:00+00:00",
+      "titre": "Le RN et la banlieue, une histoire tourmentée, de la séduction à la stigmatisation",
+      "dek": "Depuis les violences du 17 octobre, le parti, qui travaille sur un «plan banlieue», agite la menace de «territoires perdus». C’est pourtant dans ces quartiers populaires, où il enregistre aujourd’hui de faibles scores, que le FN avait fait ses premières percées dans les années 80…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/le-rn-et-la-banlieue-une-histoire-tourmentee-de-la-seduction-a-la-stigmatisation-20261101_24EUDNM4SJBW7PJDVNTFGDDWJU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T12:42:41+00:00",
+      "titre": "«CNews n’est pas une chaîne d’information» : une pétition réclamant la suppression du média d’extrême droite cartonne sur le site de l’Assemblée",
+      "dek": "Après avoir vivoté pendant des semaines, le texte a bénéficié d’une soudaine accélération à la fin du mois d’octobre, concomitamment à l’attentat raciste de Trappes, pour dépasser la barre des 400 000 signatures, plus très loin des 500 000 nécessaires pour s’imposer en sujet de d…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/medias/cnews-nest-pas-une-chaine-dinformation-une-petition-reclamant-la-suppression-du-media-dextreme-droite-cartonne-sur-le-site-de-lassemblee-20261101_TMYHVXPZ75H6BM5G6OSMBX2HUM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T12:41:57+00:00",
+      "titre": "«Ils ont agi en toute impunité» : à Lyon, des habitants sidérés après un rassemblement d’ultra-droite",
+      "dek": "Une cinquantaine de militants encagoulés, membres d’un groupuscule néofasciste, se sont rassemblés, vendredi soir, devant la mairie du VIIIe arrondissement. Un choc pour les résidents de ce quartier, qui n’avait jusqu’alors connu aucune action de ce type.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/ils-ont-agi-en-toute-impunite-a-lyon-des-habitants-sideres-apres-un-rassemblement-dultra-droite-20261101_N7KDEM74HRGFBOE7TQI6SEA7DM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T12:12:27+00:00",
+      "titre": "Manifestations du 31 octobre : revivez la journée de mobilisation en France contre la vie chère",
+      "dek": "Entre 320 000 et 500 000 personnes ont défilé dans les grandes villes de France samedi. En fin d’après-midi, des tensions ont parfois eu lieu lors des dispersions. Trois organisations lycéennes et étudiantes ont lancé des appels au blocus de leurs établissements pour le début de …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/live/2026/11/01/en-direct-manifestations-en-france-enquete-ouverte-apres-le-jet-d-un-cocktail-molotov-sur-des-gendarmes-a-paris-appel-au-blocus-lance-par-trois-organisations-lyceennes-et-etudiantes_6803391_3224.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T11:59:26+00:00",
+      "titre": "Il y a 50 ans, la famille de Jean-Marie Le Pen échappait «par miracle» à l’attentat de la villa Poirier, «élément majeur» de la construction de sa fille Marine",
+      "dek": "RÉCIT - Dans la nuit du 1er au 2 novembre 1976, une bombe souffle l’appartement du fondateur du Front national, sans faire de victime. Le clan a longtemps soutenu qu’il s’agissait d’une attaque politique, thèse remise en cause ces dernières années.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/il-y-a-50-ans-la-famille-de-jean-marie-le-pen-echappait-par-miracle-a-l-attentat-de-la-villa-poirier-element-majeur-de-la-construction-de-sa-fille-marine-20261101"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -66,17 +264,6 @@
       "dek": "La présidente sortante Iliana Iotova, 62 ans, qui plaide pour le dialogue avec Moscou afin de mettre fin à la guerre en Ukraine, affronte Andreï Guiourov, 50 ans, ancien premier ministre intérimaire soutenu par l’opposition pro-occidentale.",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "01 Nov 2026",
-      "date_iso": "2026-11-01T06:00:00+00:00",
-      "titre": "Il y a 50 ans, la famille de Jean-Marie Le Pen échappait «par miracle» à l’attentat de la villa Poirier, «élément majeur» de la construction de sa fille Marine",
-      "dek": "RÉCIT - Dans la nuit du 1er au 2 novembre 1976, une bombe souffle l’appartement du fondateur du Front national, sans faire de victime. Le clan a longtemps soutenu qu’il s’agissait d’une attaque politique, thèse remise en cause ces dernières années.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/il-y-a-50-ans-la-famille-de-jean-marie-le-pen-echappait-par-miracle-a-l-attentat-de-la-villa-poirier-element-majeur-de-la-construction-de-sa-fille-marine-20261101"
     },
     {
       "tag": "Politique",
@@ -154,6 +341,17 @@
       "dek": "Contrairement aux espoirs du gouvernement, la mobilisation n’a pas faibli pour cette troisième journée de manifestations. Les revendications contre la vie chère et pour la défense de l’éducation nationale demeurent, mais une sourde colère monte contre le pouvoir, qui se barricade…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/311026/meme-manifester-cela-devient-difficile-partout-en-france-des-corteges-inquiets-pour-les-libertes"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T18:31:53+00:00",
+      "titre": "« De l’argent pour les systèmes sociaux plutôt que pour la guerre » : dans une trentaine de villes allemandes, des manifestants hostiles au service militaire",
+      "dek": "De Cologne à Berlin en passant par Hambourg, les rassemblements de jeunes se sont déroulés pour l’essentiel sans débordement. A Francfort toutefois, des affrontements ont eu lieu, immédiatement attribués à « l’extrême gauche » et aux « migrants » par l’exécutif.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html"
     },
     {
       "tag": "Politique",
@@ -352,204 +550,6 @@
       "dek": "Dans une ambiance calme et grave, plusieurs milliers de personnes se sont retrouvées vendredi soir au rassemblement organisé par la mairie de Trappes, une semaine après l’attentat raciste perpétré par Kevin Tessier, qui a blessé plusieurs personnes et tué un habitant noir, Pengo …",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/311026/ouvrez-les-yeux-trappes-une-foule-compacte-est-venue-faire-corps-contre-le-racisme"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T09:14:04+00:00",
-      "titre": "L’Italie, théâtre de la convergence des luttes lors d’une journée de manifestations très suivies",
-      "dek": "Une grève générale a eu lieu vendredi 30 octobre, à l’appel de l’Union syndicale de base pour en particulier dénoncer le coût de la vie et les problèmes de logement.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T08:00:00+00:00",
-      "titre": "« Violences urbaines », « manœuvre de LFI », « ultragauche séditieuse »… Quand les mensonges de l’État mènent à une dérive policière et sécuritaire",
-      "dek": "«&nbsp;Violences urbaines&nbsp;», «&nbsp;manœuvre de LFI&nbsp;», «&nbsp;ultragauche séditieuse&nbsp;»… Pour justifier sa réponse sécuritaire au mouvement social, l’exécutif a bâti un récit basé sur des mensonges. Entre couvre-feux, mutilations et effectifs sans formation spécifiq…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/emmanuel-macron/violences-urbaines-manoeuvre-de-lfi-ultragauche-seditieuse-quand-les-mensonges-de-letat-menent-a-une-derive"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T07:57:39+00:00",
-      "titre": "Ingérences étrangères : la France victime d’une “gigantesque” campagne d’influence",
-      "dek": "En vue de l’élection présidentielle de 2027, la France devient une cible à l’étranger. Des tentatives numériques de déstabilisation ont débuté depuis quelques années afin de faire pencher l’opinion publique, comme le démontre une étude publiée par le journal Le Monde.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ingerences-etrangeres-la-france-victime-d-une-gigantesque-campagne-d-influence_8261558.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T06:58:58+00:00",
-      "titre": "La candidature de David Lisnard pour 2027, \"une épine dans le pied\" de Bruno Retailleau",
-      "dek": "Dans les sondages pour la présidentielle de 2027, il y a comme un frémissement autour de David Lisnard, maire LR de Cannes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T06:00:14+00:00",
-      "titre": "Derrière la coordination nationale des « gilets jaunes », des militants aguerris qui cherchent à fédérer les colères",
-      "dek": "Profitant des mobilisations d’octobre, la coordination nationale des « gilets jaunes » tente de structurer la contestation. Mais la place prise par certains porte-parole, ancrés à gauche, interroge les figures historiques d’un mouvement né sans leader et sans orientation politiqu…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/31/derriere-la-coordination-nationale-des-gilets-jaunes-des-militants-aguerris-qui-cherchent-a-federer-les-coleres_6803466_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T05:00:09+00:00",
-      "titre": "EN DIRECT, manifestations du 31 octobre : en France, plus de 150 défilés prévus pour défendre le pouvoir d’achat ; 70 000 policiers et gendarmes mobilisés",
-      "dek": "Dans une décision rendue tôt samedi matin, le Conseil d’Etat a donné raison au préfet de police de Paris et au gouvernement en validant le parcours de porte de Charenton à porte de Bagnolet, et en rejetant celui défendu par les syndicats entre Bastille et Nation.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plus-d-une-centaine-de-defiles-prevus-pour-cette-nouvelle-journee-de-mobilisation-quelque-70-000-policiers-deployes_6803391_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T05:00:01+00:00",
-      "titre": "Patrick Boucheron : «Notre situation historique n’est pas pré-révolutionnaire, mais pré-autoritaire»",
-      "dek": "A six mois d’une élection présidentielle où l’extrême droite est donnée favorite, le professeur au Collège de France analyse pour «Libération» en quoi le mouvement lycéen et social et le 17 octobre percutent la campagne et constituent une séquence inédite dans l’histoire récente …",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/patrick-boucheron-notre-situation-historique-nest-pas-pre-revolutionnaire-mais-pre-autoritaire-20261031_NQPU366UOZF7BIP3HOG7D4EQYA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:30:31+00:00",
-      "titre": "A Madagascar, des fouilles archéologiques font parler les trésors des pirates de l’océan Indien",
-      "dek": "Pièces d’or, porcelaines précieuses, comptoir de contrebande et traces de traite négrière : ces trouvailles révèlent l’envers de la piraterie au tournant du XVIIIᵉ siècle, entre pillages et contrebande, mais aussi échanges commerciaux et métissages.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/sciences/article/2026/10/31/a-madagascar-des-fouilles-archeologiques-font-parler-les-tresors-des-pirates-de-l-ocean-indien_6803387_1650684.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:30:23+00:00",
-      "titre": "Isabelle Sommier, sociologue : « L’heure devrait être à l’apaisement plutôt qu’à l’attisement des haines entre les radicaux de tout bord »",
-      "dek": "Alors que le gouvernement rejette la responsabilité des troubles du 17 octobre sur l’ultragauche, la sociologue, spécialiste des violences politiques, explique, dans un entretien au « Monde », que cette seule mouvance ne peut être à l’origine de la généralisation des violences co…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/10/31/isabelle-sommier-sociologue-l-heure-devrait-etre-a-l-apaisement-plutot-qu-a-l-attisement-des-haines-entre-les-radicaux-de-tout-bord_6803385_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:30:04+00:00",
-      "titre": "Mobilisations sociales : les tutoriels destinés aux manifestants se réinventent pour la « gen Z »",
-      "dek": "C’est l’un des formats en vogue dans les sphères militantes : les conseils et les rappels des droits avant de participer à des manifestations. Sur TikTok et Instagram, le mouvement lycéen les a renouvelés ces dernières semaines.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/10/31/mobilisations-sociales-les-tutoriels-destines-aux-manifestants-se-reinventent-pour-la-gen-z_6803381_4408996.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:15:01+00:00",
-      "titre": "S’engager ou non ? A l’approche de l’élection présidentielle 2027, artistes et intellectuels s’interrogent",
-      "dek": "Peur du faux pas, d’une phrase tronquée qui serait diffusée en boucle sur les réseaux sociaux et de l’acharnement numérique, ou tout simplement échaudées par un engagement antérieur, les personnalités sont moins disposées à se lancer.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/culture/article/2026/10/31/s-engager-ou-non-a-l-approche-de-l-election-presidentielle-2027-artistes-et-intellectuels-s-interrogent_6803380_3246.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:00:40+00:00",
-      "titre": "A Trappes, l’« espoir d’un réveil » des Français, alors que l’arrivée de l’extrême droite au pouvoir est dans toutes les têtes",
-      "dek": "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération.s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et en a blessé sept autres. L’édile était entouré de responsables de toute la gauche, …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:00:29+00:00",
-      "titre": "Donatella della Porta, politiste : « Les images des manifestations de la jeunesse en France sont si fortes qu’elles influent » sur les autres foyers de contestation en Europe",
-      "dek": "Alors que la répression des manifestations de jeunes a été particulièrement sévère en France, l’universitaire italienne juge, dans un entretien au « Monde », qu’il y a là « une spécificité française ». Elle note toutefois une tendance générale, des Etats-Unis à l’Europe, vers des…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/10/31/donatella-della-porta-politiste-les-images-de-ce-qui-se-passe-en-france-sont-si-fortes-qu-elles-influent-sur-les-autres-foyers-de-contestation-en-europe_6803377_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:00:29+00:00",
-      "titre": "Donatella della Porta, politiste : « Les images de ce qui se passe en France sont si fortes qu’elles influent » sur les autres foyers de contestation en Europe",
-      "dek": "Alors que la répression des manifestations de jeunes a été particulièrement sévère en France, l’universitaire italienne juge, dans un entretien au « Monde », qu’il y a là « une spécificité française ». Elle note toutefois une tendance générale, des Etats-Unis à l’Europe, vers des…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/10/31/donatella-della-porta-politiste-les-images-de-ce-qui-se-passe-en-france-sont-si-fortes-qu-elles-influent-sur-les-autres-foyers-de-contestation-en-europe_6803377_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:00:19+00:00",
-      "titre": "Dans les quartiers populaires, des jeunes de la « génération 2000 » se mobilisent : « A nous d’établir un nouveau rapport de force ! »",
-      "dek": "Ils ont une vingtaine d’années, habitent en banlieue parisienne, et manifestent. Le mouvement lycéen, qui connaît une nouvelle journée d’action, samedi 31 octobre, donne un écho aux revendications d’une jeunesse qui se « conscientise » sur les réseaux sociaux.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/31/a-nous-d-etablir-un-nouveau-rapport-de-force-dans-les-quartiers-populaires-des-jeunes-de-la-generation-2000-se-mobilisent_6803374_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T04:00:07+00:00",
-      "titre": "Présidentielle 2027 : une campagne sous le signe de la colère",
-      "dek": "Dans ce nouveau podcast, « L’Heure de la présidentielle », deux chefs du service politique du « Monde », Christine Rousseau et Matthieu Goar, analysent la précampagne, où plusieurs candidats tentent de tirer profit de la colère de la rue.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/podcasts/article/2026/10/31/presidentielle-2027-une-campagne-sous-le-signe-de-la-colere_6803370_5463015.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Oct 2026",
-      "date_iso": "2026-10-31T03:45:06+00:00",
-      "titre": "Mobilisations sociales : six semaines d’un mouvement aussi actif sur les réseaux sociaux que dans la rue",
-      "dek": "L’ampleur de la mobilisation en ligne semble avoir initialement échappé au gouvernement, qui menace désormais les réseaux sociaux d’une suspension temporaire en cas de nouvelles violences. Le projet de loi dit « casseurs-payeurs », adopté en milieu de semaine, va dans ce sens.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/10/31/mobilisation-sociale-six-semaines-d-un-mouvement-aussi-actif-sur-les-reseaux-sociaux-que-dans-la-rue_6803368_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T23:19:06+00:00",
-      "titre": "L’agence Fitch maintient la note de la dette souveraine de la France, mais dégrade sa perspective",
-      "dek": "Relevant une détérioration de la situation budgétaire et des taux d’emprunt, l’agence de notation abaisse la perspective, de stable à négative. « Cette appréciation confirme l’absolue nécessité d’adopter d’ici à la fin de l’année un budget responsable », a réagi vendredi le minis…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html"
     }
   ]
 }
