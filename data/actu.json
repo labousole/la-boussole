@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-01T03:43:21+00:00",
+  "generated_at": "2026-11-01T11:36:29+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T10:42:48+00:00",
+      "titre": "Au lendemain de la mobilisation du 31 octobre, Emmanuel Macron considère que \"le débat électoral et les urnes doivent prendre le pas sur la démocratie sociale et la rue\"",
+      "dek": "Après un acte III de manifestations lycéennes et contre la vie chère, le président de la République estime que les réponses aux revendications doivent être apportées à \"court terme\" par le gouvernement et à \"moyen terme\" dans le cadre de l'élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/manifestations/au-lendemain-de-la-mobilisation-du-31-octobre-emmanuel-macron-considere-que-le-debat-electoral-et-les-urnes-doivent-prendre-le-pas-sur-la-democratie-sociale-et-la-rue_8262659.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T09:47:07+00:00",
+      "titre": "Crise sociale, mouvement des lycéens, budget 2027... Le \"8h30 franceinfo\" de Philippe Juvin",
+      "dek": "Le député LR des Hauts-de-Seine, rapporteur général du budget, était l'invité de franceinfo dimanche. Il répondait aux questions de Camille Girerd et Benjamin Fontaine.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crise-sociale-mouvement-des-lyceens-budget-2027-le-8h30-franceinfo-de-philippe-juvin_8221660.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T09:34:04+00:00",
+      "titre": "\"Le budget sera refusé par le Parlement\", prévoit Philippe Juvin, rapporteur général du projet de loi de finances, qui plaide pour un recours au 49.3",
+      "dek": "Le député Les Républicains des Hauts-de-Seine plaide pour une baisse des dépenses d'environ 10% pour le budget 2027.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/le-budget-sera-refuse-par-le-parlement-prevoit-philippe-juvin-rapporteur-general-du-projet-de-loi-de-finances-qui-plaide-pour-un-recours-au-49-3_8262554.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T09:01:08+00:00",
+      "titre": "Entre 1936 et 2026, des résonances artistiques contre la guerre et les fascismes",
+      "dek": "Une exposition fait actuellement dialoguer les années 1936 et 2026, au siège du Parti communiste français. Affiches, tableaux, sculptures et gravures montrent que la menace guerrière et fasciste n’a jamais pu effacer la résistance, par l’art ou la manifestation. Des thèmes qui ré…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/011126/entre-1936-et-2026-des-resonances-artistiques-contre-la-guerre-et-les-fascismes"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T09:00:52+00:00",
+      "titre": "Comment la Chine se nourrit des terres rares birmanes",
+      "dek": "Dopée par la guerre civile et la demande mondiale, l’exploitation incontrôlée des terres rares ravage les écosystèmes birmans et enrichit des acteurs armés, au mépris des populations. Les pluies diluviennes qui s’abattent depuis fin septembre contribuent à propager des eaux toxiq…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/011126/comment-la-chine-se-nourrit-des-terres-rares-birmanes"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T08:42:19+00:00",
+      "titre": "En Bulgarie, le second tour de l’élection présidentielle est ouvert, duel serré en vue sur fond de tensions avec la Russie",
+      "dek": "La présidente sortante Iliana Iotova, 62 ans, qui plaide pour le dialogue avec Moscou afin de mettre fin à la guerre en Ukraine, affronte Andreï Guiourov, 50 ans, ancien premier ministre intérimaire soutenu par l’opposition pro-occidentale.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T06:00:00+00:00",
+      "titre": "Il y a 50 ans, la famille de Jean-Marie Le Pen échappait «par miracle» à l’attentat de la villa Poirier, «élément majeur» de la construction de sa fille Marine",
+      "dek": "RÉCIT - Dans la nuit du 1er au 2 novembre 1976, une bombe souffle l’appartement du fondateur du Front national, sans faire de victime. Le clan a longtemps soutenu qu’il s’agissait d’une attaque politique, thèse remise en cause ces dernières années.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/il-y-a-50-ans-la-famille-de-jean-marie-le-pen-echappait-par-miracle-a-l-attentat-de-la-villa-poirier-element-majeur-de-la-construction-de-sa-fille-marine-20261101"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Nov 2026",
+      "date_iso": "2026-11-01T04:00:16+00:00",
+      "titre": "« Je crois que je vais donner procuration à mes enfants et les laisser voter pour moi » : à moins de six mois de la présidentielle 2027, plongée dans la France indécise",
+      "dek": "Multiplication des candidatures, rejet du macronisme, peur de l’arrivée du Rassemblement national… Intéressés par la politique mais largement désabusés, une grande partie des électeurs ne savent pas encore quel bulletin ils glisseront dans l’urne.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/01/je-crois-que-je-vais-donner-procuration-a-mes-enfants-et-les-laisser-voter-pour-moi-a-moins-de-six-mois-de-la-presidentielle-2027-plongee-dans-la-france-indecise_6803970_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -11,6 +99,17 @@
       "dek": "Après l’intervention de la police dans les locaux de l’institution et l’annonce de la suspension de son président controversé, le chef de l’Etat a réuni samedi les représentants des partis de la majorité centriste et de l’opposition nationaliste pour tenter de sortir de la crise,…",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T21:01:37+00:00",
+      "titre": "EN DIRECT, manifestations du 31 octobre : plusieurs organisations lycéennes et étudiantes appellent au blocus des établissements dès le début de semaine",
+      "dek": "L’Union syndicale lycéenne et l’Union étudiante ont appelé samedi au blocage des établissements scolaires mardi et jeudi. De son côté, l’organisation des Lycéens ! a appelé dimanche au blocus « dès lundi », dénonçant la « politique de comptoir » du gouvernement, qui a dévoilé en …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html"
     },
     {
       "tag": "Politique",
@@ -52,7 +151,7 @@
       "date": "31 Oct 2026",
       "date_iso": "2026-10-31T19:21:50+00:00",
       "titre": "«Même manifester, cela devient difficile»: partout en France, des cortèges inquiets pour les libertés",
-      "dek": "Contrairement aux espoirs du gouvernement, la mobilisation n’a pas faibli pour cette troisième journée de manifestations. Les revendications contre la vie chère et pour la défense de l’éducation nationale demeurent, mais une sourde colère monte contre le pouvoir qui se barricade …",
+      "dek": "Contrairement aux espoirs du gouvernement, la mobilisation n’a pas faibli pour cette troisième journée de manifestations. Les revendications contre la vie chère et pour la défense de l’éducation nationale demeurent, mais une sourde colère monte contre le pouvoir, qui se barricade…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/311026/meme-manifester-cela-devient-difficile-partout-en-france-des-corteges-inquiets-pour-les-libertes"
     },
@@ -451,105 +550,6 @@
       "dek": "Relevant une détérioration de la situation budgétaire et des taux d’emprunt, l’agence de notation abaisse la perspective, de stable à négative. « Cette appréciation confirme l’absolue nécessité d’adopter d’ici à la fin de l’année un budget responsable », a réagi vendredi le minis…",
       "avis": null,
       "lien": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T21:05:38+00:00",
-      "titre": "A Trappes, après l’attentat raciste, un rassemblement aux airs de meeting digne et résolu",
-      "dek": "Une foule dense a répondu, ce vendredi 30 octobre, à l’appel de la commune des Yvelines, endeuillée, il y a une semaine par l’attaque planifiée qui a fait un mort et sept blessés. Un rendez-vous éminemment politique, à six mois de l’élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T20:39:18+00:00",
-      "titre": "Macronie : et si c’était ça le vrai film d’horreur ? | BANGER 💥 (Yérim Sar)",
-      "dek": "Dans sa chronique pour l'Huma, Yérim Sar décrypte l'actu à coup de plume. Cette semaine, ambiance Halloween : entre flics terrifiés par des street medics, ministres cramponnés à leur siège malgré les casseroles et des médias qui fabriquent des monstres en direct. Quand la réalité…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/attentat-raciste-de-trappes/macronie-et-si-cetait-ca-le-vrai-film-dhorreur-banger-%f0%9f%92%a5-yerim-sar"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T20:18:49+00:00",
-      "titre": "Rafael, mineur, frappé à Paris par « des dizaines » de policiers le 17 octobre : une enquête a été confiée à l’IGPN",
-      "dek": "Sur une vidéo devenue virale, on voit Rafael, 17 ans, vêtu de noir et d’un chapeau de paille, pris au milieu d’une charge policière place de la République. Au sol, des dizaines de policiers l’entourent et de nombreux le frappent à coups de matraque, de pied et de bouclier.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/30/rafael-mineur-frappe-a-paris-par-des-dizaines-de-policiers-le-17-octobre-une-enquete-a-ete-confiee-a-l-igpn_6803135_3224.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T19:15:00+00:00",
-      "titre": "Présidentielle 2027 : « Il continue de penser qu’il y a un chemin », Xavier Bertrand trace sa route vers une candidature",
-      "dek": "RÉCIT - Le président des Hauts-de-France a mobilisé ses amis politiques lors d’une réunion de travail organisée à huis clos, vendredi, au Sénat.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-il-continue-de-penser-qu-il-y-a-un-chemin-xavier-bertrand-trace-sa-route-vers-une-candidature-20261030"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:58:15+00:00",
-      "titre": "Attentat raciste à Trappes : « Que faut-il de plus pour ouvrir les yeux ? », a lancé le maire, Ali Rabeh, lors du rassemblement en hommage aux victimes, pointant la responsabilité du RN",
-      "dek": "Près de 12 000 personnes selon la ville de Trappes se sont rassemblées vendredi à 18 heures, dans la ville des Yvelines. Des figures politiques, principalement de gauche, parmi lesquelles Jean-Luc Mélenchon, Raphaël Glucksmann, Olivier Faure ou Ségolène Royal, sont présentes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/10/30/attentat-raciste-a-trappes-que-faut-il-de-plus-pour-ouvrir-les-yeux-a-lance-le-maire-ali-rabeh-lors-du-rassemblement-en-hommage-aux-victimes-pointant-la-responsabilite-du-rn_6803131_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:39:31+00:00",
-      "titre": "En Israël, Benyamin Nétanyahou reste au centre du jeu politique",
-      "dek": "Les législatives de mardi n’ont pas dessiné de majorité, mais la période d’incertitude qui s’ouvre favorise le premier ministre sortant. Son camp cherche à discréditer le vote des Palestiniens d’Israël, qui forment aujourd’hui le troisième bloc du pays.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/301026/en-israel-benyamin-netanyahou-reste-au-centre-du-jeu-politique"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:33:54+00:00",
-      "titre": "À Toulouse: «C’est votre groupe, là? Vous leur dites de se décaler et on va traiter devant…»",
-      "dek": "Samedi 24 octobre, à Toulouse, une cinquantaine de militants d’extrême droite ont tenté de perturber la manifestation, affirmant vouloir «protéger» une basilique de la ville. Jusqu’au soir, ils ont pu compter sur la bienveillance de la police.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/301026/toulouse-c-est-votre-groupe-la-vous-leur-dites-de-se-decaler-et-va-traiter-devant"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:33:01+00:00",
-      "titre": "Macron, putain encore six mois et demi, par Mathieu Lindon",
-      "dek": "Notre président a quand même réussi un truc : on ne se disputera pas son héritage.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/opinions/macron-putain-encore-six-mois-et-demi-par-mathieu-lindon-20261031_6MQKPLKGVZB6PB47MV35HCULWI/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:25:20+00:00",
-      "titre": "À Nice le 24 octobre, l’extrême droite frappe, les policiers regardent",
-      "dek": "Samedi dernier, une centaine de nervis d’extrême droite ont agressé les manifestants qui défilaient calmement, au vu et au su des forces de l’ordre. Une passivité que de nombreux éléments recoupés par «Mediapart» étayent. Une enquête judiciaire est ouverte et quarante individus o…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/301026/nice-le-24-octobre-l-extreme-droite-frappe-les-policiers-regardent"
     }
   ]
 }
