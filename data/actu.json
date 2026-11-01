@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-31T22:57:41+00:00",
+  "generated_at": "2026-11-01T03:43:21+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Oct 2026",
+      "date_iso": "2026-10-31T22:57:51+00:00",
+      "titre": "Crise politique en Pologne : Bruxelles appelle le président Karol Nawrocki à valider la nomination de nouveaux juges au Tribunal constitutionnel",
+      "dek": "Après l’intervention de la police dans les locaux de l’institution et l’annonce de la suspension de son président controversé, le chef de l’Etat a réuni samedi les représentants des partis de la majorité centriste et de l’opposition nationaliste pour tenter de sortir de la crise,…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/10/31/crise-politique-en-pologne-bruxelles-appelle-le-president-karol-nawrocki-a-valider-la-nomination-de-nouveaux-juges-au-tribunal-constitutionnel_6803801_3210.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -539,17 +550,6 @@
       "dek": "Samedi dernier, une centaine de nervis d’extrême droite ont agressé les manifestants qui défilaient calmement, au vu et au su des forces de l’ordre. Une passivité que de nombreux éléments recoupés par «Mediapart» étayent. Une enquête judiciaire est ouverte et quarante individus o…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/301026/nice-le-24-octobre-l-extreme-droite-frappe-les-policiers-regardent"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Oct 2026",
-      "date_iso": "2026-10-30T18:23:20+00:00",
-      "titre": "«Milice» d’extrême droite dans les rues de Rouen: retour sur une journée de violences aux étranges ramifications",
-      "dek": "Bienveillance policière, ramifications politiques étonnantes, infiltrations des commerçants rouennais, figures nationales de l’extrême droite… sur la base de nouveaux éléments, notre partenaire «Le Poulpe» revient en détail sur les événements survenus dans le centre-ville de Roue…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/301026/milice-d-extreme-droite-dans-les-rues-de-rouen-retour-sur-une-journee-de-violences-aux-etranges-ramificati"
     }
   ]
 }
