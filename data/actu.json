@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-11-02T22:57:36+00:00",
+  "generated_at": "2026-11-03T04:52:30+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T04:30:07+00:00",
+      "titre": "« La grande erreur d’Emmanuel Macron a été de ne pas avoir structuré une nouvelle force politique, comme si lui seul était capable de faire »",
+      "dek": "Le président de la République voit ses réformes détricotées les unes après les autres. Et souffre, à la fin de son mandat, du même syndrome que Valéry Giscard d’Estaing, observe dans sa chronique Françoise Fressoz, éditorialiste au « Monde ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/03/la-grande-erreur-d-emmanuel-macron-a-ete-de-ne-pas-avoir-structure-une-nouvelle-force-politique-comme-si-lui-seul-etait-capable-de-faire_6805529_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T04:00:30+00:00",
+      "titre": "ENQUETE Maintien de l’ordre : un mois de blessures graves en manifestation",
+      "dek": "Depuis le début des blocages lycéens, et plus encore après le pic de mobilisation du 17 octobre, de nombreuses personnes participant au mouvement social ont été blessées. « Le Monde » donne la parole à plusieurs victimes et interroge l’usage des armes et la responsabilité des for…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/03/au-fil-d-un-mois-de-mobilisations-sociales-des-manifestants-victimes-de-graves-blessures-je-crie-je-panique-j-ai-l-impression-que-j-ai-perdu-ma-jambe_6805525_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T04:00:19+00:00",
+      "titre": "Budget 2027 : l’Assemblée nationale se prépare à rejeter un texte devenu caduc et incohérent",
+      "dek": "Les députés ont remanié en profondeur le projet gouvernemental, supprimant certains impôts, en ajoutant d’autres. La première partie du texte devrait être rejetée ces prochains jours. A charge pour l’exécutif de trouver une issue pour sortir de l’impasse.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-l-assemblee-nationale-se-prepare-a-rejeter-un-texte-devenu-caduc-et-incoherent_6805521_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T04:00:00+00:00",
+      "titre": "L’étrange campagne présidentielle, par Serge July",
+      "dek": "Percutée par le mouvement de la jeunesse qui essaime en Europe, les mobilisations contre la vie chère et autres grèves, la campagne électorale se trouve face au défi de parvenir à se nourrir de ces crises qui s’accumulent.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/opinions/letrange-campagne-presidentielle-par-serge-july-20261103_LRFIIVLMOBG77AW6WQHFDKVWRU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Nov 2026",
+      "date_iso": "2026-11-02T23:53:56+00:00",
+      "titre": "Budget 2027 : les députés des amendements au devenir incertain, remaniant la TVA sur l’électricité ou encore la télévision payante",
+      "dek": "Dans un hémicycle clairsemé, les parlementaires ont voté lundi des mesures qu’ils savent peu susceptibles de perdurer, compte tenu du rejet probable du budget, et d’un possible recours par l’exécutif au 49.3 ou aux ordonnances.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -495,61 +550,6 @@
       "dek": "Le gouvernement japonais va choisir une capitale secondaire susceptible d'assurer la continuité de État si une crise grave paralysait Tokyo.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-bientot-une-tokyo-bis-pour-remplacer-la-capitale-en-cas-de-catastrophe-naturelle-majeure_8243341.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Nov 2026",
-      "date_iso": "2026-11-02T10:05:29+00:00",
-      "titre": "Primaire : Attal, Philippe et Retailleau ne croient que ce qu’ils veulent",
-      "dek": "Les candidats de la droite et du centre rivalisent de discours performatif sur la perspective d’une primaire pour les départager, selon qu’ils la souhaitent ou non.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/primaire-attal-philippe-et-retailleau-ne-croient-que-ce-quils-veulent-20261102_SYJMXPTPDZDJPHDCYZ25YANSIE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Nov 2026",
-      "date_iso": "2026-11-02T09:53:30+00:00",
-      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon dit annuler sa venue au « 20 heures » de TF1, qu’il accuse d’avoir laissé Edouard Philippe dérouler un « discours dégoûtant » sur l’immigration",
-      "dek": "« Anne-Claire Coudray a mené son entretien avec professionnalisme et rigueur », a réagi TF1 lundi, affirmant, par ailleurs, que la venue de M. Mélenchon au « 20 heures » avait été annulée dès la fin de la semaine et qu’il ne pouvait ainsi s’agir d’une décision prise en réaction à…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/02/presidentielle-2027-jean-luc-melenchon-dit-annuler-sa-venue-au-20-heures-de-tf1-qu-il-accuse-d-avoir-laisse-edouard-philippe-derouler-un-discours-degoutant-sur-l-immigration_6805227_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Nov 2026",
-      "date_iso": "2026-11-02T09:41:43+00:00",
-      "titre": "«Les brutaux ne m’impressionnent pas» : Raphaël Glucksmann manifestera jeudi avec les syndicats malgré l’accueil qui lui est réservé",
-      "dek": "Le candidat de la gauche sociale-démocrate à la présidentielle, interrogé ce lundi sur BFMTV, a promis qu’il ferait «campagne partout» alors qu’il peine à se rendre dans les manifestations, où il est régulièrement pris à partie par des militants de gauche, insoumis selon lui.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/les-brutaux-ne-mimpressionnent-pas-raphael-glucksmann-manifestera-jeudi-avec-les-syndicats-malgre-laccueil-qui-lui-est-reserve-20261102_ZWOAQHNR2FBC7MBO64HT7V6RCM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "02 Nov 2026",
-      "date_iso": "2026-11-02T09:31:22+00:00",
-      "titre": "Superprofits, fraude fiscale, riches épargnés par le budget… Là où va l’argent",
-      "dek": "La baisse des prix à la pompe qui s’amorce grâce à la mise sur le marché des stocks stratégiques. La situation est tellement catastrophique que des gens font la manche à la pompe, jerrican en main, pour quelques litres de gazole. Reste que cela n’est qu’une politique de courte du…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/essence/la-ou-va-largent"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Nov 2026",
-      "date_iso": "2026-11-02T09:26:45+00:00",
-      "titre": "Face aux mobilisations sociales, le gouvernement envisage une revalorisation du smic",
-      "dek": "Le ministre du travail, Jean-Pierre Farandou, s’est dit ouvert à l’idée d’une anticipation au 1ᵉʳ décembre de la revalorisation automatique du salaire minimum au 1ᵉʳ janvier et a évoqué la piste d’un éventuel « coup de pouce ». Reste à savoir si le geste sera suffisant pour calme…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/02/face-aux-mobilisations-sociales-le-gouvernement-envisage-une-revalorisation-du-smic_6805226_823448.html"
     }
   ]
 }
