@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-03T20:43:38+00:00",
+  "generated_at": "2026-11-04T04:20:35+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T23:06:29+00:00",
+      "titre": "Devant la commission d’enquête sur le 17 octobre, Laurent Nuñez reconnaît « un échec »",
+      "dek": "Interrogé à l’Assemblée nationale, mardi 3 novembre, le ministre de l’intérieur a regretté un « défaut d’anticipation » des forces de l’ordre « lié à la simultanéité des événements » lors des violences du 17 octobre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/devant-la-commission-d-enquete-sur-le-17-octobre-laurent-nunez-reconnait-un-echec_6805735_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T23:00:00+00:00",
+      "titre": "Congrès RN : à Orléans, des bus réquisitionnés par la préfecture pour les frontistes",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=521061"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T21:13:15+00:00",
+      "titre": "La conférence du député LFI Raphaël Arnault, annulée à Lyon pour des raisons de sécurité, aura finalement lieu à Villeurbanne",
+      "dek": "« Nous serons bien présents ce vendredi » pour rappeler que « Lyon et ses alentours sont des terres d’antifascisme et de résistance à l’extrême droite », ont affirmé dans un communiqué le député du Vaucluse et sa collègue du Rhône, Anaïs Belouassa-Cherifi.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/03/la-conference-du-depute-lfi-raphael-arnault-annulee-a-lyon-pour-des-raisons-de-securite-aura-finalement-lieu-a-villeurbanne_6805669_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T20:57:52+00:00",
+      "titre": "Midterms aux États-Unis: la nuit électorale en direct",
+      "dek": "Mardi 3 novembre, les États-Unis votent pour renouveler un tiers du Sénat et la totalité de la Chambre des représentants. Le scrutin est un quasi référendum sur l’exercice du pouvoir par Donald Trump. Nos correspondants et envoyés spéciaux sur place vous font vivre l’événement.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/031126/midterms-aux-etats-unis-la-nuit-electorale-en-direct"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -63,7 +107,7 @@
       "date": "03 Nov 2026",
       "date_iso": "2026-11-03T19:09:36+00:00",
       "titre": "«L’expression “Arabes israéliens” permet à Israël de “dépalestiniser” ses citoyens»",
-      "dek": "Fruit d’une construction politique à partir de 1948, année de la Nakba, l’expression «Arabes israéliens» pour qualifier les Palestiniens citoyens d’Israël contribue, entre autres, à effacer l’identité de ces derniers. Le politologue Amal Jamal analyse la controverse entourant cet…",
+      "dek": "Fruit d’une construction politique à partir de 1948, année de la Nakba, l’expression «Arabes israéliens» pour qualifier les Palestiniens citoyens d’Israël contribue, entre autres, à effacer l’identité de ces derniers. Le politiste Amal Jamal analyse la controverse entourant cette…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/international/031126/l-expression-arabes-israeliens-permet-israel-de-depalestiniser-ses-citoyens"
     },
@@ -83,9 +127,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "03 Nov 2026",
-      "date_iso": "2026-11-03T19:00:12+00:00",
+      "date_iso": "2026-11-03T19:00:05+00:00",
       "titre": "Présidentielle 2027 : pourquoi les dates du scrutin virent au casse-tête constitutionnel",
-      "dek": "La controverse suscitée par le choix du 2 mai 2027 pour la tenue du second tour de l’élection présidentielle a pris une nouvelle ampleur à la suite des débordements survenus à l’occasion de la mobilisation du 17 octobre. Les marges de manœuvre constitutionnelles pour modifier le …",
+      "dek": "La controverse suscitée par le choix du 2 mai 2027 pour la tenue du second tour a pris une nouvelle ampleur à la suite des débordements survenus à l’occasion de la mobilisation du 17 octobre. Les marges de manœuvre constitutionnelles pour modifier le calendrier sont très étroites…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-pourquoi-les-dates-du-scrutin-virent-au-casse-tete-constitutionnel_6805653_823448.html"
     },
@@ -121,6 +165,17 @@
       "dek": "Le texte gouvernemental a été largement adopté, malgré l’abstention de la gauche, qui a notamment regretté l’absence de moyens financiers supplémentaires pour la protection de l’enfance.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/11/03/protection-des-enfants-le-senat-adopte-le-projet-de-loi-du-gouvernement-qui-prevoit-l-imprescriptibilite-des-crimes-sexuels-sur-mineurs_6805650_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "03 Nov 2026",
+      "date_iso": "2026-11-03T18:16:08+00:00",
+      "titre": "Des coups et des coups de com: quand les syndicats d’extrême droite s’attaquent au mouvement lycéen",
+      "dek": "Depuis le début de la mobilisation, l’UNI et la Cocarde organisent des actions, parfois violentes, dans des établissements pour lever les blocages et gagner en visibilité. Des «opérations de com et d’intimidation», selon plusieurs témoignages recueillis par «Mediapart», exécutées…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/031126/des-coups-et-des-coups-de-com-quand-les-syndicats-d-extreme-droite-s-attaquent-au-mouvement-lyceen"
     },
     {
       "tag": "Gauche",
@@ -495,61 +550,6 @@
       "dek": "La commission doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements » mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances et que le ministre de l’intérie…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/03/violences-commises-le-17-octobre-laurent-nunez-ministre-de-l-interieur-est-auditionne-a-l-assemblee-nationale-ce-mardi_6805560_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Nov 2026",
-      "date_iso": "2026-11-03T09:29:05+00:00",
-      "titre": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
-      "dek": "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "03 Nov 2026",
-      "date_iso": "2026-11-03T09:28:47+00:00",
-      "titre": "La grande mascarade : le théâtre indécent du RN à l’Assemblée",
-      "dek": "L’Hémicycle empeste l’hypocrisie. Le budget 2027 tourne au bal des dupes. La Macronie et la droite cajolent les plus fortunés. Le RN, lui, joue au parti du peuple devant les caméras. Le voilà votant des baisses de TVA avec ceux qu’il voue chaque jour aux gémonies. Une TVA à 5,5&#…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/budget/la-grande-mascarade-le-theatre-indecent-du-rn-a-lassemblee"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Nov 2026",
-      "date_iso": "2026-11-03T09:28:31+00:00",
-      "titre": "Fin de vie : l’aide à mourir entrera en vigueur en janvier 2027, confirme la ministre de la santé Stéphanie Rist",
-      "dek": "Après des années de débat, les décrets d’application de cette réforme sociétale majeure de la présidence d’Emmanuel Macron seront particulièrement scrutés.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/03/fin-de-vie-l-aide-a-mourir-entrera-en-vigueur-en-janvier-2027-confirme-la-ministre-de-la-sante-stephanie-rist_6805555_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Nov 2026",
-      "date_iso": "2026-11-03T09:17:41+00:00",
-      "titre": "Fabien Roussel appelle à continuer la mobilisation \"tant que le gouvernement n'entend pas ce cri de souffrance, de douleur, de colère\"",
-      "dek": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Nov 2026",
-      "date_iso": "2026-11-03T09:03:03+00:00",
-      "titre": "Attentat raciste de Trappes : 30 victimes ont été identifiées, selon le procureur national antiterroriste",
-      "dek": "Le procureur, Olivier Christen, est revenu au micro de RTL sur le profil du suspect de l’attentat, Kevin T., qui a été mis en examen, jeudi 29 octobre. « C’est quelqu’un qui avait largement préparé, prémédité les faits, probablement depuis la fin de l’été, début septembre », a-t-…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/03/attentat-raciste-de-trappes-30-victimes-ont-ete-identifiees-selon-le-procureur-national-antiterroriste_6805553_3224.html"
     }
   ]
 }
