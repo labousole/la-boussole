@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-04T21:00:25+00:00",
+  "generated_at": "2026-11-05T04:37:43+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Nov 2026",
+      "date_iso": "2026-11-04T22:58:35+00:00",
+      "titre": "Présidentielle 2027 : Emmanuel Macron préconise une coalition de Glucksmann à Lisnard",
+      "dek": "Le chef de l’Etat estime que seule une large alliance au sein de l’espace central permettra d’éviter le duel Le Pen-Mélenchon au second tour de l’élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Nov 2026",
+      "date_iso": "2026-11-04T22:53:12+00:00",
+      "titre": "Budget 2027 : l’Assemblée nationale rejette en première lecture, à l’unanimité, le projet de loi de finances",
+      "dek": "Le gouvernement estime que le « temps du compromis devra avoir lieu » en décembre après l’examen du texte par le Sénat, à partir du 20 novembre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-l-assemblee-nationale-rejette-en-premiere-lecture-a-l-unanimite-le-projet-de-loi-de-finances_6806468_823448.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "04 Nov 2026",
+      "date_iso": "2026-11-04T21:49:38+00:00",
+      "titre": "«Je suis convaincu qu’on va faire campagne ensemble» : à Saint-Ouen, Glucksmann tend la main à Bouamrane",
+      "dek": "Le social-démocrate s’est rendu ce mercredi soir au lancement du livre du maire socialiste de la ville, lui aussi candidat déclaré à l’élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/je-suis-convaincu-qu-on-va-faire-campagne-ensemble-a-saint-ouen-glucksmann-tend-la-main-a-bouamrane-20261104"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -173,7 +206,7 @@
       "date": "04 Nov 2026",
       "date_iso": "2026-11-04T17:43:53+00:00",
       "titre": "Budget 2026 : le gouvernement tente un ultime tour de vis pour éviter un dérapage XXL",
-      "dek": "Le gouvernement a annoncé, mercredi 4 novembre, l’annulation de crédits pour 3,8 milliards d’euros. Mais il prévoit en parallèle 3,7 milliards d’euros de dépenses supplémentaires. Au total, le déficit risque d’atteindre 5,4 % du PIB, selon Bercy. Davantage, redoutent les experts.",
+      "dek": "Le gouvernement a annoncé, mercredi 4 novembre, l’annulation de crédits pour 3,8 milliards d’euros. Mais il prévoit en parallèle 3,7 milliards d’euros de dépenses supplémentaires. Au total, le déficit risque d’atteindre voire dépasser 5,4 % du PIB en 2026. Le budget 2027 a, lui, …",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2026-le-gouvernement-tente-un-ultime-tour-de-vis-pour-eviter-un-derapage-xxl_6806410_823448.html"
     },
@@ -193,7 +226,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "04 Nov 2026",
-      "date_iso": "2026-11-04T17:30:17+00:00",
+      "date_iso": "2026-11-04T17:30:08+00:00",
       "titre": "En Occitanie, Jean-Michel Baylet entend toujours peser sur la scène régionale",
       "dek": "L’ancien patron de « La Dépêche du Midi », et longtemps président du Parti radical de gauche, lance un nouveau mouvement, l’Union humaniste et républicaine d’Occitanie, pour préparer les échéances électorales de 2028.",
       "avis": null,
@@ -517,39 +550,6 @@
       "dek": "Le taux de chômage des 15-24 ans atteint 21,6 % au deuxième trimestre, en hausse de 2,5 points sur un an. Si les gouvernements successifs d’Emmanuel Macron ont multiplié les dispositifs pour y remédier, la France reste très en retard par rapport à plusieurs de ses partenaires eur…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/04/au-c-ur-d-un-automne-social-syndicats-et-patronat-entament-des-negociations-sur-l-emploi-des-jeunes_6806134_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Nov 2026",
-      "date_iso": "2026-11-04T09:00:03+00:00",
-      "titre": "L’ultradroite, cette mouvance qui utilise la violence pour défendre une idéologie d’extrême droite",
-      "dek": "Le profil de Kevin T., l’auteur de l’attentat raciste de Trappes (Yvelines), relève de « l’ultradroite radicale violente », a confirmé le parquet, mardi 3 novembre. Un phénomène en croissance : 23 procédures liées à l’ultradroite ont été recensées depuis 2019.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/04/l-ultradroite-cette-mouvance-qui-utilise-la-violence-pour-defendre-une-ideologie-d-extreme-droite_6806133_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Nov 2026",
-      "date_iso": "2026-11-04T08:51:50+00:00",
-      "titre": "Budget de la « Sécu » 2027 : le texte arrive au Sénat, après avoir été rejeté par les députés",
-      "dek": "Faute de majorité, l’Assemblée nationale a dénaturé le texte avant de le rejeter. Le Sénat doit donc examiner la copie gouvernementale, sans savoir si le gouvernement choisira d’activer l’article 49.3 ou s’il préférera la voie inédite des ordonnances.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/04/budget-de-la-secu-2027-le-texte-arrive-au-senat-apres-avoir-ete-rejete-par-les-deputes_6806130_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Nov 2026",
-      "date_iso": "2026-11-04T08:28:23+00:00",
-      "titre": "\"Gouverner\" : que contient le nouveau livre de Jordan Bardella ?",
-      "dek": "C'est son troisième ouvrage en deux ans, publié aux éditions Fayard, la maison d'édition du milliardaire ultraconservateur Vincent Bolloré. À six mois de l'élection présidentielle, Jordan Bardella sort mercredi \"Gouverner\", sorte de livre programmatique de près de 300 pages.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/gouverner-que-contient-le-nouveau-livre-de-jordan-bardella_8267120.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
