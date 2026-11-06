@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-11-05T21:17:36+00:00",
+  "generated_at": "2026-11-06T04:37:52+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
+      "date": "06 Nov 2026",
+      "date_iso": "2026-11-06T04:00:00+00:00",
+      "titre": "Grève du 5 novembre : loin des grandes villes, dans les cortèges familiaux de l’Yonne, « chez nous c’est toujours gentillet, y’a jamais eu de casse »",
+      "dek": "A rebours des images de violences dans certaines métropoles, Sens et Auxerre incarnent ces mobilisations solidaires qui prévalent dans nombre de villes moyennes, où lycéens, salariés, paysans et retraités font cause commune. Notamment lorsque l’extrême droite est déjà implantée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/06/greve-du-5-novembre-loin-des-grandes-villes-dans-les-corteges-familiaux-de-l-yonne-chez-nous-c-est-toujours-gentillet-y-a-jamais-eu-de-casse_6807613_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
       "date": "05 Nov 2026",
-      "date_iso": "2026-11-05T21:13:09+00:00",
+      "date_iso": "2026-11-05T22:35:16+00:00",
+      "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
+      "dek": "Fabien Roussel lâché par une partie des siens… Une majorité des députés du groupe communiste et ultramarin de l’Assemblée nationale a annoncé ce jeudi 5 novembre se rallier à l’insoumis Jean-Luc Mélenchon.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Nov 2026",
+      "date_iso": "2026-11-05T21:57:39+00:00",
+      "titre": "Grève du 5 novembre : \"Dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés\", estime Léa Balage El Mariky, députée Écologiste et Social",
+      "dek": "Invités du \"Duel\", jeudi 5 novembre, Léa Balage El Mariky, députée du groupe Écologiste et Social, et Jad Zahab, porte-parole de Gabriel Attal, tirent de premières conclusions de la mobilisation de cette journée à l'appel de l'intersyndicale. \"Un signe d'espoir\" que la jeunesse a…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Nov 2026",
+      "date_iso": "2026-11-05T21:37:43+00:00",
+      "titre": "Plafonds qui s'effondrent, placo qui tombe… Une liste noire de 200 lycées délabrés à rénover en priorité dressée par le gouvernement",
+      "dek": "Parmi les demandes des lycéens figure la possibilité d'étudier dans des locaux en bon état. Salles surchauffées, sanitaires inutilisables… Le ministère de l'Éducation nationale a dressé une liste de 200 lycées à rénover en priorité, à partir des signalements des élèves. Quels son…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plafonds-qui-s-effondrent-placo-qui-tombe-une-liste-noire-de-200-lycees-delabres-a-renover-en-priorite-dressee-par-le-gouvernement_8269817.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Nov 2026",
+      "date_iso": "2026-11-05T21:13:07+00:00",
       "titre": "Le lycée Françoise à Tournefeuille, près de Toulouse, victime d’une attaque, d’un incendie et de dégradations",
       "dek": "Tôt le matin, jeudi 5 novembre, une trentaine d’individus cagoulés ont pénétré dans l’établissement scolaire. Les dégâts sont importants et les réactions indignées.",
       "avis": null,
@@ -22,17 +66,6 @@
       "dek": "Aurélien Lopez-Liguori souhaite inaugurer, lundi, une stèle aux victimes du communisme. Plusieurs opposants et organisations déplorent le retour de « la haine du communisme », « alors que dans notre ville, les seules victimes de l’occupation ont été faites par l’armée nazie ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/05/a-agde-les-commemorations-anticommunistes-du-maire-rn-suscitent-la-colere-de-partis-d-opposition-et-de-syndicats_6807343_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Nov 2026",
-      "date_iso": "2026-11-05T20:34:53+00:00",
-      "titre": "Plafonds qui s'effondrent, placo qui tombe… Une liste noire de 200 lycées délabrés à rénover en priorité dressée par le gouvernement",
-      "dek": "Parmi les demandes des lycéens figure la possibilité d'étudier dans des locaux en bon état. Salles surchauffées, sanitaires inutilisables… Le ministère de l'Éduction nationale a dressé une liste de 200 lycées à rénover en priorité, à partir des signalements des élèves. Quels sont…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plafonds-qui-s-effondrent-placo-qui-tombe-une-liste-noire-de-200-lycees-delabres-a-renover-en-priorite-dressee-par-le-gouvernement_8269817.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -55,6 +88,28 @@
       "dek": "Le candidat à l’élection présidentielle s’était tenu éloigné des cortèges depuis le début des mobilisations sociales. Jeudi, alors qu’il était aux côtés de toute la famille socialiste pour manifester, il n’a pu bouger de la place de la République, bloqué par plusieurs dizaines de…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/05/raphael-glusckmann-endure-des-huees-de-sympathisants-insoumis-a-la-manifestation-du-5-novembre_6807342_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Nov 2026",
+      "date_iso": "2026-11-05T20:29:01+00:00",
+      "titre": "Raphaël Glucksmann endure des huées de sympathisants « insoumis » à la manifestation du 5 novembre",
+      "dek": "Le candidat à l’élection présidentielle s’était tenu éloigné des cortèges depuis le début des mobilisations sociales. Jeudi, alors qu’il était aux côtés de toute la famille socialiste pour manifester, il n’a pu bouger de la place de la République, bloqué par plusieurs dizaines de…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/05/raphael-glusckmann-endure-des-huees-de-sympathisants-insoumis-a-la-manifestation-du-5-novembre_6807342_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "05 Nov 2026",
+      "date_iso": "2026-11-05T20:20:16+00:00",
+      "titre": "5 novembre : dans le cortège, la gauche au défi de répondre aux revendications",
+      "dek": "Entre craintes et espoirs, le cortège parisien a envoyé avec force le message du nécessaire rassemblement à gauche lors de la manifestation du 5&nbsp;novembre contre la vie chère.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/gauche/5-novembre-jean-luc-melenchon-dans-le-cortege-et-dans-les-tetes"
     },
     {
       "tag": "Gauche",
@@ -154,17 +209,6 @@
       "dek": "\"Cette mesure a pour objectif de prévenir les risques de troubles à l'ordre public\", explique la préfecture du Rhône au sujet de la conférence initialement prévue vendredi.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/une-conference-du-depute-lfi-raphael-arnault-interdite-a-villeurbanne-le-prefet-du-rhone-evoque-des-risques-d-affrontements-entre-des-groupuscules-radicaux_8269784.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Nov 2026",
-      "date_iso": "2026-11-05T19:04:43+00:00",
-      "titre": "Grève du 5 novembre : \"Dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés\", estime Léa Balage El Mariky, députée Écologiste et Social",
-      "dek": "Invités du \"Duel\", jeudi 5 novembre, Léa Balage El Mariky, députée du groupe Écologiste et Social, et Jad Zahab, porte-parole de Gabriel Attal, tirent de premières conclusions de la mobilisation de cette journée à l'appel de l'intersyndicale. \"Un signe d'espoir\", que la jeunesse …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -506,50 +550,6 @@
       "dek": "Invité du 8h30 franceinfo, le candidat Les Républicains à l'élection présidentielle s'exprime sur la nouvelle mobilisation sociale qui se déroule jeudi.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "05 Nov 2026",
-      "date_iso": "2026-11-05T09:14:28+00:00",
-      "titre": "5 novembre : pendant que salariés, étudiants et lycéens revendiquent leurs droits, droite et extrême droite se retrouvent au salon de l’armement",
-      "dek": "Alors que travailleurs, étudiants et lycéens manifestent ce jeudi 5 novembre pour leurs droits et contre le budget d’austérité, Marine Le Pen, Édouard Philippe et Bruno Retailleau sont attendus à Euronaval, à Villepinte, un salon consacré à l’industrie militaire.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/armement/5-novembre-pendant-que-salaries-etudiants-et-lyceens-revendiquent-leurs-droits-droite-et-extreme-droite-se-retrouvent-au-salon-de-larmement"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "05 Nov 2026",
-      "date_iso": "2026-11-05T09:12:26+00:00",
-      "titre": "Bruno Retailleau appelle la droite à \"se réveiller\" pour la présidentielle et défend son idée de débats, avant une éventuelle primaire",
-      "dek": "Le candidat Les Républicains à la présidentielle 2027, plaide pour une primaire de la droite sans Raphaël Glucksmann, ni Éric Zemmour. Il se battra, dit-il, pour proposer une \"rupture\" avec le macronisme.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-la-droite-a-se-reveiller-pour-la-presidentielle-et-defend-son-idee-de-debats-avant-une-eventuelle-primaire_8269013.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "05 Nov 2026",
-      "date_iso": "2026-11-05T09:11:51+00:00",
-      "titre": "EN DIRECT, grève du 5 novembre : « Les jeunes nous ont réveillés avec leurs revendications », estime Mireille, 77 ans",
-      "dek": "Des manifestations à l’appel des lycéens, étudiants, syndicats et « gilets jaunes » ont eu lieu dès ce matin à travers la France. A Paris, le cortège partira à 14 heures de la place de la République.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-qui-manifeste-quelles-sont-les-revendications-suivez-la-journee-de-mobilisation-avec-nos-journalistes_6806775_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "05 Nov 2026",
-      "date_iso": "2026-11-05T09:09:07+00:00",
-      "titre": "Direct : un 5 novembre de grève et de manifestations",
-      "dek": "Politis vous propose de suivre cette nouvelle journée de manifestations dans tout le pays, avec un appel à la grève générale de l’intersyndicale. Nos journalistes suivront les événements notamment dans la région de Grenoble, dans la Sarthe, et à Paris pour faire remonter les imag…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=521739"
     }
   ]
 }
