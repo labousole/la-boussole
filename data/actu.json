@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-07T19:13:25+00:00",
+  "generated_at": "2026-11-07T23:18:21+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T20:45:32+00:00",
+      "titre": "Gadi Eisenkot, opposant à Nétanyahou, chargé de trouver un gouvernement à Israël",
+      "dek": "Le chef du bloc de l'opposition au Premier ministre sortant Benjamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence d'Israël.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/071126/gadi-eisenkot-opposant-netanyahou-charge-de-trouver-un-gouvernement-israel"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T20:30:30+00:00",
+      "titre": "REPORTAGE. \"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force",
+      "dek": "Devant plus de 20 000 personnes, le prétendant insoumis à l'Elysée a présenté la version actualisée de son programme l'Avenir en commun avec plus de 1 000 propositions, entre pouvoir d'achat, écologie et santé.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T20:22:44+00:00",
+      "titre": "Pologne: un tireur abat six personnes dans le centre touristique de Cracovie",
+      "dek": "Un homme a ouvert le feu sur des passants samedi à Cracovie, en Pologne, faisant six morts d’après le dernier bilan et une dizaine de blessés. Selon le ministre de l'intérieur, il était «fasciné par les idéologies d'extrême droite».",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/071126/pologne-un-tireur-abat-six-personnes-dans-le-centre-touristique-de-cracovie"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T20:16:17+00:00",
+      "titre": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de \"Regards\"",
+      "dek": "À l'issue du meeting de Jean-Luc Mélenchon au Bourget samedi 7 novembre, Pablo Pillaud Viven, le rédacteur en chef de la revue \"Regards\", parle d'une \"une démonstration de force\". Face à lui, le directeur de la publication d'\"Atlantico\", Jean-Sébastien Ferjou, met en garde : \"cha…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/meeting-de-jean-luc-melenchon-au-bourget-peu-de-candidats-ou-candidates-a-l-election-presidentielle-sont-capables-de-remplir-une-salle-aussi-grande-souligne-le-redacteur-en-chef-de-de-regards_8272619.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T20:01:46+00:00",
+      "titre": "Au Bourget, Mélenchon revendique la radicalité comme condition de la victoire",
+      "dek": "Quatre mois après son meeting de lancement à Saint-Denis, le candidat insoumis à l’élection présidentielle a de nouveau réuni 20 000 personnes, samedi au Bourget. S’appuyant sur les récents exemples au Brésil ou aux États-Unis, il a appelé la gauche à se rassembler autour de lui …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/071126/au-bourget-melenchon-revendique-la-radicalite-comme-condition-de-la-victoire"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T19:43:45+00:00",
+      "titre": "\"Il faut tout changer !\", scande Jean-Luc Mélenchon lors de son grand meeting du Bourget",
+      "dek": "Jean-Luc Mélenchon, fort des derniers sondages, souhaite rassembler la gauche dès le premier tour. Ce samedi 7 novembre, il a décliné lors son meeting au Bourget plusieurs points de son programme, réaffirmant son projet d'une nouvelle France.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/melenchon/il-faut-tout-changer-scande-jean-luc-melenchon-lors-de-son-grand-meeting-du-bourget_8272676.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T19:35:59+00:00",
+      "titre": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
+      "dek": "Lors de son meeting ce samedi, le candidat insoumis à la présidentielle a assumé ne pas vouloir s’ouvrir aux forces politiques idéologiquement voisines. Stratégie par étapes ou sectarisme suicidaire ?",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T19:25:00+00:00",
+      "titre": "Mobilisation sociale : malgré une affluence en baisse, les manifestants veulent « maintenir la pression » avant la conférence sociale de lundi à Matignon",
+      "dek": "Entre 146 000 et 250 000 personnes ont défilé, le plus souvent dans le calme. C’était le quatrième samedi de mobilisation de rang et la deuxième journée de cortèges de la semaine, après des manifestations de grande ampleur, jeudi, à l’appel des organisations syndicales.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -11,17 +99,6 @@
       "dek": "Le candidat insoumis a rassemblé plus de 20 000 personnes au Parc des expositions en Seine-Saint-Denis, selon les chiffres des organisateurs, lors d’une convention de présentation de son programme, ce samedi 7 novembre.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T18:43:28+00:00",
-      "titre": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de de \"Regards\"",
-      "dek": "À l'issue du meeting de Jean-Luc Mélenchon au Bourget, samedi 7 novembre, Pablo Pillaud Viven, le rédacteur en chef de la revue \"Regards\", parle d'une \"une démonstration de force\". Face à lui, le directeur de la publication d'\"Atlantico\", Jean-Sébastien Ferjou, met en garde : \"ch…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/meeting-de-jean-luc-melenchon-au-bourget-peu-de-candidats-ou-candidates-a-l-election-presidentielle-sont-capables-de-remplir-une-salle-aussi-grande-souligne-le-redacteur-en-chef-de-de-regards_8272619.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -473,83 +550,6 @@
       "dek": "Depuis 2017, le salaire minimum a augmenté de plus de 28 % en France. Mais cette hausse, qui correspond aux 14 revalorisations automatiques du SMIC, a en réalité suivi l’inflation sans véritable gain de pouvoir d’achat pour les salariés concernés.",
       "avis": null,
       "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/07/pourquoi-personne-ne-semble-satisfait-de-l-augmentation-du-smic-comprendre-en-trois-minutes_6808237_6176282.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T05:00:12+00:00",
-      "titre": "Raphaël Glucksmann met en ordre de bataille la famille socialiste pour la campagne de la présidentielle 2027",
-      "dek": "Le vainqueur de la primaire sociale-démocrate a dévoilé l’équipe qui portera sa candidature pour l’Elysée, avec le souci de faire la part belle aux différents courants internes du PS et de s’assurer du soutien de son premier secrétaire, Olivier Faure.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-raphael-glucksmann-met-en-ordre-de-bataille-la-famille-socialiste-pour-la-campagne_6808238_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T00:09:38+00:00",
-      "titre": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
-      "dek": "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole les représentants du parti d’extrême droite pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T20:57:59+00:00",
-      "titre": "Manifestation du 7 novembre : «le dispositif» de sécurité est «reconduit» avec 70 000 policiers et gendarmes mobilisés",
-      "dek": "Au lendemain de la journée de mobilisation pour le pouvoir d’achat qui a attiré le plus de manifestants depuis le début du mouvement, des appels à l’action sont maintenus pour ce week-end.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/social/en-direct-mouvement-social-le-ministre-du-travail-veut-essayer-de-franchir-la-barre-du-smic-a-1-500-euros-net-20261106_ZR72ANUTFNHKXEQVFZ4574GYFM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T20:36:41+00:00",
-      "titre": "DIRECT. Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
-      "dek": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T20:13:51+00:00",
-      "titre": "EN DIRECT - Mouvement social de samedi : «le dispositif» de sécurité est «reconduit» avec 70 000 policiers et gendarmes mobilisés",
-      "dek": "Au lendemain de la journée de mobilisation pour le pouvoir d’achat qui a attiré le plus de manifestants depuis le début du mouvement, des appels à l’action sont maintenus pour ce week-end.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/social/en-direct-mouvement-social-le-ministre-du-travail-veut-essayer-de-franchir-la-barre-du-smic-a-1-500-euros-net-20261106_ZR72ANUTFNHKXEQVFZ4574GYFM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T20:06:35+00:00",
-      "titre": "Plusieurs avocats vont saisir la Cour de justice de la République contre Laurent Nuñez après les blessures infligées à des manifestants",
-      "dek": "Ils reprochent au ministre de l'Intérieur le recours à des \"armes mutilantes\" lors des récentes opérations de maintien de l'ordre. Dans la soirée, Laurent Nuñez s'est dit \"très serein\" et \"prêt\" à répondre à toute plainte.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T19:56:22+00:00",
-      "titre": "Attentat de Trappes : les obsèques de Pengo Bossio Wangi se dérouleront samedi",
-      "dek": "La cérémonie publique, qui se tiendra de 16 heures à 17 heures au cimetière paysager de Guyancourt (Yvelines), n’est pas ouverte « aux journalistes » et « aux femmes et hommes politiques », selon le communiqué.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/06/attentat-de-trappes-les-obseques-de-pengo-bossio-wangi-se-derouleront-samedi_6807863_3224.html"
     }
   ]
 }
