@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-06T20:40:15+00:00",
+  "generated_at": "2026-11-07T04:01:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T03:58:52+00:00",
+      "titre": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
+      "dek": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T00:09:38+00:00",
+      "titre": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
+      "dek": "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole son parti pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "06 Nov 2026",
+      "date_iso": "2026-11-06T20:57:59+00:00",
+      "titre": "Manifestation du 7 novembre : «le dispositif» de sécurité est «reconduit» avec 70 000 policiers et gendarmes mobilisés",
+      "dek": "Au lendemain de la journée de mobilisation pour le pouvoir d’achat qui a attiré le plus de manifestants depuis le début du mouvement, des appels à l’action sont maintenus pour ce week-end.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/social/en-direct-mouvement-social-le-ministre-du-travail-veut-essayer-de-franchir-la-barre-du-smic-a-1-500-euros-net-20261106_ZR72ANUTFNHKXEQVFZ4574GYFM/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -96,7 +129,7 @@
       "date": "06 Nov 2026",
       "date_iso": "2026-11-06T19:41:18+00:00",
       "titre": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
-      "dek": "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat.",
+      "dek": "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat. Stephen Miller va remplacer Susie Wiles, appelée à occuper d’autres fonctions dans l’orbite du président, mais…",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html"
     },
@@ -228,7 +261,7 @@
       "date": "06 Nov 2026",
       "date_iso": "2026-11-06T17:19:35+00:00",
       "titre": "La justice autorise une conférence du député LFI Raphaël Arnault près de Lyon",
-      "dek": "Initialement programmé jeudi à Lyon, l’événement de présentation de son livre « Antifasciste » avait été annulé par la mairie de secteur dont dépendait la salle de conférence, pour des raisons de « sécurité ».",
+      "dek": "Initialement programmé jeudi à Lyon, l’événement de présentation de son livre « Antifasciste » avait été annulé par la mairie de secteur dont dépendait la salle de conférences, pour des raisons de « sécurité ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/06/la-justice-autorise-une-conference-du-depute-lfi-raphael-arnault-pres-de-lyon_6807843_823448.html"
     },
@@ -517,39 +550,6 @@
       "dek": "«&#160;La foule, quelle qu’elle soit, n’a pas de légitimité face au peuple qui s’exprime à travers ses élus.&#160;» La sentence, lâchée par Emmanuel Macron le 21&#160;mars 2023, au lendemain du recours au 49.3 pour imposer en force la réforme des retraites, continue de dicter la …",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/mobilisation-du-17-octobre/macron-patrons-maintenant-il-faut-lacher"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T09:19:13+00:00",
-      "titre": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
-      "dek": "Le Rassemblement national a maintenu lors d’un débat mené jeudi au Palais du Luxembourg sa volonté de cesser le soutien financier à l’Ukraine.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/06/guerre-en-ukraine-le-rn-isole-au-senat-sur-sa-volonte-de-reduction-de-l-aide-a-kiev-lfi-absente-du-debat_6807755_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T09:06:54+00:00",
-      "titre": "«Choisissez un mode de connexion» : ce message de Meta démontre que Jordan Bardella a toujours un compte Facebook lié à son adresse Hotmail",
-      "dek": "Sur TF1, le président du RN a de nouveau assuré ne plus avoir de compte sur le réseau social et donc ne plus pouvoir extraire ses conversations. Mais des éléments obtenus en octobre par «CheckNews» démontrent pourtant qu’un compte reste lié à son ancienne adresse mail.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/checknews/choisissez-un-mode-de-connexion-ce-message-de-meta-demontre-que-jordan-bardella-a-toujours-un-compte-facebook-lie-a-son-adresse-hotmail-20261106_X5CVQR2OCNFSJEVUTH5CMSA7VM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "06 Nov 2026",
-      "date_iso": "2026-11-06T08:40:32+00:00",
-      "titre": "Donner moins d’argent à l’Europe : la proposition de Marine Le Pen est-elle réaliste ?",
-      "dek": "« Les propositions à la loupe ». La candidate du Rassemblement national veut négocier un rabais d’un tiers sur la contribution française à l’Union européenne pour faire des économies. Mais ses chances de succès sont très minces.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/06/donner-moins-d-argent-a-l-europe-la-proposition-de-marine-le-pen-est-elle-realiste_6807742_4355770.html"
     }
   ]
 }
