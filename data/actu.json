@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-08T19:16:33+00:00",
+  "generated_at": "2026-11-08T23:21:28+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T23:12:08+00:00",
+      "titre": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
+      "dek": "Le candidat social-démocrate à la présidentielle a également déclaré dimanche soir vouloir \"mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T22:08:42+00:00",
+      "titre": "Revalorisation du SMIC : Fabien Roussel souhaite \"l’augmentation généralisée des salaires\"",
+      "dek": "Fabien Roussel, candidat PCF à la présidentielle, était l’invité du Grand Enjeu ce dimanche 8 novembre sur franceinfo. Il est notamment revenu sur la revalorisation du SMIC et a indiqué vouloir une \"augmentation généralisée des salaires\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T21:00:53+00:00",
+      "titre": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
+      "dek": "Crédité de 2 % à 3 % des intentions de vote, le patron du Parti communiste français « regrette » le choix de neuf députés de son groupe et assure que le chef de file de La France Insoumise « ne gagnera jamais ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T19:47:26+00:00",
+      "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
+      "dek": "Interrogé sur BFMTV ce dimanche 8 novembre, le candidat social-démocrate à la présidentielle, associé au macronisme par les insoumis, a juré que «depuis dix ans», il avait décliné tous les postes proposés par Emmanuel Macron.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T19:28:00+00:00",
+      "titre": "Présidentielle 2027 : en dépit des départs chez LFI, Fabien Roussel assure qu’il ira «jusqu’au bout»",
+      "dek": "Le candidat du Parti communiste français explique ce dimanche 8 novembre qu’il compte bien mener sa campagne à son terme. Il assure par ailleurs être persuadé que Jean-Luc Mélenchon seul ne «gagnera jamais» face à l’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-en-depit-des-departs-chez-lfi-fabien-roussel-assure-quil-ira-jusquau-bout-20261108_HIS3472YWZDDLOVZR7KOXSHEYM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T19:26:03+00:00",
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann affirme avoir refusé Matignon après la dissolution de 2024",
+      "dek": "Accusé par ses adversaires de proximité avec le macronisme, le candidat social-démocrate a énuméré ses divergences avec Emmanuel Macron, de « l’individualisme triomphant » à la suppression de l’ISF.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-raphael-glucksmann-affirme-avoir-refuse-matignon-apres-la-dissolution-de-2024_6808468_6205049.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,17 +77,6 @@
       "dek": "Le candidat social-démocrate à la présidentielle a également déclaré dimanche soir vouloir \"mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "08 Nov 2026",
-      "date_iso": "2026-11-08T19:05:23+00:00",
-      "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024",
-      "dek": "Interrogé sur BFMTV ce dimanche 8 novembre, le candidat social-démocrate à la présidentielle, associé au macronisme par les insoumis, a juré que «depuis dix ans», il avait décliné tous les postes proposés par Emmanuel Macron.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/"
     },
     {
       "tag": "Politique",
@@ -495,61 +550,6 @@
       "dek": "L’acte 4 du mouvement social a réuni au moins 46 000 personnes dans la capitale, à deux jours de la conférence sociale organisée à Matignon. Les participants rencontrés sur le boulevard Voltaire, qui aspirent à des réformes ambitieuses et des changements de fond, n’en attendent p…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/071126/mobilisation-sociale-paris-un-cortege-encore-assez-fourni-pour-maintenir-la-pression"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T17:59:42+00:00",
-      "titre": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF",
-      "dek": "Cette décision vise les députés communistes qui ont annoncé vendredi soutenir la candidature de Jean-Luc Mélenchon, au lieu de celle du dirigeant du mouvement, Fabien Roussel.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T17:31:15+00:00",
-      "titre": "Présidentielle 2027 : ce qu’il faut retenir de la présentation de la « nouvelle France » de Jean-Luc Mélenchon",
-      "dek": "Depuis le parc des expositions du Bourget (Seine-Saint-Denis), Jean-Luc Mélenchon et son mouvement ont présenté les grandes lignes de « L’Avenir en commun » devant 20 000 personnes. Un moment présenté comme une invitation à se projeter dans une France de l’après-Macron et un mond…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/jean-luc-melenchon/tout-le-monde-deteste-le-pouvoir-macroniste-au-meeting-du-bourget-jean-luc-melenchon-presente-son-chemin-de-rupture"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T17:31:15+00:00",
-      "titre": "« Tout le monde déteste le pouvoir macroniste » : au meeting du Bourget, Jean-Luc Mélenchon présente son chemin de rupture",
-      "dek": "Depuis le Parc des expositions du Bourget (Seine-Saint-Denis), Jean-Luc Mélenchon et son mouvement ont présenté les grandes lignes de «&nbsp;L’Avenir en commun&nbsp;» devant 20&nbsp;000 personnes. Un moment présenté comme une invitation à se projeter dans une France de l’après-Ma…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/jean-luc-melenchon/tout-le-monde-deteste-le-pouvoir-macroniste-au-meeting-du-bourget-jean-luc-melenchon-presente-son-chemin-de-rupture"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T17:13:21+00:00",
-      "titre": "Mathieu Lefèvre va remplacer momentanément comme porte-parole du gouvernement Maud Bregeon, qui va partir en congé maternité",
-      "dek": "Ce proche du garde des sceaux, Gérald Darmanin, conservera son poste de ministre délégué à la transition écologique pendant cet intérim d’environ cinq semaines.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/mathieu-lefevre-va-remplacer-momentanement-comme-porte-parole-du-gouvernement-maud-bregeon-qui-va-partir-en-conge-maternite_6808304_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T17:07:26+00:00",
-      "titre": "Revivez les manifestations du 7 novembre : 146 000 personnes ont défilé dans le calme en France, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
-      "dek": "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue, samedi, pour montrer leur colère et « maintenir la pression », avant des rendez-vous lundi avec le go…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html"
     }
   ]
 }
