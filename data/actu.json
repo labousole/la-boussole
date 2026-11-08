@@ -1,6 +1,215 @@
 {
-  "generated_at": "2026-11-08T03:47:51+00:00",
+  "generated_at": "2026-11-08T11:38:03+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T11:34:36+00:00",
+      "titre": "Une histoire du cinéma français nourrie de ses «héritages maghrébins»",
+      "dek": "Vingt ans après le succès d’«Indigènes» de Rachid Bouchareb, le palais de la Porte-Dorée, à Paris, montre comment le cinéma français s’est réinventé depuis soixante ans grâce à des cinéastes et à des comédiens issus de l’immigration maghrébine, dans une exposition aussi indispens…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/081126/une-histoire-du-cinema-francais-nourrie-de-ses-heritages-maghrebins"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T11:33:26+00:00",
+      "titre": "DIRECT. Présidentielle : \"Aucun candidat n'est au second tour à part Marine Le Pen et Jean-Luc Mélenchon\", relève Gabriel Attal, qui plaide pour une primaire",
+      "dek": "\"Peut-être que pour certains, cela prend plus de temps pour être convaincu\", tacle-t-il à l'adresse d'Edouard Philippe, candidat Horizons, qui refuse l'idée de cette primaire du centre et de la droite.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T11:01:00+00:00",
+      "titre": "Extrêmes droites européennes : 50 nuances de racistes | SIAMO TUTTI 🙌",
+      "dek": "Les extrêmes droites essaient de s’allier au niveau européen, mais entre désaccords et conflits d’agenda politique, créer une internationale fasciste n’est pas chose aisée. Dans ce nouvel épisode de Siamo Tutti, on passe en revue la manière dont ils se rencontrent et s’organisent…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/extremes-droites-europeennes-50-nuances-de-racistes-siamo-tutti-%f0%9f%99%8c"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T10:43:36+00:00",
+      "titre": "Guerre d’Algérie : Bally Bagayoko critiqué par Marion Maréchal pour sa présence à une commémoration de la «Toussaint rouge»",
+      "dek": "Le maire LFI de Saint-Denis a célébré l’anniversaire du 1er novembre 1954, jour où le FLN commence la guerre d’Algérie en commettant une série d’attentats tuant plusieurs militaires et civils. «Bally Bagayoko rit et danse en célébrant la mort d’innocents», dénonce Marion Maréchal…",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/guerre-d-algerie-bally-bagayoko-critique-par-marion-marechal-pour-sa-presence-a-une-commemoration-de-la-toussaint-rouge-20261108"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T10:24:11+00:00",
+      "titre": "Annie Genevard au Figaro : «Une primaire ne doit pas être crainte»",
+      "dek": "ENTRETIEN - Auparavant hostile à une primaire, la ministre de l’Agriculture et ex-dirigeante de LR estime que les candidats de la droite et du centre doivent entendre «le désarroi» d’une «France silencieuse consternée» par la perspective d’un second tour entre le RN et LFI.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/annie-genevard-au-figaro-une-primaire-ne-doit-pas-etre-crainte-20261108"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T10:22:23+00:00",
+      "titre": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
+      "dek": "Avec la multiplication des sondages à l'approche de la présidentielle, il peut être difficile de lire entre les lignes (et les chiffres). Nicolas Hubé, professeur en sciences de l'information et de la communication, donne quelques bons réflexes à adopter.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T09:40:59+00:00",
+      "titre": "Pologne: un tireur «fasciné par l’extrême droite» abat six personnes à Cracovie",
+      "dek": "L’homme a ouvert le feu sur des passants samedi à Cracovie, faisant six morts et une quinzaine de blessés, un acte qualifié de «terrorisme» par le premier ministre Donald Tusk. Trois corps ont également été retrouvés à son domicile.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/081126/pologne-un-tireur-fascine-par-l-extreme-droite-abat-six-personnes-cracovie"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T09:30:07+00:00",
+      "titre": "Moins de touristes étrangers dans les commerces parisiens, autre conséquence des manifestations",
+      "dek": "Les mobilisations sociales et les scènes de violences impactent les commerces parisiens. Dans le quartier touristique du Marais, les magasins se barricadent. Fini le lèche-vitrine pour les visiteurs internationaux.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/08/moins-de-touristes-etrangers-dans-les-commerces-parisiens-autre-consequence-des-manifestations_6808417_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T09:27:31+00:00",
+      "titre": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument",
+      "dek": "Le député La France insoumise de l'Essonne était l'invité du \"8h30 franceinfo\" dimanche. Il répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T08:49:59+00:00",
+      "titre": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument",
+      "dek": "Le député La France insoumise de l'Essonne affirme que \"ce qui s'est passé dans les années précédentes avec Emmanuel Macron, c'est un appauvrissement généralisé de la population.\"",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T08:38:36+00:00",
+      "titre": "\"On me demande de mettre de l'eau dans mon vin, je ne le ferai pas\"",
+      "dek": "A six mois de la présidentielle, Jean-Luc Mélenchon a tenu un meeting au Parc des expositions du Bourget (Seine-Saint-Denis), samedi 7 novembre. “Nous sommes en train d’ouvrir le chemin d’un grand changement politique”, a-t-il lancé au début de sa prise de parole.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/melenchon/on-me-demande-de-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas_8273105.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T08:31:28+00:00",
+      "titre": "Hôte de la COP31, la Turquie continue à exploiter du charbon en balayant les protestations citoyennes",
+      "dek": "Malgré la destruction de l’environnement, la mort des mineurs et celle des habitants voisins des centrales, le pouvoir turc veut produire toujours davantage de charbon. Dans le sud-ouest du pays, le village d’Ikizköy tente de résister.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/081126/hote-de-la-cop31-la-turquie-continue-exploiter-du-charbon-en-balayant-les-protestations-citoyennes"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T08:31:18+00:00",
+      "titre": "En Turquie, un sommet climat pour éviter tout recul face à la surchauffe planétaire",
+      "dek": "La 31e conférence internationale pour le climat se tiendra du 9 au 20 novembre à Antalya, en Turquie. Dans un contexte de crise pétrolière et alors que le monde est en passe de dépasser 1,5 °C de réchauffement, les États plancheront sur l’électrification de la demande énergétique…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/081126/en-turquie-un-sommet-climat-pour-eviter-tout-recul-face-la-surchauffe-planetaire"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T08:20:30+00:00",
+      "titre": "Guillaume Tabard : «Dangereuse irresponsabilité budgétaire»",
+      "dek": "CONTRE-POINT : La discussion de ce budget 2027 est révélatrice de l’usure d’un pouvoir qui s’est autodétruit dans la dissolution et du concours d’irresponsabilité de ceux qu’on appelle des « responsables » politiques.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-dangereuse-irresponsabilite-budgetaire-20261103"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T06:00:00+00:00",
+      "titre": "Comment les préfets pourraient être mis au service d’un pouvoir brutal en cas de victoire du RN",
+      "dek": "Normalisation des idées xénophobes, État de droit bafoué, exercice autoritaire du pouvoir… L’Humanité passe en revue ceux qui se rendent complices de l’extrême droite en ouvrant la voie au Rassemblement national. Aujourd’hui, les préfets dont Emmanuel Macron a fait évoluer le rôl…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/comment-les-prefets-pourraient-etre-mis-au-service-dun-pouvoir-brutal-en-cas-de-victoire-du-rn"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T05:30:11+00:00",
+      "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+      "dek": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T04:15:09+00:00",
+      "titre": "A Paris, la Maison de l’Amérique latine, un symbole de la gauche glorieuse à vendre",
+      "dek": "Décor des soirées électorales du Parti socialiste, les salons feutrés de cette institution située boulevard Saint-Germain, à Paris, ont vu passer les leaders anti-impérialistes sud-américains. Mais le lieu a aussi accueilli des événements organisés par la droite et l’extrême droi…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/m-le-mag/article/2026/11/08/a-paris-la-maison-de-l-amerique-latine-un-symbole-de-la-gauche-glorieuse-a-vendre_6808391_4500055.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T04:00:31+00:00",
+      "titre": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+      "dek": "Selon l’Insee, en France, le taux de chômage des moins de 25 ans a dépassé, au deuxième trimestre, les 21 %. Face à la difficulté à s’insérer dans le monde du travail, de nombreux jeunes « sous pression » trouvent, sur YouTube ou TikTok, des espaces pour s’épancher.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T04:00:04+00:00",
+      "titre": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon mobilise sa base tout en s’attelant à élargir son électorat",
+      "dek": "Le candidat de La France insoumise a présenté samedi son programme, « L’Avenir en commun », devant plusieurs milliers de sympathisants. Tout en assurant qu’il n’avait pas l’intention de « mettre de l’eau dans son vin », le tribun s’est livré à une rhétorique moins conflictuelle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-meeting-au-bourget-jean-luc-melenchon-s-attelle-a-mobiliser-sa-base-tout-en-elargissant-son-electorat_6808387_823448.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -8,7 +217,7 @@
       "date": "07 Nov 2026",
       "date_iso": "2026-11-07T20:45:32+00:00",
       "titre": "Gadi Eisenkot, opposant à Nétanyahou, chargé de trouver un gouvernement à Israël",
-      "dek": "Le chef du bloc de l'opposition au Premier ministre sortant Benjamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence d'Israël.",
+      "dek": "Le chef du bloc de l’opposition au premier ministre sortant Benyamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence d’Israël.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/international/071126/gadi-eisenkot-opposant-netanyahou-charge-de-trouver-un-gouvernement-israel"
     },
@@ -30,7 +239,7 @@
       "date": "07 Nov 2026",
       "date_iso": "2026-11-07T20:22:44+00:00",
       "titre": "Pologne: un tireur abat six personnes dans le centre touristique de Cracovie",
-      "dek": "Un homme a ouvert le feu sur des passants samedi à Cracovie, en Pologne, faisant six morts d’après le dernier bilan et une dizaine de blessés. Selon le ministre de l'intérieur, il était «fasciné par les idéologies d'extrême droite».",
+      "dek": "Un homme a ouvert le feu sur des passants samedi à Cracovie, en Pologne, faisant six morts, d’après le dernier bilan, et une dizaine de blessés. Selon le ministre de l’intérieur, il était «fasciné par les idéologies d’extrême droite»\".\"",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/international/071126/pologne-un-tireur-abat-six-personnes-dans-le-centre-touristique-de-cracovie"
     },
@@ -52,7 +261,7 @@
       "date": "07 Nov 2026",
       "date_iso": "2026-11-07T20:01:46+00:00",
       "titre": "Au Bourget, Mélenchon revendique la radicalité comme condition de la victoire",
-      "dek": "Quatre mois après son meeting de lancement à Saint-Denis, le candidat insoumis à l’élection présidentielle a de nouveau réuni 20 000 personnes, samedi au Bourget. S’appuyant sur les récents exemples au Brésil ou aux États-Unis, il a appelé la gauche à se rassembler autour de lui …",
+      "dek": "Quatre mois après son meeting de lancement à Saint-Denis, le candidat insoumis à l’élection présidentielle a de nouveau réuni 20 000 personnes samedi, au Bourget. S’appuyant sur les récents exemples au Brésil ou aux États-Unis, il a appelé la gauche à se rassembler autour de lui …",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/politique/071126/au-bourget-melenchon-revendique-la-radicalite-comme-condition-de-la-victoire"
     },
@@ -121,6 +330,17 @@
       "dek": "Cette décision vise les députés communistes qui ont annoncé vendredi soutenir la candidature de Jean-Luc Mélenchon, au lieu de celle du dirigeant du mouvement, Fabien Roussel.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "07 Nov 2026",
+      "date_iso": "2026-11-07T17:31:15+00:00",
+      "titre": "Présidentielle 2027 : ce qu’il faut retenir de la présentation de la « nouvelle France » de Jean-Luc Mélenchon",
+      "dek": "Depuis le parc des expositions du Bourget (Seine-Saint-Denis), Jean-Luc Mélenchon et son mouvement ont présenté les grandes lignes de « L’Avenir en commun » devant 20 000 personnes. Un moment présenté comme une invitation à se projeter dans une France de l’après-Macron et un mond…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/jean-luc-melenchon/tout-le-monde-deteste-le-pouvoir-macroniste-au-meeting-du-bourget-jean-luc-melenchon-presente-son-chemin-de-rupture"
     },
     {
       "tag": "Gauche",
@@ -330,226 +550,6 @@
       "dek": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T11:00:00+00:00",
-      "titre": "« Je ne savais même pas que c’était possible d’enseigner quatre matières d’un coup » : ces profs remplaçants envoyés dans le grand n’importe quoi",
-      "dek": "Affectations à la hâte, enseignants envoyés loin de chez eux, cours assurés dans des disciplines qu’ils ne maîtrisent pas&nbsp;: Derrière le plan d’urgence d’Édouard Geffray pour mettre un professeur devant chaque classe, des enseignants envoyés au casse-pipe et des années de des…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/enseignement/je-ne-savais-meme-pas-que-cetait-possible-denseigner-quatre-matieres-dun-coup-ces-profs-remplacants-envoyes-dans-le-grand-nimporte-qu"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T10:30:08+00:00",
-      "titre": "En Guadeloupe, la ministre Naïma Moutchou ne promet rien lors de son déplacement",
-      "dek": "Pour la première fois depuis sa nomination en octobre 2025, la ministre des outre-mer est arrivée mercredi dans l’archipel pour un passage en revue de tous les sujets, mais sans décision majeure à proposer.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/en-guadeloupe-la-ministre-naima-moutchou-ne-promet-rien-lors-de-son-deplacement_6808267_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T10:01:28+00:00",
-      "titre": "Mobilisation du 7 novembre : gilets jaunes et intersyndicale étudiante et lycéenne appellent à l’Acte IV contre la vie chère et pour un meilleur enseignement",
-      "dek": "À l’appel des gilets jaunes et de l’intersyndicale étudiante et lycéenne, des dizaines de milliers de Français sont à nouveau attendus, ce samedi, dans toute la France, dans la continuité du mouvement social contre la vie chère et pour de meilleures conditions d’enseignement. Jeu…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/gilets-jaunes/mobilisation-du-7-novembre-gilets-jaunes-et-intersyndicale-etudiante-et-lyceenne-appellent-a-lacte-iv-contre-la-vie-chere-et-pour-un-meilleur-enseignement"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T10:00:00+00:00",
-      "titre": "«Je veux servir mon pays» : l’avocat Thibault de Montbrial se livre comme jamais sur sa volonté farouche d’entrer en politique",
-      "dek": "EXCLUSIF - Dans un texte très personnel écrit sous haute tension, à la fois manifeste et programme, le médiatique avocat pénaliste exprime ses convictions et son envie de peser d’une manière ou d’une autre dans les élections à venir.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/actualite-france/je-veux-servir-mon-pays-l-avocat-thibault-de-montbrial-se-livre-comme-jamais-sur-sa-volonte-farouche-d-entrer-en-politique-20261107"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T09:34:13+00:00",
-      "titre": "Mobilisation du 7 novembre : \"Le gouvernement est à l'écoute\", assure Éléonore Caroit, ministre déléguée chargée de la Francophonie",
-      "dek": "Éléonore Caroit, ministre déléguée chargée de la Francophonie, des Partenariats internationaux et des Français de l'étranger, est l'invitée politique de la matinale de franceinfo, samedi 7 novembre. L'occasion d'évoquer le rôle du gouvernement dans les mobilisations sociales actu…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-samedi-07-novembre-2026_8244943.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T09:30:07+00:00",
-      "titre": "Le maire RN d’Hayange, le vice-consul de Russie et l’hommage aux soldats de la Grande Guerre",
-      "dek": "Dans une scène devenue inhabituelle, un diplomate russe et l’édile de la ville de Moselle, ont rendu hommage ensemble, samedi 31 octobre, aux soldats russes morts durant la première guerre mondiale. La cérémonie n’embarrasse pas Fabien Engelmann, qui renvoie dos à dos Russes et U…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/le-maire-rn-d-hayange-le-vice-consul-de-russie-et-l-hommage-aux-soldats-de-la-grande-guerre_6808259_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:52:18+00:00",
-      "titre": "Grenoble: à la clinique de «la Mut’», six ans de lutte pour sortir du groupe Avec",
-      "dek": "Le Groupement hospitalier mutualiste (GHM) de Grenoble n’est plus. Repris par une fondation et renommé le 1er novembre, ce pilier du système de santé local sort de six années tourmentées sous la gestion du groupe Avec, dont l’ancien dirigeant sera jugé en février 2027 pour détour…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/071126/grenoble-la-clinique-de-la-mut-six-ans-de-lutte-pour-sortir-du-groupe-avec"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:45:00+00:00",
-      "titre": "Après le «moment Bardella», l’aura faiblissante du RN chez la jeunesse",
-      "dek": "Le parti de Marine Le Pen a perdu la bataille des moins de 24 ans, largement acquis à Mélenchon, et celle des réseaux sociaux. Ringardisés par les insoumis, plus prescripteurs, les cadres du RN ont fait un autre choix stratégique, visant les retraités.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/apres-le-moment-bardella-laura-faiblissante-du-rn-chez-la-jeunesse-20261107_7GTSRYMPOJEBDN3GTFF2AQ5KME/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:38:42+00:00",
-      "titre": "Augmentation du Smic, primaire de la droite et du centre, propos d'Edouard Philippe sur les pillards du 17 octobre... Le \"8h30 franceinfo\" de Jérémie Patrier-Leitus",
-      "dek": "Le député Horizons du Calvados, soutien d'Edouard Philippe pour l'élection présidentielle de 2027, répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/augmentation-du-smic-primaire-de-la-droite-et-du-centre-propos-d-edouard-philippe-sur-les-pillards-du-17-octobre-le-8h30-franceinfo-de-jeremie-patrier-leitus_8251732.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:37:17+00:00",
-      "titre": "« Des Frères musulmans en costumes-cravates hyperimplantés dans les institutions bruxelloises » : cinq députés européens dénoncent les « agissements » du Réseau européen contre le racisme",
-      "dek": "DÉCRYPTAGE - S’estimant la cible d’une campagne de «stigmatisation», Céline Imart et François-Xavier Bellamy appellent une réaction du Parlement européen. Ils saluent la suppression des subventions versées de longue date à ces associations.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/des-freres-musulmans-en-costumes-cravates-hyperimplantes-dans-les-institutions-bruxelloises-cinq-deputes-europeens-denoncent-les-agissements-du-reseau-europeen-contre-le-racisme-20261106"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:28:12+00:00",
-      "titre": "L’UE déploie le tapis rouge pour les centres de données",
-      "dek": "L’Union européenne veut accélérer les évaluations environnementales des projets industriels. Les géants de la tech – Microsoft, Google, Amazon – s’agitent pour que les centres de données bénéficient d’un traitement de faveur.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/071126/l-ue-deploie-le-tapis-rouge-pour-les-centres-de-donnees"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:24:43+00:00",
-      "titre": "Data centers aux États-Unis: un revers électoral. Mais après?",
-      "dek": "Les élections de mi-mandat ont propulsé aux pouvoirs des élus favorables à des moratoires sur les fermes de serveurs. À partir de janvier 2027, le camp démocrate contrôlera presque la moitié des territoires concernés par des demandes de nouveaux centres de données.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/071126/data-centers-aux-etats-unis-un-revers-electoral-mais-apres"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:12:00+00:00",
-      "titre": "Face à l’attraction insoumise, les tiraillements écolos et communistes",
-      "dek": "Les candidatures autonomes pour l’instant promues par les deux partis peinent à émerger dans l’ombre de Raphaël Glucksmann et surtout de Jean-Luc Mélenchon. Si verts et rouges affectent la sérénité, ils sont travaillés de l’intérieur par la question d’un éventuel ralliement.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/face-a-lattraction-insoumise-les-tiraillements-ecolos-et-communistes-20261107_DLJKFCEYDVFXPESESJBASR7IEA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T08:08:41+00:00",
-      "titre": "\"Il n'y en a qu'un qui ne veut pas de cette primaire\" : Édouard Philippe peut-il encore échapper à une primaire de la droite et du centre ?",
-      "dek": "Proposée par Gabriel Attal, l'idée fait son chemin et a reçu cette semaine le soutien de Bruno Retailleau. Édouard Philippe, qui y voit un risque de confusion et de divisions, continue de faire de la résistance.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/il-n-y-en-a-qu-un-qui-ne-veut-pas-de-cette-primaire-sous-pression-edouard-philippe-peut-il-encore-echapper-a-une-primaire-de-la-droite-et-du-centre_8251654.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T07:00:05+00:00",
-      "titre": "Mobilisations sociales : « Le virus de l’autocratie ne tardera pas à atteindre la France si le pouvoir continue d’adopter la rhétorique populiste du RN »",
-      "dek": "Les manifestations en France rappellent celles d’Istanbul, en Turquie, en 2013, mues par les mêmes colères et la même joie dans les cortèges, et réprimées avec la même violence, affirme, dans une tribune au « Monde », la dramaturge Sedef Ecer.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/07/mobilisations-sociales-le-virus-de-l-autocratie-ne-tardera-pas-a-atteindre-la-france-si-le-pouvoir-continue-d-adopter-la-rhetorique-populiste-du-rn_6808248_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T06:56:00+00:00",
-      "titre": "«Il ne faut pas exagérer les conséquences de ce moment» : avant le meeting de Jean-Luc Mélenchon, l’indifférence règne chez Raphaël Glucksmann",
-      "dek": "L’entourage du candidat de Parti socialiste à la présidentielle assure miser sur le temps long pour émerger face à la dynamique de La France insoumise. Et compte faire de son premier meeting, à la Villette le 6 décembre, «une démonstration de force».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T06:03:52+00:00",
-      "titre": "Un tournant le 17 octobre, un pic le 5 novembre… Visualisez comment la mobilisation dans les manifestations en France a évolué depuis septembre",
-      "dek": "Le premier grand rassemblement s'est déroulé le 29 septembre. Sept autres journées de mobilisation ont ensuite marqué le pays, sans que le mouvement faiblisse.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/manifestations/un-tournant-le-17-octobre-un-pic-le-5-novembre-visualisez-comment-la-mobilisation-dans-les-manifestations-en-france-a-evolue-depuis-septembre_8270384.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T06:02:40+00:00",
-      "titre": "\"L'accueil dans les manifs, je n'ai jamais vu ça\" : comment Jean-Luc Mélenchon surfe sur la contestation sociale en vue de la présidentielle",
-      "dek": "Avant la mise à jour de son programme et la convention présidentielle qui lance officiellement sa campagne, le candidat de La France insoumise était dans la rue, jeudi, pour une nouvelle journée de mobilisation.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/greve/greve/l-accueil-dans-les-manifs-je-n-ai-jamais-vu-ca-comment-jean-luc-melenchon-surfe-sur-la-contestation-sociale-en-vue-de-la-presidentielle_8267927.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T06:00:00+00:00",
-      "titre": "Entre les 67 % de vote RN dans ses rangs et l’ambiance sécuritaire en vigueur, la police déjà prête à servir l’extrême droite",
-      "dek": "Normalisation des idées xénophobes, État de droit bafoué, exercice autoritaire du pouvoir… L’Humanité passe en revue ceux qui se rendent complices de l’extrême droite en ouvrant la voie au Rassemblement national. Aujourd’hui, la police à qui les gouvernements macronistes ont donn…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/rassemblement-national/entre-les-67-de-vote-rn-dans-ses-rangs-et-lambiance-securitaire-en-vigueur-la-police-deja-prete-a-servir-lextreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T05:00:17+00:00",
-      "titre": "Pourquoi personne ne semble satisfait de l’augmentation du SMIC ? Comprendre en trois minutes",
-      "dek": "Depuis 2017, le salaire minimum a augmenté de plus de 28 % en France. Mais cette hausse, qui correspond aux 14 revalorisations automatiques du SMIC, a en réalité suivi l’inflation sans véritable gain de pouvoir d’achat pour les salariés concernés.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/11/07/pourquoi-personne-ne-semble-satisfait-de-l-augmentation-du-smic-comprendre-en-trois-minutes_6808237_6176282.html"
     }
   ]
 }
