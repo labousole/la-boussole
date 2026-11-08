@@ -1,6 +1,193 @@
 {
-  "generated_at": "2026-11-08T11:38:03+00:00",
+  "generated_at": "2026-11-08T19:16:33+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T19:14:52+00:00",
+      "titre": "DIRECT. Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
+      "dek": "Le candidat social-démocrate à la présidentielle a également déclaré dimanche soir vouloir \"mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T19:05:23+00:00",
+      "titre": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024",
+      "dek": "Interrogé sur BFMTV ce dimanche 8 novembre, le candidat social-démocrate à la présidentielle, associé au macronisme par les insoumis, a juré que «depuis dix ans», il avait décliné tous les postes proposés par Emmanuel Macron.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T18:11:13+00:00",
+      "titre": "La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure",
+      "dek": "La députée a été \"légèrement touchée aux jambes\" par ce tir de mortier qui s'est produit samedi dans un salon de coiffure Evry-Courcouronnes (Essonne) et se trouve \"particulièrement choquée\" par cet évènement, selon la même source.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/la-deputee-de-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8273474.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T17:17:32+00:00",
+      "titre": "Au lycée catholique Stanislas, des violences sexuelles sur mineurs et des années d’omerta",
+      "dek": "Le lycée privé parisien est mis en cause pour avoir fermé les yeux sur plusieurs signalements de violences sexuelles sur des élèves. Le cas d’un maître d’internat mis en examen pour viol sur mineur révèle la mécanique de silenciation à l’œuvre au sein de l’établissement catholiqu…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/081126/au-lycee-catholique-stanislas-des-violences-sexuelles-sur-mineurs-et-des-annees-d-omerta"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T17:05:00+00:00",
+      "titre": "Six ans après, les policiers qui ont tabassé Michel Zecler jugés devant une cour criminelle",
+      "dek": "Le 21 novembre 2020, le producteur de musique Michel Zecler était tabassé par trois policiers dans son studio parisien, dans le XVIIe arrondissement. Les agents, qui ignoraient que toute la scène avait été filmée, l’ont accusé à tort de violences. Ils sont jugés à partir du 9 nov…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/081126/six-ans-apres-les-policiers-qui-ont-tabasse-michel-zecler-juges-devant-une-cour-criminelle"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T16:50:08+00:00",
+      "titre": "A la veille d’un déplacement à Chartres, Edouard Philippe cerné par les appels à la primaire",
+      "dek": "A l’instar de Laurent Wauquiez ce dimanche 8 novembre sur France 2, des voix du Modem et de Renaissance ont encore appelé à un vote pour désigner un candidat unique de droite en 2027. Une option que le Havrais refuse toujours, malgré sa glissade dans les sondages.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/a-la-veille-dun-deplacement-a-chartres-edouard-philippe-cerne-par-les-appels-a-la-primaire-20261108_CPNO4X2F4ZHLZDEAJREX2ZA2YA/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T15:55:19+00:00",
+      "titre": "Annie Genevard au Figaro : «Une primaire ne doit pas être crainte»",
+      "dek": "ENTRETIEN - Auparavant hostile à une primaire, la ministre de l’Agriculture et ex-dirigeante de LR estime que les candidats de la droite et du centre doivent entendre «le désarroi» d’une «France silencieuse consternée» par la perspective d’un second tour entre le RN et LFI.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/annie-genevard-au-figaro-une-primaire-ne-doit-pas-etre-crainte-20261108"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T15:53:46+00:00",
+      "titre": "La «Nouvelle France» rassemblée au meeting de Mélenchon au Bourget : une réalité à ne pas minimiser",
+      "dek": "La chose est assez rare pour mériter d’être soulignée : l’assemblée réunie samedi 7 novembre pour écouter le candidat insoumis comptait dans ses rangs de très nombreuses personnes racisées, habituellement assez éloignées des campagnes électorales.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/la-nouvelle-france-rassemblee-au-meeting-de-melenchon-au-bourget-une-realite-a-ne-pas-minimiser-20261108_CSFT2KNSAVFNTBBTO7EVTHKF5A/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T15:34:58+00:00",
+      "titre": "Présidentielle 2027 : les insoumis se disent prêts à gouverner par décrets s’ils arrivent au pouvoir, au nom de «l’état d’urgence sociale»",
+      "dek": "Au lendemain du meeting du Bourget, Manuel Bompard et Clémence Guetté ont détaillé ce qu’un gouvernement LFI ferait dans les jours suivant l’élection. Le Parlement aura cependant «un droit de regard» sur ces «décrets d’urgence».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-les-insoumis-se-disent-prets-a-gouverner-par-decrets-sils-arrivent-au-pouvoir-au-nom-de-letat-durgence-sociale-20261108_K6MFRAEQXVFBDO5K26QTLCRUKE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T14:36:51+00:00",
+      "titre": "Présidentielle 2027 : Laurent Wauquiez appelle la droite à désigner un « candidat unique avant Noël »",
+      "dek": "Le chef des députés du parti Les Républicains privilégie comme méthode de départage une primaire. Il estime qu’il serait aussi possible de faire « une succession de cinq débats et, à l’arrivée », de faire « un sondage » ou encore d’organiser un « conclave ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-laurent-wauquiez-appelle-la-droite-a-designer-un-candidat-unique-avant-noel_6808438_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T14:07:29+00:00",
+      "titre": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
+      "dek": "Le patron des Républicains à l'Assemblée nationale souhaite un candidat \"avec un programme unique à droite\" et ce, \"avant Noël\" afin d'établir une rupture claire avec le macronisme.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T13:59:33+00:00",
+      "titre": "Présidentielle 2027 : en cas de victoire, LFI instaurera un « état d’urgence sociale », pour appliquer par décrets certaines mesures comme la hausse du smic ou la retraite à 62 ans",
+      "dek": "Face à « une situation de souffrance sociale (…) il faut être en capacité de prendre des mesures immédiates », a expliqué sur BFM-TV Manuel Bompard, coordinateur de La France insoumise, tout en assurant qu’un contrôle parlementaire pourrait intervenir « ex post ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-en-cas-de-victoire-lfi-instaurera-un-etat-d-urgence-sociale-pour-appliquer-par-decrets-certaines-mesures-comme-la-hausse-du-smic-ou-la-retraite-a-62-ans_6808436_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T13:48:04+00:00",
+      "titre": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de défendre une primaire de la droite et du centre",
+      "dek": "La veille, le candidat Horizons avait réitéré son opposition à ce processus de départage, qui apporterait selon lui « de la division », et appelé à la « responsabilité » des candidats dont les moins bien placés devront se retirer d’ici à février. Le candidat Renaissance juge, lui…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T13:15:53+00:00",
+      "titre": "Présidentielle à droite et au centre : après la tribune de 66 élus, Laurent Wauquiez veut «un candidat unique avant Noël»",
+      "dek": "Face à l’accumulation du nombre de candidatures de cet espace politique, un collectif de parlementaires, principalement Renaissance, ont publié dimanche 7 novembre un appel du pied dans «la Tribune dimanche» pour l’organisation d’une primaire entre chacun de ces impétrants.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/philippe-attal-retailleau-lisnard-66-elus-du-centre-et-de-la-droite-appellent-a-une-primaire-pour-departager-leurs-candidats-a-la-presidentielle-20261108_MCSWXB7VPJHBDDZSFXA3QA6PLY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T13:04:32+00:00",
+      "titre": "Jean-Luc Mélenchon « s’est fait le porte-parole du Kremlin » sur le Donbass, tance Jean-Noël Barrot",
+      "dek": "Le candidat « insoumis » à l’élection présidentielle a affirmé, samedi, que le règlement de la guerre en Ukraine pourrait passer par des concessions territoriales, en particulier au Donbass, où, selon lui, la population doit être consultée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/08/jean-luc-melenchon-accuse-de-relayer-le-discours-du-kremlin-sur-le-donbass-il-s-est-fait-porte-parole-du-kremlin-tance-jean-noel-barrot_6808430_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T12:59:11+00:00",
+      "titre": "Gabriel Attal juge \"sidérant\" le peu de place de l'intelligence artificielle dans la présidentielle, \"clé\" pour \"faire monter les salaires\"",
+      "dek": "Le candidat Renaissance à la présidentielle a suggéré dimanche qu'il y avait \"deux batailles\" à mener, celle pour avoir \"les meilleurs modèles\" et celle pour diffuser à grande échelle l'IA dans la société et l'économie.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-juge-siderant-le-peu-de-place-de-l-intelligence-artificielle-dans-la-presidentielle-cle-pour-faire-monter-les-salaires_8273348.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "08 Nov 2026",
+      "date_iso": "2026-11-08T11:45:50+00:00",
+      "titre": "\"Il faut tout changer !\" : Jean-Luc Mélenchon a présenté son programme pour l'élection présidentielle 2027",
+      "dek": "Jean-Luc Mélenchon, fort des derniers sondages, souhaite rassembler la gauche dès le premier tour. Le candidat de La France insoumise a décliné lors son meeting au Bourget (Seine-Saint-Denis) plusieurs points de son programme, samedi 7 novembre. Il a également réaffirmé son proje…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/il-faut-tout-changer-jean-luc-melenchon-a-presente-son-programme-pour-l-election-presidentielle-2027_8273312.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -46,17 +233,6 @@
       "lien": "https://www.lefigaro.fr/politique/guerre-d-algerie-bally-bagayoko-critique-par-marion-marechal-pour-sa-presence-a-une-commemoration-de-la-toussaint-rouge-20261108"
     },
     {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "08 Nov 2026",
-      "date_iso": "2026-11-08T10:24:11+00:00",
-      "titre": "Annie Genevard au Figaro : «Une primaire ne doit pas être crainte»",
-      "dek": "ENTRETIEN - Auparavant hostile à une primaire, la ministre de l’Agriculture et ex-dirigeante de LR estime que les candidats de la droite et du centre doivent entendre «le désarroi» d’une «France silencieuse consternée» par la perspective d’un second tour entre le RN et LFI.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/annie-genevard-au-figaro-une-primaire-ne-doit-pas-etre-crainte-20261108"
-    },
-    {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
@@ -83,9 +259,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "08 Nov 2026",
-      "date_iso": "2026-11-08T09:30:07+00:00",
+      "date_iso": "2026-11-08T09:30:04+00:00",
       "titre": "Moins de touristes étrangers dans les commerces parisiens, autre conséquence des manifestations",
-      "dek": "Les mobilisations sociales et les scènes de violences impactent les commerces parisiens. Dans le quartier touristique du Marais, les magasins se barricadent. Fini le lèche-vitrine pour les visiteurs internationaux.",
+      "dek": "Les mobilisations sociales et les scènes de violence affectent les commerces parisiens. Dans le quartier touristique du Marais, les magasins se barricadent. Fini le lèche-vitrine pour les visiteurs internationaux.",
       "avis": null,
       "lien": "https://www.lemonde.fr/economie/article/2026/11/08/moins-de-touristes-etrangers-dans-les-commerces-parisiens-autre-consequence-des-manifestations_6808417_3234.html"
     },
@@ -374,182 +550,6 @@
       "dek": "Des défilés contre la vie chère globalement dans le calme et une mobilisation en baisse, mais toujours vivace : des dizaines de milliers de personnes sont descendues dans la rue, samedi, pour montrer leur colère et « maintenir la pression », avant des rendez-vous lundi avec le go…",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T17:00:33+00:00",
-      "titre": "Hervé Le Bras, historien : « Une France de technocrates est en train d’être remplacée par une France de tribuns »",
-      "dek": "Dans un entretien au « Monde », Hervé Le Bras explique comment une partie de la population française en perte de repères traditionnels et se sentant exclue pourrait écarter les élites actuelles au profit d’un gouvernement autoritaire qui redonnerait au peuple une place centrale.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T17:00:03+00:00",
-      "titre": "Les automnes de la Présidentielle",
-      "dek": "Cette semaine le débat pour l’élection présidentielle est tendu sur les primaires au centre et à droite. De nouvelles candidatures émergent comme celle de David Lisnard, alors que d’autres semblent s’essouffler, comme le trou d’air traversé par Edouard Philippe. L’automne c’est s…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-automnes-de-la-presidentielle_8251696.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T16:47:21+00:00",
-      "titre": "Le ministre délégué Mathieu Lefèvre va être nommé porte-parole du gouvernement par intérim",
-      "dek": "Cette nomination intervient alors que l'actuelle porte-parole du gouvernement, Maud Bregeon, va bientôt entamer son congé maternité.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-ministre-delegue-mathieu-lefevre-va-etre-nomme-porte-parole-du-gouvernement-par-interim_8272532.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T16:21:22+00:00",
-      "titre": "Présidentielle 2027 : « Je n’ai qu’une chose raisonnable à vous proposer : il faut tout changer », lance Jean-Luc Mélenchon lors de son meeting au Bourget",
-      "dek": "« Nous sommes en train d’ouvrir le chemin d’un grand changement politique en France », a affirmé le candidat « insoumis » samedi, lors d’un meeting de campagne pour la présentation du programme présidentiel de La France insoumise.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T16:00:02+00:00",
-      "titre": "Retour sur l'interview de Sarah Knafo dans la matinale de franceinfo",
-      "dek": "L'interview de Sarah Knafo dans le \"8h30 franceinfo\" le 28 octobre 2026, menée par les journalistes Simon Le Baron et Audrey Tison, a suscité de nombreuses réactions de la part des auditeurs. Pour répondre, Richard Place, directeur de la rédaction, est au micro d'Emmanuelle Davie…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/l-interview-de-sarah-knafo-dans-la-matinale-de-franceinfo_8251666.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T15:40:11+00:00",
-      "titre": "Présidentielle 2027 : le Conseil national du PCF rappelle l’exigence du respect des choix démocratiques des adhérents",
-      "dek": "Le Conseil national du PCF, qui s’est réuni ce samedi, a appelé à poursuivre la campagne de Fabien Roussel et à s’engager dans le mouvement social. Il a voté la suspension, le temps de la campagne, des parlementaires qui se sont prononcés en faveur de Jean-Luc Mélenchon.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fabien-roussel/presidentielle-2027-le-conseil-national-du-pcf-rappelle-lexigence-du-respect-des-choix-democratiques-des-adherents"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T14:43:50+00:00",
-      "titre": "Marine Le Pen et Edouard Philippe attaquent le programme de LFI, que Jean-Luc Mélenchon doit présenter samedi lors d’un meeting au Bourget",
-      "dek": "La France insoumise a publié vendredi son programme présidentiel pour 2027. Les réactions politiques, notamment à droite et à l’extrême droite, se sont multipliées samedi.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/marine-le-pen-et-edouard-philippe-attaquent-le-programme-de-lfi-que-jean-luc-melenchon-doit-presenter-samedi-lors-d-un-meeting-au-bourget_6808286_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T14:00:04+00:00",
-      "titre": "A Mayotte, trois à huit ans de prison pour les passeurs d’une filière tanzanienne exploitant des migrants africains",
-      "dek": "Le procès fin octobre d’une filière d’immigration clandestine a levé le voile sur les méthodes des passeurs, qui organisaient depuis l’Afrique des passages en boutre, puis en barque, vers les îles françaises.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/07/a-mayotte-trois-a-huit-ans-de-prison-pour-les-passeurs-d-une-filiere-tanzanienne-exploitant-des-migrants-africains_6808281_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T13:58:53+00:00",
-      "titre": "\"20h30 le samedi\". Stars et politiques : qui mène la danse ?",
-      "dek": "Le magazine \"20h30 le samedi\", présenté par Laurent Delahousse juste après le journal de 20 heures sur France 2, dévoile la petite histoire dans la grande, à feuilleter comme un album de famille.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-samedi/20h30-le-samedi-stars-et-politiques-qui-mene-la-danse_8246392.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T13:37:27+00:00",
-      "titre": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
-      "dek": "Plusieurs députés communistes ont annoncé, vendredi, soutenir la candidature de Jean-Luc Mélenchon à la présidentielle, alors que Fabien Roussel, secrétaire national du Parti communiste français, est également candidat.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T13:21:57+00:00",
-      "titre": "Un policier condamné à dix ans de prison joue sa dernière chance en appel",
-      "dek": "En mars, la cour d’assises avait condamné Gilles Guilbert à dix ans de réclusion criminelle pour le meurtre d’Olivio Gomes. Quelques jours avant son procès en appel, l’accusé a accordé une interview à un collectif de «soutien à la police» lancé par une figure du RN.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/071126/un-policier-condamne-dix-ans-de-prison-joue-sa-derniere-chance-en-appel"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T13:09:35+00:00",
-      "titre": "Sébastien Chenu estime que la Ciivise a les oreilles \"fragiles\", après les propos du député RN Julien Odoul qualifiant cette commission de \"service sanitaire du Hamas\"",
-      "dek": "La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale mercredi, dénonçant dans une lettre ouverte des propos \"inadmissibles\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/sebastien-chenu-estime-que-la-ciivise-a-les-oreilles-fragiles-apres-les-propos-de-julien-odoul-qualifiant-cette-commission-de-service-sanitaire-du-hamas_8272253.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T12:55:49+00:00",
-      "titre": "Présidentielle : les députés qui soutiennent Jean-Luc Mélenchon se sont mis «en dehors du parti», réagit le PCF",
-      "dek": "Deux jours après que quatre élus communistes ont annoncé leur soutien au leader LFI pour l’élection à venir, le Conseil national du Parti communiste français a rappelé ce samedi 7 novembre que tout adhérent «se doit de respecter le choix majoritaire».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-les-deputes-qui-soutiennent-jean-luc-melenchon-se-sont-mis-en-dehors-du-parti-reagit-le-pcf-20261107_WTSZWGQPBVCPBJTMAUO5WZCEFE/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T12:00:00+00:00",
-      "titre": "Lutter n’est pas un crime : défendons la démocratie",
-      "dek": "Jeudi dernier, sur le chemin du meeting Lutter n’est pas un crime, le chauffeur qui me conduisait – Alex, 26&#160;ans, habitant d’une cité du 93 – me confiait son dégoût face à la stigmatisation médiatique des «&#160;jeunes des banlieues&#160;» l’incitant à voter blanc. Branle-ba…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/banlieue-et-quartiers-populaires/lutter-nest-pas-un-crime-defendons-la-democratie"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T11:50:57+00:00",
-      "titre": "LFI dévoile son programme pour plier la bataille de la crédibilité",
-      "dek": "Cette actualisation des versions précédentes sera présentée lors du meeting de Jean-Luc Mélenchon, samedi au Bourget. «On prend au sérieux l’idée qu’on va gouverner en mai», affirme la députée Clémence Guetté. En dépit des polémiques et des fractures à gauche.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/071126/lfi-devoile-son-programme-pour-plier-la-bataille-de-la-credibilite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "07 Nov 2026",
-      "date_iso": "2026-11-07T11:20:38+00:00",
-      "titre": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
-      "dek": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
