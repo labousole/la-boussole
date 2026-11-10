@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-11-09T23:39:32+00:00",
+  "generated_at": "2026-11-10T05:33:00+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T05:05:19+00:00",
+      "titre": "Infox transphobe sur Brigitte Macron : le couple présidentiel porte plainte dans le Tennessee contre Candace Owens",
+      "dek": "Brigitte et Emmanuel Macron relancent leur offensive contre l’influenceuse américaine, la visant cette fois directement dans son Etat d’origine. Après une précédente plainte déposée aux Etats-Unis en 2025, un magistrat du Delaware avait estimé que la podcasteuse ne pouvait être t…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T05:04:00+00:00",
+      "titre": "Conférence sociale : l’exécutif joue ses dernières cartes",
+      "dek": "Après avoir remis sur le devant de la scène les organisations syndicales, le gouvernement dispose de marges de manœuvre limitées au vu de la situation budgétaire.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/conference-sociale-lexecutif-joue-ses-dernieres-cartes-20261110_IFHCGMVSZJFPZIF6UQPAY55QFU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T04:58:37+00:00",
+      "titre": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
+      "dek": "Malgré le retard pris dans l'apprentissage des programmes, le gouvernement ferme pour l'instant la porte à un report des épreuves. Il plaide plutôt pour l'instauration de cours supplémentaires.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -517,39 +550,6 @@
       "dek": "Imprégné d’une grille de lecture héritée de la guerre froide, Jean-Luc Mélenchon, candidat de La France insoumise à  l’élection présidentielle de 2027, fait du  « non-alignement » la ligne directrice de la France.",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/11/09/la-diplomatie-dans-le-programme-de-lfi-pour-la-presidentielle-le-risque-d-une-france-affaiblie_6808634_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T10:25:39+00:00",
-      "titre": "Raphaël Glucksmann affirme qu'il a refusé d'être Premier ministre d'Emmanuel Macron en 2024, après la dissolution",
-      "dek": "Une preuve, selon le candidat à la présidentielle PS-Place publique, de sa distance idéologique avec le macronisme.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024_8274305.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T10:15:01+00:00",
-      "titre": "Dominique de Villepin, pas encore candidat, prépare une virée en outre-mer",
-      "dek": "S’il n’est toujours pas officiellement en lice pour 2027, l’ex-Premier ministre continue à vadrouiller. Il compte proposer de traiter les dossiers ultramarins, non pas au sein d’un ministère, mais en les rattachant à l’Elysée et au «domaine réservé» du Président.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/dominique-de-villepin-pas-encore-candidat-prepare-une-viree-en-outre-mer-20261109_OXFWM72NYNCANGZTY7KB24NEOE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T10:02:31+00:00",
-      "titre": "Pour Marine Le Pen «il n’y a pas de discriminations» en France, qui est «le pays le moins raciste au monde»",
-      "dek": "La candidate d’extrême droite à l’élection présidentielle était interviewée sur la chaîne américaine CBS dimanche soir. Elle a aussi affirmé que la France «ne peut plus importer [sic] des chômeurs» depuis d’autres pays.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/pour-marine-le-pen-il-ny-a-pas-de-discriminations-en-france-qui-est-le-pays-le-moins-raciste-au-monde-20261109_STUPAFJLJVFJTBKRMXP265E43Q/"
     }
   ]
 }
