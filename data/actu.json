@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-11-11T00:22:05+00:00",
+  "generated_at": "2026-11-11T12:19:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T12:14:44+00:00",
+      "titre": "DIRECT. Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
+      "dek": "Le président participe pour la dernière fois à ces célébrations en tant que chef de l'Etat. Cette année, l'accent est mis sur la figure du maréchal Foch.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T12:07:18+00:00",
+      "titre": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
+      "dek": "La candidate du Rassemblement national à l’élection présidentielle a été reçue par la fédération professionnelle France Industrie. Elle avait déjà rencontré une douzaine de patrons de grands groupes en avril.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T12:01:44+00:00",
+      "titre": "Des arcanes de l’Elysée à la présidence chaotique du Mucem, Pierre-Olivier Costa, un fidèle des Macron en pleine tourmente",
+      "dek": "L’ex-directeur de cabinet de la première dame, parachuté en 2022 à la tête du musée marseillais fait l’objet d’accusations de «harcèlement sexuel et moral», qui ont conduit à son retrait puis à sa réintégration récente, à la fureur des agents. Enquête sur un proche embarrassant d…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/culture/des-arcanes-de-lelysee-a-la-presidence-chaotique-du-mucem-pierre-olivier-costa-un-fidele-des-macron-en-pleine-tourmente-20261111_S3535OAMEFB7DMAKFVHD4SIMJA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T12:00:36+00:00",
+      "titre": "11-Novembre : Emmanuel Macron préside la cérémonie de commémoration pour la dernière fois",
+      "dek": "Le président de la République a pris part, dans la matinée, au traditionnel dépôt de gerbe devant la statue de Georges Clemenceau puis à l’hommage au soldat inconnu et au ravivage de la flamme sous l’Arc de Triomphe. Hommage a aussi été rendu aux soldats morts pour la France en 2…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/11/11-novembre-emmanuel-macron-preside-la-ceremonie-de-commemoration-pour-la-derniere-fois_6808966_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T09:54:07+00:00",
+      "titre": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+      "dek": "Parmi les quatre candidats à qui le président des Républicains a adressé une lettre allant dans ce sens, seul Edouard Philippe (Horizons) est opposé à l'idée d'une primaire.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T09:39:09+00:00",
+      "titre": "En Pologne, la «collusion» est croissante entre conservateurs et extrême droite",
+      "dek": "Alors qu’une marche pour l’indépendance rassemble les droites à Varsovie, cinq jours après la tuerie de Cracovie, le politiste Valentin Behr décrit la montée des tensions provoquée par le nationalisme dans la société. Plus que jamais, deux visions du pays s’affrontent.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/111126/en-pologne-la-collusion-est-croissante-entre-conservateurs-et-extreme-droite"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T09:04:05+00:00",
+      "titre": "Affaire Zecler: «Le Michel que tout le monde a connu est mort ce jour-là»",
+      "dek": "Pour la deuxième journée du procès des trois policiers qui ont tabassé Michel Zecler en 2020, la cour criminelle de Paris a longuement interrogé le producteur de musique. Davantage pour savoir s’il n’avait rien à se reprocher que pour entendre sa douleur.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/111126/affaire-zecler-le-michel-que-tout-le-monde-connu-est-mort-ce-jour-la"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T09:00:07+00:00",
+      "titre": "Le « vigilantisme », la violence de citoyens qui entendent se substituer à l’Etat",
+      "dek": "Le 24 octobre, des militants d’extrême droite, répondant pour certains à l’appel d’un influenceur, prétendaient vouloir défendre les commerces contre les casseurs. Une violence décrite par un terme qui désigne la volonté de citoyens de s’organiser à la place de pouvoirs publics p…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/11/le-vigilantisme-la-violence-de-citoyens-qui-entendent-se-substituer-a-l-etat_6808948_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T08:37:47+00:00",
+      "titre": "Le gouvernement envisage de puiser une nouvelle fois dans les stocks stratégiques pour maintenir les prix à la pompe",
+      "dek": "Le prix du gazole recule grâce au déblocage des stocks stratégiques décidé par le gouvernement. Les cours du pétrole sont également en baisse. Mais les automobilistes sont encore loin d'avoir retrouvé les prix d'avant la guerre en Iran. Pour éviter une nouvelle flambée, l'exécuti…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-pret-a-puiser-une-nouvelle-fois-dans-les-stocks-strategiques-pour-maintenir-les-prix-a-la-pompe_8256619.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T08:33:11+00:00",
+      "titre": "La famille de Christophe Gleizes, détenu depuis 500 jours en Algérie, demande au gouvernement de durcir le ton",
+      "dek": "Depuis la condamnation définitive du journaliste sportif Christophe Gleizes, incarcéré depuis 500 jours, à sept ans de prison, Reporters sans frontières et le monde du football multiplient les appels à Alger.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/111126/la-famille-de-christophe-gleizes-detenu-depuis-500-jours-en-algerie-demande-au-gouvernement-de-durc"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T08:12:37+00:00",
+      "titre": "\"Complément d'enquête\". Gabriel Attal, l'enfant pas si chéri de la Macronie",
+      "dek": "Jusqu'à présent, son histoire était celle d'une ascension fulgurante, portée par une communication de choc. \"Complément d’enquête\" sur un ambitieux plus que jamais \"en marche\"... mais qui pourrait être contraint de renoncer à ses ambitions élyséennes.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-gabriel-attal-l-enfant-pas-si-cheri-de-la-macronie_8249824.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T06:06:00+00:00",
+      "titre": "Pourquoi la refonte du ministère de la Transition écologique ne fera qu’entretenir son effritement",
+      "dek": "La refonte à marche forcée de l’administration centrale du ministère de la Transition écologique commence ces jours-ci et doit être achevée au 1er mars 2027. Pour l’exécutif, il s’agit officiellement de regrouper les forces pour faire le poids face aux autres ministères. Mais les…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/budget-2027/pourquoi-la-refonte-du-ministere-de-la-transition-ecologique-ne-fera-quentretenir-son-effritement"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T05:17:00+00:00",
+      "titre": "Les démocrates ont deux ans pour désintoxiquer les Américains du poison populiste Maga",
+      "dek": "Pour l’emporter en 2028, leur candidat·e devra attirer la majorité modérée de l’électorat qui rejette Trump mais redoute surtout l’instabilité, la division et la fin de l’ «American way of life», tout en mobilisant sur sa gauche la jeunesse progressiste.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/les-democrates-ont-deux-ans-pour-desintoxiquer-les-americains-du-poison-populiste-maga-20261111_BMB4JXMYSVGNDK5VRGATIGT4KQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T05:05:00+00:00",
+      "titre": "Pétition contre CNews classée sans suite : l’occasion manquée des députés",
+      "dek": "Si ce n’est évidemment pas aux parlementaires de décider si une chaîne de télévision à le droit d’exister, ils auraient pu débattre de la bonne application des lois sur l’Arcom ou celles qui encadrent la liberté d’expression.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/petition-contre-cnews-classee-sans-suite-loccasion-manquee-des-deputes-20261111_GYQYWRYHRFF5DIE5OI4W4RJPQI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T04:59:28+00:00",
+      "titre": "\"Elle va apporter son capital popularité\" : quel sera le rôle de Sarah Knafo auprès d'Eric Zemmour dans la campagne pour la présidentielle ?",
+      "dek": "Le président de Reconquête a officialisé sa candidature à l'Elysée. Concurrencé par l'émergence à droite de David Lisnard, il aura besoin de l'aide de sa compagne Sara Knafo, très populaire au sein du mouvement.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/elle-va-apporter-son-capital-popularite-quel-sera-le-role-de-sarah-knafo-aupres-d-eric-zemmour-dans-la-campagne-pour-la-presidentielle_8269433.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -22,6 +187,17 @@
       "dek": "Kiev a répondu à Jean-Luc Mélenchon. Samedi, le candidat à l'élection présidentielle a défendu le droit des habitants du Donbass à choisir entre l’Ukraine et la Russie, en cas d’accord entre les deux pays. La diplomatie ukrainienne lui rappelle qu’ils ont déjà voté pour l’indépen…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T20:33:30+00:00",
+      "titre": "COP31: TotalEnergies a été accrédité au sein de la délégation française",
+      "dek": "Quatre émissaires de la multinationale, dont son patron Patrick Pouyanné, ont été enregistrés à la COP31 par le gouvernement français. Le PDG ne s’y déplacera toutefois pas en personne. Les badges onusiens accordés au groupe pétrolier leur permettent d’accéder à des zones réservé…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/101126/cop31-totalenergies-ete-accredite-au-sein-de-la-delegation-francaise"
     },
     {
       "tag": "Gauche",
@@ -374,182 +550,6 @@
       "dek": "Catherine Pégard a réagi ce mardi au refus de la secrétaire générale de la CGT de parler à la chaîne d’extrême droite.",
       "avis": null,
       "lien": "https://www.liberation.fr/economie/medias/boycott-de-cnews-par-sophie-binet-personne-na-le-droit-de-trier-parmi-les-journalistes-la-ministre-de-la-culture-20261110_MFVHBKH6J5DH7HG5F5PPYSZL54/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T14:01:21+00:00",
-      "titre": "A Chelles, une bouteille d’essence jetée sur une élue devant le lycée Gaston-Bachelard",
-      "dek": "La conseillère régionale a porté plainte pour tentative de meurtre, a fait savoir la présidente de la région Ile-de-France, Valérie Pécresse, en déplorant une « forte intensité de violence » dans le mouvement lycéen. Selon le gouvernement, 240 enseignants ont été blessés au total…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/10/a-chelles-une-bouteille-d-essence-jetee-sur-une-elue-devant-le-lycee-gaston-bachelard_6808842_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T14:00:25+00:00",
-      "titre": "«Ne plus spéculer sur notre dos»: l’Espagne en grève pour le logement, à l’approche des législatives",
-      "dek": "Le pays connaît mercredi 11 novembre sa première grève générale unitaire en quatorze ans, contre la hausse des loyers. «Mediapart» a suivi les assemblées et concertations des derniers jours, à Valence et à Barcelone, aux côtés de celles et ceux qui se battent pour sortir le logem…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/101126/ne-plus-speculer-sur-notre-dos-l-espagne-en-greve-pour-le-logement-l-approche-des-legislatives"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T14:00:03+00:00",
-      "titre": "Présidentielle 2027 : David Lisnard et les raisons d’une surprenante percée libérale",
-      "dek": "Longtemps sous-estimé par ses adversaires, le maire de Cannes est la sensation de cet automne à droite. Passé plusieurs fois devant Bruno Retailleau dans les sondages, le candidat mise sur une communication transgressive, une forme de dégagisme et sur le fait de ne pas avoir été …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-david-lisnard-et-les-raisons-d-une-percee-liberale-inattendue_6808840_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T13:58:52+00:00",
-      "titre": "Quelque 240 membres de l'Education nationale ont été blessés lors du mouvement lycéen, annonce le gouvernement",
-      "dek": "Le ministère de l'Education nationale faisait état jusqu'à présent de plus de 200 blessés.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pres-de-300-membres-de-l-education-nationale-ont-ete-blesses-lors-du-mouvement-lyceen-selon-le-gouvernement_8276330.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T13:51:41+00:00",
-      "titre": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
-      "dek": "Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester ukrainienne ou devenir russe, au cas où une concession territoriale soit envisagée…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T13:44:51+00:00",
-      "titre": "« Augmenter ses revenus en travaillant plus », retraite par capitalisation… Teddy Riner est-il le nouveau candidat macroniste ? (Oui)",
-      "dek": "Le judoka, plusieurs fois champion olympique, a annoncé être candidat à l’élection présidentielle. Dans ses premières déclarations, il assure à la fois vouloir défendre le «&nbsp;vivre ensemble&nbsp;», et reprend plusieurs lubies libérales, dont la réduction de l’écart entre le s…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/judo/augmenter-ses-revenus-en-travaillant-plus-retraite-par-capitalisation-teddy-riner-est-il-le-nouveau-candidat-macroniste-oui"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T13:20:36+00:00",
-      "titre": "Teddy Riner candidat à la présidentielle : c’est bien son droit mais ça n’a pas grand sens",
-      "dek": "On se trompe peut-être par conformisme coupable, mais on imagine mal les Français considérer le champion olympique de judo autrement que comme le «clown» de 2027. Celui qui contribue à animer la campagne, sans en chambouler les grands équilibres.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/teddy-riner-candidat-a-la-presidentielle-cest-bien-son-droit-mais-ca-na-pas-grand-sens-20261110_2LNRM7XNABECDMGFMTNNXVBAGQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T13:16:51+00:00",
-      "titre": "Pétition pour supprimer CNews de l’audiovisuel français classée sans suite : il n’y aura pas de débat à l’Assemblée",
-      "dek": "Le texte qui demande à fermer la chaîne de Vincent Bolloré a été examiné ce mardi en commission des affaires culturelles. Parmi les trois précédentes pétitions à avoir atteint les 500 000 signatures, une seule avait pu être débattue dans l’hémicycle.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/medias/debattue-a-lassemblee-ou-classee-sans-suite-le-sort-de-la-petition-pour-supprimer-cnews-decide-ce-mardi-20261110_XE5MJOFYSJGMNLXQ73XJRPNBTU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T12:45:17+00:00",
-      "titre": "S’il est ceinture noire de judo, «il reste ceinture blanche en politique» : le monde du sport juge la candidature de Teddy Riner «légitime»",
-      "dek": "Ce mardi 10 novembre, lors d’un événement à la Maison de la radio, la ministre des Sports a répondu au «procès en illégitimité» fait au judoka, candidat à l’Élysée en 2027. Amélie Oudéa-Castéra, Marie-Amélie Le Fur et Nikola Karabatic ont eux aussi salué son engagement.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/sil-est-ceinture-noire-de-judo-il-reste-ceinture-blanche-en-politique-le-monde-du-sport-juge-la-candidature-de-teddy-riner-legitime-20261110_LPXY7R53EZBWVPG5UGP3TFL5AE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T12:15:23+00:00",
-      "titre": "Une conseillère régionale porte plainte après avoir été visée par un jet de bouteille d'essence devant un lycée à Chelles, en banlieue parisienne",
-      "dek": "\"On n'est plus sur des revendications lycéennes, on est sur des comportements criminels\", a réagi mardi le ministre de l'Education nationale, Edouard Geffray.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-conseillere-regionale-porte-plainte-apres-avoir-ete-visee-par-un-jet-de-bouteille-d-essence-devant-un-lycee-a-chelles-en-banlieue-parisienne_8276198.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T11:55:56+00:00",
-      "titre": "Syndicats enseignants : « On ne se contentera pas de miettes »",
-      "dek": "Les organisations syndicales dans l’éducation et l’enseignement supérieur, ainsi que les organisations de jeunesse, se mobilisent ce 10 novembre. Caroline Chevé, la secrétaire générale de la FSU regrette le manque de considération du gouvernement à l’égard de la mobilisation soci…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=523676"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T11:29:57+00:00",
-      "titre": "INFO FRANCEINFO. Le RN a obtenu un pré-accord de deux banques européennes pour financer sa campagne pour la présidentielle",
-      "dek": "Le Rassemblement national espère obtenir ce prêt d'ici fin novembre. Le parti a besoin de plus de 10 millions d'euros pour financer sa campagne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/info-franceinfo-le-rn-a-un-obtenu-un-pre-accord-de-deux-banques-europeennes-pour-financer-sa-campagne-pour-la-presidentielle_8276195.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T11:24:59+00:00",
-      "titre": "2027 : le camp Retailleau le pousse à faire une campagne «de pirate» et plus «dirty»",
-      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/2027-le-camp-retailleau-le-pousse-a-faire-une-campagne-de-pirate-et-plus-dirty-20261110_UG6M2NVWYFALXBAGKFRDA65AYI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T11:07:41+00:00",
-      "titre": "Auto-déclaration des arrêts de travail : le gouvernement scandalisé par cette idée de Mélenchon à laquelle il était favorable il y a deux ans",
-      "dek": "Dans son programme pour 2027, La France insoumise propose d’éviter de passer par la case médecin pour les arrêts de courte durée. Décriée, la mesure était pourtant suggérée par la Cour des comptes en 2024.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/auto-declaration-des-arrets-de-travail-le-gouvernement-scandalise-par-cette-idee-de-melenchon-a-laquelle-il-etait-favorable-il-y-a-deux-ans-20261110_RLL67M47OZDTXIMG7WU76LQ7H4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T11:06:32+00:00",
-      "titre": "Les époux Macron déposent une nouvelle plainte aux Etats-Unis contre l’influenceuse Candace Owens",
-      "dek": "De nouvelles poursuites en diffamation ont été déposées le 4 novembre dans le Tennessee où réside la figure de l’extrême droite américaine pro-Trump, qui diffuse outre-Atlantique des théories transphobes au sujet de la première dame.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/police-justice/les-epoux-macron-deposent-une-nouvelle-plainte-aux-etats-unis-contre-linfluenceuse-candace-owens-20261110_7R46P6QXQBA45ETVQFMY72MT44/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T11:05:20+00:00",
-      "titre": "Pétition contre CNews : quelles suites possibles à l’Assemblée nationale ?",
-      "dek": "La pétition demandant la fermeture de la chaîne, qui a recueilli plus d’un million de signatures, sera examinée en commission des affaires culturelles et de l’éducation mardi 10 novembre à 13 heures.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109"
     }
   ]
 }
