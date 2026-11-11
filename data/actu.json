@@ -1,6 +1,237 @@
 {
-  "generated_at": "2026-11-10T17:24:23+00:00",
+  "generated_at": "2026-11-11T00:22:05+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T21:47:30+00:00",
+      "titre": "Au tribunal, le ministère de l’Intérieur n’est pas venu justifier les mesures antiterroristes contre des militants",
+      "dek": "Une audience importante s’est tenue ce mardi 10 novembre au tribunal administratif de Paris. Le juge était saisi d’un recours en annulation de mesures antiterroristes édictées contre des militants de gauche dans le cadre du mouvement social. Le ministère de l’Intérieur n’a pas ju…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=524013"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T21:04:25+00:00",
+      "titre": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
+      "dek": "Kiev a répondu à Jean-Luc Mélenchon. Samedi, le candidat à l'élection présidentielle a défendu le droit des habitants du Donbass à choisir entre l’Ukraine et la Russie, en cas d’accord entre les deux pays. La diplomatie ukrainienne lui rappelle qu’ils ont déjà voté pour l’indépen…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T20:33:30+00:00",
+      "titre": "COP31: le gouvernement français donne à TotalEnergies un accès privilégié aux pourparlers climatiques",
+      "dek": "Quatre émissaires de la multinationale, dont son patron Patrick Pouyanné, ont été accrédités à la COP31 au sein de la délégation française. Les badges onusiens accordés au pétrolier leur permettent d’accéder aux zones réservées aux négociateurs et aux chefs d’État.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/101126/cop31-le-gouvernement-francais-donne-totalenergies-un-acces-privilegie-aux-pourparlers-climatiques"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T20:10:55+00:00",
+      "titre": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027",
+      "dek": "Déjà en lice en 2022, le polémiste plusieurs fois condamné avait fini quatrième du premier tour de l'élection présidentielle, avec 7% des voix. Il avait déjà fait un grand pas vers une candidature en septembre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T20:07:38+00:00",
+      "titre": "Présidentielle 2027 : Eric Zemmour «bien candidat» pour la deuxième fois",
+      "dek": "Après ses 7 % obtenus en 2022, le patron de Reconquête a confirmé ce mardi 10 novembre au «20 heures» de TF1 qu’il retente bien sa chance dans une élection où il se place parmi l’extrême droite la plus radicale qui soit en France.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:55:14+00:00",
+      "titre": "Eric Zemmour confirme sa candidature à l’élection présidentielle",
+      "dek": "Le polémiste d’extrême droite a répété, mardi 10 novembre, sur le plateau du « 20 heures » de TF1, qu’il concourrait une deuxième fois à l’Elysée, au grand dam de ceux qui lui préfèrent sa compagne, Sarah Knafo.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/10/eric-zemmour-confirme-sa-candidature-a-l-election-presidentielle_6808904_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:50:55+00:00",
+      "titre": "«C’est pas si mal!»: l’exécutif s’embourbe pour justifier son rachitique «coup de pouce» au smic",
+      "dek": "Après sa proposition d’augmenter très légèrement le salaire minimum, le gouvernement s’est retrouvé sous le feu des critiques des oppositions, mardi 10 novembre à l’Assemblée nationale. La gauche parlementaire donne déjà le rendez-vous du 17 novembre pour intensifier la mobilisat…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/101126/c-est-pas-si-mal-l-executif-s-embourbe-pour-justifier-son-rachitique-coup-de-pouce-au-smic"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:47:19+00:00",
+      "titre": "Sophie Binet est-elle la première dirigeante de la CGT à n'avoir jamais travaillé dans le privé, comme l'affirme le député RN Jean-Philippe Tanguy ?",
+      "dek": "Sur CNews, le député du Rassemblement national Jean-Philippe Tanguy a déclaré que Sophie Binet était la première dirigeante de la CGT à ne jamais avoir travaillé dans le secteur privé. Pourtant, plusieurs de ses prédécesseurs avaient eux aussi travaillé uniquement dans le public …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/syndicats/sophie-binet-est-elle-la-premiere-dirigeante-de-la-cgt-a-n-avoir-jamais-travaille-dans-le-prive-comme-l-affirme-le-depute-rn-jean-philippe-tanguy_8276849.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:45:00+00:00",
+      "titre": "Budget 2027 : après un passage chaotique à l’Assemblée, les sénateurs prennent le relais",
+      "dek": "DÉCRYPTAGE - Après que l’Assemblée a unanimement rejeté le texte budgétaire pour la première fois de l’histoire de la Ve République, le Sénat va à son tour se saisir du texte.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/budget-2027-apres-un-passage-chaotique-a-l-assemblee-les-senateurs-prennent-le-relais-20261110"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:38:46+00:00",
+      "titre": "Sans rien à proposer pour éteindre la colère, le comité de réforme Parcoursup fait un flop",
+      "dek": "Ils ont quitté la salle soit pour protester contre l’extrême droite, soit pour déplorer l’absence de propositions. Et à la fin, il n’est resté presque plus personne. L’issue du premier comité de réforme Parcoursup, le 9 novembre, en dit long sur la stratégie du gouvernement pour …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/101126/sans-rien-proposer-pour-eteindre-la-colere-le-comite-de-reforme-parcoursup-fait-un-flop"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:33:43+00:00",
+      "titre": "A la Guadeloupe, les dérives de la « Sécu » examinées par la Cour des comptes : 1,2 milliard d’euros perdus, une désorganisation interne et des délais qui s’allongent",
+      "dek": "« Les résultats ne sont pas à la hauteur des besoins des assurés de ce territoire ultramarin marqué par la précarité », estiment les magistrats financiers dans un rapport publié mardi.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/outre-mer/article/2026/11/10/a-la-guadeloupe-les-derives-de-la-secu-examinees-par-la-cour-des-comptes-1-2-milliard-d-euros-perdus-une-desorganisation-interne-et-des-delais-qui-s-allongent_6808903_1840826.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:28:47+00:00",
+      "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+      "dek": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un million de signatures.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T19:00:02+00:00",
+      "titre": "La lettre sur la fertilité bientôt envoyée aux Français·es de 29 ans",
+      "dek": "Tous les Français et Françaises de 29 ans vont recevoir, à partir du 16 novembre, une lettre de l’Assurance maladie pour sensibiliser à la contraception et à la fertilité. Une lettre qui fait partie d’une grande campagne nationale qui avait été annoncée dès janvier 2024 par Emman…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/sante/la-lettre-sur-la-fertilite-bientot-envoyee-aux-francais-es-de-29-ans_8276531.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T18:59:55+00:00",
+      "titre": "Pétition contre CNews: l’Assemblée étouffe, le débat public suffoque",
+      "dek": "Les députés macronistes, de droite et d’extrême droite ont réduit au silence le million de signataires de la pétition demandant la fermeture de la chaîne de Vincent Bolloré. Le texte ne suscitera donc aucun débat dans l’hémicycle. Et finit dans une poubelle, à l’image d’un espace…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/101126/petition-contre-cnews-l-assemblee-etouffe-le-debat-public-suffoque"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T18:49:22+00:00",
+      "titre": "Mobilisations sociales : les plaintes de journalistes pour violences policières se multiplient",
+      "dek": "Des reporters et des photographes se tournent vers la justice après avoir été entravés dans l’exercice de leur métier, voire matraqués par les forces de l’ordre, lors des manifestations de ces dernières semaines à Paris, à Lyon, à Montpellier ou encore à Toulouse.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/mobilisations-sociales-les-plaintes-de-journalistes-pour-violences-policieres-se-multiplient_6808896_3236.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T18:46:16+00:00",
+      "titre": "Monsieur Mélenchon, depuis l’Ukraine, j’ai écouté vos mots avec attention…",
+      "dek": "En s’appuyant sur des propos de Volodymyr Zelensky pour justifier sa vision sur le Donbass, samedi 7 novembre, au Bourget, le leader de LFI se trompe et fait écho aux positions du Kremlin.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/monsieur-melenchon-depuis-lukraine-jai-ecoute-vos-mots-avec-attention-20261110_P4WNSFKNXNDP5JUYHXCQSHWGQQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T18:46:10+00:00",
+      "titre": "Mobilisation lycéenne : «J’ai deux passions : la fanfare, la révolution !»",
+      "dek": "Quelques milliers de personnes ont manifesté dans plusieurs villes de France ce mardi. En Seine-et-Marne, la conseillère régionale Angela Pascoa Dos Santos a reçu sur le torse une bouteille d’essence alors qu’elle tentait une médiation pour que les cours reprennent.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/social/en-direct-mobilisation-sociale-les-lyceens-et-personnels-de-leducation-de-nouveau-appeles-a-manifester-ce-mardi-20261110_F6UT6DKGF5AR7FVVKSR3FEE5PM/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T18:40:07+00:00",
+      "titre": "«Ignorons l’extrême droite, parlons du monde que nous voulons»",
+      "dek": "Après l’attentat raciste, négrophobe et islamophobe de Trappes et de La Verrière le 23 octobre, comment combattre les discours de haine? Dans «À l’air libre», décryptage des responsabilités médiatiques et politiques. Et mode d’emploi pour faire face.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/101126/ignorons-l-extreme-droite-parlons-du-monde-que-nous-voulons"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T18:30:05+00:00",
+      "titre": "Jean-Marie Burguburu, président de la CNCDH : « La dégradation des libertés publiques est très inquiétante »",
+      "dek": "A 81 ans, l’avocat quitte la tête de la Commission nationale consultative des droits de l’homme, qui rend des avis indépendants et formule des recommandations au gouvernement. Après six ans d’exercice, il déplore dans un entretien au « Monde » les attaques contre l’Etat de droit …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/10/jean-marie-burguburu-president-de-la-cncdh-la-degradation-des-libertes-publiques-est-tres-inquietante_6808893_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T18:00:00+00:00",
+      "titre": "Rémi Lefebvre : « Le leadership à gauche de LFI est réel mais fragile »",
+      "dek": "Longtemps spécialiste du PS, le politiste a enquêté pendant dix ans sur En Marche et La France insoumise, deux formations politiques nées avant 2017 et qui ne se voulaient pas, au départ, des partis traditionnels. Il analyse leur évolution respective, en observant notamment la pr…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=523483"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "10 Nov 2026",
+      "date_iso": "2026-11-10T17:56:07+00:00",
+      "titre": "Budget de la « Sécu » 2027 : l’exécutif prépare les esprits à des « efforts supplémentaires »",
+      "dek": "En ouverture des débats au Sénat sur le projet de loi de financement de la Sécurité sociale, le ministre des comptes publics, David Amiel, a déclaré, lundi 9 novembre, qu’il faudrait trouver de nouvelles mesures, s’ajoutant à celles de la copie initiale, pour atteindre l’objectif…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/10/budget-de-la-secu-2027-l-executif-prepare-les-esprits-a-des-efforts-supplementaires_6808887_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -30,7 +261,7 @@
       "date": "10 Nov 2026",
       "date_iso": "2026-11-10T17:10:41+00:00",
       "titre": "La députée LFI Farida Amrani visée et blessée par des tirs de mortier d’artifice à Évry",
-      "dek": "La député LFI Farida Amrani revient auprès de «Mediapart»\" \"sur les tirs de mortier d’artifice dont elle a été victime à Évry-Courcouronnes, en Essonne, samedi 7 novembre. Les images de vidéosurveillance révèlent la violence de cette agression.",
+      "dek": "La députée LFI Farida Amrani revient auprès de «Mediapart»\" \"sur les tirs de mortier d’artifice dont elle a été victime à Évry-Courcouronnes, en Essonne, samedi 7 novembre. Les images de vidéosurveillance révèlent la violence de cette agression.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/101126/la-deputee-lfi-farida-amrani-visee-et-blessee-par-des-tirs-de-mortier-d-artifice-evry"
     },
@@ -55,17 +286,6 @@
       "dek": "Symbole de la victoire des minorités, le futur sénateur du Michigan s’est moqué de J.D. Vance et de Trump. Mais avec la nomination de Stephen Miller à la tête de son administration, le président affaibli des États-Unis entend bien de continuer à faire peser une atmosphère de guer…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=523902"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T16:10:30+00:00",
-      "titre": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-      "dek": "Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un million de signatures.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html#xtor=RSS-3-%5Bpolitique%5D"
     },
     {
       "tag": "Gauche",
@@ -330,226 +550,6 @@
       "dek": "La pétition demandant la fermeture de la chaîne, qui a recueilli plus d’un million de signatures, sera examinée en commission des affaires culturelles et de l’éducation mardi 10 novembre à 13 heures.",
       "avis": null,
       "lien": "https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T05:05:19+00:00",
-      "titre": "Infox transphobe sur Brigitte Macron : le couple présidentiel porte plainte dans le Tennessee contre Candace Owens",
-      "dek": "Brigitte et Emmanuel Macron relancent leur offensive contre l’influenceuse américaine, la visant cette fois directement dans son Etat d’origine. Après une précédente plainte déposée aux Etats-Unis en 2025, un magistrat du Delaware avait estimé que la podcasteuse ne pouvait être t…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/10/infox-transphobe-sur-brigitte-macron-le-couple-presidentiel-porte-plainte-dans-le-tennessee-contre-candace-owens_6808788_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T05:04:00+00:00",
-      "titre": "Conférence sociale : l’exécutif joue ses dernières cartes",
-      "dek": "Après avoir remis sur le devant de la scène les organisations syndicales, le gouvernement dispose de marges de manœuvre limitées au vu de la situation budgétaire.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/conference-sociale-lexecutif-joue-ses-dernieres-cartes-20261110_IFHCGMVSZJFPZIF6UQPAY55QFU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T04:58:37+00:00",
-      "titre": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
-      "dek": "Malgré le retard pris dans l'apprentissage des programmes, le gouvernement ferme pour l'instant la porte à un report des épreuves. Il plaide plutôt pour l'instauration de cours supplémentaires.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T22:06:32+00:00",
-      "titre": "Cameroun : après des reports, le président, Paul Biya, convoque des élections législatives et municipales le 7 février",
-      "dek": "Paul Biya, 93 ans et doyen mondial des chefs d’Etat, a été réélu président du Cameroun pour la huitième fois en 2025. Cette dernière élection, contestée par l’opposition, avait été réprimée dans le sang.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/09/cameroun-apres-des-reports-le-president-paul-biya-convoque-des-elections-legislatives-et-municipales-le-7-fevrier_6808705_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T22:00:45+00:00",
-      "titre": "Mobilisation lycéenne : à Matignon, la première réunion sur la réforme de Parcoursup tourne court",
-      "dek": "Plusieurs responsables syndicaux ont quitté la réunion, dénonçant notamment la présence du syndicat étudiant UNI, ainsi que celle de Thierry Tesson, député RN du Nord, et de Gaëlle Frontoni, sénatrice UDR des Alpes-Maritimes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/09/mobilisation-lyceenne-a-matignon-la-premiere-reunion-sur-la-reforme-de-parcoursup-tourne-court_6808704_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T21:44:40+00:00",
-      "titre": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
-      "dek": "\"La France est le pays le moins raciste au monde\", c’est ce qu’a affirmé Marine Le Pen à la télévision américaine. La cheffe de file du Rassemblement national et candidate à l'élection présidentielle assure aussi qu’il n’y a pas de discriminations dans notre pays. Mais sur quoi p…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T20:18:44+00:00",
-      "titre": "Un tee-shirt en solidarité avec la Palestine révèle les tensions autour d’un collège tarnais",
-      "dek": "Dans le Tarn, la décision d’une principale de collège d’exclure un élève pendant huit jours au seul motif qu'il avait porté un tee-shirt floqué «Intifada 48» a provoqué la colère de nombreux parents d’élèves. L’incident met en lumière les dysfonctionnements qui s’accumulent dans …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/091126/un-tee-shirt-en-solidarite-avec-la-palestine-revele-les-tensions-autour-d-un-college-tarnais"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T20:18:38+00:00",
-      "titre": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale",
-      "dek": "En cas de confirmation du jugement rendu par le tribunal administratif de Rouen, de nouvelles élections devront être organisées au plus tard début août 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:52:05+00:00",
-      "titre": "La revalorisation du smic par Lecornu, une considération méprisable accordée du bout des doigts",
-      "dek": "En actant un «coup de pouce» pour les plus bas salaires ce lundi 9 novembre, le gouvernement peut se dire qu’il avance, mais cette réponse n’est pas à la hauteur des maux et des angoisses exprimées dans la rue ces dernières semaines.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/la-revalorisation-du-smic-par-lecornu-une-consideration-meprisable-accordee-du-bout-des-doigts-20261109_MKSWTKOO3BHVVE65UVUVTIWHUM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:41:02+00:00",
-      "titre": "A Chartres, Edouard Philippe persiste après sa sortie sur la «surreprésentation» de jeunes «issus de l’immigration» dans les pillages du 17 octobre",
-      "dek": "Interpellé sur ses déclarations jugées racistes, lors d’un déplacement dans l’Eure-et-Loir, ce lundi 9 novembre, le candidat Horizons a persévéré en affirmant qu’«il y a un sujet de cohésion de la nation». Il a aussi répliqué à Marine Le Pen qui assure qu’il «n’y a pas de discrim…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/a-chartres-edouard-philippe-persiste-apres-sa-sortie-sur-la-surrepresentation-de-jeunes-issus-de-limmigration-dans-les-pillages-du-17-octobre-20261109_PLCKPNN3UVHRJFSRVS4KFFZMP4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:31:10+00:00",
-      "titre": "Revalorisation du smic : un petit geste pour une grosse colère",
-      "dek": "Comme attendu, le gouvernement a annoncé ce lundi 9 novembre un «coup de pouce» de 1,6 % du smic dès le 1er décembre. Insuffisante pour les syndicats, la mesure s’accompagne d’une initiative pour pousser les branches à négocier de meilleurs salaires.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/revalorisation-du-smic-un-petit-geste-pour-une-grosse-colere-20261109_C3NK5XJXCREPFJQHASGSNWO4XE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:29:54+00:00",
-      "titre": "Mobilisation lycéenne : une grande partie des organisations lycéennes et étudiantes ont quitté Matignon pendant la réunion sur Parcoursup. Retrouvez notre direct",
-      "dek": "Parmi les organisations de jeunesse, seuls Renouveau lycéen, l’Union nationale interuniversitaire et quelques élus du Conseil national de la vie lycéenne ont choisi de rester dans une réunion à laquelle participait le premier ministre, selon un participant auprès de l’Agence Fran…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-mobilisation-lyceenne-au-lendemain-des-discussions-avec-sebastien-lecornu-lyceens-et-etudiants-sont-appeles-a-manifester-mardi_6808627_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:25:20+00:00",
-      "titre": "«Il n’y a pas de discriminations» en France: Marine Le Pen persiste dans la manipulation de la vérité",
-      "dek": "La candidate à l’élection présidentielle du RN a tenu ces propos auprès de la chaîne états-unienne CBS, lors d’un entretien diffusé après l’attentat raciste de Trappes. Un mensonge démenti par des années de rapports indépendants.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/091126/il-n-y-pas-de-discriminations-en-france-marine-le-pen-persiste-dans-la-manipulation-de-la-verite"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:19:38+00:00",
-      "titre": "À Brest, la police saisit les trombinoscopes des élèves de la cité scolaire Kerichen",
-      "dek": "Étendue du fichage et proportion des moyens: ces deux questions restent entières après que la police, sur ordre du parquet, a saisi les trombinoscopes des trois lycées de la cité scolaire Kerichen, à Brest. Potentiellement, 4 500 élèves et étudiants sont concernés.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/091126/brest-la-police-saisit-les-trombinoscopes-des-eleves-de-la-cite-scolaire-kerichen"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:17:19+00:00",
-      "titre": "Dans l’Hérault, la préfecture protège les pêcheurs plus que la loi",
-      "dek": "Alors que la loi exige le respect de strictes zones de pêche en Méditerranée, la préfecture de l’Hérault interdit à la police des mers de contrôler les navires partis trop loin, selon les informations de «Mediapart». Le but: ne pas rallumer la colère d’une profession en crise.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/091126/dans-l-herault-la-prefecture-protege-les-pecheurs-plus-que-la-loi"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:15:21+00:00",
-      "titre": "VIDEO. \"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
-      "dek": "Auprès de France 5, le président de la République a salué \"un grand champion\". Plus tôt lundi, le judoka français a pris de court la classe politique en se lançant dans la course à l'Elysée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:13:41+00:00",
-      "titre": "Coup de pouce au smic: le gouvernement fracture l’intersyndicale, pas la mobilisation sociale",
-      "dek": "Les annonces issues de la conférence sociale sur le pouvoir d’achat divisent l’intersyndicale. Si l’augmentation de 1,6% du smic est jugée insuffisante par tous, la CFDT salue «une dynamisation des négociations», quand la CGT n’y voit que «des miettes» et appelle à poursuivre la …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/091126/coup-de-pouce-au-smic-le-gouvernement-fracture-l-intersyndicale-pas-la-mobilisation-sociale"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T19:00:00+00:00",
-      "titre": "Le maire de Fréjus, David Rachline, interdit la chasse et le foie gras et suscite l’ire du RN",
-      "dek": "L’ancien numéro trois du Rassemblement national, écarté des instances dirigeantes, promeut dans sa ville le végétarisme et un autre choix que le foie gras. Une atteinte à « l’art de vivre à la française », selon certains élus d’extrême droite.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/09/le-maire-de-frejus-david-rachline-interdit-la-chasse-et-le-foie-gras-et-suscite-l-ire-du-rn_6808696_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T18:45:07+00:00",
-      "titre": "Coup de pouce au smic : des «miettes» forcément bienvenues mais une goutte d’eau face à la colère ambiante",
-      "dek": "Comment 23,65 petits euros par mois pour les seuls travailleurs au smic, qui ne vont évidemment pas cracher dessus, pourraient-ils être au niveau ? Porter le salaire minimum à 1502 euros net au 1er décembre ne pourra apaiser une colère qui vient solder dix ans de macronisme, entr…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/coup-de-pouce-au-smic-des-miettes-forcement-bienvenues-mais-une-goutte-deau-face-a-la-colere-ambiante-20261109_S3EUWVCB7RGBJHJFGWGG3QWSVQ/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "09 Nov 2026",
-      "date_iso": "2026-11-09T18:04:00+00:00",
-      "titre": "« Se faire passer pour l’arbitre des élégances » : Laurent Wauquiez et la stratégie d’attente",
-      "dek": "DÉCRYPTAGE - Le député de Haute-Loire exhorte les prétendants à l’Élysée issus de la droite et du centre à s’entendre sur une « méthode » en vue d’une « candidature unique » avant Noël.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/se-faire-passer-pour-l-arbitre-des-elegances-laurent-wauquiez-et-la-strategie-d-attente-20261109"
     }
   ]
 }
