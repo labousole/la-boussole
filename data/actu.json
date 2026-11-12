@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-11-11T21:41:26+00:00",
+  "generated_at": "2026-11-12T05:16:23+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "12 Nov 2026",
+      "date_iso": "2026-11-12T05:04:08+00:00",
+      "titre": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+      "dek": "L'idée, portée par l'ancien Premier ministre Gabriel Attal, séduit plusieurs de ses concurrents. Mais alors qu'Edouard Philippe refuse toujours d'y participer, les modalités d'un éventuel scrutin restent encore floues.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Nov 2026",
+      "date_iso": "2026-11-12T05:00:33+00:00",
+      "titre": "« Véritable punition collective, le projet de loi “casseur-payeur” dissuadera de manifester et viendra museler l’expression de toute opposition au pouvoir »",
+      "dek": "S’il était définitivement adopté, le texte inscrirait dans la loi le basculement de notre pays vers l’autoritarisme, s’alarment, dans une tribune au « Monde », les avocats du collectif Colère noire, aux côtés de personnalités, parmi lesquelles l’acteur Swann Arlaud, la politiste …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/12/veritable-punition-collective-le-projet-de-loi-casseur-payeur-dissuadera-de-manifester-et-viendra-museler-l-expression-de-toute-opposition-au-pouvoir_6809055_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Nov 2026",
+      "date_iso": "2026-11-12T05:00:08+00:00",
+      "titre": "Présidentielle 2027 : Bruno Retailleau propose un calendrier pour la primaire et accentue la pression sur Edouard Philippe",
+      "dek": "Le candidat Les Républicains propose de départager les postulants à l’Elysée les 31 janvier et 7 février. Une première réunion doit avoir lieu mardi pour fixer les modalités. Si Gabriel Attal et David Lisnard seront représentés par leurs directeurs de campagne, le siège du représ…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-bruno-retailleau-propose-un-calendrier-pour-la-primaire-et-accentue-la-pression-sur-edouard-philippe_6809051_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "12 Nov 2026",
+      "date_iso": "2026-11-12T05:00:00+00:00",
+      "titre": "«Edouard Philippe va être obligé de céder» : à droite, la question de la primaire devient centrale",
+      "dek": "A cinq mois du premier tour, Gabriel Attal et Bruno Retailleau tentent de contraindre le maire du Havre à une primaire de la droite et du centre. Le candidat Horizons refuse un tel mode de départage.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/edouard-philippe-va-etre-oblige-de-ceder-a-droite-la-question-de-la-primaire-devient-centrale-20261112_P5EEAIDSWVEKXASNXECZJBSBIA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "12 Nov 2026",
+      "date_iso": "2026-11-12T01:18:19+00:00",
+      "titre": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
+      "dek": "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, interpelle le syndicat.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T22:53:01+00:00",
+      "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+      "dek": "Tout comme le président du Conseil constitutionnel Richard Ferrand mi-octobre, ils estiment irrégulière la proposition phare du programme du RN.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "11 Nov 2026",
+      "date_iso": "2026-11-11T22:41:11+00:00",
+      "titre": "DIRECT. Cérémonie du 11-Novembre : Sébastien Lecornu défend l'instauration d'une cérémonie de l'école au lycée, \"un temps de concorde\" nécessaire",
+      "dek": "Les élèves du CM1 à la terminale participeront désormais tous les ans, autour du 11-Novembre, à un \"temps mémoriel\" en hommage à \"tous les Morts pour la France\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -22,17 +99,6 @@
       "dek": "Le président de Reconquête a officialisé sa candidature à l'Elysée. Concurrencé par l'émergence à droite de David Lisnard, il aura besoin de l'aide de sa compagne Sara Knafo, très populaire au sein du mouvement.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/candidats/elle-va-apporter-son-capital-popularite-quel-sera-le-role-de-sarah-knafo-aupres-d-eric-zemmour-dans-la-campagne-pour-la-presidentielle_8269433.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "11 Nov 2026",
-      "date_iso": "2026-11-11T20:27:29+00:00",
-      "titre": "DIRECT. Cérémonie du 11-Novembre : Sébastien Lecornu défend l'instauration d'une cérémonie de l'école au lycée, \"un temps de concorde\" nécessaire",
-      "dek": "Les élèves du CM1 à la terminale participeront désormais tous les ans, autour du 11-Novembre, à un \"temps mémoriel\" en hommage à \"tous les Morts pour la France\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-%5Bpolitique%5D"
     },
     {
       "tag": "Politique",
@@ -484,72 +550,6 @@
       "dek": "Si ce n’est évidemment pas aux parlementaires de décider si une chaîne de télévision à le droit d’exister, ils auraient pu débattre de la bonne application des lois sur l’Arcom ou celles qui encadrent la liberté d’expression.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/petition-contre-cnews-classee-sans-suite-loccasion-manquee-des-deputes-20261111_GYQYWRYHRFF5DIE5OI4W4RJPQI/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T21:47:30+00:00",
-      "titre": "Au tribunal, le ministère de l’Intérieur n’est pas venu justifier les mesures antiterroristes contre des militants",
-      "dek": "Une audience importante s’est tenue ce mardi 10 novembre au tribunal administratif de Paris. Le juge était saisi d’un recours en annulation de mesures antiterroristes édictées contre des militants de gauche dans le cadre du mouvement social. Le ministère de l’Intérieur n’a pas ju…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=524013"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T21:04:25+00:00",
-      "titre": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
-      "dek": "Kiev a répondu à Jean-Luc Mélenchon. Samedi, le candidat à l'élection présidentielle a défendu le droit des habitants du Donbass à choisir entre l’Ukraine et la Russie, en cas d’accord entre les deux pays. La diplomatie ukrainienne lui rappelle qu’ils ont déjà voté pour l’indépen…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T20:33:30+00:00",
-      "titre": "COP31: TotalEnergies a été accrédité au sein de la délégation française",
-      "dek": "Quatre émissaires de la multinationale, dont son patron Patrick Pouyanné, ont été enregistrés à la COP31 par le gouvernement français. Le PDG ne s’y déplacera toutefois pas en personne. Les badges onusiens accordés au groupe pétrolier leur permettent d’accéder à des zones réservé…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/101126/cop31-totalenergies-ete-accredite-au-sein-de-la-delegation-francaise"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T20:33:30+00:00",
-      "titre": "COP31: le gouvernement français donne à TotalEnergies un accès privilégié aux pourparlers climatiques",
-      "dek": "Quatre émissaires de la multinationale, dont son patron Patrick Pouyanné, ont été accrédités à la COP31 au sein de la délégation française. Les badges onusiens accordés au pétrolier leur permettent d’accéder aux zones réservées aux négociateurs et aux chefs d’État.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/101126/cop31-le-gouvernement-francais-donne-totalenergies-un-acces-privilegie-aux-pourparlers-climatiques"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T20:10:55+00:00",
-      "titre": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027",
-      "dek": "Déjà en lice en 2022, le polémiste plusieurs fois condamné avait fini quatrième du premier tour de l'élection présidentielle, avec 7% des voix. Il avait déjà fait un grand pas vers une candidature en septembre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "10 Nov 2026",
-      "date_iso": "2026-11-10T20:07:38+00:00",
-      "titre": "Présidentielle 2027 : Eric Zemmour «bien candidat» pour la deuxième fois",
-      "dek": "Après ses 7 % obtenus en 2022, le patron de Reconquête a confirmé ce mardi 10 novembre au «20 heures» de TF1 qu’il retente bien sa chance dans une élection où il se place parmi l’extrême droite la plus radicale qui soit en France.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-eric-zemmour-bien-candidat-pour-la-deuxieme-fois-20261110_XPLKJUN3CZEUBK5R6SQAA42ONY/"
     }
   ]
 }
