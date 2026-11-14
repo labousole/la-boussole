@@ -1,27 +1,203 @@
 {
-  "generated_at": "2026-11-14T11:53:32+00:00",
+  "generated_at": "2026-11-14T19:38:26+00:00",
   "articles": [
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T19:11:26+00:00",
+      "titre": "«Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris",
+      "dek": "REPORTAGE - Pour son deuxième déplacement de campagne, Teddy Riner a arpenté pendant plus de trois heures les allées du salon du Made in France, à Paris.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/je-suis-un-pur-produit-francais-le-candidat-teddy-riner-s-offre-un-premier-bain-de-foule-au-salon-du-made-in-france-a-paris-20261114"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T19:05:27+00:00",
+      "titre": "Présidentielle : au salon du Made in France, Teddy Riner coupe le cordon avec Macron, mais ne donne toujours pas de programme",
+      "dek": "Le quintuple champion olympique de judo a fait le plein de com ce samedi 14 novembre au Parc des expositions de Paris, pour son troisième déplacement depuis son annonce surprise de candidature.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-au-salon-du-made-in-france-teddy-riner-coupe-le-cordon-avec-macron-mais-ne-donne-toujours-pas-de-programme-20261114_CJ3ZTFA4P5A35EHP75BUXHTZXU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T19:00:04+00:00",
+      "titre": "Primaire à droite : au tour de Gérard Larcher de demander une réunion entre candidats",
+      "dek": "Le président LR du Sénat propose aux candidats une réunion «dans les meilleurs délais» pour évoquer une «méthode de départage» qui aboutirait à une candidature unique. La pression s’accentue sur Edouard Philippe, qui refuse de participer à une primaire.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/primaire-a-droite-au-tour-de-gerard-larcher-de-demander-une-reunion-entre-candidats-20261114_GEGE46CXONGIDOR67OIMO4SHYE/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T18:25:06+00:00",
+      "titre": "« Je cherche la pâte humaine » : Catherine Nay, l’indétrônable romancière du pouvoir",
+      "dek": "PORTRAIT - La grande voix d’Europe 1 poursuit son exploration des passions du pouvoir avec un livre consacré à Emmanuel Macron, Ce pays dont le prince est un enfant (Plon). Derrière l’allure souveraine et les traits mordants, une journaliste amoureuse du romanesque que ni les suc…",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/je-cherche-la-pate-humaine-catherine-nay-l-indetronable-romanciere-du-pouvoir-20261114"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T11:36:49+00:00",
-      "titre": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
-      "dek": "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique. Un nouveau cadre qui fait réagir les généralistes et l…",
+      "date_iso": "2026-11-14T18:16:35+00:00",
+      "titre": "Présidentielle 2027 : Gérard Larcher invite les candidats de la droite et du centre à une réunion pour arrêter une « méthode de départage »",
+      "dek": "L’appel du président du Sénat s’adresse directement aux candidats, et son périmètre exclut Eric Zemmour (Reconquête !) et Raphaël Glucksmann (Parti socialiste et Place publique), selon son entourage.",
       "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html"
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T18:00:00+00:00",
+      "titre": "“On représente le capitalisme” : peut-on influencer sans prendre position ? Avec Ogee | SCROLL",
+      "dek": "Face à l'inflation, aux mobilisations sociales et à la montée de l'extrême droite, les créateurs de contenu peuvent-ils encore rester silencieux ? Ogee, influenceuse et chanteuse, dénonce l'hypocrisie de certains influenceurs déconnectés de la réalité, assume sa propre remise en …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/on-represente-le-capitalisme-peut-on-influencer-sans-prendre-position-avec-ogee-scroll-2"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T17:02:06+00:00",
+      "titre": "Aux midterms, la rhétorique antiwoke du camp Maga s’est enrayée",
+      "dek": "Certains ont lu le résultat des élections de mi-mandat aux États-Unis comme une défaite du «wokisme», au bénéfice des bons vieux enjeux économiques. Mais cette grille d’analyse est loin de rendre compte de la complexité du paysage politique de 2026.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/141126/aux-midterms-la-rhetorique-antiwoke-du-camp-maga-s-est-enrayee"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T17:00:16+00:00",
+      "titre": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
+      "dek": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’é…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T16:29:53+00:00",
+      "titre": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale de la jeunesse",
+      "dek": "Des manifestations se sont tenues samedi dans toute la France, avec des revendications multiples, contre la vie chère, contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre, pour la protection des enfants ou encore en faveur de moyen…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T16:07:18+00:00",
+      "titre": "Hongrie: l’agence anticorruption déterre le butin d’un ministre d’Orbán dans une forêt",
+      "dek": "Créée cet été, la nouvelle agence anticorruption remporte une victoire marquante contre l’élite déchue de Viktor Orbán, rattrapée dans plusieurs affaires depuis sa défaite aux élections ce printemps. Le frère de l’ancien premier ministre, quant à lui, dort en prison.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/141126/hongrie-l-agence-anticorruption-deterre-le-butin-d-un-ministre-d-orban-dans-une-foret"
     },
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T11:25:30+00:00",
+      "date_iso": "2026-11-14T16:00:02+00:00",
+      "titre": "Le grand oral des candidats sur franceinfo",
+      "dek": "À l'occasion de la présidentielle 2027, franceinfo a organisé, jeudi 12 novembre, un grand oral des candidats, sur les services publics. Une journée exceptionnelle en direct et en public au studio 104 de la Maison de la radio et de la musique.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/le-grand-oral-des-candidats-sur-franceinfo_8261240.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T15:14:25+00:00",
+      "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
+      "dek": "Souvent placé à la troisième place dans les sondages, mais assez loin derrière Marine Le Pen et Jean-Luc Mélenchon, le candidat PS-Place Publique doit maintenant combler son retard sur le candidat LFI. Un tract sera largement diffusé ce week-end, contenant dix propositions phares…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T14:47:45+00:00",
+      "titre": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
+      "dek": "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle, au salon du Made in France. Le chef de l’Etat s’était félicité de sa candidature au début de la semaine, estimant que cela ne pouvait « qu’apporter au pays ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T14:08:11+00:00",
       "titre": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
       "dek": "Le président français doit y signer une dizaine d'accords dans divers domaines (IA, énergie, santé, patrimoine...) et participer dimanche et lundi au XXe sommet de la Francophonie.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie_8282396.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T14:00:00+00:00",
+      "titre": "« Je vis en hypervigilance constante » : Sandrine Rousseau sur une liste du terroriste de Trappes",
+      "dek": "De l'absence de réaction des autorités à la banalisation des discours d'extrême droite dans les médias, en passant par le rejet de la pétition contre CNews et son quotidien sous haute tension, Sandrine Rousseau (députée Les Ecologistes) analyse les mécanismes de la violence polit…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/attentat-raciste-de-trappes/je-vis-en-hypervigilance-constante-sandrine-rousseau-sur-une-liste-du-terroriste-de-trappes"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T13:30:09+00:00",
+      "titre": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
+      "dek": "Les différences entre les candidats des partis de gouvernement à l’élection présidentielle tiennent plus au style des personnes et au discours qu’à de réelles divergences politiques, note la politiste dans un entretien au « Monde ». Les partis d’extrême gauche ou droite, selon el…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T13:04:14+00:00",
+      "titre": "Arnaud Viviant, chroniqueur du « Masque et la Plume », quitte l’émission en accusant France Inter de lui avoir « interdit de conseiller » le livre de Rima Hassan",
+      "dek": "Le critique annonce son départ de l’émission, « la mort dans l’âme, après vingt-six ans ». « Pas de promotion pour les livres écrits par des élus en fonction », a réagi la radio, en condamnant les menaces et insultes envers la productrice de l’émission, Rebecca Manzoni.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/arnaud-viviant-chroniqueur-du-masque-et-la-plume-annonce-quitter-l-emission-de-france-inter_6810280_3236.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T11:36:44+00:00",
+      "titre": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
+      "dek": "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique. Un nouveau cadre qui fait réagir les généralistes et l…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html"
     },
     {
       "tag": "Politique",
@@ -99,17 +275,6 @@
       "dek": "La sénatrice sénatrice du Rassemblement national est en charge de la collecte des parrainages du parti d'extrême droite pour la présidentielle.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-nous-manque-encore-une-centaine-de-parrainages-pour-la-candidature-a-la-presidentielle-de-marine-le-pen-chiffre-edwige-diaz_8282216.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T08:19:06+00:00",
-      "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
-      "dek": "Souvent placé troisième place dans les sondages, mais assez loin derrière Marine Le Pen et Jean-Luc Mélenchon, le candidat PS-Place Publique doit maintenant combler son retard sur le candidat LFI. Un tract sera largement diffusé ce week-end, contenant dix propositions phares de s…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D"
     },
     {
       "tag": "Politique",
@@ -385,171 +550,6 @@
       "dek": "Le quintuple champion olympique de judo s’est invité lundi 9 novembre dans la course à l’Elysée. Entre soupçons de pilotage par le gouvernement, équipe de campagne qui s’effrite déjà et sondages en roue libre, récit d’un démarrage chaotique.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/teddy-ce-nest-pas-quelquun-de-teleguide-dans-les-coulisses-de-limprobable-lancement-de-campagne-presidentielle-de-riner-20261113_C2LFBFCUPVGYLA3MTH4NUYLAJI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:47:41+00:00",
-      "titre": "\"Franc-Jeu\". Avec Michel-Edouard Leclerc",
-      "dek": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 15 novembre 2026, il reçoit Michel-Edouard Leclerc, président du c…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-michel-edouard-leclerc_8279501.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:47:34+00:00",
-      "titre": "17 octobre, primaire à droite, CNews… Le grand entretien de Nicolas Sarkozy au Figaro",
-      "dek": "ENTRETIEN EXCLUSIF - Inquiet du « sentiment inédit d’impuissance de l’État » face aux émeutes, l’ancien président n’exclut pas le « tsunami » d’une crise financière avant la présidentielle. Il appelle par ailleurs son camp à un « large » rassemblement de la droite et du centre en…",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/17-octobre-primaire-a-droite-cnews-le-grand-entretien-de-nicolas-sarkozy-au-figaro-20261113"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:45:57+00:00",
-      "titre": "Teddy Riner président : la dernière carte de Macron | BANGER 💥 (Yérim Sar)",
-      "dek": "Dans sa chronique pour l'Huma, Yérim Sar décrypte l'actu à coup de plume. Cette semaine, il s'attaque à l'invité surprise de cette télé-réalité grandeur nature qu'est la présidentielle : Teddy Riner. Opération de com’ de la macronie, galerie des candidats les plus lunaires de l'É…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/election-presidentielle/teddy-riner-president-la-derniere-carte-de-macron-banger-%f0%9f%92%a5-yerim-sar"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:43:02+00:00",
-      "titre": "Israël : Gadi Eisenkot dénonce une « campagne raciste » de Benyamin Nétanyahou contre la minorité arabe",
-      "dek": "Les partis arabes israéliens, qui comptent 19 députés depuis les dernières élections législatives, sont au cœur des négociations pour former le futur gouvernement. La prise de position de M. Eisenkot est inhabituelle de la part d’un responsable politique juif majeur.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/13/israel-gadi-eisenkot-denonce-une-campagne-raciste-de-benyamin-netanyahou-contre-la-minorite-arabe_6809358_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:30:06+00:00",
-      "titre": "Une démocratie vit mieux avec des arguments qu’avec des remparts",
-      "dek": "Les appels à interdiction émaillant le champ politique et médiatique ces dernières semaines sont le signe d’une démocratie malade, estime Matthieu Goar, l’un des chefs du service Politique du « Monde ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/13/une-democratie-vit-mieux-avec-des-arguments-qu-avec-des-remparts_6809355_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:15:52+00:00",
-      "titre": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
-      "dek": "\"Le gouvernement refuse toujours de débloquer les moyens budgétaires (…) pour répondre à la perte continue de pouvoir d'achat des agents\", déplore la troisième force syndicale chez les fonctionnaires, après une réunion avec le Premier ministre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:07:02+00:00",
-      "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
-      "dek": "A l’issue d’une réunion à Matignon, vendredi 13 novembre, les syndicats ont dénoncé des annonces « en complet décalage avec l’urgence salariale et la colère sociale ». Dans leur viseur, notamment : le refus du gouvernement de dégeler la valeur du point d’indice. La CFDT a décidé …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T15:22:19+00:00",
-      "titre": "CRS blessés: le fichier interne qui dégonfle le bilan du ministre",
-      "dek": "Laurent Nuñez brandit volontiers le nombre de policiers blessés pour justifier le durcissement du maintien de l’ordre face aux mobilisations sociales. Un fichier interne des CRS, que «Mediapart» s’est procuré, raconte une autre histoire: sur 1 233 agents blessés en octobre, 1 167…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/131126/crs-blesses-le-fichier-interne-qui-degonfle-le-bilan-du-ministre"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T15:21:08+00:00",
-      "titre": "Les syndicats de fonctionnaires sortent remontés de Matignon et maintiennent l’appel à la grève le 17 novembre",
-      "dek": "L’intersyndicale de la fonction publique appelle à la grève et à la mobilisation après une réunion avec Sébastien Lecornu vendredi. Le premier ministre a seulement annoncé l’ouverture d’une discussion d’un mois pour revaloriser les bas salaires et n’augmentera pas le point d’indi…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/fil-dactualites/131126/les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-et-maintiennent-l-appel-la-greve-le"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T15:15:00+00:00",
-      "titre": "Le policier à l’avocate : « Votre client, je vais le détruire »",
-      "dek": "Alors qu’il se rendait en cours, Jean-Michel*, lycéen, a été placé en garde à vue, où il a vécu des humiliations. Son téléphone, qu’il utilise pour aider sa mère dans ses démarches administratives, a été placé sous scellé. Une « punition » à son choix de garder le silence, un dro…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=524847"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T14:37:11+00:00",
-      "titre": "Mobilisation du 14 novembre : la Préfecture de police de Paris redoute une manifestation « à forte coloration antipolice »",
-      "dek": "Une note indique des risques de troubles à l’ordre public samedi, liés notamment à l’opposition au projet de loi sur la présomption d’usage légitime des armes par les forces de l’ordre qui arrive au Sénat le 19 novembre, et à la tenue du procès des policiers qui ont passé à tabac…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/13/mobilisation-du-14-novembre-la-prefecture-de-police-de-paris-redoute-une-manifestation-a-forte-coloration-anti-police_6809334_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T14:30:00+00:00",
-      "titre": "Pour les syndicats, Sébastien Lecornu « jette de l’huile sur le feu » en accusant les professeurs de « complicité » sur les violences",
-      "dek": "Les syndicats de l’enseignement dénoncent ce vendredi 13&nbsp;novembre les propos du premier ministre qui jette l’opprobre sur l’Éducation nationale, rendant certains de ses employés coresponsables des violences, alors que le mouvement lycéen se poursuit faute de réponse aux reve…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/education-nationale/pour-les-syndicats-sebastien-lecornu-jette-de-lhuile-sur-le-feu-en-accusant-les-professeurs-de-complicite-sur-les-violences"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T14:27:12+00:00",
-      "titre": "Violences dans les lycées : les syndicats de l’éducation nationale dénoncent les propos de Sébastien Lecornu sur de possibles « complicités »",
-      "dek": "Les syndicats, en rappelant leur devoir de neutralité, fustigent les propos du premier ministre et l’accusent d’attiser les tensions dans une situation déjà tendue.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/lycee/article/2026/11/13/violences-dans-les-lycees-les-syndicats-de-l-education-nationale-denoncent-les-propos-de-sebastien-lecornu-sur-de-possibles-complicites_6809333_5019416.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T14:18:32+00:00",
-      "titre": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen",
-      "dek": "Au moins 40 membres du personnel de l’Éducation nationale auraient fait preuve de complicité lors des violences en marge du mouvement lycéen, a avancé, jeudi 12 novembre, le Premier ministre, Sébastien Lecornu. Il souhaite que ces personnes soient poursuivies, provoquant la colèr…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T14:00:00+00:00",
-      "titre": "De l’éducation à la police : les propositions des candidats pour les services publics",
-      "dek": "Ce jeudi 12 novembre, France Info organisait une journée spéciale consacrée aux propositions des candidats à la présidentielle concernant les services publics. Décryptage des principales annonces des aspirants présidents sur cette question fondamentale avec Aurélien Soucheyre et …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/education/de-leducation-a-la-police-les-propositions-des-candidats-pour-les-services-publics"
     }
   ]
 }
