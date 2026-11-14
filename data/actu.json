@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-11-14T19:38:26+00:00",
+  "generated_at": "2026-11-14T23:33:42+00:00",
   "articles": [
     {
       "tag": "Droite",
       "color": "#3A5A8C",
       "source": "Le Figaro – Politique",
       "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T19:11:26+00:00",
+      "date_iso": "2026-11-14T20:55:06+00:00",
       "titre": "«Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris",
       "dek": "REPORTAGE - Pour son deuxième déplacement de campagne, Teddy Riner a arpenté pendant plus de trois heures les allées du salon du Made in France, à Paris.",
       "avis": null,
       "lien": "https://www.lefigaro.fr/elections/presidentielles/je-suis-un-pur-produit-francais-le-candidat-teddy-riner-s-offre-un-premier-bain-de-foule-au-salon-du-made-in-france-a-paris-20261114"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T20:53:06+00:00",
+      "titre": "Michel Destot, ancien maire PS de Grenoble et député de l’Isère, est mort",
+      "dek": "Elu maire en 1995, il a accompli trois mandats, tout en étant député de la troisième circonscription du département de 1988 à 2017 et conseiller général de l’Isère de 1985 à 1995. François Hollande a salué un homme qui « ne tolérait ni le sectarisme, ni la facilité ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/disparitions/article/2026/11/14/michel-destot-ancien-maire-ps-de-grenoble-et-depute-de-l-isere-est-mort_6810610_3382.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T20:26:38+00:00",
+      "titre": "Manifestations du 14 novembre : retour en images sur la journée de mobilisation en France",
+      "dek": "Des manifestations aux revendications multiples se sont déroulées partout en France. Les cortèges ont défilé globalement dans le calme, malgré des « incidents » relevés par le ministère de l’intérieur dans plusieurs villes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/video/2026/11/14/manifestations-du-14-novembre-retour-en-images-sur-la-journee-de-mobilisation-en-france_6810577_823448.html"
     },
     {
       "tag": "Politique",
@@ -52,7 +74,7 @@
       "date": "14 Nov 2026",
       "date_iso": "2026-11-14T18:16:35+00:00",
       "titre": "Présidentielle 2027 : Gérard Larcher invite les candidats de la droite et du centre à une réunion pour arrêter une « méthode de départage »",
-      "dek": "L’appel du président du Sénat s’adresse directement aux candidats, et son périmètre exclut Eric Zemmour (Reconquête !) et Raphaël Glucksmann (Parti socialiste et Place publique), selon son entourage.",
+      "dek": "L’appel du président du Sénat s’adresse directement aux candidats, et son périmètre exclut Eric Zemmour (Reconquête !) et Raphaël Glucksmann (Parti socialiste et Place publique), selon son entourage.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html"
     },
@@ -528,28 +550,6 @@
       "dek": "Les candidats à la présidentielle face à “Nos services publics”. Suppression ou augmentation d’agents, intelligence artificielle, départs volontaires, etc. Que veulent-ils faire à propos des fonctionnaires ?",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-des-fonctionnaires_8281235.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T17:00:00+00:00",
-      "titre": "VIDEO Présidentielle 2027 : les gauches sont-elles vraiment irréconciliables ?",
-      "dek": "Dans ce deuxième épisode du vodcast « L’Heure de la présidentielle », les journalistes Sandrine Cassini, chargée de la couverture de la gauche, et Abel Mestre, éditorialiste, décrivent de quelles divisions idéologiques internes à la gauche sont issus les candidats à l’Elysée.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/videos/video/2026/11/13/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809362_1669088.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T16:50:15+00:00",
-      "titre": "Dans les coulisses de l’improbable lancement de campagne présidentielle de Teddy Riner",
-      "dek": "Le quintuple champion olympique de judo s’est invité lundi 9 novembre dans la course à l’Elysée. Entre soupçons de pilotage par le gouvernement, équipe de campagne qui s’effrite déjà et sondages en roue libre, récit d’un démarrage chaotique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/teddy-ce-nest-pas-quelquun-de-teleguide-dans-les-coulisses-de-limprobable-lancement-de-campagne-presidentielle-de-riner-20261113_C2LFBFCUPVGYLA3MTH4NUYLAJI/"
     }
   ]
 }
