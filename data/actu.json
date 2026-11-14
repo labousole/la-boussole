@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-11-13T21:07:35+00:00",
+  "generated_at": "2026-11-14T04:27:54+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T04:00:15+00:00",
+      "titre": "Présidentielle 2027 : les gauches seront-elles vraiment irréconciliables ?",
+      "dek": "Dans le deuxième épisode du vodcast « L’Heure de la présidentielle », deux journalistes du « Monde », Sandrine Cassini, chargée de la couverture de la gauche, et Abel Mestre, éditorialiste, décrivent de quelles divisions idéologiques internes à cette famille politique les candida…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/podcasts/article/2026/11/14/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809556_5463015.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
       "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T20:47:14+00:00",
+      "date_iso": "2026-11-13T21:31:29+00:00",
+      "titre": "\"Peut-il mettre à mal l'annonce faite d'un combat entre le RN et LFI ?\" : Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, ne ferme par la porte à Teddy Riner",
+      "dek": "Vendredi 13 novembre, Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, et Aleksandar Nikolic, porte-parole de la campagne de Marine Le Pen, étaient les invités du \"Duel\" sur franceinfo. Ils ont notamment débattu sur l’entrée en politique de Teddy Riner, dont la ca…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/peut-il-mettre-a-mal-l-annonce-faite-d-un-combat-entre-le-rn-et-lfi-jean-charles-orsucci-porte-parole-de-campagne-de-gabriel-attal-ne-ferme-par-la-porte-a-teddy-riner_8281595.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "13 Nov 2026",
+      "date_iso": "2026-11-13T20:47:11+00:00",
       "titre": "Prime de risque : Laurent Nuñez propose une revalorisation jugée « insuffisante » voire « inadmissible » par les syndicats",
       "dek": "Un plan de revalorisation de la prime ISSP, qui n’avait pas évolué depuis 2019, a été présenté par le ministre de l’intérieur aux organisations représentatives, vendredi, « compte tenu des risques inouïs auxquels sont exposés actuellement les policiers et les gendarmes ».",
       "avis": null,
@@ -17,7 +39,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T20:23:08+00:00",
+      "date_iso": "2026-11-13T20:23:06+00:00",
       "titre": "Présidentielle 2027 : Teddy Riner, le seul candidat adoubé par Emmanuel Macron",
       "dek": "Après l’annonce de la candidature du judoka français, les liens entre l’athlète et le président de la République sont analysés par Nathalie Segaunes, journaliste politique au « Monde ».",
       "avis": null,
@@ -528,28 +550,6 @@
       "dek": "L'ancienne Première ministre plaide plutôt pour un rassemblement \"de Bernard Cazeneuve à Xavier Bertrand\" et assure ne pas avoir de doute \"sur le fait qu'il faut se rassembler\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/elisabeth-borne-ecarte-une-primaire-allant-jusqu-a-david-lisnard-en-vue-de-l-election-presidentielle-de-2027_8280728.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T09:10:32+00:00",
-      "titre": "En voulant interdire aux magistrats de se syndiquer, Philippe double sur leur droite Lisnard et Retailleau",
-      "dek": "Le candidat Horizons considère qu’«il faut être impartial lorsqu’on est juge». Une telle proposition, qui jusqu’ici était l’apanage de parlementaires comme Eric Ciotti ou membres du Rassemblement national, serait contraire à la Constitution.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/en-voulant-interdire-aux-magistrats-de-se-syndiquer-philippe-double-sur-leur-droite-lisnard-et-retailleau-20261113_6B4Q7HMPD5BEFDFWIBGLJI6VC4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T08:53:45+00:00",
-      "titre": "Teddy Riner fera son premier déplacement de campagne à l’hôpital Delafontaine, à Saint-Denis, ce vendredi",
-      "dek": "Au lendemain d’une visite à Saint-Denis ce vendredi pour «replacer la santé au cœur de nos priorités», le judoka-candidat se rendra samedi au salon Made in France à Paris.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/teddy-riner-fera-son-premier-deplacement-de-campagne-au-salon-du-made-in-france-20261113_JRWNH5A7QRASRKMAFXWLDPTRNI/"
     }
   ]
 }
