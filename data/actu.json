@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-14T23:33:42+00:00",
+  "generated_at": "2026-11-15T04:14:18+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "14 Nov 2026",
+      "date_iso": "2026-11-14T23:39:08+00:00",
+      "titre": "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
+      "dek": "Les cortèges qui ont défilé, samedi, à l’appel de nombreuses organisations ont surtout été dominés par le rejet du projet de loi qualifié de « permis de tuer », qui prévoit d’instaurer la présomption de légitime défense pour les policiers et gendarmes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html"
+    },
     {
       "tag": "Droite",
       "color": "#3A5A8C",
@@ -105,7 +116,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T17:00:16+00:00",
+      "date_iso": "2026-11-14T17:00:08+00:00",
       "titre": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
       "dek": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’é…",
       "avis": null,
@@ -539,17 +550,6 @@
       "dek": "La hausse du salaire minimum mensuel net à temps plein à 1 502 euros détruira mécaniquement des emplois. Mais l’impact est jugé limité par le gouvernement et par plusieurs économistes.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/13/les-effets-de-la-hausse-du-smic-sur-le-marche-du-travail-suscitent-des-interrogations_6809363_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "13 Nov 2026",
-      "date_iso": "2026-11-13T17:00:03+00:00",
-      "titre": "Candidats à la présidentielle : que veulent-ils faire des fonctionnaires ?",
-      "dek": "Les candidats à la présidentielle face à “Nos services publics”. Suppression ou augmentation d’agents, intelligence artificielle, départs volontaires, etc. Que veulent-ils faire à propos des fonctionnaires ?",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-des-fonctionnaires_8281235.html#xtor=RSS-3-%5Bpolitique%5D"
     }
   ]
 }
