@@ -1,6 +1,237 @@
 {
-  "generated_at": "2026-11-15T12:25:10+00:00",
+  "generated_at": "2026-11-15T20:04:14+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T19:02:15+00:00",
+      "titre": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+      "dek": "Marine Tondelier était l'invitée du Grand Enjeu sur franceinfo ce dimanche 15 novembre. La candidate des Écologistes à l'élection présidentielle est revenue sur les déclarations d'Emmanuel Macron concernant Marine Le Pen et Jean-Luc Mélenchon et leur position sur la guerre en Ukr…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T18:24:31+00:00",
+      "titre": "Fin des exonérations de cotisations sociales, remboursement intégral… Les propositions de la gauche pour renforcer la Sécu",
+      "dek": "Alors que le gouvernement Lecornu veut réaliser 9,1&nbsp;milliards d’économies aux dépens des assurés et que l’Assemblée a rejeté son budget de la Sécu, la gauche prépare sa contre-attaque en vue de la présidentielle&nbsp;: fin des exonérations de cotisations sociales, remboursem…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/plfss/fin-des-exonerations-de-cotisations-sociales-remboursement-integral-les-propositions-de-la-gauche-pour-renforcer-la-secu"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T18:08:54+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
+      "dek": "\"Le pire ennemi du pouvoir d'achat des Français aujourd'hui, c'est le logement\", selon le candidat à la présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T18:02:53+00:00",
+      "titre": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
+      "dek": "Le maire RN du secteur a dénoncé les agissements d'une \"milice d'extrême gauche\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T17:58:18+00:00",
+      "titre": "Edouard Philippe veut bâtir quatre millions de logements en dix ans",
+      "dek": "Le candidat Horizons assure qu’il faut «construire plus et louer beaucoup plus» dans un entretien au «Parisien» ce dimanche 15 novembre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/edouard-philippe-veut-batir-quatre-millions-de-logements-en-dix-ans-20261115_TJLSGMJ45VDJZJ5ZGOYMWCTI3E/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T17:46:41+00:00",
+      "titre": "« Rationaliser » les affections longue durée, baisser le budget des hôpitaux… Comment le RN veut porter le coup fatal à la Sécurité sociale",
+      "dek": "Dans son projet économique, révélé en octobre, le parti de Marine Le&nbsp;Pen entend baisser le budget de la Sécurité sociale de 36,7&nbsp;milliards d’ici à 2030, en comprimant notamment les coûts hospitaliers et en s’attaquant à la couverture des affections longue durée. Tout en…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/rationaliser-les-affections-longue-duree-baisser-le-budget-des-hopitaux-comment-le-rn-veut-porter-le-coup-fatal-a-la-securite-sociale"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T17:20:21+00:00",
+      "titre": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
+      "dek": "Réalisée par Ipsos BVA-CESI Ecole d’ingénieurs pour « Le Monde », le Cevipof, la Fondation Jean Jaurès et l’Institut Montaigne, cette grande enquête annuelle sur les valeurs des Français donne un instantané précieux de l’humeur politique du pays à l’approche du scrutin. La sociét…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T17:10:17+00:00",
+      "titre": "Marine Le Pen rencontre l’ambassadeur d’Ukraine sous le regard de Moscou",
+      "dek": "La candidate du RN doit échanger avec le représentant de Kyiv à Paris, lundi 16 novembre, alors qu’elle prévoit de «couper le robinet» de l’aide à l’Ukraine si elle arrive au pouvoir en 2027. Le parti d’extrême droite cherche dans le même temps à afficher son indépendance vis-à-v…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/151126/marine-le-pen-rencontre-l-ambassadeur-d-ukraine-sous-le-regard-de-moscou"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T16:52:48+00:00",
+      "titre": "« Je vis en hypervigilance constante » : ciblée par l’auteur de l’attentat de Trappes, Sandrine Rousseau dénonce la responsabilité du gouvernement",
+      "dek": "Un Post-it avec une liste de quatre personnalités de gauche a été retrouvé chez Kevin T. lors de la perquisition de son domicile le 23&nbsp;octobre. Parmi ces noms figure celui de la députée écologiste de Paris Sandrine Rousseau, qui confie en avoir été informée par la presse et …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/attentat-raciste-de-trappes/je-vis-en-hypervigilance-constante-ciblee-par-lauteur-de-lattentat-de-trappes-sandrine-rousseau-denonce-la-responsabilite-du-gouvernement"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T16:45:16+00:00",
+      "titre": "Marine Le Pen est-elle éligible? La question suscite un débat inédit dans la magistrature",
+      "dek": "Depuis qu’elle a formé un pourvoi contre sa condamnation pour «détournement de fonds publics», la candidate d’extrême droite est-elle redevenue inéligible ou peut-elle se présenter à la présidentielle, comme elle l'affirme? La question divise les plus hauts magistrats du pays, à …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/151126/marine-le-pen-est-elle-eligible-la-question-suscite-un-debat-inedit-dans-la-magistrature"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T16:08:57+00:00",
+      "titre": "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral",
+      "dek": "Si des élections législatives sont organisées en 2027 après la présidentielle, elles reposeront sur une carte électorale qui n’a plus été retouchée depuis 2009. Alors que les autorités politiques tardent à se lancer dans ce chantier à haut risque, une commission dédiée s’est remi…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T16:00:04+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe accepte l’invitation de Gérard Larcher à une discussion des candidats de la droite et du centre, mais refuse toujours une primaire",
+      "dek": "Le président du Sénat, Gérard Larcher, a proposé samedi aux candidats de la droite et du centre de se réunir pour trancher sur une « méthode de départage » permettant d’aboutir à une candidature unique « au début de l’année [2027] ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-accepte-l-invitation-de-gerard-larcher-a-une-discussion-des-candidats-de-la-droite-et-du-centre-mais-refuse-toujours-une-primaire_6811029_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T15:30:19+00:00",
+      "titre": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion",
+      "dek": "« Mon caméraman a été violemment projeté au sol, puis roué de coups. Certains sont allés jusqu’à crier “Brûlez-le !” », a dit l’une des journalistes. Samedi, la direction de BFM-TV avait condamné « ces attaques physiques ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/15/apres-l-agression-de-journalistes-de-bfm-tv-a-lyon-une-enquete-a-ete-ouverte-pour-violences-en-reunion_6811026_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T15:21:13+00:00",
+      "titre": "En réponse à la crise lycéenne, Valérie Pécresse propose plus de caméras… jusque dans les toilettes",
+      "dek": "Lors de la séance du Conseil régional qui s’est tenue jeudi 12 novembre, l’exécutif a fait voter un amendement visant à proposer aux proviseurs des lycées d’Île-de-France l’installation de caméras de vidéosurveillance au sein des établissements scolaires. Une mesure invasive vive…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/conseil-regional-dile-de-france/en-reponse-a-la-crise-lyceenne-valerie-pecresse-propose-plus-de-cameras-jusque-dans-les-toilettes"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T14:54:14+00:00",
+      "titre": "Le programme de Mélenchon : un toboggan vers une France appauvrie, par Alexandra Roulet",
+      "dek": "Si certaines orientations défendues par le candidat LFI au Bourget sont souhaitables, plusieurs choix structurants, sur le partage du travail, l’IA, le nucléaire et le financement desserviraient les intérêts des Français, et notamment des plus fragiles, analyse l’économiste.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/opinions/le-programme-de-melenchon-un-toboggan-vers-une-france-appauvrie-par-alexandra-roulet-20261115_6UCVHCU5WZCDTACBLP6DQG7R2U/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T14:35:11+00:00",
+      "titre": "Primaire à droite : au tour de Gérard Larcher de demander une réunion entre candidats",
+      "dek": "Le président LR du Sénat propose aux candidats une réunion «dans les meilleurs délais» pour évoquer une «méthode de départage» qui aboutirait à une candidature unique. La pression s’accentue sur Edouard Philippe, qui refuse de participer à une primaire.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/primaire-a-droite-au-tour-de-gerard-larcher-de-demander-une-reunion-entre-candidats-20261114_GEGE46CXONGIDOR67OIMO4SHYE/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T14:20:32+00:00",
+      "titre": "Travail gratuit, sécurité des élèves, coût pour l’État: les «écoles de production» collectionnent les mauvais points",
+      "dek": "Hérités du XIXe siècle, ces établissements hors contrat mais reconnus par l’État, adeptes du «faire pour apprendre», connaissent une seconde jeunesse depuis 2018. S’ils permettent à des jeunes sans qualification de retrouver le chemin de l’emploi, leur fonctionnement est probléma…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/151126/travail-gratuit-securite-des-eleves-cout-pour-l-etat-les-ecoles-de-production-collectionnent-les-mauvais-p"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T14:13:51+00:00",
+      "titre": "Un critique «empêché» d’évoquer un livre de Rima Hassan, France Inter nie toute censure",
+      "dek": "Arnaud Viviant, chroniqueur du «Masque et la Plume», a annoncé son départ de l’émission, pour avoir dû renoncer à y évoquer le nouveau livre de Rima Hassan sur la Palestine. La journaliste Rebecca Manzoni assume sa ligne de ne pas promouvoir, au «Masque», des livres d’élus en fon…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/151126/un-critique-empeche-d-evoquer-un-livre-de-rima-hassan-france-inter-nie-toute-censure"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T13:51:38+00:00",
+      "titre": "Attentat de Trappes : Sandrine Rousseau accuse le gouvernement de «sous-estimer la menace venant de l’extrême droite»",
+      "dek": "La députée écologiste, dont le nom figurait sur une liste de personnalités de gauche retrouvée au domicile de Kévin Tessier, s’est insurgée ce dimanche 15 novembre sur BFM TV contre la «complaisance» de l’exécutif.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/attentat-de-trappes-sandrine-rousseau-accuse-le-gouvernement-de-sous-estimer-la-menace-venant-de-lextreme-droite-20261115_MNZSLAZJUVAHDMBRDHOBIAYQBI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T13:22:32+00:00",
+      "titre": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
+      "dek": "Le chef de l’Etat ne cite pas Marine Le Pen, mais la candidate du RN a déjà annoncé que, si elle était élue, elle couperait l’aide financière à l’Ukraine après une période de six mois.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T13:19:59+00:00",
+      "titre": "40 affirmations-chocs des candidats à la présidentielle de 2027 et de leurs soutiens fact-checkées",
+      "dek": "Les Décodeurs du « Monde » confrontent, dans cette base de données évolutive, les arguments des politiques aux données indépendantes disponibles.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -11,6 +242,17 @@
       "dek": "La candidate du Rassemblement national, qui a proposé vendredi de rencontrer Volodymyr Zelensky, entend couper les aides au pays si elle accède à l’Elysée.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/financement-de-lukraine-face-a-la-russie-macron-passe-a-loffensive-contre-le-pen-20261115_4IJNNIIM6RHYZF6KPF3LVARDQE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T11:34:41+00:00",
+      "titre": "Changer de culture institutionnelle pour retrouver le sens de la responsabilité, par Benoît Payan",
+      "dek": "Recherche du compromis, instauration de la proportionnelle, meilleure représentation des collectivités locales au Sénat… Face à l’incapacité des institutions à transformer les aspirations des Français en décisions politiques, le maire de Marseille esquisse des pistes de réflexion…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/seule-une-politique-de-coalitions-et-de-compromis-nous-sortira-de-limpasse-democratique-par-benoit-payan-20261115_UFXKA2NM4ZEQZPRFCN2N23S3YE/"
     },
     {
       "tag": "Politique",
@@ -51,7 +293,7 @@
       "source": "Le Monde – Politique",
       "date": "15 Nov 2026",
       "date_iso": "2026-11-15T10:09:57+00:00",
-      "titre": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûteront « un peu plus de 1 milliard d’euros », selon le gouvernement",
+      "titre": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûtera « un peu plus de 1 milliard d’euros », selon le gouvernement",
       "dek": "L’exécutif avait annoncé cette semaine, en pleines mobilisations sociales, la revalorisation du salaire minimal de 1,6 % à partir du 1ᵉʳ décembre et celle des « bas salaires » de plus d’un million d’agents de la fonction publique.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/15/les-revalorisations-du-smic-et-des-bas-salaires-des-fonctionnaires-couteront-un-peu-plus-de-1-milliard-d-euros-aux-finances-publiques-selon-le-gouvernement_6811009_823448.html"
@@ -86,6 +328,17 @@
       "date_iso": "2026-11-15T09:52:08+00:00",
       "titre": "Lucie Castets, maire du XIIᵉ arrondissement de Paris: « L’enjeu central de l’élection est de définir qui devra payer l’ardoise du pouvoir sortant »",
       "dek": "La politique économique et budgétaire de la France a été bâtie sur la promesse d’un retour fiscal qui ne s’est jamais matérialisée, fragilisant la crédibilité financière que le gouvernement prétendait défendre, juge la maire (Ecologiste et social) du XIIᵉ arrondissement de Paris,…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/15/lucie-castets-maire-du-xii-arrondissement-de-paris-l-enjeu-central-de-l-election-est-de-definir-qui-devra-payer-l-ardoise-du-pouvoir-sortant_6811004_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T09:52:04+00:00",
+      "titre": "Lucie Castets, maire du 12ᵉ arrondissement de Paris: « L’enjeu central de l’élection de 2027 est de définir qui devra payer l’ardoise du pouvoir sortant »",
+      "dek": "La politique économique et budgétaire de la France a été bâtie sur la promesse d’un retour fiscal qui ne s’est jamais matérialisée, fragilisant la crédibilité financière que le gouvernement prétendait défendre, juge la maire du 12ᵉ arrondissement de Paris, Lucie Castets, dans une…",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/11/15/lucie-castets-maire-du-xii-arrondissement-de-paris-l-enjeu-central-de-l-election-est-de-definir-qui-devra-payer-l-ardoise-du-pouvoir-sortant_6811004_3232.html"
     },
@@ -277,17 +530,6 @@
       "lien": "https://www.liberation.fr/politique/presidentielle-au-salon-du-made-in-france-teddy-riner-coupe-le-cordon-avec-macron-mais-ne-donne-toujours-pas-de-programme-20261114_CJ3ZTFA4P5A35EHP75BUXHTZXU/"
     },
     {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T19:00:04+00:00",
-      "titre": "Primaire à droite : au tour de Gérard Larcher de demander une réunion entre candidats",
-      "dek": "Le président LR du Sénat propose aux candidats une réunion «dans les meilleurs délais» pour évoquer une «méthode de départage» qui aboutirait à une candidature unique. La pression s’accentue sur Edouard Philippe, qui refuse de participer à une primaire.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/primaire-a-droite-au-tour-de-gerard-larcher-de-demander-une-reunion-entre-candidats-20261114_GEGE46CXONGIDOR67OIMO4SHYE/"
-    },
-    {
       "tag": "Droite",
       "color": "#3A5A8C",
       "source": "Le Figaro – Politique",
@@ -308,248 +550,6 @@
       "dek": "L’appel du président du Sénat s’adresse directement aux candidats, et son périmètre exclut Eric Zemmour (Reconquête !) et Raphaël Glucksmann (Parti socialiste et Place publique), selon son entourage.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T18:00:00+00:00",
-      "titre": "« On représente le capitalisme » : peut-on influencer sans prendre position ? Avec Ogee | SCROLL",
-      "dek": "Face à l’inflation, aux mobilisations sociales et à la montée de l’extrême droite, les créateurs de contenu peuvent-ils encore rester silencieux ? Ogee, influenceuse et chanteuse, dénonce l’hypocrisie de certains influenceurs déconnectés de la réalité, assume sa propre remise en …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/on-represente-le-capitalisme-peut-on-influencer-sans-prendre-position-avec-ogee-scroll-2"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T18:00:00+00:00",
-      "titre": "“On représente le capitalisme” : peut-on influencer sans prendre position ? Avec Ogee | SCROLL",
-      "dek": "Face à l'inflation, aux mobilisations sociales et à la montée de l'extrême droite, les créateurs de contenu peuvent-ils encore rester silencieux ? Ogee, influenceuse et chanteuse, dénonce l'hypocrisie de certains influenceurs déconnectés de la réalité, assume sa propre remise en …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/on-represente-le-capitalisme-peut-on-influencer-sans-prendre-position-avec-ogee-scroll-2"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T17:02:06+00:00",
-      "titre": "Aux midterms, la rhétorique antiwoke du camp Maga s’est enrayée",
-      "dek": "Certains ont lu le résultat des élections de mi-mandat aux États-Unis comme une défaite du «wokisme», au bénéfice des bons vieux enjeux économiques. Mais cette grille d’analyse est loin de rendre compte de la complexité du paysage politique de 2026.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/141126/aux-midterms-la-rhetorique-antiwoke-du-camp-maga-s-est-enrayee"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T17:00:08+00:00",
-      "titre": "Avec le « Legend Tour » de Guillaume Pley, l’armée française s’offre une vitrine auprès de la jeunesse",
-      "dek": "En associant ses moyens à la tournée du producteur du podcast suivi par des millions d’internautes, l’institution militaire veut séduire un public jeune et susciter des vocations. Une stratégie de communication qui interroge, alors que l’animateur est visé par des accusations d’é…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/avec-le-legend-tour-de-guillaume-pley-l-armee-francaise-s-offre-une-vitrine-aupres-de-la-jeunesse_6810456_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T16:29:53+00:00",
-      "titre": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale de la jeunesse",
-      "dek": "Des manifestations se sont tenues samedi dans toute la France, avec des revendications multiples, contre la vie chère, contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre, pour la protection des enfants ou encore en faveur de moyen…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T16:07:18+00:00",
-      "titre": "Hongrie: l’agence anticorruption déterre le butin d’un ministre d’Orbán dans une forêt",
-      "dek": "Créée cet été, la nouvelle agence anticorruption remporte une victoire marquante contre l’élite déchue de Viktor Orbán, rattrapée dans plusieurs affaires depuis sa défaite aux élections ce printemps. Le frère de l’ancien premier ministre, quant à lui, dort en prison.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/141126/hongrie-l-agence-anticorruption-deterre-le-butin-d-un-ministre-d-orban-dans-une-foret"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T16:00:02+00:00",
-      "titre": "Le grand oral des candidats sur franceinfo",
-      "dek": "À l'occasion de la présidentielle 2027, franceinfo a organisé, jeudi 12 novembre, un grand oral des candidats, sur les services publics. Une journée exceptionnelle en direct et en public au studio 104 de la Maison de la radio et de la musique.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/le-grand-oral-des-candidats-sur-franceinfo_8261240.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T15:14:25+00:00",
-      "titre": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
-      "dek": "Souvent placé à la troisième place dans les sondages, mais assez loin derrière Marine Le Pen et Jean-Luc Mélenchon, le candidat PS-Place Publique doit maintenant combler son retard sur le candidat LFI. Un tract sera largement diffusé ce week-end, contenant dix propositions phares…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T14:47:45+00:00",
-      "titre": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
-      "dek": "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle, au salon du Made in France. Le chef de l’Etat s’était félicité de sa candidature au début de la semaine, estimant que cela ne pouvait « qu’apporter au pays ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T14:08:11+00:00",
-      "titre": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
-      "dek": "Le président français doit y signer une dizaine d'accords dans divers domaines (IA, énergie, santé, patrimoine...) et participer dimanche et lundi au XXe sommet de la Francophonie.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie_8282396.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T14:00:00+00:00",
-      "titre": "« Je vis en hypervigilance constante » : Sandrine Rousseau sur une liste du terroriste de Trappes",
-      "dek": "De l'absence de réaction des autorités à la banalisation des discours d'extrême droite dans les médias, en passant par le rejet de la pétition contre CNews et son quotidien sous haute tension, Sandrine Rousseau (députée Les Ecologistes) analyse les mécanismes de la violence polit…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/attentat-raciste-de-trappes/je-vis-en-hypervigilance-constante-sandrine-rousseau-sur-une-liste-du-terroriste-de-trappes"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T13:30:09+00:00",
-      "titre": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
-      "dek": "Les différences entre les candidats des partis de gouvernement à l’élection présidentielle tiennent plus au style des personnes et au discours qu’à de réelles divergences politiques, note la politiste dans un entretien au « Monde ». Les partis d’extrême gauche ou droite, selon el…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T13:04:14+00:00",
-      "titre": "Arnaud Viviant, chroniqueur du « Masque et la Plume », quitte l’émission en accusant France Inter de lui avoir « interdit de conseiller » le livre de Rima Hassan",
-      "dek": "Le critique annonce son départ de l’émission, « la mort dans l’âme, après vingt-six ans ». « Pas de promotion pour les livres écrits par des élus en fonction », a réagi la radio, en condamnant les menaces et insultes envers la productrice de l’émission, Rebecca Manzoni.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/arnaud-viviant-chroniqueur-du-masque-et-la-plume-annonce-quitter-l-emission-de-france-inter_6810280_3236.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T11:36:44+00:00",
-      "titre": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
-      "dek": "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique. Un nouveau cadre qui fait réagir les généralistes et l…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T11:00:02+00:00",
-      "titre": "Aide à l'Ukraine : E. Diaz assume vouloir stopper les financements français",
-      "dek": "Au salon du Made in France hier, Marine Le Pen a indiqué qu'elle accepterait de rencontrer Volodymyr Zelensky à Bruxelles. La candidate RN à l'élection présidentielle avait affirmé vouloir couper les aides à l'Ukraine \"sous 6 mois\" si elle était élue en 2027, et pour Edwige Diaz,…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/aide-a-l-ukraine-e-diaz-assume-vouloir-stopper-les-financements-francais_8282348.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T10:50:43+00:00",
-      "titre": "Budget de la « Sécu » 2027 : le retour du débat sur les 35 heures au Sénat",
-      "dek": "Vendredi, le Palais du Luxembourg a adopté un amendement qui prévoit d’augmenter de deux heures la durée hebdomadaire du travail. La disposition n’a aucune portée normative, mais elle permet à la droite d’afficher un de ses totems, la nécessité de « travailler plus ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/budget-de-la-secu-2027-le-retour-du-debat-sur-les-35-heures-au-senat_6810049_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T10:44:31+00:00",
-      "titre": "À peine arrivé, l’ex-ministre de la Santé François Braun quitte la campagne de Teddy Riner",
-      "dek": "Il était présenté comme une figure crédible, donnant du poids à celle du champion de judo. Six jours après le lancement de la campagne du candidat ni de droite ni de gauche, l’ex-ministre du gouvernement Borne quitte le bateau.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T10:32:35+00:00",
-      "titre": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
-      "dek": "Edwige Diaz, présidente du groupe Rassemblement national au Sénat, et sénatrice de la Gironde, répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T10:02:03+00:00",
-      "titre": "Italie: pour son dernier budget avant les élections, Giorgia Meloni met en scène un combat contre la finance",
-      "dek": "La première ministre italienne propose des mesures pour faire payer le secteur financier dans son budget 2027. Une stratégie électoraliste pour cacher une réalité moins populaire: un budget austéritaire pour les ménages et les services publics.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/131126/italie-pour-son-dernier-budget-avant-les-elections-giorgia-meloni-met-en-scene-un-combat-contre-la"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T09:34:27+00:00",
-      "titre": "Budget 2027: comment Sébastien Lecornu va-t-il s’en sortir?",
-      "dek": "Rejeté à l’unanimité à l’Assemblée nationale, le projet de budget 2027 du gouvernement est désormais discuté au Sénat. Il reviendra après le 9 décembre au Palais-Bourbon pour une adoption par voie de 49-3 ou d’ordonnance, non sans risque pour le premier ministre.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/economie-et-social/141126/budget-2027-comment-sebastien-lecornu-va-t-il-s-en-sortir"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T08:32:43+00:00",
-      "titre": "\"Il nous manque encore une centaine\" de parrainages pour la candidature à la présidentielle de Marine Le Pen, chiffre Edwige Diaz",
-      "dek": "La sénatrice sénatrice du Rassemblement national est en charge de la collecte des parrainages du parti d'extrême droite pour la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-nous-manque-encore-une-centaine-de-parrainages-pour-la-candidature-a-la-presidentielle-de-marine-le-pen-chiffre-edwige-diaz_8282216.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T07:15:00+00:00",
-      "titre": "Entre le RN et LFI, un triangle des Bermudes politique",
-      "dek": "A cinq mois de la présidentielle, les modérés de droite comme de gauche, qui peinent à convaincre, attendent une solution magique à la léthargie sondagière de leurs candidats. Au risque de tous finir Gros-Jean comme devant.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/entre-le-rn-et-lfi-un-triangle-des-bermudes-politique-20261114_NLWY26O4D5ECNN3AV4MMBHJPUU/"
     }
   ]
 }
