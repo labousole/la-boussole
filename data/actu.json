@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-15T20:04:14+00:00",
+  "generated_at": "2026-11-16T04:13:09+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "16 Nov 2026",
+      "date_iso": "2026-11-16T04:00:11+00:00",
+      "titre": "« Fractures françaises » : consensus autoritaire et xénophobe, penchant libéral et climatoscepticisme au cœur des convictions des électeurs d’extrême droite",
+      "dek": "Gilles Finchelstein, directeur général de la Fondation Jean Jaurès, détaille les convictions des sympathisants de l’extrême droite, qui sont les plus critiques à l’égard de la démocratie, à partir de la dernière enquête « Fractures françaises » réalisée pour « Le Monde » par Ipso…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "15 Nov 2026",
+      "date_iso": "2026-11-15T22:42:31+00:00",
+      "titre": "Présidentielle 2027 : les coulisses de l'accélération de la campagne de David Lisnard",
+      "dek": "Combien seront-ils finalement sur la ligne de départ de cette présidentielle ? Au 15 novembre, ils sont actuellement plus de 30. Au-delà du duo de tête, les autres candidats ont des hauts et des bas, mais l'un d'entre eux affiche en ce moment une certaine dynamique : David Lisnar…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-2027-les-coulisses-de-l-acceleration-de-la-campagne-de-david-lisnard_8283962.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -528,28 +550,6 @@
       "dek": "Le quintuple champion olympique de judo a fait le plein de com ce samedi 14 novembre au Parc des expositions de Paris, pour son troisième déplacement depuis son annonce surprise de candidature.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/presidentielle-au-salon-du-made-in-france-teddy-riner-coupe-le-cordon-avec-macron-mais-ne-donne-toujours-pas-de-programme-20261114_CJ3ZTFA4P5A35EHP75BUXHTZXU/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T18:25:06+00:00",
-      "titre": "« Je cherche la pâte humaine » : Catherine Nay, l’indétrônable romancière du pouvoir",
-      "dek": "PORTRAIT - La grande voix d’Europe 1 poursuit son exploration des passions du pouvoir avec un livre consacré à Emmanuel Macron, Ce pays dont le prince est un enfant (Plon). Derrière l’allure souveraine et les traits mordants, une journaliste amoureuse du romanesque que ni les suc…",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/je-cherche-la-pate-humaine-catherine-nay-l-indetronable-romanciere-du-pouvoir-20261114"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "14 Nov 2026",
-      "date_iso": "2026-11-14T18:16:35+00:00",
-      "titre": "Présidentielle 2027 : Gérard Larcher invite les candidats de la droite et du centre à une réunion pour arrêter une « méthode de départage »",
-      "dek": "L’appel du président du Sénat s’adresse directement aux candidats, et son périmètre exclut Eric Zemmour (Reconquête !) et Raphaël Glucksmann (Parti socialiste et Place publique), selon son entourage.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-gerard-larcher-invite-les-candidats-de-la-droite-et-du-centre-a-une-reunion-pour-arreter-une-methode-de-departage_6810460_823448.html"
     }
   ]
 }
