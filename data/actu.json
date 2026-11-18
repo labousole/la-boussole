@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-11-17T18:53:59+00:00",
+  "generated_at": "2026-11-18T01:58:59+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Nov 2026",
+      "date_iso": "2026-11-18T01:08:53+00:00",
+      "titre": "Présidentielle 2027 : Gérald Darmanin appelle Bruno Retailleau et Gabriel Attal à s’effacer derrière Edouard Philippe, pour barrer la route à Jean-Luc Mélenchon",
+      "dek": "« Si M. Mélenchon est au second tour face à Mme Le Pen, je pense que ce sera un choc immense dans notre pays », a déclaré mardi le ministre de la justice, estimant que le candidat « insoumis » l’emporterait dans une telle configuration.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-gerald-darmanin-appelle-bruno-retailleau-et-gabriel-attal-a-s-effacer-derriere-edouard-philippe-pour-barrer-la-route-a-jean-luc-melenchon_6813056_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T21:29:46+00:00",
+      "titre": "Prostitution des mineurs : un rapport parlementaire appelle faire peser la charge de la preuve sur les « clients pédocriminels »",
+      "dek": "Le rapport, rédigé par la délégation aux droits des enfants de l’Assemblée nationale, propose de légiférer sur « la plus grosse défense » des clients pédocriminels, qui affirment penser que la personne prostituée avait déclaré être majeure au moment des faits.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/17/prostitution-des-mineurs-un-rapport-parlementaire-appelle-faire-peser-la-charge-de-la-preuve-sur-les-clients-pedocriminels_6813048_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T20:56:31+00:00",
+      "titre": "Mobilisation sociale : 146 000 personnes ont manifesté en France ce mardi selon l’Intérieur, plus de 500 000 selon les syndicats",
+      "dek": "En cette nouvelle journée de grève, des manifestations ont eu lieu à travers le pays, comme à Marseille, Lyon, Nantes ou Toulouse.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/social/en-direct-mobilisations-sociales-fonctionnaires-cheminots-etudiants-et-lyceens-dans-la-rue-ce-mardi-20261117_OHS6A6MT4FDIBE5NLCOZ5SN2QY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T20:50:16+00:00",
+      "titre": "Mobilisation sociale : à Grenoble, Paris et Lyon, la justice administrative inflige un camouflet au ministère de l’intérieur sur les Micas",
+      "dek": "Plusieurs personnes visées par des mesures individuelles de contrôle administratif et de surveillance leur interdisant de participer aux rassemblements prévus le 31 octobre avaient assigné l’Etat devant le tribunal administratif pour protester contre l’application de cette mesure…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/17/mobilisation-sociale-a-grenoble-paris-et-lyon-la-justice-administrative-inflige-un-camouflet-au-ministere-de-l-interieur-sur-les-micas_6813046_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T20:48:50+00:00",
+      "titre": "Comment Marine Le Pen veut-elle financer son plan pour les retraites ?",
+      "dek": "Partir à la retraite à 62 ans, voire 60 ans : Marine Le Pen a détaillé son projet mardi 17 novembre. Il y aura une nouveauté : une part de capitalisation obligatoire. Mais son plan durcirait aussi les règles pour les carrières incomplètes. Ses adversaires dénoncent une réforme qu…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-marine-le-pen-veut-elle-financer-son-plan-pour-les-retraites_8287178.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T20:46:06+00:00",
+      "titre": "Logement : l’Assemblée vote un amendement du RN supprimant toutes les interdictions de location liées au DPE",
+      "dek": "Les députés sont allés plus loin que le texte initial, qui prévoyait déjà un assouplissement de la réglementation sur les passoires énergétiques, en supprimant toutes les interdictions de louer liées au diagnostic de performance énergétique.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/logement-l-assemblee-vote-un-amendement-du-rn-supprimant-toutes-les-interdictions-de-location-liees-au-dpe_6813044_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T20:29:39+00:00",
+      "titre": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle, « on envoie un message au prochain locataire de l’Elysée »",
+      "dek": "Mardi, les cortèges ont rassemblé 146 000 personnes dans différentes villes de France, selon le ministère de l’intérieur, plus de 500 000 selon la CGT. Alors que la mobilisation semble s’essouffler, les regards se tournent peu à peu vers le scrutin présidentiel d’avril 2027.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/manifestations-du-17-novembre-de-paris-a-lyon-un-mouvement-qui-regarde-vers-la-presidentielle-on-envoie-un-message-au-prochain-locataire-de-l-elysee_6813043_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T19:53:35+00:00",
+      "titre": "L’évocation de la vie privée de la militante Anne-Cécile Mailfert en direct sur Franceinfo vire au débat politique ; la chaîne présente des excuses et plaide la transparence",
+      "dek": "Lundi, à la fin d’un débat consacré à Gérard Depardieu et à la question des violences sexuelles, une journaliste a invoqué la charte déontologique de la chaîne publique pour rappeler qu’Anne-Cécile Mailfert est la compagne d’un dirigeant de France Télévisions.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/actualite-medias/article/2026/11/17/l-evocation-de-la-vie-privee-de-la-militante-anne-cecile-mailfert-en-direct-sur-franceinfo-vire-au-debat-politique-la-chaine-presente-des-excuses-et-plaide-la-transparence_6813039_3236.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T19:30:02+00:00",
+      "titre": "A Bergerac, malgré l’opposition du RN, une école adopte le nom d’Irène Sapir, rescapée de la rafle du Vél’ d’Hiv",
+      "dek": "Mardi 17 novembre, un groupe scolaire situé en Dordogne a pris le nom d’une figure locale communiste de 89 ans, qui a échappé à la déportation en 1942 et s’est engagée pour transmettre son histoire auprès des jeunes générations. Trois élus du Rassemblement national ont contesté c…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/a-bergerac-malgre-l-opposition-du-rn-une-ecole-porte-desormais-le-nom-d-irene-sapir-rescapee-de-la-rafle-du-vel-d-hiv_6813038_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T19:25:47+00:00",
+      "titre": "La Ligue des droits de l’homme, qualifiée par Marine Le Pen de « ramassis de gauchistes », accuse la candidate RN de vouloir « supprimer tous les contre-pouvoirs »",
+      "dek": "Lundi soir, lors d’un débat sur la pauvreté coorganisé par Les Restos du cœur, la candidate d’extrême droite a dit vouloir « arrêter de subventionner les associations politisées » en cas de victoire en 2027, citant la Ligue des droits de l’homme.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/17/la-ligue-des-droits-de-l-homme-qualifiee-par-marine-le-pen-de-ramassis-de-gauchistes-accuse-la-candidate-rn-de-vouloir-supprimer-tous-les-contre-pouvoirs_6813037_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T19:19:58+00:00",
+      "titre": "À l’Assemblée, le RN fait sauter l’interdiction de la location des passoires thermiques… et s’en félicite",
+      "dek": "Avec l’appui de la droite, le RN fait voter un amendement supprimant l’interdiction progressive de mise en location de logements fondée sur le diagnostic de performance énergétique (DPE), instaurée par loi Climat de 2021 pour lutter contre les passoires thermiques.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/acces-au-logement/a-lassemblee-le-rn-fait-sauter-linterdiction-de-la-location-des-passoires-thermiques-et-sen-felicite"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T19:09:56+00:00",
+      "titre": "Grève du 17 novembre : \"On les a fait bouger sur le Smic, on va les faire bouger sur la question du point d'indice\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
+      "dek": "Invité du \"Duel\" d'\"Avant le 20h\", Thomas Vacheron salue une \"mobilisation importante\", malgré une baisse du nombre de manifestants dans la rue, mardi 17 novembre, soulignant que \"les agents de la fonction publique ont perdu leur journée complète de salaire pour la deuxième fois …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/manifestations/greve-du-17-novembre-on-les-a-fait-bouger-sur-le-smic-on-va-les-faire-bouger-sur-la-question-du-point-d-indice-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_8287019.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T19:06:24+00:00",
+      "titre": "«Ce qui l’excitait, c’était de me louer»: de nouveaux éléments accablent Philippe Caubère",
+      "dek": "«Mediapart» a recueilli le témoignage d’une deuxième femme qui accuse le comédien, déjà mis en examen pour viols et proxénétisme, de l’avoir prostituée. Dans un carnet intime de 1997, versé à l’enquête judiciaire qui vient d’être close, Philippe Caubère relate lui-même ses recher…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/171126/ce-qui-l-excitait-c-etait-de-me-louer-de-nouveaux-elements-accablent-philippe-caubere"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T19:00:03+00:00",
+      "titre": "C’est Benjamin... à l'ex-usine Whirlpool, à Amiens",
+      "dek": "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. A Amiens (Picardie), il y a bientôt dix ans, la fermeture de l’usine Whirlpool a été au cœur de l’élection présidentielle. Benjamin a retrouvé un délégué syndical emblémati…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/c-est-benjamin-a-l-ex-usine-whirlpool-a-amiens_8286821.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -44,6 +198,17 @@
       "dek": "L'entourage de Gabriel Attal affirme que les premières modalités de la primaire de la droite et du centre ont été acceptées par les trois principaux candidats.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "17 Nov 2026",
+      "date_iso": "2026-11-17T18:11:19+00:00",
+      "titre": "Les choix d’Emmanuel Macron ? Une entreprise de dilapidation au profit des ultra-riches",
+      "dek": "Emmanuel Macron est satisfait de lui-même&#160;; c’est peut-être ce qui le caractérise le mieux, et sa désastreuse fin de règne n’ébranle en rien ses condescendantes certitudes. Dans un message célébrant les dix ans de son entrée en campagne, en 2016, il se flatte d’avoir œuvré à…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/bilan-macron/les-choix-demmanuel-macron-une-entreprise-de-dilapidation-au-profit-des-ultra-riches"
     },
     {
       "tag": "Gauche",
@@ -161,8 +326,8 @@
       "source": "Le Monde – Politique",
       "date": "17 Nov 2026",
       "date_iso": "2026-11-17T17:02:20+00:00",
-      "titre": "Fonction publique : malgré les annonces du gouvernement, les fonctionnaires attendent des réponses structurelles sur la question salariale",
-      "dek": "En dépit du geste de l’exécutif en faveur des agents publics les moins bien payés, le tassement des grilles salariales persiste dans la fonction publique. Le gouvernement a promis d’engager des discussions en vue d’une « réforme structurelle ». Un chantier maintes fois évoqué, ma…",
+      "titre": "Fonction publique : malgré les annonces du gouvernement, les fonctionnaires attendent des réponses structurelles sur la question des salaires",
+      "dek": "En dépit du geste de l’exécutif en faveur des agents publics les moins bien payés, le tassement des grilles de rémunération persiste dans la fonction publique. Le gouvernement a promis d’engager des discussions en vue d’une « réforme structurelle ». Un chantier maintes fois évoqu…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/17/fonction-publique-malgre-les-annonces-du-gouvernement-les-fonctionnaires-attendent-des-reponses-structurelles-sur-la-question-salariale_6813014_823448.html"
     },
@@ -385,171 +550,6 @@
       "dek": "Alors que Gabriel Attal, Bruno Retailleau et David Lisnard souhaitent une primaire de la droite et du centre, à laquelle se refuse Edouard Philippe, l’exercice a perdu sa raison d’être et ne sert plus qu’à quitter le devant de la scène politique de la façon la moins honteuse poss…",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/11/17/presidentielle-2027-la-primaire-apparue-a-l-origine-comme-un-outil-apte-a-reveiller-la-mobilisation-des-electeurs-est-en-train-de-devenir-l-arme-des-perdants_6812900_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "17 Nov 2026",
-      "date_iso": "2026-11-17T04:42:22+00:00",
-      "titre": "Gaz lacrymogènes : pourquoi des élus et des médecins, inquiets de leurs effets sur la santé des femmes, demandent leur interdiction",
-      "dek": "Les témoignages de près de 10 000 femmes exposées à des gaz lacrymogènes depuis le début du mouvement lycéen et de la mobilisation sociale doivent être présentés, mardi, à l’Assemblée nationale. Ils mettent en évidence de nombreux troubles gynécologiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/planete/article/2026/11/17/gaz-lacrymogenes-pourquoi-des-elus-et-des-medecins-inquiets-de-leurs-effets-sur-la-sante-des-femmes-demandent-leur-interdiction_6812897_3244.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "17 Nov 2026",
-      "date_iso": "2026-11-17T04:41:37+00:00",
-      "titre": "\"Un véritable changement de paradigme\" : ce que contient le projet de loi relatif à la résilience des infrastructures critiques, qui doit renforcer la cybersécurité en France",
-      "dek": "Le texte prévoit de durcir les obligations de sécurité informatique pour de nombreuses entreprises et administrations, et doit renforcer les pouvoirs du \"cyber-pompier\" français.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-veritable-changement-de-paradigme-ce-que-contient-le-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-qui-doit-renforcer-la-cybersecurite-en-france_8284760.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "17 Nov 2026",
-      "date_iso": "2026-11-17T04:41:20+00:00",
-      "titre": "Mobilisation du 17 novembre : les fonctionnaires tiennent le haut du pavé, le privé en ordre dispersé",
-      "dek": "Face à des réponses gouvernementales qu’ils jugent insuffisantes, les huit syndicats de la fonction publique appellent à la grève, mardi, pour tenter d’obtenir des hausses de salaires. Dans le secteur privé, la CGT, l’UNSA et Solidaires ainsi que certaines fédérations d’autres or…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/17/mobilisation-du-17-novembre-les-fonctionnaires-tiennent-le-haut-du-pave-le-prive-en-ordre-disperse_6812896_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "17 Nov 2026",
-      "date_iso": "2026-11-17T04:33:10+00:00",
-      "titre": "Impôts, logement, smic… Ce qu’il faut retenir du débat entre candidats à la présidentielle",
-      "dek": "Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau ont échangé, lundi, pendant un peu moins de trois heures, sur la vie chère et le pouvoir d’achat, préoccupation majeure des Françaises et Français, lors d’un débat organisé sur TF1 puis LCI.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/impots-logement-smic-ce-qu-il-faut-retenir-du-debat-entre-candidats-a-la-presidentielle_6812895_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "17 Nov 2026",
-      "date_iso": "2026-11-17T04:30:22+00:00",
-      "titre": "A Lyon, Toulouse, Lille ou Rennes, les ressorts d’une révolte sociale qui s’est ancrée au fil des semaines",
-      "dek": "Une nouvelle journée d’action nationale est prévue mardi. Parti des lycéens mi-septembre, relayé par les étudiants, les parents puis les syndicats, le mouvement gagne les associations.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/a-lyon-toulouse-lille-ou-rennes-les-ressorts-d-une-revolte-sociale-qui-s-est-ancree-au-fil-des-semaines_6812893_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "17 Nov 2026",
-      "date_iso": "2026-11-17T04:30:05+00:00",
-      "titre": "Infractions routières : les recettes des amendes redémarrent après des années de stagnation",
-      "dek": "Le gouvernement vient de revoir à la hausse son estimation des recettes liées aux infractions routières. Elles devraient frôler 2,3 milliards d’euros en 2026, puis poursuivre leur progression grâce notamment à la multiplication des radars.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/infractions-routieres-les-recettes-des-amendes-redemarrent-apres-des-annees-de-stagnation_6812890_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T23:54:47+00:00",
-      "titre": "Mobilisation du 17 novembre : « Si le gouvernement mise sur une baisse de la contestation, il se met le doigt dans l’œil », estime Sophie Binet",
-      "dek": "La secrétaire générale de la CGT juge que la contestation reste vive et prévoit une nouvelle « forte journée de mobilisation ». A Lyon, la justice a autorisé une manifestation dans l’hypercentre, pour la première fois depuis celle du 17 octobre, qui avait été marquée par des viol…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/mobilisation-du-17-novembre-si-le-gouvernement-mise-sur-une-baisse-de-la-contestation-il-se-met-le-doigt-dans-l-il-estime-sophie-binet_6812722_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T23:29:05+00:00",
-      "titre": "Associations, salaires, logement… Sur la pauvreté, un débat riche en clivages",
-      "dek": "Réunis lundi soir sur LCI dans un entrepôt des Restos du cœur, cinq candidats à la présidentielle, dont Marine Le Pen, Jean-Luc Mélenchon et Raphaël Glucksmann, ont exposé leurs divergences sur la manière de lutter contre la précarité.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/associations-salaires-logement-sur-la-pauvrete-un-debat-riche-en-clivages-20261117_NGRLJYOLKNBXLDOCJUYLU2FQDU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T23:17:20+00:00",
-      "titre": "Débat de la présidentielle : Marine Le Pen cible les associations « politisées », dont la Ligue des droits de l’homme, « ramassis de gauchistes »",
-      "dek": "La candidate du Rassemblement national entend, si elle est élue, « arrêter de subventionner les associations politisées ». Sa proposition a suscité de vives réactions de ses opposants.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/17/debat-de-la-presidentielle-marine-le-pen-cible-les-associations-politisees-dont-la-ligue-des-droits-de-l-homme-ramassis-de-gauchistes_6812656_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T22:30:16+00:00",
-      "titre": "Un juge fédéral américain annule les limites de séjour des étudiants et des journalistes étrangers imposées par Donald Trump",
-      "dek": "Dans une réglementation de juillet 2026, l’administration Trump avait décidé que les ressortissants étrangers détenteurs d’un visa étudiant ne seraient pas autorisés à rester plus de quatre ans sur le territoire américain tandis que les journalistes étrangers seraient limités à d…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T22:21:54+00:00",
-      "titre": "Débat de la présidentielle 2027 : revivez le débat entre Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Gabriel Attal et Bruno Retailleau",
-      "dek": "Les cinq candidats à l’élection ont débattu pendant près de trois heures sur TF1 puis LCI. « Financement magique », « foire aux taxes », « cadeaux fiscaux aux plus riches »… Tous s’accusent, notamment, de ne pas financer leurs propositions.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-debat-de-la-presidentielle-2027-les-cinq-candidats-s-affrontent-sur-les-retraites-marine-le-pen-cible-la-ligue-des-droits-de-l-homme-un-ramassis-de-gauchistes_6811633_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T22:09:45+00:00",
-      "titre": "Présidentielle 2027 : les moments forts du débat entre Mélenchon, Glucksmann, Le Pen, Attal et Retailleau",
-      "dek": "Travailleurs précaires, crise du logement, associations en difficulté ou lutte contre les retraités pauvres, les cinq candidats, interrogés par des bénéficiaires des Restos du coeur, ont pu exposer, parfois dans la cacophonie, les principaux traits de leur programme lundi 16 nove…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T22:05:22+00:00",
-      "titre": "L’Assemblée nationale adopte un texte pour débloquer l’épargne salariale, à la veille d’une nouvelle mobilisation pour le pouvoir d’achat",
-      "dek": "Les députés de gauche ont dénoncé un dispositif qui ne crée pas de pouvoir d’achat supplémentaire et ne concerne qu’une partie des salariés, le jugeant « inégalitaire » et « inefficace ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T21:46:35+00:00",
-      "titre": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
-      "dek": "La proposition de loi doit désormais faire l'objet d'un compromis entre députés et sénateurs lors d'une prochaine commission mixte paritaire.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "16 Nov 2026",
-      "date_iso": "2026-11-16T21:09:09+00:00",
-      "titre": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
-      "dek": "La candidate du RN à la présidentielle a cependant assuré qu'elle \"tiendrait les engagements pris jusqu'à présent par la France\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html#xtor=RSS-3-%5Bpolitique%5D"
     }
   ]
 }
