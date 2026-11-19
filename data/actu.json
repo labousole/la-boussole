@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-11-18T22:26:23+00:00",
+  "generated_at": "2026-11-19T05:26:31+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Nov 2026",
+      "date_iso": "2026-11-19T05:00:40+00:00",
+      "titre": "« GTA VI », le sixième épisode du jeu vidéo phénomène, une matière sensible pour le monde politique",
+      "dek": "A gauche comme à droite, partis et candidats ont multiplié les clins d’œil à la sortie du jeu vidéo. Oubliant parfois les rapports contrariés de leur famille politique avec la saga.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/19/gta-vi-le-sixieme-episode-du-jeu-video-phenomene-une-matiere-sensible-pour-le-monde-politique_6813235_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Nov 2026",
+      "date_iso": "2026-11-19T04:30:19+00:00",
+      "titre": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
+      "dek": "Le gouvernement a reconnu avoir déployé des militaires sur le territoire ukrainien dans le cadre de missions de formation et de maintenance, ravivant le débat sur les risques de voir Moscou prendre la France pour cible ou sur la nécessité d’une consultation du Parlement.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "19 Nov 2026",
+      "date_iso": "2026-11-19T04:00:26+00:00",
+      "titre": "Médias et extrême droite : histoire d’un glissement ?",
+      "dek": "La banalisation des dérapages verbaux des figures d’extrême droite, invitées sur certains plateaux de télévision à commenter les mobilisations sociales, nourrit la critique envers les médias audiovisuels. Dans ce podcast, Aude Dassonville, journaliste à la rubrique Médias du « Mo…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/podcasts/article/2026/11/19/medias-et-extreme-droite-histoire-d-un-glissement_6813222_5463015.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "18 Nov 2026",
+      "date_iso": "2026-11-18T23:49:22+00:00",
+      "titre": "Présidentielle 2027 : Marine Tondelier tente de forcer la main des Ecologistes en se disant prête à rallier Jean-Luc Mélenchon",
+      "dek": "Sur France 2, la secrétaire nationale des Ecologistes a ouvert la voie à son retrait de la présidentielle, alors que le parti ne s’est pas encore prononcé sur une candidature propre, une alliance avec La France insoumise ou un rapprochement avec Raphaël Glucksmann.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-marine-tondelier-tente-de-forcer-la-main-des-ecologistes-en-se-disant-prete-a-rallier-jean-luc-melenchon_6813213_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "18 Nov 2026",
+      "date_iso": "2026-11-18T22:34:29+00:00",
+      "titre": "Journal de campagne : la bataille de l'Élysée",
+      "dek": "Mardi 17 novembre, Jean-Luc Mélenchon dînait avec de grands patrons. À Villeurbanne (Rhône), Raphaël Glucksmann vient le défier sur ses terres. Chez les Écologistes, Sandrine Rousseau demande à Marine Tondelier de retirer sa candidature.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/journal-de-campagne-la-bataille-de-l-elysee_8289041.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -39,9 +94,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "18 Nov 2026",
-      "date_iso": "2026-11-18T20:59:38+00:00",
+      "date_iso": "2026-11-18T20:59:35+00:00",
       "titre": "Présidentielle 2027 : Marine Tondelier se dit « prête » à bâtir une « coalition autour de la candidature » de Jean-Luc Mélenchon",
-      "dek": "La candidate des Ecologistes souligne « la dynamique de campagne » du candidat « insoumis » et envisage « une discussion » en vue d’un éventuel soutien à sa candidature.",
+      "dek": "La candidate des Ecologistes souligne « la dynamique de campagne » du candidat de La France insoumise et envisage « une discussion » en vue d’un éventuel soutien à sa candidature.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-marine-tondelier-se-dit-prete-a-batir-une-coalition-autour-de-la-candidature-de-jean-luc-melenchon_6813209_823448.html"
     },
@@ -127,7 +182,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "18 Nov 2026",
-      "date_iso": "2026-11-18T19:00:14+00:00",
+      "date_iso": "2026-11-18T19:00:06+00:00",
       "titre": "Tony Gomez, l’hôte des stars, des patrons et de l’extrême droite",
       "dek": "Il a régné sur les nuits parisiennes, à la tête de mythiques établissements festifs comme le Banana Café ou L’Etoile. Désormais, c’est en costume-cravate que Tony Gomez reçoit le Tout-Paris chez le très sélect Laurent, près de l’Elysée. A cinq mois de la présidentielle, le RN y m…",
       "avis": null,
@@ -495,61 +550,6 @@
       "dek": "« Nous devons oser des réformes radicales, en rupture avec ce qui a été fait ces dernières années », a dit le candidat Horizons en détaillant des mesures sur l’école, la justice et la réforme des retraites, rappelant son attachement au projet européen et à la défense de l’Ukraine…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-edouard-philippe-presente-une-partie-de-son-programme-pour-retablir-l-ordre-et-remettre-la-france-sur-le-chemin-du-progres_6813122_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "18 Nov 2026",
-      "date_iso": "2026-11-18T11:44:49+00:00",
-      "titre": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
-      "dek": "En déplacement dans la banlieue lyonnaise, le candidat PS-Place publique à la présidentielle tente de relancer sa campagne après un mois de \"faux plat\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "18 Nov 2026",
-      "date_iso": "2026-11-18T11:23:36+00:00",
-      "titre": "Libertés associatives: Marine Le Pen dans les pas d’Emmanuel Macron",
-      "dek": "En attaquant la Ligue des droits humains et en proposant de ne plus subventionner les associations «politisées», la candidate d’extrême droite s’inscrit dans la même politique répressive amorcée sous le mandat de l’actuel président et déjà dénoncée par le monde associatif.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/181126/libertes-associatives-marine-le-pen-dans-les-pas-d-emmanuel-macron"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "18 Nov 2026",
-      "date_iso": "2026-11-18T11:16:05+00:00",
-      "titre": "Faible médiatisation, sortie des énergies fossiles, stratégie des ONG… «Mediapart» a répondu à vos questions sur la COP31",
-      "dek": "Valentine Oberti, codirectrice éditoriale du journal, et Mickaël Correia, journaliste au pôle écologie, ont répondu à vos questions sur l’actualité et le traitement de la COP31 en Turquie par «Mediapart» dans le cadre d’un chat.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/181126/faible-mediatisation-sortie-des-energies-fossiles-strategie-des-ong-mediapart-repondu-vos-questions-sur"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Nov 2026",
-      "date_iso": "2026-11-18T11:13:24+00:00",
-      "titre": "Le Medef pas convaincu par le projet de réforme des retraites de Marine Le Pen",
-      "dek": "Invité de France 2 le 18 novembre, le patron de l’organisation patronale Patrick Martin s’est montré sceptique sur les modalités de financement du retour à 62 ans, voire 60 ans, proposé par la candidate du RN la veille.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/social/le-medef-pas-convaincu-par-le-projet-de-reforme-des-retraites-de-marine-le-pen-20261118_ZSMW73X5SZGKLMNVR7ZTZBTJBA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "18 Nov 2026",
-      "date_iso": "2026-11-18T11:07:07+00:00",
-      "titre": "Dîner de Jean-Luc Mélenchon avec les grands patrons : Sonia Mabrouk ironise sur la base d’une fausse information et agace LFI",
-      "dek": "Dans son émission de BFM TV, l’ex-animatrice de CNews a situé à tort le rendez-vous du candidat avec le club patronal chez Drouant, raillant une prétendue hypocrisie de l’insoumis quant au faste du restaurant.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/diner-de-jean-luc-melenchon-avec-les-grands-patrons-sonia-mabrouk-ironise-sur-la-base-dune-fausse-information-et-agace-lfi-20261118_R5MJ5SMWZZGOBMKENC6MLDV6FE/"
     }
   ]
 }
