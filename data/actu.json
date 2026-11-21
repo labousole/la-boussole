@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-11-20T22:04:09+00:00",
+  "generated_at": "2026-11-21T05:05:49+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T04:30:16+00:00",
+      "titre": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du camp présidentiel, toujours incapable de s’unir",
+      "dek": "Le débat autour d’une primaire à droite met en lumière la difficulté d’une stratégie claire au sein de l’ancienne majorité, prise entre des considérations individuelles et des fractures idéologiques.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-a-cinq-mois-de-l-election-l-inquietude-grandit-au-sein-du-camp-presidentiel-toujours-incapable-de-s-unir_6813915_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T04:30:08+00:00",
+      "titre": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
+      "dek": "L’ampleur de cette nouvelle journée de protestation reste difficile à anticiper. Cet « acte VI » s’inscrit aussi dans le cadre d’un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Nov 2026",
+      "date_iso": "2026-11-20T22:46:37+00:00",
+      "titre": "Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage",
+      "dek": "Le calendrier des édiles dans les prochaines semaines devrait être occupé par le traitement des demandes de parrainages : 48,3% d’entre eux excluent d’apporter leur soutien à un candidat. Comment expliquer cette réticence ? 33%reconnaissent désormais ne pas se situer sur un axe p…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-ces-maires-reticents-a-l-idee-de-donner-leur-parrainage_8292998.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Nov 2026",
+      "date_iso": "2026-11-20T22:25:50+00:00",
+      "titre": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
+      "dek": "Après le faux départ de 2012, l’ancien premier ministre entend bien être présent au premier tour en avril. A 73 ans, il se frottera peut-être pour la première fois au suffrage universel. Il a dévoilé vendredi ses premières propositions et livré un réquisitoire implacable contre l…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,17 +55,6 @@
       "dek": "Le 7 novembre, un individu masqué était entré dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T21:50:59+00:00",
-      "titre": "Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage",
-      "dek": "Le calendrier des édiles dans les prochaines semaines devrait être occupé par le traitement des demandes de parrainages : 48,3% d’entre eux excluent d’apporter leur soutien à un candidat. Comment expliquer cette réticence ? 33%reconnaissent désormais ne pas se situer sur un axe p…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-ces-maires-reticents-a-l-idee-de-donner-leur-parrainage_8292998.html#xtor=RSS-3-%5Bpolitique%5D"
     },
     {
       "tag": "Gauche",
@@ -517,39 +550,6 @@
       "dek": "Le sénateur rallié à Raphaël Glucksmann, déjà suspendu du parti, a saisi l’occasion de la déclaration d’intention de la patronne du parti en faveur du candidat insoumis à la présidentielle pour couper les ponts, jeudi 19 novembre, avec une formation où il militait depuis 1999.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/main-tendue-de-tondelier-a-melenchon-jadot-annonce-son-depart-des-ecologistes-20261120_UZTRMFUYAZHGZCDOXMPPCZW75M/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T09:47:41+00:00",
-      "titre": "L’artiste Lubaina Himid: «J’ai appris à être moins en colère et plus stratège»",
-      "dek": "La Britannique Lubaina Himid, figure majeure du Black Arts Movement, s’empare de la chapelle de la Salpêtrière pour sa première exposition à Paris, à l’occasion du festival d’Automne. «Mediapart» a échangé avec celle qui devint, en 2017, la première femme noire à remporter le pri…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/201126/l-artiste-lubaina-himid-j-ai-appris-etre-moins-en-colere-et-plus-stratege"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T09:47:04+00:00",
-      "titre": "Pourquoi Eric Ciotti continue à cumuler mairie de Nice et Assemblée nationale",
-      "dek": "Grâce à un nouveau recours sur l’élection municipale qu’il a remportée, l’allié du RN peut continuer de siéger au Palais-Bourbon et de présider son petit groupe.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/pourquoi-eric-ciotti-continue-a-cumuler-mairie-de-nice-et-assemblee-nationale-20261120_X6EJ2N6SNVEENC6KZM4OY2QCFA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T09:42:34+00:00",
-      "titre": "Présidentielle 2027 : David Lisnard, promoteur puis torpilleur de la primaire de la droite et du centre",
-      "dek": "Le candidat Nouvelle Energie a été l’un des premiers, à droite, à défendre une primaire avec un large périmètre. Mais il est suspecté par les équipes de Gabriel Attal et de Bruno Retailleau de vouloir faire échouer le processus en souhaitant y inclure le polémiste d’extrême droit…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-david-lisnard-promoteur-puis-torpilleur-de-la-primaire-de-la-droite-et-du-centre_6813615_823448.html"
     }
   ]
 }
