@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-11-21T17:02:18+00:00",
+  "generated_at": "2026-11-22T00:00:40+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T22:46:30+00:00",
+      "titre": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
+      "dek": "Le candidat de Nouvelle Energie affirme que le scrutin n’aurait de sens qu’avec la participation d’Edouard Philippe et d’Eric Zemmour, deux conditions pratiquement irréalisables qui font planer un peu plus le doute sur sa tenue.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T21:00:02+00:00",
+      "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+      "dek": "Le préfet de la région Centre-Val de Loire a demandé sa mise en retrait après la révélation de soupçons le visant dans l’enquête sur les fuites d’informations confidentielles vers le Rassemblement national. D’après les informations du « Monde », les investigations ont été déclenc…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T19:43:19+00:00",
+      "titre": "Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale",
+      "dek": "Placé en résidence surveillée après avoir été condamné pour tentative de coup d’Etat, l’ancien chef d’Etat d’extrême droite souffre de séquelles d’un coup de couteau au ventre reçu pendant la campagne électorale de 2018, et a été opéré à plusieurs reprises.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T19:04:57+00:00",
+      "titre": "Dans le Var, Eric Zemmour en campagne pour une « primaire de la droite »",
+      "dek": "Pour son premier meeting à Toulon, le candidat d’extrême droite a décliné son programme sécuritaire et économique et largement mis en avant sa compagne, Sarah Knafo.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/21/dans-le-var-eric-zemmour-en-campagne-pour-une-primaire-de-la-droite_6814062_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T19:01:33+00:00",
+      "titre": "«On ne veut pas abandonner»: à Paris, les manifestants refusent l’essoufflement",
+      "dek": "À l’occasion du sixième samedi consécutif de mobilisation, quelques milliers de personnes ont défilé derrière des revendications multiples: en soutien aux lycéens et lycéennes, contre la vie chère, la loi «permis de tuer» et pour le logement. Cet «acte 6» marque aussi le huitième…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/211126/ne-veut-pas-abandonner-paris-les-manifestants-refusent-l-essoufflement"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T18:59:46+00:00",
+      "titre": "\"Je serai le candidat de la liberté de pensée, de parler, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+      "dek": "Le président du parti d'extrême droite s'est exprimé devant ses partisans au Zenith de Toulon.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T18:40:48+00:00",
+      "titre": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions",
+      "dek": "\"Je refuse que l’Etat, le ministère de l'Intérieur et le corps préfectoral deviennent les cibles ou les instruments de ces entreprises de déstabilisation\", a déclaré samedi le haut fonctionnaire dans un communiqué.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T18:16:40+00:00",
+      "titre": "Présidentielle 2027 : François Ruffin renonce à sa candidature",
+      "dek": "François Ruffin a annoncé samedi qu’il retirait sa candidature à l’élection présidentielle, prenantacte de «&nbsp;l’impasse « de sa campagne, faute d’avoir réussi à imposer l’organisation d’une «&nbsp;grandePrimaire&nbsp;» de toute la gauche.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T18:03:26+00:00",
+      "titre": "Nouvelle réunion jeudi prochain entre les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard pour une primaire de la droite et du centre",
+      "dek": "Les équipes de campagnes des trois candidats continuent de travailler ensemble sur les modalités de la primaire de la droite et du centre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/nouvelle-reunion-jeudi-prochain-entre-les-directeurs-de-campagne-de-gabriel-attal-bruno-retailleau-et-david-lisnard-pour-une-primaire-de-la-droite-et-du-centre_8294057.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T18:01:12+00:00",
+      "titre": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions",
+      "dek": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti. Des perquisitions ont été menées au siège du parti et au ministère de l’intér…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-demande-a-etre-releve-de-ses-fonctions_6814056_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T17:54:03+00:00",
+      "titre": "Suspecté d’être une taupe du RN, le préfet Hugues Moutouh demande à être relevé de ses fonctions",
+      "dek": "Le représentant de l’Etat dans la région Centre-Val de Loire est soupçonné d’être impliqué dans des fuites sur des enquêtes mettant en cause le parti d’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/police-justice/suspecte-detre-une-taupe-du-rn-le-prefet-moutouh-demande-a-etre-releve-de-ses-fonctions-20261121_LUXHW7N52BELTCNJHZ6VHWMFHU/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T17:40:08+00:00",
+      "titre": "Le GUD n’est pas mort, il déverse sa haine et planifie ses actions sur Telegram",
+      "dek": "«Mediapart» a eu accès à plusieurs centaines de messages internes au GUD, le principal groupuscule d’extrême droite radicale. Des documents qui prouvent que deux ans après sa dissolution, les mêmes hommes continuent de perpétrer les mêmes violences et de déverser la même haine.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/211126/le-gud-n-est-pas-mort-il-deverse-sa-haine-et-planifie-ses-actions-sur-telegram"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T17:13:19+00:00",
+      "titre": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
+      "dek": "Le député de la Somme, en rupture avec La France insoumise, a annoncé renoncer à l’élection présidentielle, ce samedi 21 novembre, face au risque de voir le RN prendre le pouvoir. Il n’apporte son soutien à aucun candidat.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T17:04:21+00:00",
+      "titre": "Mariam Touré: «De la rue à la COP, le gouvernement méprise la jeunesse racisée»",
+      "dek": "Activiste des droits humains, Mariam Touré a interpellé à la COP31 la ministre française de l’écologie sur le manque de financements alloués à l’adaptation au réchauffement global. À la suite de cet échange filmé, la militante a été exclue de la délégation française. Elle considè…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/211126/mariam-toure-de-la-rue-la-cop-le-gouvernement-meprise-la-jeunesse-racisee"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +165,17 @@
       "dek": "La Cour internationale de justice a jugé la Birmanie coupable de génocide contre les Rohingyas. L’avocat franco-britannique Philippe Sands, grand spécialiste du sujet et qui a participé à la procédure, revient sur cet arrêt historique: pour la première fois, un État est condamné.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/international/211126/genocide-des-rohingyas-reconnu-contre-l-etat-birman-c-est-un-moment-cle-la-hauteur-de-nuremberg-et"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Nov 2026",
+      "date_iso": "2026-11-21T16:04:58+00:00",
+      "titre": "Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France",
+      "dek": "Cette nouvelle journée de protestation, moins suivie, s’est déroulée dans le calme à Paris, mais avec des tensions dans l’après-midi à Marseille et à Lyon. Cet « acte VI » de la mobilisation contre la vie chère s’inscrit aussi dans le cadre d’un appel européen.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html"
     },
     {
       "tag": "Politique",
@@ -385,171 +550,6 @@
       "dek": "Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle. Une candidature critiquée par certains de son historique famille politique. On en parle dans l'épisode 10 du podcast \"On/Off\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T18:46:18+00:00",
-      "titre": "La loi sur la présomption de légitime défense pour les forces de l’ordre définitivement adoptée par le Parlement, ayant été approuvée au Sénat",
-      "dek": "La gauche sénatoriale a d’ores et déjà annoncé qu’elle saisirait en commun le Conseil constitutionnel pour faire barrage à la promulgation de ce qu’elle considère comme l’instauration d’un « permis de tuer » pour les policiers.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T18:24:10+00:00",
-      "titre": "Budget : députés et sénateurs s’entendent sur un premier texte malgré l’enlisement politique",
-      "dek": "La commission mixte paritaire réunie vendredi 19 novembre a trouvé un accord sur le projet de loi de fin de gestion pour 2026. Trouver un compromis sur le budget 2027, rejeté à l’Assemblée et jugé « suicidaire » au Sénat, s’annonce plus ardu.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/20/budget-deputes-et-senateurs-s-entendent-sur-un-premier-texte-malgre-l-enlisement-politique_6813691_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T18:12:01+00:00",
-      "titre": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour convaincre, lui promet de «surprendre»",
-      "dek": "L’ancien président socialiste, qui avait renoncé à se représenter en 2017 au vu de sa très forte impopularité, continue d’entretenir le doute sur ses intentions et sur une éventuelle candidature.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqua-fevrier-pour-convaincre-lui-promet-de-surprendre-20261120_V6TAIK6H7NGWFCXCCZQ24HWBLA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T18:01:22+00:00",
-      "titre": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
-      "dek": "Yannick Jadot a annoncé quitter les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon pour la présidentielle 2027. Le désormais ex-membre du parti était déjà suspendu pour avoir rejoint Raphaël Glucksmann.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:40:57+00:00",
-      "titre": "Dominique de Villepin, le candidat d’un monde disparu",
-      "dek": "L’ancien ministre de Jacques Chirac a déclaré officiellement sa candidature à la présidentielle. Autour de lui, des profils de droite et de gauche se disent «orphelins», admirent l’homme du «non» en 2003 et pensent qu’il peut profiter de la déshérence du camp des modérés.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/201126/dominique-de-villepin-le-candidat-d-un-monde-disparu"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:40:51+00:00",
-      "titre": "Manifestation « contre le racisme anti-blancs » à Angers : les néofascistes appellent à braver l’interdiction",
-      "dek": "Ce dimanche 22 novembre, des groupuscules néofascistes et intégristes appellent à manifester « contre le racisme anti-blancs, contre les casseurs, pour un nouvel ordre », à Angers, malgré l’interdiction de la préfecture. À l’extrême droite, les discours insurrectionnels se font d…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/manifestation-contre-le-racisme-anti-blancs-a-angers-les-neofascistes-appellent-a-braver-linterdiction"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:35:51+00:00",
-      "titre": "«Je suis candidat à l’élection présidentielle de 2027», annonce Dominique de Villepin",
-      "dek": "L’ex-Premier ministre de Jacques Chirac, promoteur d’un rassemblement dépassant le clivage droite-gauche, a tenu une conférence de presse ce vendredi 20 novembre à la Maison de l’Amérique latine à Paris pour officialiser sa candidature.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:21:35+00:00",
-      "titre": "Royaume-Uni : prison ferme pour le militant d’extrême droite Danny Tommo après une action antimigrants",
-      "dek": "Danny Tommo, militant d’extrême droite très suivi sur YouTube, avait lacéré à coups de couteau une embarcation de personnes migrantes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/20/royaume-uni-prison-ferme-pour-le-militant-d-extreme-droite-danny-tommo-apres-une-action-antimigrants_6813680_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:11:16+00:00",
-      "titre": "À Orléans, des bus réquisitionnés au service du RN par le préfet Moutouh",
-      "dek": "Le 24&nbsp;octobre dernier, alors que les transports publics étaient interdits dans la ville, le préfet Hugues Moutouh, a fait réquisitionner des bus pour acheminer des militants du RN à leur Congrès. Un dévoiement absolu des services publics.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/orleans/a-orleans-des-bus-requisitionnes-au-service-du-rn-par-le-prefet-moutouh"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:04:50+00:00",
-      "titre": "Affaires et couacs, tout semble glisser sur Marine Le Pen… Jusqu’à quand ?",
-      "dek": "A chaque semaine ou presque sa polémique infamante pour le RN. Mais à l’image de Trump, sa candidate semble peu pénalisée par ses boulets judiciaires et moraux.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/affaires-et-couacs-tout-semble-glisser-sur-marine-le-pen-jusqua-quand-20261120_WH4B75J2EZGYRH6NVYTZ7SV2JQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:00:20+00:00",
-      "titre": "Présidentielle 2027 : pourquoi un maire sur deux ne souhaite pas parrainer de candidat à l’Elysée",
-      "dek": "Les édiles représentent 79 % des élus habilités à soutenir un candidat. Une vaste enquête du Cevipof réalisée pour le compte de l’Association des maires de France montre chez eux « une forme de retrait vis-à-vis de la vie politique nationale ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-pourquoi-un-maire-sur-deux-ne-souhaite-pas-parrainer-de-candidat-a-l-elysee_6813675_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T17:00:12+00:00",
-      "titre": "Dominique David (IFRI) :« La puissance d’un Etat se prouve d’abord à l’intérieur, avant de s’exporter »",
-      "dek": "Pour le spécialiste des relations internationales, l’Etat français va devoir penser l’avenir démocratiquement avant d’imposer des décisions inévitables. Il rappelle dans un entretien au « Monde » que politique extérieure et enjeux internes sont partout liés.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/20/dominique-david-ifri-la-puissance-d-un-etat-se-prouve-d-abord-a-l-interieur-avant-de-s-exporter_6813671_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T16:55:30+00:00",
-      "titre": "Rapprochement écolos-LFI : «Je veux que ce soient nos adhérents qui décident», dit Amine Kessaci",
-      "dek": "Alors que Marine Tondelier a fait un pas de plus en direction des insoumis, mercredi 18 novembre, le membre de la direction des verts appelle à maintenir le débat jusqu’au vote du 13 décembre et à dialoguer avec Raphaël Glucksmann.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/rapprochement-ecolos-lfi-je-veux-que-ce-soient-nos-adherents-qui-decident-dit-amine-kessaci-20261120_WXDBO7JV3BEZLP5XMH4JENVQUY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T16:46:18+00:00",
-      "titre": "Mathieu Souquière : «Face à l’extrême droite, il faut des politiques visant à renforcer nos liens, faire régresser la solitude et consolider notre “souveraineté individuelle”»",
-      "dek": "La défiance et la déshumanisation sont les principaux carburants du vote RN, analyse dans son dernier ouvrage Mathieu Souquière, expert associé à Terra Nova. Il propose plusieurs pistes pour faire reculer le «populisme d’atmosphère» sur lequel surfe l’extrême droite.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/mathieu-souquiere-face-a-lextreme-droite-il-faut-des-politiques-visant-a-renforcer-nos-liens-faire-regresser-la-solitude-et-consolider-notre-souverainete-individuelle-20261121_TURRMXEAHRBAVNDNEOVBZ534HE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Nov 2026",
-      "date_iso": "2026-11-20T16:30:03+00:00",
-      "titre": "Présidentielle 2027 : la bataille délétère du « vote utile »",
-      "dek": "La notion de vote utile, qui alimente les débats de l’automne et s’impose dans le champ politique, nie le débat d’idées en se concentrant exclusivement sur les sondages, estime Matthieu Goar, l’un des chefs du service Politique du « Monde ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-la-bataille-deletere-du-vote-utile_6813664_823448.html"
     }
   ]
 }
