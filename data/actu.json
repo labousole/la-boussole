@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-11-22T20:53:44+00:00",
+  "generated_at": "2026-11-23T05:06:45+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Nov 2026",
+      "date_iso": "2026-11-23T05:02:42+00:00",
+      "titre": "Nouveaux projets d'investissement, dernière vitrine du macronisme... Ce qu'il faut savoir avant le sommet Choose France qui a lieu lundi",
+      "dek": "Ce sommet dédié aux entreprises françaises se tient dans un contexte économique empreint d'incertitudes. Il sera aussi la dernière occasion pour Emmanuel Macron de vanter son bilan en matière de réindustrialisation, de croissance et d'emploi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/industrie/nouveaux-projets-d-investissement-derniere-vitrine-du-macronisme-ce-qu-il-faut-savoir-avant-le-sommet-choose-france-qui-a-lieu-lundi_8294753.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Nov 2026",
+      "date_iso": "2026-11-23T05:02:00+00:00",
+      "titre": "Des nids-de-poule aux toitures trouées, la «dette grise» met les communes au défi",
+      "dek": "Après des années de sous-investissement pour entretenir les infrastructures et bâtiments publics communaux, faute de budget, les maires, qui organisent leur congrès cette semaine à Paris, alertent sur cette ardoise invisible qui pèse sur leurs finances.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/des-nids-de-poule-aux-toitures-trouees-la-dette-grise-met-les-communes-au-defi-20261123_XEE2AOELQZHDHHQ54IGKNJRYGU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Nov 2026",
+      "date_iso": "2026-11-23T05:00:02+00:00",
+      "titre": "En Guadeloupe, la défaillance de la Sécurité sociale met en difficulté de nombreux bénéficiaires",
+      "dek": "Dossiers de retraite en retard, arrêts maladie non indemnisés… La Cour des comptes a publié un rapport alarmant, le 10 novembre, sur la Caisse de sécurité sociale de la Guadeloupe, pointant de nombreux dysfonctionnements qui entravent la bonne marche du service rendu aux usagers.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/23/en-guadeloupe-la-defaillance-de-la-securite-sociale-met-en-difficulte-de-nombreux-beneficiaires_6814340_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Nov 2026",
+      "date_iso": "2026-11-23T04:55:00+00:00",
+      "titre": "A Orléans, le pas de deux du maire de droite avec le Rassemblement national",
+      "dek": "Ancien membre des Républicains, Serge Grouard s’est récemment fait remarquer par des signes de convergence avec le parti d’extrême droite, qui organisait son congrès dans la capitale du Centre-Val de Loire en octobre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/a-orleans-le-pas-de-deux-du-maire-de-droite-avec-le-rassemblement-national-20261123_UN3AQEGY6VH6HM6FKR3BB6KN6M/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Nov 2026",
+      "date_iso": "2026-11-23T04:30:10+00:00",
+      "titre": "Présidentielle 2027 : Marine Le Pen, une campagne au défi de la justice",
+      "dek": "La candidate du Rassemblement national à l’Elysée, déclarée le soir même d’une condamnation pour détournements de fonds publics, ne fait aucun cas des multiples affaires et soupçons d’atteinte à la probité visant son parti, misant sur l’indifférence présumée des électeurs pour le…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Nov 2026",
+      "date_iso": "2026-11-23T04:30:03+00:00",
+      "titre": "L’itinéraire d’Hugues Moutouh, préfet « provocateur et dominant », ex-bras droit de Claude Guéant aujourd’hui soupçonné d’être une « taupe » du RN",
+      "dek": "Ce haut fonctionnaire adepte de la manière forte, qui dément avoir manqué à ses devoirs et a demandé à « être relevé de ses fonctions », s’est servi de l’élection de Nicolas Sarkozy à la présidence de la République, en 2007, comme premier tremplin. Revenu en grâce avec Emmanuel M…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/23/l-itineraire-d-hugues-moutouh-prefet-provocateur-et-dominant-ex-bras-droit-de-claude-gueant-aujourd-hui-soupconne-d-etre-une-taupe-du-rn_6814310_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Nov 2026",
+      "date_iso": "2026-11-23T04:00:05+00:00",
+      "titre": "Teddy Riner, le candidat que personne n’attendait",
+      "dek": "La star française du judo a créé la sensation en annonçant sa candidature à l’élection présidentielle. Dans ce podcast, Nathalie Segaunes, journaliste au service Politique du « Monde », analyse cette drôle de séquence dans la campagne présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/podcasts/article/2026/11/23/teddy-riner-le-candidat-que-personne-n-attendait_6814307_5463015.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Nov 2026",
+      "date_iso": "2026-11-22T22:42:42+00:00",
+      "titre": "A Angers, militants identitaires et antifascistes se toisent en marge d’un rassemblement interdit contre le « racisme anti-Blancs »",
+      "dek": "L’agression de trois étudiants, le 2 octobre sur la terrasse d’un bar à Angers, a mobilisé, dimanche, 200 activistes de l’ultradroite identitaire.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Nov 2026",
+      "date_iso": "2026-11-22T21:57:57+00:00",
+      "titre": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", assure Raphaël Glucksman, candidat PS et Place publique",
+      "dek": "Raphaël Glucksmann était l'invité du \"Grand enjeu\", dimanche 22 novembre. Le candidat du PS et de Place publique pour l'élection présidentielle a notamment abordé la question de son projet et de ses propositions en matière d'écologie, de pouvoir d'achat ou encore des retraites. I…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Nov 2026",
+      "date_iso": "2026-11-22T21:47:11+00:00",
+      "titre": "Hugues Moutouh, un préfet au cœur de la tourmente",
+      "dek": "Le préfet de la région Centre-Val de Loire a décidé de demander à être relevé de ses fonctions. Hugues Moutouh est soupçonné d’être impliqué dans des fuites sur des enquêtes confidentielles du ministère de l’Intérieur, liées au Rassemblement national. Les enquêteurs se concentren…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/hugues-moutouh-un-prefet-au-c-ur-de-la-tourmente_8295203.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,17 +121,6 @@
       "dek": "Lors de la première édition de l'\"édition France\", le gouvernement avait valorisé des investissements à hauteur de 30,4 milliards, pour 151 projets.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/au-programme-du-sommet-choose-france-qui-s-ouvre-lundi-273-projets-valorises-et-pres-de-15-milliards-d-euros-d-investissements-nouveaux_8295146.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Nov 2026",
-      "date_iso": "2026-11-22T19:19:45+00:00",
-      "titre": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique",
-      "dek": "Raphaël Glucksmann était l'invité du Grand Enjeu, dimanche 22 novembre. Le candidat du PS et de Place publique pour l'élection présidentielle a notamment abordé la question de son projet et de ses propositions en matière d'écologie, de pouvoir d'achat ou encore de retraites. Il e…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D"
     },
     {
       "tag": "Politique",
@@ -451,105 +550,6 @@
       "dek": "De l’erreur d’estimation du score de Jean-Luc Mélenchon en 2022 aux secrets des redressements sociodémographiques et politiques, en passant par le fiasco des projections des législatives 2024 et l’influence du vote utile : à quelques mois de l’élection présidentielle, quelle plac…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/election-presidentielle/la-presidentielle-serait-pire-sans-les-sondages-entretien-avec-m-gallard-ipsos-aux-urnes-etc"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "22 Nov 2026",
-      "date_iso": "2026-11-22T07:00:00+00:00",
-      "titre": "Les sondages faussent-ils l’élection présidentielle ? | AUX URNES ETC.",
-      "dek": "De la présidentielle française de 2022 aux législatives de 2024, en passant par le fiasco du sondage Selzer aux États-Unis ou les élections au Brésil, les instituts de sondage se trompent régulièrement. Pourtant, ils dictent le rythme médiatique, créent des dynamiques artificiell…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/election-presidentielle/les-sondages-faussent-ils-lelection-presidentielle-aux-urnes-etc"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Nov 2026",
-      "date_iso": "2026-11-22T05:30:18+00:00",
-      "titre": "Le « racisme anti-Blancs », matrice à fantasmes utilisée par l’extrême droite",
-      "dek": "Dans une tentative d’inverser les rapports de domination, une partie de l’extrême droite française veut populariser ce concept né chez les identitaires dans les années 1970.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Nov 2026",
-      "date_iso": "2026-11-22T05:14:00+00:00",
-      "titre": "Pour Jean-Luc Mélenchon, les limites du modèle brésilien Lula",
-      "dek": "Le leader insoumis peut-il réussir à dupliquer en France la recette luliste ? Rien n’est moins sûr, analyse Bruno Meyerfeld, journaliste indépendant, lauréat du prix Albert-Londres 2026 et ancien correspondant au Brésil.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/pour-jean-luc-melenchon-les-limites-du-modele-bresilien-lula-20261122_OW7T3RMFRJBCFBXKDFS5VMLKXY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Nov 2026",
-      "date_iso": "2026-11-22T05:00:04+00:00",
-      "titre": "INFO FRANCEINFO. Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays",
-      "dek": "Cette annonce intervient à l'occasion d'un sommet Choose France, qui s'ouvre lundi à la Cité internationale universitaire de Paris. Cette \"édition France\" réunira plus de 250 entreprises qui ont investi dans l'Hexagone.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/info-france-info-sommet-choose-france-edition-france-l-entreprise-blanc-aero-industries-doit-investir-39-millions-d-euros-dans-le-pays_8294021.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Nov 2026",
-      "date_iso": "2026-11-21T22:46:30+00:00",
-      "titre": "Présidentielle 2027 : David Lisnard voit dans une primaire de la droite et du centre « un moyen d’exclure les macronistes »",
-      "dek": "Le candidat de Nouvelle Energie affirme que le scrutin n’aurait de sens qu’avec la participation d’Edouard Philippe et d’Eric Zemmour, deux conditions quasi irréalisables qui font planer un peu plus le doute sur sa tenue.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Nov 2026",
-      "date_iso": "2026-11-21T21:00:02+00:00",
-      "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
-      "dek": "Selon les informations du « Monde », les investigations sur les fuites d’informations confidentielles vers le RN ont été déclenchées après la découverte d’un courriel d’une fonctionnaire du ministère de l’intérieur au domicile à Rome de Frédéric Chatillon, un proche de Marine Le …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Nov 2026",
-      "date_iso": "2026-11-21T19:43:19+00:00",
-      "titre": "Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale",
-      "dek": "Placé en résidence surveillée après avoir été condamné pour tentative de coup d’Etat, l’ancien chef d’Etat d’extrême droite souffre de séquelles d’un coup de couteau au ventre reçu pendant la campagne électorale de 2018, et a été opéré à plusieurs reprises.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Nov 2026",
-      "date_iso": "2026-11-21T19:04:57+00:00",
-      "titre": "Dans le Var, Eric Zemmour en campagne pour une « primaire de la droite »",
-      "dek": "Pour son premier meeting à Toulon, le candidat d’extrême droite a décliné son programme sécuritaire et économique et largement mis en avant sa compagne, Sarah Knafo.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/21/dans-le-var-eric-zemmour-en-campagne-pour-une-primaire-de-la-droite_6814062_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Nov 2026",
-      "date_iso": "2026-11-21T19:01:33+00:00",
-      "titre": "«On ne veut pas abandonner»: à Paris, les manifestants refusent l’essoufflement",
-      "dek": "À l’occasion du sixième samedi consécutif de mobilisation, quelques milliers de personnes ont défilé derrière des revendications multiples: en soutien aux lycéens et lycéennes, contre la vie chère, la loi «permis de tuer» et pour le logement. Cet «acte 6» marque aussi le huitième…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/211126/ne-veut-pas-abandonner-paris-les-manifestants-refusent-l-essoufflement"
     }
   ]
 }
