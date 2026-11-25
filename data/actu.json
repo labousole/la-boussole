@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-24T20:27:02+00:00",
+  "generated_at": "2026-11-25T06:26:57+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T05:37:47+00:00",
+      "titre": "À suivre Loïc de la Mornais : les maires sont-ils les rois du casting de la présidentielle ?",
+      "dek": "Dans cette première partie, Loïc de la Mornais se penche sur le congrès des maires, dont la 108e édition s'est ouverte mardi : un rendez-vous stratégique pour la chasse aux parrainages des candidats à l'élection présidentielle. Une séquence à retrouver dans l'émission \"À suivre L…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-les-maires-sont-ils-les-rois-du-casting-de-la-presidentielle_8298795.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T05:05:00+00:00",
+      "titre": "« On a beaucoup échangé » : Macron-Lisnard, les coulisses d’un rendez-vous manqué qui a viré à la guerre froide",
+      "dek": "RÉCIT - Si le maire de Cannes a montré de l’intérêt pour le ministre puis le candidat Macron il y a dix ans, la relation entre les deux hommes s’est tendue par la suite.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/on-a-beaucoup-echange-macron-lisnard-les-coulisses-d-un-rendez-vous-manque-qui-a-vire-a-la-guerre-froide-20261125"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T05:00:04+00:00",
+      "titre": "VIDEO : \nBarnham : le village anglais veut quitter le Royaume-Uni",
+      "dek": "Un village anglais a organisé un référendum pour quitter le Royaume-Uni ! À Barnham, dans l'est de l'Angleterre, des habitants ont décidé de défier le gouvernement britannique en organisant leur propre vote. À l'origine de cette initiative insolite : un projet visant à accueillir…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/video-barnham-le-village-anglais-veut-quitter-le-royaume-uni_8297958.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T04:46:50+00:00",
+      "titre": "Michaël Zemmour, économiste : « La réforme des retraites proposée par le RN ne rétablit pas un départ à 62 ans et n’en garantit pas le droit à 64 ans »",
+      "dek": "Les jeunes, les travailleurs peu qualifiés ou à mi-temps figureraient parmi les plus affectés par la réforme envisagée par le Rassemblement national, analyse, dans une tribune au « Monde », l’enseignant-chercheur. Selon ses calculs, près d’un tiers des personnes parties en 2022 a…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/11/25/michael-zemmour-economiste-la-reforme-des-retraites-proposee-par-le-rn-ne-retablit-pas-un-depart-a-62-ans-et-n-en-garantit-pas-le-droit-a-64-ans_6815038_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T04:29:28+00:00",
+      "titre": "Présidentielle 2027 : LFI, force d’attraction à gauche",
+      "dek": "Après la majorité du groupe communiste à l’Assemblée nationale, puis la secrétaire nationale des Ecologistes, Marine Tondelier, le parti Génération.s apporte, à son tour, son soutien à Jean-Luc Mélenchon, en vue du scrutin d’avril 2027. La France insoumise lorgne désormais sur la…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T04:15:07+00:00",
+      "titre": "Présidentielle 2027 : au RN, la certitude de la victoire enivre les élus et inquiète Marine Le Pen",
+      "dek": "Les adversaires du Rassemblement national pointent l’arrogance des députés d’extrême droite dans les médias, les réseaux sociaux et à l’Assemblée nationale. De récents faux pas de communication attestent d’un état d’esprit euphorique.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-au-rn-la-certitude-de-la-victoire-enivre-les-elus-et-inquiete-marine-le-pen_6815034_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Nov 2026",
+      "date_iso": "2026-11-24T22:48:34+00:00",
+      "titre": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite",
+      "dek": "Le maire du Havre considère par ailleurs que \"les points d'accord sont considérablement plus nombreux\" avec Gabriel Attal et Bruno Retailleau qu'avec le maire du Havre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Nov 2026",
+      "date_iso": "2026-11-24T22:36:38+00:00",
+      "titre": "Présidentielle 2027 : les maires s’inquiètent du « ras-le-bol général » des électeurs",
+      "dek": "Le congrès de l’Association des maires de France s’est ouvert à Paris, mardi 24 novembre. Beaucoup de maires s’émeuvent de la situation sociale et redoutent que la détresse d’une partie de la population profite au Rassemblement national.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -209,6 +297,17 @@
       "dek": "Au Congrès des maires de France, du 24 au 26&nbsp;novembre, les élus communistes de la Coop-CRC (la Coopérative des élu·e·s communistes, républicain·e·s et citoyen·ne·s) préparent leurs budgets à l’hypothèse d’une victoire de l’extrême droite. D’ici au scrutin, ils veulent que la…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/maires-de-france/congres-de-lamf-face-au-rn-les-maires-communistes-veulent-remettre-lecole-et-lindustrie-au-coeur-de-la-campagne"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Nov 2026",
+      "date_iso": "2026-11-24T17:43:11+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe souhaite un débat télévisé avec David Lisnard, qu’il soupçonne de ne pas être « étanche » vis-à-vis de l’extrême droite",
+      "dek": "Le candidat Horizons a rapproché au maire de Cannes de vouloir travailler avec la droite et la « droite extrême ». De son côté, le candidat Nouvelle Energie s’est engagé à continuer « à défendre les mairies » s’il était élu à l’Elysée.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html"
     },
     {
       "tag": "Politique",
@@ -451,105 +550,6 @@
       "dek": "Le président de la République réfléchit à faire inscrire dans la Constitution une sorte de \"règle d'or\" budgétaire en faisant adopter une réforme de 2011 qui n'a jamais abouti. Mais cette initiative du chef de l'Etat, brandie dans un timing étonnant, peut-elle réellement être cou…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/on-n-est-plus-a-une-surprise-pres-pourquoi-emmanuel-macron-envisage-t-il-de-creer-une-regle-d-or-budgetaire-a-cinq-mois-de-la-presidentielle_8295866.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T05:00:29+00:00",
-      "titre": "Larry Diamond, politiste américain : « En plusieurs endroits du monde, nous assistons à un rejet croissant des projets autoritaires »",
-      "dek": "Aux Etats-Unis, au Brésil, en Serbie et dans plusieurs autres pays, les candidats populistes ou illibéraux ont été défaits lors de récents scrutins. Le spécialiste de l’étude de la démocratie à l’échelle internationale y voit, comme il l’explique dans un entretien au « Monde », l…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/24/larry-diamond-politiste-americain-en-plusieurs-endroits-du-monde-nous-assistons-a-un-rejet-croissant-des-projets-autoritaires_6814707_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T05:00:24+00:00",
-      "titre": "Présidentielle 2027 : « Face au RN, beaucoup va se jouer sur la capacité d’Edouard Philippe ou de Raphaël Glucksmann à s’imposer au centre »",
-      "dek": "Si le second tour du scrutin voyait s’affronter Marine Le Pen et Jean-Luc Mélenchon, on assisterait à un retour brutal du clivage gauche-droite, sous domination des extrêmes. Mais un autre scénario de recomposition existe, estime, dans sa chronique, Françoise Fressoz, éditorialis…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-face-au-rn-beaucoup-va-se-jouer-sur-la-capacite-d-edouard-philippe-ou-de-raphael-glucksmann-a-s-imposer-au-centre_6814705_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T05:00:01+00:00",
-      "titre": "Sommet Xi-Poutine-Trump : Shenzhen n’est pas Yalta, par Serge July",
-      "dek": "Comparé à la conférence qui avait réuni, en 1945, Roosevelt, Churchill et Staline, le sommet qui a rassemblé les présidents chinois, russe et américain, la semaine dernière, en Chine, a accouché d’une souris. Seule la puissance invitante a tiré son épingle du jeu.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/opinions/sommet-xi-poutine-trump-shenzhen-nest-pas-yalta-par-serge-july-20261124_R4CQBUFO3VBMDOYNHXTRRXUJUQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T04:59:37+00:00",
-      "titre": "\"Sécurité des patients\" ou \"affichage politique\" ? On vous explique le conflit entre les dermatologues et le gouvernement sur l'encadrement de la médecine esthétique",
-      "dek": "\"Nous devons veiller à ce que les compétences médicales restent prioritairement mobilisées au service des patients\", a plaidé la ministre de la Santé, Stéphanie Rist, après la publication d'un décret limitant la médecine esthétique à 30% du temps de travail des soignants.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/securite-des-patients-ou-affichage-politique-on-vous-explique-le-conflit-entre-les-dermatologues-et-le-gouvernement-sur-l-encadrement-de-la-medecine-esthetique_8295836.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T04:57:22+00:00",
-      "titre": "Enquête sur des fuites présumées vers le RN : qui est Frédéric Chatillon, ex-président du GUD et ancien proche de Marine Le Pen ?",
-      "dek": "Le nom de ce prestataire du parti à la flamme apparaît dans l'enquête visant l'ancien préfet Hugues Moutouh sur les soupçons de fuites du ministère de l'Intérieur vers le Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/justice/enquete-sur-des-fuites-presumees-vers-le-rn-qui-est-frederic-chatillon-ex-president-du-gud-et-ancien-proche-de-marine-le-pen_8296470.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T00:09:13+00:00",
-      "titre": "Six députés LFI portent plainte à la suite de menaces de mort anonymes",
-      "dek": "Les courriers haineux reçus par les élus « insoumis », qui dénoncent une inaction des autorités, comportaient aussi des croix gammées.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/11/24/six-deputes-lfi-portent-plainte-pour-des-menaces-de-mort-anonymes_6814471_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Nov 2026",
-      "date_iso": "2026-11-23T22:56:02+00:00",
-      "titre": "Jordan Bardella affirme qu'\"à sa connaissance\", personne au RN n'a bénéficié de fuites, et juge \"étrange\" le \"timing\" de la perquisition du siège de son parti",
-      "dek": "\"J'espère (...) que la perquisition qui a eu lieu\" le 9 novembre \"n'avait aucun autre but que le but qui a été mentionné à l'occasion de cette affaire\", a avancé le président du RN sur BFMTV lundi soir.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/jordan-bardella-affirme-qu-a-sa-connaissance-personne-au-rn-n-a-beneficie-de-fuites-et-juge-etrange-le-timing-de-la-perquisition-du-siege-de-son-parti_8296713.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Nov 2026",
-      "date_iso": "2026-11-23T22:06:54+00:00",
-      "titre": "\"Je ne veux pas rentrer dans une case\", affirme Dominique de Villepin, candidat à l'élection présidentielle",
-      "dek": "Dominique de Villepin, candidat La France Humaniste à l'élection présidentielle, était l'invité du 20 Heures de France 2, lundi 23 novembre. Il souhaite casser les codes pour rassembler au-delà des camps.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/je-ne-veux-pas-rentrer-dans-une-case-affirme-dominique-de-villepin-candidat-a-l-election-presidentielle_8296812.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Nov 2026",
-      "date_iso": "2026-11-23T22:04:17+00:00",
-      "titre": "Le gouvernement essuie un revers inattendu au Sénat sur la défiscalisation des heures supplémentaires et demande une seconde délibération",
-      "dek": "L'exécutif proposait, dans un amendement, de passer le plafond à 10 000 euros contre 7 500 aujourd'hui. La mesure a été rejetée de justesse, suscitant la \"surprise\" du ministre des Comptes publics, David Amiel.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/parlement-francais/senat/le-gouvernement-essuie-un-revers-inattendu-au-senat-sur-la-defiscalisation-des-heures-supplementaires-et-demande-une-seconde-deliberation_8296815.html#xtor=RSS-3-%5Bpolitique%5D"
     }
   ]
 }
