@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-11-25T19:41:49+00:00",
+  "generated_at": "2026-11-26T02:35:08+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "26 Nov 2026",
+      "date_iso": "2026-11-26T03:00:00+00:00",
+      "titre": "Le « permis de tuer » adopté au Sénat",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=530129"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T23:50:44+00:00",
+      "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+      "dek": "La droite sénatoriale, majoritaire dans l’hémicycle et souvent frileuse sur la taxation des entreprises, a consenti à cette mesure. « Regardons l’état de notre déficit. Il faut que tout le monde fasse un effort, sinon on n’y arrivera jamais », a justifié la rapporteure générale, …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T22:53:33+00:00",
+      "titre": "Présidentielle 2027 : \"Il faut une compétition, il faut une sélection\", défend le candidat David Lisnard, partisan d'une primaire",
+      "dek": "Invité du 20 Heures de France 2, mercredi 25 novembre, David Lisnard, candidat Nouvelle Énergie à l'élection présidentielle, a défendu l'idée d'une primaire, à laquelle il souhaite qu'Édouard Philippe participe.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-il-faut-une-competition-il-faut-une-selection-defend-le-candidat-david-lisnard-partisan-d-une-primaire_8300388.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T22:51:49+00:00",
+      "titre": "Présidentielle 2027 : l'ascension de David Lisnard, réélu président de l'Association des maires de France",
+      "dek": "Dans les allées du Salon des maires, la course aux parrainages est lancée. Parmi les 38 candidats déclarés à l'élection présidentielle, combien pourront réellement participer au scrutin ?",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-l-ascension-de-david-lisnard-reelu-president-de-l-association-des-maires-de-france_8300370.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T21:24:09+00:00",
+      "titre": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
+      "dek": "Le maire divers gauche de la ville affirme l’avoir constaté à plusieurs reprises en visionnant les enregistrements des caméras de surveillance, dont il dit avoir remis 7 000 heures au procureur de la République de Marseille.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T21:08:34+00:00",
+      "titre": "Présence d'un procureur au siège du RN : Gérald Darmanin a annoncé l'ouverture d'une enquête",
+      "dek": "Que faisait un procureur adjoint de Paris au siège du Rassemblement national ? Le 9 novembre, des policiers venus perquisitionner les locaux y ont croisé Christian de Rocquigny, qui dit être simplement venu prendre un café avec un eurodéputé du parti. Le garde des Sceaux a annonc…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-gerald-darmanin-a-annonce-l-ouverture-d-une-enquete_8300298.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T21:00:02+00:00",
+      "titre": "Liens avec RN, enquête ouverte sur un magistrat",
+      "dek": "Le procureur adjoint de Paris, qui se trouvait au siège du RN lorsque le parti a été perquisitionné, est visé par une enquête de l'Inspection générale de la justice, afin de \"lever une ambiguïté\" sur ses liens éventuels avec le parti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/liens-avec-rn-enquete-ouverte-sur-un-magistrat_8300337.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T20:49:37+00:00",
+      "titre": "La France insoumise refuse la proposition de rencontre des anciens Insoumis de l'Après",
+      "dek": "Après un vote de leurs militants, les ex-Insoumis qui ont créé L'Après après les \"purges\" de 2024 devraient quant à eux soutenir la candidature de Jean-Luc Mélenchon pour la présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/la-france-insoumise-refuse-la-proposition-de-rencontre-des-anciens-insoumis-de-l-apres_8300331.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T20:29:00+00:00",
+      "titre": "Soirée de lancement de Combat n°2 : contre le RN, « rien n’est joué »",
+      "dek": "Ce mercredi 25&nbsp;novembre, notre journal a accueilli dans ses locaux, la soirée de lancement du numéro&nbsp;2 du hors-série de Combat. Avec quatre autres médias, Blast, les Inrocks, Streetpress et Nova, le collectif vient de publier «&nbsp;Le vrai visage du RN&nbsp;», en kiosq…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/medias/blast/soiree-de-lancement-de-combat-n2-contre-le-rn-rien-nest-joue"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T20:24:57+00:00",
+      "titre": "VIDEO. \"La démocratie, c’est du vote\", déclare David Lisnard, qui refuse la proposition d’Edouard Philippe de débattre à la place d'une primaire",
+      "dek": "Edouard Philippe, candidat Horizons à la présidentielle avait proposé mardi un débat télévisé avec son concurrent de droite, qui ne cesse de monter dans les sondages.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/video-la-democratie-c-est-du-vote-declare-david-lisnard-qui-refuse-la-proposition-d-edouard-philippe-de-debattre-a-la-place-d-une-primaire_8300295.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "25 Nov 2026",
+      "date_iso": "2026-11-25T20:15:00+00:00",
+      "titre": "« L’État doit reprendre sa place » : Hanane Mansouri, l’émissaire de Marine Le Pen dans les banlieues à l’épreuve des cités grenobloises",
+      "dek": "REPORTAGE - Revenue sur les terres de son enfance, à Échirolles, la députée UDR s’est heurtée à la réalité du terrain. Entre rejet des habitants et colère sécuritaire des commerçants, plongée dans les contradictions de la stratégie lepéniste dans les quartiers populaires.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/l-etat-doit-reprendre-sa-place-hanane-mansouri-l-emissaire-de-marine-le-pen-dans-les-banlieues-a-l-epreuve-des-cites-grenobloises-20261125"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -8,7 +129,7 @@
       "date": "25 Nov 2026",
       "date_iso": "2026-11-25T19:25:00+00:00",
       "titre": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite : « Avec Retailleau et Philippe, on continue sans rien changer »",
-      "dek": "Dans les Yvelines, les Hauts-de-Seine et le Rhône, de nombreux électeurs mécontents des figures de leur camp rejoignent le parti Nouvelle énergie. Ils plébiscitent le discours anti-norme et le profil d’entrepreneur du maire de Cannes.",
+      "dek": "Dans les Yvelines, les Hauts-de-Seine et le Rhône, de nombreux électeurs mécontents des figures de leur camp rejoignent le parti Nouvelle Energie. Ils plébiscitent le discours anti-norme et le profil d’entrepreneur du maire de Cannes.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html"
     },
@@ -429,127 +550,6 @@
       "dek": "Dans une interview au « Parisien » mardi, le candidat de Renaissance à la présidentielle estime que seule une primaire « pourra créer [un] élan » au centre et à droite.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-gabriel-attal-presse-edouard-philippe-de-proposer-une-autre-modalite-de-departage-face-a-son-refus-de-la-primaire_6814848_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T19:15:27+00:00",
-      "titre": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027",
-      "dek": "Le Premier ministre s'est également félicité de l'adoption du projet de loi de finances de fin de gestion pour 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T19:00:02+00:00",
-      "titre": "C’est Benjamin... à Amiens, avec l’épicier du quartier",
-      "dek": "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. A Amiens (Picardie), il croise la route de Mouss, épicier dans un quartier prioritaire de la ville (QPV), déterminé à défendre ces commerces de proximité qui créent du lien…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-avec-l-epicier-du-quartier_8297910.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:59:53+00:00",
-      "titre": "Le projet de loi «logement» du gouvernement adopté avec les voix de l’extrême droite",
-      "dek": "Le projet de loi «de relance et de décentralisation» du logement a été largement adopté par l’Assemblée nationale, grâce aux voix de la droite et de l’extrême droite. Au passage, le Rassemblement national a obtenu la fin de toute interdiction de louer des passoires thermiques.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/241126/le-projet-de-loi-logement-du-gouvernement-adopte-avec-les-voix-de-l-extreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:59:13+00:00",
-      "titre": "Budget : un premier texte adopté par le Parlement, Sébastien Lecornu rêve désormais d’un compromis pour 2027",
-      "dek": "La loi de fin de gestion pour 2026 a été validée mardi 24 novembre. L’accord sur le budget 2027 que vise le premier ministre paraît beaucoup plus aléatoire. Surtout avec l’énorme couac sur les retraites intervenu mardi au Sénat.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/24/budget-un-premier-texte-adopte-par-le-parlement-sebastien-lecornu-reve-desormais-d-un-compromis-pour-2027_6814842_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:52:21+00:00",
-      "titre": "« Il est déjà élu à l’applaudimètre »: dans les coulisses du match entre David Lisnard et Philippe Laurent pour la présidence de l’AMF",
-      "dek": "RÉCIT - Mardi, les deux élus ont défendu leur projet devant 3 000 personnes réunies dans le cadre du 108e congrès des maires de France. Le résultat des urnes est attendu mercredi, avant 14h.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/il-est-deja-elu-a-l-applaudimetre-dans-les-coulisses-du-match-entre-david-lisnard-et-philippe-laurent-pour-la-presidence-de-l-amf-20261124"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:50:45+00:00",
-      "titre": "En Cisjordanie occupée, une systématique politique israélienne de terreur coloniale",
-      "dek": "Gadi Eisenkot, aspirant premier ministre, a condamné un «terrorisme juif» après des attaques de colons en Cisjordanie, sans dénoncer le système qui permet cette violence. Israël s’inquiète surtout des répercussions internationales après de nouvelles sanctions britanniques.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/241126/en-cisjordanie-occupee-une-systematique-politique-israelienne-de-terreur-coloniale"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:49:59+00:00",
-      "titre": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement",
-      "dek": "Les députés se sont divisés sur la suppression de l'interdiction progressive de louer les logements les plus énergivores.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:42:05+00:00",
-      "titre": "La Commission européenne se montre indulgente sur la situation budgétaire française",
-      "dek": "Le commissaire chargé de la planification, Valdis Dombrovskis, écoutant le ministre de l’économie Roland Lescure, table sur l’adoption du budget 2027 par le Parlement français. Avant les élections, la Commission marche sur des œufs et retient ses critiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:38:34+00:00",
-      "titre": "« Contre-productif », voire « imbécile »… Le budget 2027 de Lecornu vu depuis le Congrès des maires",
-      "dek": "Les coupes budgétaires que prévoit d’infliger à nouveau le gouvernement aux collectivités locales en 2027 instaurent un cercle vicieux qui va aggraver la dette publique, dénoncent les maires de France réunis en Congrès depuis ce mardi 24&nbsp;novembre.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/amf/contre-productif-voire-imbecile-le-budget-2027-de-lecornu-vu-depuis-le-congres-des-maires"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:33:49+00:00",
-      "titre": "Présidentielle 2027 : devant des maires, Marine Le Pen promet plus de « liberté » pour les communes et veut s’attaquer au « millefeuille territorial »",
-      "dek": "A l’occasion du congrès des maires de France, la candidate du Rassemblement national a reçu plusieurs édiles au siège du parti mardi 24 novembre et a dévoilé son programme pour les collectivités locales.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Nov 2026",
-      "date_iso": "2026-11-24T18:29:02+00:00",
-      "titre": "L’ancien président du Medef Pierre Gattaz votera « sans aucune hésitation » Le Pen en cas de duel avec Mélenchon",
-      "dek": "Invité sur BFMTV, l’ancien patron des patrons, à la tête du Medef de 2013 à 2018, a déployé un argumentaire pathétique pour se justifier.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/election-presidentielle/lancien-president-du-medef-pierre-gattaz-votera-sans-aucune-hesitation-le-pen-en-cas-de-duel-avec-melenchon"
     }
   ]
 }
