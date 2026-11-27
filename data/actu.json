@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-26T23:25:54+00:00",
+  "generated_at": "2026-11-27T06:08:28+00:00",
   "articles": [
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T05:30:00+00:00",
+      "titre": "L’obsession antiallemande de Jean-Luc Mélenchon, en visite ce vendredi à Berlin",
+      "dek": "DÉCRYPTAGE - De passage dans la capitale allemande pour la traduction de son dernier livre, le leader Insoumis nourrit de longue date une défiance particulière envers ses voisins d’outre-Rhin.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/l-obsession-antiallemande-de-jean-luc-melenchon-en-visite-ce-vendredi-a-berlin-20261127"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T04:59:52+00:00",
+      "titre": "Au Brésil, Lula nomme un banquier au ministère des finances pour tenter de rassurer les marchés",
+      "dek": "Luiz Carlos Trabuco prendra ses fonctions après l’investiture, en janvier, du président de gauche, dont la victoire surprise en octobre avait été suivie d’une forte chute de la Bourse et d’une dépréciation du real.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/11/27/au-bresil-lula-nomme-un-banquier-au-ministere-des-finances-pour-tenter-de-rassurer-les-marches_6815796_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T04:55:50+00:00",
+      "titre": "Où en sont les rapprochements entre La France insoumise et les forces de gauche prêtes à soutenir Jean-Luc Mélenchon à la présidentielle ?",
+      "dek": "LFI, qui poursuit ses discussions avec les Ecologistes, vient de nouer une alliance avec le mouvement de Benoît Hamon, Génération.s, mais a fermé la porte à une réconciliation avec les anciens insoumis exclus en 2024.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/ou-en-sont-les-rapprochements-entre-la-france-insoumise-et-les-forces-de-gauche-pretes-a-soutenir-jean-luc-melenchon-a-la-presidentielle_8301066.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T04:20:00+00:00",
+      "titre": "Puisse Teddy repenser au jour où il alluma la vasque… Et éteindre sa candidature",
+      "dek": "Alors qu’il n’a toujours pas dévoilé de programme présidentiel, le champion enchaîne propos et déplacement douteux. On en vient à souhaiter que le héros des JO de 2024 jette l’éponge.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/puisse-teddy-repenser-au-jour-ou-il-alluma-la-vasque-et-eteindre-sa-candidature-20261127_CXPGPUWZPJD4XKRJ7BIUNFZ7MM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T04:00:10+00:00",
+      "titre": "De nouveaux messages antisémites de Jordan Bardella révélés par « Le Monde »",
+      "dek": "Clément Guillou, journaliste au service Politique du « Monde », a eu accès à l’intégralité de la conversation tenue en 2013 sur Messenger par le président du Rassemblement national, révélée par « Mediapart » le 28 septembre, dans laquelle le dirigeant tient des propos antisémites…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/podcasts/article/2026/11/27/de-nouveaux-messages-antisemites-de-jordan-bardella-reveles-par-le-monde_6815759_5463015.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Nov 2026",
+      "date_iso": "2026-11-26T23:54:55+00:00",
+      "titre": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
+      "dek": "Arrivé quatrième au scrutin de 2022 avec 7,07 % des voix, le candidat du parti d’extrême droite Reconquête ! n’est plus crédité que d’environ 3 % des intentions de vote dans un sondage publié jeudi, très loin derrière Marine Le Pen.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-eric-zemmour-annonce-sa-derniere-campagne_6815659_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -41,7 +107,7 @@
       "date": "26 Nov 2026",
       "date_iso": "2026-11-26T21:31:24+00:00",
       "titre": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
-      "dek": "La candidate du Rassemblement national a accusé le président de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’élection présidenti…",
+      "dek": "La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici à la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html"
     },
@@ -484,72 +550,6 @@
       "dek": "Lors de son déplacement ce vendredi 27 novembre à Berlin, le candidat LFI à la présidentielle ne rencontrera, a priori, aucun dirigeant de Die Linke, pourtant son allié outre-Rhin. Les outrances du tribun et les accusations d’antisémitisme gênent la formation qui tente de former …",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/jean-luc-melenchon-en-allemagne-pour-die-linke-lallie-francais-quon-prefere-cacher-20261126_UDVDINBZPRCRDIN5S6WUHQGERQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T11:33:56+00:00",
-      "titre": "Propos antisémites attribués à Jordan Bardella : il \"ne peut pas plaider l'erreur de jeunesse\", martèle le coauteur de l’enquête de Mediapart",
-      "dek": "Le site d'investigation et le journal \"Le Monde\"  ont publié, jeudi, de nouveaux éléments concernant le président du Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-il-ne-peut-pas-plaider-l-erreur-de-jeunesse-martele-le-co-auteur-de-l-enquete-de-mediapart_8301168.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T11:24:41+00:00",
-      "titre": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national",
-      "dek": "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T11:23:09+00:00",
-      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande",
-      "dek": "Le candidat de La France insoumise à l’élection présidentielle française de 2027, de passage à Berlin le 27 novembre, n’a à ce stade pas de rendez-vous prévu avec des élus du parti de gauche radicale Die Linke, qu’il nomme pourtant « notre partenaire allemand ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/11/26/l-allemagne-s-inquiete-de-la-rhetorique-anti-allemande-de-jean-luc-melenchon_6815524_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T11:15:58+00:00",
-      "titre": "Après ses propos hostiles à l'Allemagne et ses projets de renforcement de son armée, Jean-Luc Mélenchon est à Berlin pour présenter son livre",
-      "dek": "Le candidat LFI à l'élection présidentielle se rend jeudi à Berlin, pour la parution de son dernier livre, traduit en allemand. Une occasion de clarifier sa vision de l'Europe et des relations franco-allemandes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/melenchon/les-relations-compliquees-de-jean-luc-melenchon-avec-l-allemagne_8301105.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T11:01:42+00:00",
-      "titre": "Budget de la Sécurité Sociale : députés et sénateurs échouent à s’entendre, le texte revient à l’Assemblée",
-      "dek": "Sept députés et sept sénateurs se sont réunis, ce 26 novembre au matin, en commission mixte paritaire (CMP) pour tenter de trouver un compromis sur ce texte. Mais les points de vue se sont révélés inconciliables, et ce premier conclave budgétaire de la saison a rapidement été déc…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/plfss/budget-de-la-securite-sociale-deputes-et-senateurs-echouent-a-sentendre-le-texte-revient-a-lassemblee"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T11:00:04+00:00",
-      "titre": "Présidentielle 2027 : Les Ecologistes confrontés au risque de leur disparition",
-      "dek": "Le possible rapprochement avec La France insoumise, amorcé par les déclarations de la secrétaire générale du parti, Marine Tondelier, pourrait, s’il a lieu, aboutir à la dilution du mouvement dans une grande coalition. Ce qui sonnerait comme un constat d’échec, les Verts n’ayant …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/11/26/presidentielle-2027-les-ecologistes-confrontes-au-risque-de-leur-disparition_6815522_3232.html"
     }
   ]
 }
