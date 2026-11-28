@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-11-27T19:17:20+00:00",
+  "generated_at": "2026-11-28T02:25:37+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T22:55:01+00:00",
+      "titre": "Un concert de « Rock antiwokisme » organisé par une mouvance identitaire interdit dans le Rhône et l’Isère",
+      "dek": "Les autorités redoutent la diffusion de discours haineux lors de cet événement clandestin, organisé par une figure de l’ultra-droite déjà connue des services de l’Etat.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T21:45:50+00:00",
+      "titre": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
+      "dek": "Cet hommage, qui se tiendra à Paris plus d'un mois après la mort de Pengo Bossio Wangi, sera présidé par le Premier ministre, Sébastien Lecornu.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T20:56:27+00:00",
+      "titre": "LFI : Mathilde Panot saisit la justice après des menaces de mort envoyées à des députés avec une adresse au nom de l’assaillant de Trappes",
+      "dek": "La présidente du groupe insoumis à l’Assemblée nationale a annoncé ce vendredi 27 novembre qu’elle et trois autres élus, Danièle Obono, Manuel Bompard, Aly Diouara, ont reçu des insultes dans la nuit.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/lfi-mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-envoyees-a-des-deputes-avec-une-adresse-au-nom-de-lassaillant-de-trappes-20261127_OUKDM3ITY5BRDHIYR77OUH4KXI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T20:49:07+00:00",
+      "titre": "Présidentielle 2027 : Marine Le Pen veut geler toutes les discussions institutionnelles en outre-mer",
+      "dek": "La candidate du RN a annoncé, lors de la présentation de son programme pour les territoires ultramarins, vendredi 27 novembre, vouloir prioriser le développement économique.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-geler-toutes-les-discussions-institutionnelles-en-outre-mer_6815933_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T20:45:15+00:00",
+      "titre": "REPLAY. \"David Lisnard, les secrets d'une percée éclair\" : regardez le documentaire de franceinfo consacré aux coulisses de l'entrée en campagne présidentielle du maire de Cannes",
+      "dek": "Il bouscule les sondages parmi les candidats de la droite et vient d'être largement réélu à la tête de l'Association des maires de France. Qui est vraiment David Lisnard et pourquoi sa campagne est-elle si remarquée ? Franceinfo a mené l'enquête.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/david-lisnard/direct-david-lisnard-les-secrets-d-une-percee-eclair-regardez-le-documentaire-de-franceinfo-consacre-aux-coulisses-de-l-entree-en-campagne-presidentielle-du-maire-de-cannes_8301420.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T20:20:24+00:00",
+      "titre": "Face à l’extrême droite, faire réseau pour continuer d’agir",
+      "dek": "Locaux partagés, caisses communes, cantines autogérées, matériel mutualisé : des associations et des collectifs expérimentent d’autres façons de s’organiser. Des pratiques qui pourraient devenir essentielles face à un pouvoir hostile aux solidarité et aux libertés associatives.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=528892"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T20:14:22+00:00",
+      "titre": "Ecrits antisémites : la défense de Jordan Bardella patine, Marine Le Pen maintient timidement sa confiance",
+      "dek": "Interrogé sur le contenu de la plainte du président du RN contre « Mediapart » pour « faux et usage de faux », son avocat a évoqué des courriels périphériques aux échanges incriminés.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-la-defense-de-jordan-bardella-patine-marine-le-pen-maintient-timidement-sa-confiance_6815931_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T20:14:04+00:00",
+      "titre": "A Béziers, Teddy Riner, toujours en panne d’idées, fait du lèche-vitrine",
+      "dek": "Le judoka, désormais candidat à la présidentielle, s’est rendu, vendredi 27 novembre, dans l’une des villes les plus pauvres de France, guidé par son maire, Robert Ménard. Mais sa visite de la cité héraultaise s’est limitée à sa prison, une cave coopérative flambant neuve et son …",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/a-beziers-teddy-riner-toujours-en-panne-didees-fait-du-leche-vitrine-20261127_3UT4HCLVPFDLPPTZL24OKI4XMU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T19:48:01+00:00",
+      "titre": "La préfecture de l'Isère interdit un concert organisé par \"une mouvance identitaire nationaliste, voire néonazie\" samedi",
+      "dek": "L'organisateur de ce concert de Rock présenté comme \"antiwokisme\" serait \"une figure structurante de l'ultra-droite régionale\", a précisé la préfecture de l'Isère dans son communiqué.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/la-prefecture-de-l-isere-interdit-un-concert-organise-par-une-mouvance-identitaire-nationaliste-voire-neonazie-samedi_8303742.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T19:36:32+00:00",
+      "titre": "Fuite d’infos du ministère de l’Intérieur vers le RN : Ambroise de Rancourt, responsable du programme du parti, soupçonné d’être le principal destinataire",
+      "dek": "«Le Monde» affirme ce vendredi 27 novembre que le bureau et le domicile personnel du cadre du parti d’extrême droite ont été perquisitionnés par l’Inspection générale de la police nationale.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/fuite-dinfos-du-ministere-de-linterieur-vers-le-rn-ambroise-de-rancourt-responsable-du-programme-du-parti-soupconne-detre-le-principal-destinataire-20261127_EUCHKEJEYNGQFF4CHZADDU7HCQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T19:22:21+00:00",
+      "titre": "Que sait-on du voyage en Israël de plusieurs influenceurs d’extrême droite, dont Mila et Adrien J., l’homme qui a menacé Rima Hassan ?",
+      "dek": "Quatre influenceurs proches de l’extrême droite française ont passé quelques jours dans le pays hébreu, où ils se sont notamment mis en scène près de la bande de Gaza aux côtés de militaires, en tenue de combat et aux commandes de drones thermiques. Un séjour organisé par un anci…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/checknews/que-sait-on-du-voyage-en-israel-de-plusieurs-influenceurs-dextreme-droite-dont-mila-et-adrien-j-lhomme-qui-a-menace-rima-hassan-20261127_PNWD65K5RFB4LO3VSX3LHFSWVU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T19:14:46+00:00",
+      "titre": "Journalistes et secret de l’instruction : comprendre ce que dit le droit après les déclarations de Marine Le Pen",
+      "dek": "La candidate du Rassemblement national à l’élection présidentielle veut « aggraver les peines qui existent » lorsqu’un journaliste est condamné pour recel de violation du secret de l’instruction.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/27/journalistes-et-secret-de-l-instruction-comprendre-ce-que-dit-le-droit-apres-les-declarations-de-marine-le-pen_6815927_3224.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,6 +143,17 @@
       "dek": "David Lisnard, c'est Zemmour 2022 ou Macron 2017 ? Dans ce 11e épisode du podcast \"On/Off\", on parle de la campagne du maire de Cannes, fraîchement réélu à la tête de l'Association des maires de France et candidat à l'Élysée.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/david-lisnard-c-est-zemmour-2022-ou-macron-2017_8303160.html#xtor=RSS-3-%5Bpolitique%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Nov 2026",
+      "date_iso": "2026-11-27T18:35:49+00:00",
+      "titre": "Fuite d’informations confidentielles vers le RN : Ambroise de Rancourt, le responsable du programme présidentiel de Marine Le Pen, soupçonné d’être le principal destinataire",
+      "dek": "Selon les informations du « Monde », l’énarque de 39 ans est celui qui a été visé par la perquisition de l’IGPN au siège du parti d’extrême droite, le 9 novembre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/11/27/ambroise-de-rancourt-le-responsable-du-programme-presidentiel-de-marine-le-pen-soupconne-d-etre-le-principal-destinataire-de-la-fuite-de-documents-de-beauvau-vers-le-rn_6815924_3224.html"
     },
     {
       "tag": "Politique",
@@ -212,17 +355,6 @@
     },
     {
       "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Nov 2026",
-      "date_iso": "2026-11-27T16:18:26+00:00",
-      "titre": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
-      "dek": "Cet hommage, qui se tiendra à Paris plus d'un mois après la mort de Pengo Bossio Wangi, sera présidé par le Premier ministre, Sébastien Lecornu.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
       "color": "#C81E3A",
       "source": "Libération – Politique",
       "date": "27 Nov 2026",
@@ -418,138 +550,6 @@
       "dek": "La candidate du parti d'extrême droite avait auparavant dénoncé \"de basses manœuvres politiciennes\" pour conclure d'ici la fin de l'année un accord sur le budget européen qui serait difficile à remettre en cause si elle remportait la présidentielle.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T21:55:56+00:00",
-      "titre": "\"C'est ma dernière campagne\", annonce le candidat de Reconquête à la présidentielle Eric Zemmour",
-      "dek": "L'entrée en lice du candidat d'extrême droite avait mis un terme à la possibilité que Sarah Knafo concoure à sa place, sa popularité l'ayant un temps fait apparaître comme la possible candidate de Reconquête à l'Elysée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T21:31:24+00:00",
-      "titre": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance » en pensant « qu’elle serait déjà en charge du destin de la France »",
-      "dek": "La candidate du Rassemblement national a accusé le président de la République de s’adonner à de « basses manœuvres politiciennes » visant à conclure, d’ici à la fin de l’année, un accord sur le budget européen, qu’il lui serait difficile de remettre en cause si elle remportait l’…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T20:47:39+00:00",
-      "titre": "«Il faut plus d’humilité quand on fait campagne, même si on s’y voit déjà» : le coup de griffe d’Emmanuel Macron à Marine Le Pen",
-      "dek": "Lors d’une conférence de presse au cours d’un sommet européen à Bruxelles, le président français a critiqué ce jeudi 26 novembre «la drôle d’arrogance» de la candidate du Rassemblement national à l’élection présidentielle en France.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/il-faut-plus-dhumilite-quand-on-fait-campagne-meme-si-on-sy-voit-deja-le-coup-de-griffe-demmanuel-macron-a-marine-le-pen-20261126_TU3AVQHAZVBLNF5V6HXRAGMRNM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T20:42:09+00:00",
-      "titre": "Le défilé des candidats au Salon des maires, rendez-vous incontournable de la campagne présidentielle",
-      "dek": "Aux exceptions notables de Marine Le Pen et de Jean-Luc Mélenchon, les postulants à l’Elysée sont venus, mercredi, au Parc des expositions à Paris, prendre le pouls des élus locaux et chercher, pour certains, les précieux parrainages.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/11/26/le-defile-des-candidats-au-salon-des-maires-rendez-vous-incontournable-de-la-campagne-presidentielle_6815600_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T20:36:36+00:00",
-      "titre": "\"Si on abandonnait l'Ukraine, on mettrait en péril notre sécurité à court ou moyen terme\", affirme Emmanuel Macron",
-      "dek": "Cette prise de parole intervient alors que la veille, Teddy Riner, candidat surprise à l'élection présidentielle, a affirmé, à propos du conflit : \"Je ne comprends pas qu'on envoie des troupes en Ukraine, ce n'est pas notre guerre.\"",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/si-on-abandonnait-l-ukraine-on-mettrait-en-peril-notre-securite-a-court-ou-moyen-terme-affirme-emmanuel-macron_8302044.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T20:31:22+00:00",
-      "titre": "Jordan Bardella accusé de nouveaux écrits antisémites : comment réagissent les électeurs du RN ?",
-      "dek": "Mediapart et Le Monde publient, jeudi 26 novembre, de nouveaux écrits antisémites qu'ils attribuent à Jordan Bardella. Le président du Rassemblement national dément toujours en être l'auteur alors que son parti reste en tête des intentions de vote pour la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/jordan-bardella-accuse-de-nouveaux-ecrits-antisemites-comment-reagissent-les-electeurs-du-rn_8302038.html#xtor=RSS-3-%5Bpolitique%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T20:15:00+00:00",
-      "titre": "Présidentielle 2027 : Édouard Philippe veut « dépenser mieux » pour la santé, une « fierté française »",
-      "dek": "DÉCRYPTAGE - Vaccins obligatoires, lutte contre les « déserts médicaux », loi contre l’exposition des jeunes aux écrans… Édouard Philippe a détaillé jeudi son projet sur la santé, en attaquant la « décroissance sanitaire » de Marine Le Pen et le projet de son rival David Lisnard …",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-veut-depenser-mieux-pour-la-sante-une-fierte-francaise-20261126"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T20:08:26+00:00",
-      "titre": "Salon des maires et présidentielle 2027 : retrouvez notre direct sur la journée politique",
-      "dek": "Lors d’un débat pour la clôture du salon des maires, David Lisnard, Sébastien Lecornu et Gérard Larcher sont revenus sur la proposition d’Emmanuel Macron de graver une « règle d’or budgétaire » dans la Constitution, mais aussi les relations entre l’Etat et les collectivités local…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T19:49:04+00:00",
-      "titre": "Ecrits antisémites de Bardella : le RN coincé entre dénégation du passé et dédiabolisation",
-      "dek": "Les dernières révélations de «Mediapart» et du «Monde» jeudi embarrassent un parti qui entretient des rapports compliqués avec son histoire, entre déni, ignorance voire fierté. Une schizophrénie qui les rattrape à chaque fois que le passé sulfureux d’un cadre du RN refait surface…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/ecrits-antisemites-de-bardella-le-rn-coince-entre-denegation-du-passe-et-dediabolisation-20261126_CEQ53D6KRVDD7OOTTKN5CXNBKY/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T19:39:45+00:00",
-      "titre": "Écrits antisémites : Jordan Bardella fragilisé par de nouvelles révélations",
-      "dek": "DÉCRYPTAGE - Les journaux Le Monde et Mediapart ont publié de nouvelles enquêtes censées prouver que Jordan Bardella a bien tenu des propos antisémites en 2013, alors qu’il n’était que simple militant du Front national.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/jordan-bardella-fragilise-par-de-nouvelles-revelations-20261126"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T19:22:25+00:00",
-      "titre": "Nouvelles révélations sur Jordan Bardella : la fable de la banalisation du RN",
-      "dek": "Les informations publiées, ce jeudi, sur les propos de jeunesse de l’actuel président du parti d’extrême droite, prouvent qu’avoir renommé le Front national en Rassemblement ne suffit pas à effacer le passé.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/nouvelles-revelations-sur-jordan-bardella-la-fable-de-la-banalisation-du-rn-20261126_45TJ4RARDRG3PO5HUPRRWB5SZA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Nov 2026",
-      "date_iso": "2026-11-26T19:21:03+00:00",
-      "titre": "Europe, Ukraine… Les questions internationales qui pourraient empêcher le ralliement des Ecologistes à Mélenchon",
-      "dek": "Alors que des négociations se poursuivent au moins jusqu’à dimanche entre les verts et les insoumis, l’hypothèse d’un accord pourrait, comme souvent, achopper sur les enjeux de défense et diplomatiques.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/europe-ukraine-les-questions-internationales-qui-pourraient-empecher-le-ralliement-des-ecologistes-a-melenchon-20261126_OAHVPOB3YNHHBIGD6TZH7QK5CI/"
     }
   ]
 }
